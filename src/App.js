@@ -18,6 +18,17 @@ function ResultCard({ item }) {
       <p><strong>Court:</strong> {metadata["Court Name"]}</p>
       <p><strong>Document Type:</strong> {metadata["Document Type"]}</p>
       <p><strong>Case Summary:</strong> {metadata["Case Summary"]}</p>
+      <div className="keywords-container">
+        {metadata.Keywords && metadata.Keywords.map((keyword, index) => (
+          <button 
+            key={index}
+            className="keyword-button"
+            onClick={() => handleKeywordClick(keyword)}
+          >
+            {keyword}
+          </button>
+        ))}
+      </div>
       <button onClick={() => setModalOpen(true)} className="view-document">View Summary</button>
       {isModalOpen && (
         <DocumentModal
@@ -27,6 +38,11 @@ function ResultCard({ item }) {
       )}
     </div>
   );
+}
+
+function handleKeywordClick(keyword) {
+  console.log("Keyword clicked:", keyword);
+  // Add your logic here for what happens when a keyword is clicked
 }
 
 function DocumentModal({ content, onClose }) {
@@ -55,6 +71,7 @@ ResultCard.propTypes = {
       'Court Name': PropTypes.string,
       'Document Type': PropTypes.string,
       'Case Summary': PropTypes.string,
+      'Keywords': PropTypes.arrayOf(PropTypes.string), // Add this line
     }).isRequired,
   }).isRequired,
 };
@@ -63,14 +80,24 @@ ResultCard.propTypes = {
 
 function App() {
   const [searchQuery, setSearchQuery] = useState("");
-  const [filters, setFilters] = useState({
-    icj: false,
-    un: false,
-    hudoc: false,
-  });
-  const [yearFilter, setYearFilter] = useState("all");
+  // const [filters, setFilters] = useState({
+  //   icj: false,
+  //   un: false,
+  //   hudoc: false,
+  // });
+  // const [yearFilter, setYearFilter] = useState("all");
+  const [uniqueKeywords, setUniqueKeywords] = useState([]);
+  console.log(uniqueKeywords)
+  // const [selectedKeywords, setSelectedKeywords] = useState(new Set());
   const [results, setResults] = useState(null);
   const [loading, setLoading] = useState(false);
+
+  const [uniqueDates, setUniqueDates] = useState([]);
+  const [selectedDate, setSelectedDate] = useState(null);
+
+  const [uniqueParties, setUniqueParties] = useState([]);
+  const [selectedParty, setSelectedParty] = useState(null);
+
 
   const handleSearch = async () => {
       setLoading(true);
@@ -85,7 +112,7 @@ function App() {
         searchQuery
       );
       setResults(result);
-
+      extractFilterValues(result);
       console.log(result);
     } catch (error) {
       setResults(null); 
@@ -95,20 +122,70 @@ function App() {
       setLoading(false); // Stop loading
     }
   };
-
-  const handleFilterChange = (event) => {
-    const { name, checked } = event.target;
-    setFilters({ ...filters, [name]: checked });
+  const extractFilterValues = (results) => {
+    const dates = new Set(results.map(item => item.metadata.Date));
+    setUniqueDates([...dates]);
+  
+    const parties = new Set(results.flatMap(item => item.metadata["Parties Involved"] || []));
+    setUniqueParties([...parties]);
+    const keywords = new Set(results.flatMap(item => item.metadata.Keywords || []));
+    setUniqueKeywords([...keywords]);
+    // ...Similarly extract values for other filters...
   };
 
-  const handleYearFilterChange = (event) => {
-    setYearFilter(event.target.value);
-  };
+  // const toggleKeywordFilter = (keyword) => {
+  //   setSelectedKeywords(prevKeywords => {
+  //     const newKeywords = new Set(prevKeywords);
+  //     if (newKeywords.has(keyword)) {
+  //       newKeywords.delete(keyword);
+  //     } else {
+  //       newKeywords.add(keyword);
+  //     }
+  //     return newKeywords;
+  //   });
+  // }
+  
+  // const filteredResults = results ? results.filter(item => {
+  //   return (
+  //     (selectedKeywords.size === 0 || item.metadata.Keywords.some(keyword => selectedKeywords.has(keyword))) &&
+  //     (!selectedDate || item.metadata.Date === selectedDate) &&
+  //     (!selectedParty || item.metadata["Parties Involved"].includes(selectedParty))
+  //   );
+  // }) : [];
+
+  // const handleFilterChange = (event) => {
+  //   const { name, checked } = event.target;
+  //   setFilters({ ...filters, [name]: checked });
+  // };
+
+  // const handleYearFilterChange = (event) => {
+  //   setYearFilter(event.target.value);
+  // };
+  
 
   return (
+    <div className="main-container">
+       <div className="left-filters">
+       <div className="filter-title">Year</div>
+      {/* Date Filters */}
+      {uniqueDates.map(date => (
+        <button 
+          key={date} 
+          onClick={() => setSelectedDate(date === selectedDate ? null : date)}
+          className={selectedDate === date ? 'active' : ''}
+        >
+          {date}
+        </button>
+      ))}
+      {/* ...other left-side filters if any... */}
+    </div>
+    <div className="central-content">
     <div className="search-container">
       <h1>Human Rights Search</h1>
-      <div className="filter-section">
+      {/* Filter UI for Keywords */}
+     
+      {/* ...Add UI for other filters... */}
+      {/* <div className="filter-section">
         <div className="court-filters">
           <label>
             <input
@@ -153,7 +230,7 @@ function App() {
             </select>
           </label>
         </div>
-      </div>
+      </div> */}
 
       <input
         type="text"
@@ -165,7 +242,7 @@ function App() {
       <button onClick={handleSearch} className="search-button">
         Search
       </button>
-
+      </div>
       {loading && <div>Loading...</div>} {/* Loading indicator */}
       
       <div className="search-results">
@@ -174,6 +251,21 @@ function App() {
           <ResultCard key={index} item={item} />
         ))}
       </div>
+      </div>
+      <div className="right-filters">
+      <div className="filter-title">Parties Involved</div>
+      {uniqueParties.map(party => (
+      <button 
+        key={party} 
+        onClick={() => setSelectedParty(party === selectedParty ? null : party)}
+        className={`filter-button ${selectedParty === party ? 'active' : ''}`}
+        title={party} // Tooltip on hover
+      >
+        {party.length > 15 ? `${party.substring(0, 15)}...` : party} {/* Truncate long text */}
+      </button>
+    ))}
+      {/* ...other right-side filters if any... */}
+    </div>
       </div>
     
   );

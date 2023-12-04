@@ -1,5 +1,77 @@
 /* App.css */
 
+/* Main container layout */
+.main-container {
+  display: flex;
+  justify-content: space-between;
+  margin: 50px auto;
+  max-width: 1200px; /* Adjust based on your preference */
+}
+
+/* Left and right filter containers */
+/* Left and right filter containers */
+.left-filters, .right-filters {
+  flex-basis: 150px; /* Adjust the width of the side filters */
+  margin: 10px;
+  background: #f9f9f9;
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.filter-title {
+  font-size: 1.1em;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.filter-button {
+  display: block;
+  background-color: #e7e7e7;
+  border: 1px solid #ddd;
+  padding: 5px 10px;
+  margin-bottom: 5px; /* Space between buttons */
+  border-radius: 4px;
+  cursor: pointer;
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-size: 0.85em;
+  transition: background-color 0.2s;
+}
+
+.filter-button:hover {
+  background-color: #d4d4d4;
+}
+
+.filter-button.active {
+  background-color: #5c6bc0;
+  color: white;
+}
+
+
+/* Central content container */
+.central-content {
+  flex-grow: 1;
+  padding: 20px;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+}
+
+/* Adjust the search container */
+.search-container {
+  max-width: 100%; /* Take the full width of the parent */
+  margin: 0; /* Remove the margin */
+  padding: 0; /* Remove the padding */
+}
+
+/* ...rest of your existing CSS... */
+
+
 body {
   font-family: "Arial", sans-serif;
   margin: 0;
@@ -214,3 +286,34 @@ body {
 .modal-content p {
   white-space: pre-wrap; /* Preserves whitespace and line breaks */
 }
+
+.keywords-container {
+  margin-top: 10px;
+}
+
+.keyword-button {
+  background-color: #f0f0f0;
+  border: 1px solid #ddd;
+  padding: 5px 10px;
+  margin-right: 5px; /* Space between buttons */
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 0.85em;
+  transition: background-color 0.3s;
+}
+
+.keyword-button:hover {
+  background-color: #e2e2e2;
+}
+
+
+.filters-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.left-filters, .right-filters {
+  width: 150px; /* Adjust as needed */
+}
+
+/* Add styles for buttons, active state, etc. */
