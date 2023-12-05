@@ -1,0 +1,26 @@
+{
+  "Date": "2007",
+  "Parties Involved": ["Nicaragua", "Colombia"],
+  "Case Name": "Territorial and Maritime Dispute (Nicaragua v. Colombia)",
+  "Case Number": "124",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2007",
+  "Document Summary": "The judgment involves a territorial and maritime dispute between Nicaragua and Colombia. Nicaragua filed an Application initiating proceedings regarding various legal issues related to territory and maritime delimitation. Colombia raised preliminary objections to jurisdiction, leading to a suspension of the proceedings on the merits.",
+  "Case Summary": "The case involves a territorial and maritime dispute between the Republic of Nicaragua and the Republic of Colombia. Nicaragua filed an Application on 6 December 2001, initiating proceedings regarding various legal issues related to territory and maritime delimitation. Colombia raised preliminary objections to jurisdiction, leading to a suspension of the proceedings on the merits. Optional clause declarations were made by Nicaragua and Colombia in 1929 and 1937, respectively. The Court's vote favored the operative clause of the judgment.",
+  "Keywords": [
+    "Territorial Dispute",
+    "Maritime Dispute",
+    "Nicaragua",
+    "Colombia",
+    "Application",
+    "Preliminary Objections",
+    "Jurisdiction",
+    "Pact of Bogotá",
+    "Operative Clause",
+    "Optional Clause",
+    "Armed Actions Decision",
+    "Permanent Court of International Justice",
+    "Statute of the Court"
+  ]
+}

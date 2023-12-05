@@ -1,0 +1,23 @@
+{
+  "Date": "2018",
+  "Parties Involved": ["Nicaragua", "Colombia"],
+  "Case Name": "Territorial and Maritime Dispute (Nicaragua v. Colombia)",
+  "Case Number": "124",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2018",
+  "Document Summary": "This judgment pertains to a territorial and maritime dispute between Nicaragua and Colombia, addressing Nicaragua's claim for a continental shelf beyond 200 nautical miles and the ICJ's determination of inadequacy in Nicaragua's evidence for delimitation.",
+  "Case Summary": "The case involves a dispute initiated in 2001 by Nicaragua against Colombia, concerning territorial and maritime delimitation, with the proceedings initially suspended in 2003 due to jurisdictional objections by Colombia.",
+  "Keywords": [
+    "Territorial and Maritime Dispute",
+    "Nicaragua",
+    "Colombia",
+    "Continental Shelf",
+    "International Court of Justice",
+    "UNCLOS",
+    "Customary International Law",
+    "Jurisdictional Objections",
+    "Delimitation",
+    "ICJ Judgment"
+  ]
+}

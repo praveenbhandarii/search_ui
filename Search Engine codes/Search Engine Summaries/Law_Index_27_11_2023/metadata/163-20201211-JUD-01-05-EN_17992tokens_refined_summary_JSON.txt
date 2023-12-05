@@ -1,0 +1,30 @@
+{
+  "Date": "2020",
+  "Parties Involved": ["Equatorial Guinea", "France"],
+  "Case Name": "Immunities and Criminal Proceedings (Equatorial Guinea v. France)",
+  "Case Number": "CR 2020/2",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2020",
+  "Document Summary": "This document is a judgment type document of the International Court of Justice (ICJ) in Case Number 163. It discusses the key issues, judgment, key provisions, relevant information, historical background of the Vienna Convention, and the importance of the preambular tenets and object and purpose of the Convention.",
+  "Case Summary": "The case involves a dispute between Equatorial Guinea and France regarding the immunity from criminal jurisdiction of the Second Vice-President of Equatorial Guinea and the legal status of the building housing the Embassy of Equatorial Guinea in France.",
+  "Keywords": [
+    "Immunities",
+    "Criminal Proceedings",
+    "Equatorial Guinea",
+    "France",
+    "Second Vice-President",
+    "Embassy",
+    "Vienna Convention",
+    "Diplomatic Relations",
+    "Inviolability",
+    "Judgment",
+    "Key Provisions",
+    "Historical Background",
+    "International Law Commission",
+    "Dispute",
+    "ICJ",
+    "Case Number",
+    "CR 2020/2"
+  ]
+}

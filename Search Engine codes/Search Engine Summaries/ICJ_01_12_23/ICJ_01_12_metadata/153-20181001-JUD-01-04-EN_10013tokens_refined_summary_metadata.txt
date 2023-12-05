@@ -1,0 +1,13 @@
+{
+	"Date": "2018",
+	"Parties Involved": ["Bolivia", "Chile"],
+	"Case Name": "Obligation to Negotiate Access to the Pacific Ocean (Bolivia v. Chile)",
+	"Case Number": "ICJ/153",
+	"Court Name": "International Court of Justice (ICJ)",
+	"Document Type": "Judgment",
+	"Document Date": "2018",
+	"Document Summary": "The case involves a dispute between Bolivia and Chile regarding Bolivia's sovereign access to the Pacific Ocean. Bolivia claims that Chile has an obligation to negotiate in good faith and effectively to grant Bolivia fully sovereign access to the sea. Bolivia argues that Chile has not fulfilled this obligation and denies its existence. The jurisdiction of the Court is invoked based on Article XXXI of the American Treaty on Pacific Settlement. The Court's decision endorses Chile's position that the 1920 Act and the 1950 Notes are not legally binding. However, the Court finds that the 1950 Notes are politically significant and demonstrate the intent of the parties to enter into negotiations.",
+	"Case Summary": "The case involves a dispute between Bolivia and Chile regarding Bolivia's sovereign access to the Pacific Ocean. Bolivia claims that Chile has an obligation to negotiate in good faith and effectively to grant Bolivia fully sovereign access to the sea. Bolivia argues that Chile has not fulfilled this obligation and denies its existence. The jurisdiction of the Court is invoked based on Article XXXI of the American Treaty on Pacific Settlement. The Court's decision endorses Chile's position that the 1920 Act and the 1950 Notes are not legally binding. However, the Court finds that the 1950 Notes are politically significant and demonstrate the intent of the parties to enter into negotiations.",
+	"Keywords": ["Obligation to Negotiate Access", "Pacific Ocean", "Bolivia", "Chile", "Sovereign Access", "Good Faith Negotiations", "American Treaty on Pacific Settlement", "International Court of Justice", "Article XXXI", "1920 Act", "1950 Notes", "Dispute Resolution", "Political Significance", "Intent of the Parties", "Diplomatic Practice"]
+	
+}

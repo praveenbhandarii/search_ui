@@ -1,0 +1,23 @@
+{
+  "Date": "2001",
+  "Parties Involved": ["Democratic Republic of the Congo", "Belgium"],
+  "Case Name": "Arrest Warrant of 11 April 2000 (Democratic Republic of the Congo v. Belgium)",
+  "Case Number": "121",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2001",
+  "Document Summary": "This document provides information about the case between the Democratic Republic of the Congo and Belgium, specifically regarding the international arrest warrant issued against the Congolese Minister for Foreign Affairs. It also outlines the obligations of the parties and the court's findings.",
+  "Case Summary": "The Democratic Republic of the Congo filed a case against Belgium regarding an international arrest warrant issued against the Congolese Minister for Foreign Affairs. The DRC claimed that the warrant sought his detention and extradition to Belgium for alleged grave violations of international humanitarian law. The arrest warrant was transmitted to all states, including the DRC.",
+  "Keywords": [
+    "Arrest Warrant",
+    "11 April 2000",
+    "Democratic Republic of the Congo",
+    "Belgium",
+    "International Court of Justice",
+    "Judge Abdul G. KOROMA",
+    "International Humanitarian Law",
+    "Extradition",
+    "Obligations of Parties",
+    "Court's Findings"
+  ]
+}

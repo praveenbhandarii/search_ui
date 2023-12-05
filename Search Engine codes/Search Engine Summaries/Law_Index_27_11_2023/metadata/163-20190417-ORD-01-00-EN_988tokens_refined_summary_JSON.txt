@@ -1,0 +1,24 @@
+{
+  "Date": "2019",
+  "Parties Involved": ["Equatorial Guinea", "France"],
+  "Case Name": "Immunities and Criminal Proceedings (Equatorial Guinea v. France)",
+  "Case Number": "C.I.J. Recueil 2019, p. 355",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Order",
+  "Document Date": "2020",
+  "Document Summary": "This order, issued by the International Court of Justice (ICJ) on 17 April 2019, extends the timelimits for the Republic of Equatorial Guinea's Reply to 8 May 2019 and the French Republic's Rejoinder to 21 August 2019. The subsequent procedure is reserved for further decision. The document is cited as C.I.J. Recueil 2019, p. 355, with the French text being authoritative. The relevant legal provisions are Article 48 of the Statute of the Court and Article 44, paragraphs 3 and 4 of the Rules of Court. The case is listed as General List No. 163. The document is signed by Abdulqawi Ahmed Yusuf (President) and Philippe Couvreur (Registrar).",
+  "Case Summary": "The Republic of Equatorial Guinea initiated proceedings against the French Republic regarding the immunity from criminal jurisdiction of the Second Vice-President of Equatorial Guinea and the legal status of the building housing the Embassy of Equatorial Guinea in France.",
+  "Keywords": [
+    "Immunities",
+    "Criminal Proceedings",
+    "Equatorial Guinea",
+    "France",
+    "ICJ",
+    "Order",
+    "Immunity from Criminal Jurisdiction",
+    "Timelimits",
+    "Reply",
+    "Rejoinder",
+    "General List No. 163"
+  ]
+}

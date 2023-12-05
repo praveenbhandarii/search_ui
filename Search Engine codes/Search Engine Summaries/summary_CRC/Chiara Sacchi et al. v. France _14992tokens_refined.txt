@@ -1,0 +1,30 @@
+Summary:
+
+Case Details:
+- Case ID: CRC/C/88/D/106/2019
+- Court/Tribunal: United Nations Committee on the Rights of the Child (UNCRC)
+- Document Date: 2021
+- Key Parties Involved:
+  - Chiara Sacchi, et al. (the authors and victims)
+  - France (the state party)
+- Case Name: Sacchi et al. v. France
+- Case Summary: The authors, represented by counsel, allege that France has violated their rights under the Convention on the Rights of the Child by failing to prevent and mitigate the consequences of climate change.
+
+Procedural History:
+The authors, represented by counsel, submitted a communication to the UNCRC in 2019, alleging violations of their rights under the CRC by France. The Committee adopted a decision on the admissibility of the communication in 2021.
+
+Legal Analysis and Reasoning:
+The authors claimed that France's actions and omissions in addressing climate change have exposed them to foreseeable, life-threatening risks, including heatwaves, floods, storms, droughts, disease, and polluted air. They argued that France has violated their rights to life, health, and culture, and failed to uphold its obligations under the CRC to prevent foreseeable domestic and extraterritorial human rights violations.
+
+Decisions and Rulings:
+The Committee found that the authors had failed to justify why accessing available domestic remedies in France would be unreasonably prolonged within the meaning of article 7(e) of the Optional Protocol. Therefore, the Committee declared the communication inadmissible for failure to exhaust domestic remedies.
+
+Impact and Significance:
+This decision reinforces the principle that international human rights mechanisms should only be used as a last resort, after all available domestic remedies have been exhausted. It also underscores the need for authors to carefully consider and document their attempts to access domestic remedies, in order to demonstrate compliance with the requirements of the Optional Protocol.
+
+Citations and References:
+- United Nations Convention on the Rights of the Child (CRC)
+- Optional Protocol to the CRC on a communications procedure
+- International Covenant on Civil and Political Rights
+- Inter-American Court of Human Rights, Advisory Opinion OC23/17
+- Human Rights Committee, General Comment No. 36 (2018) on article 6 of the International Covenant on Civil and Political Rights, para. 64

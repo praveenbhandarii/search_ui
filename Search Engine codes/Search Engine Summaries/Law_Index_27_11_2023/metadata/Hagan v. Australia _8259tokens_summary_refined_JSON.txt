@@ -1,0 +1,24 @@
+{
+  "Date": "2003",
+  "Parties Involved": [
+    "Stephen Hagan",
+    "Australia"
+  ],
+  "Case Name": "Hagan vs. Australia",
+  "Case Number": "CERD/C/62/D/26/2002",
+  "Court Name": "Committee on the Elimination of Racial Discrimination (CERD)",
+  "Document Type": "Opinion of the Committee on the Elimination of Racial Discrimination under Article 14 of the International Convention on the Elimination of All Forms of Racial Discrimination",
+  "Document Date": "March 2003",
+  "Document Summary": "The petitioner, Stephen Hagan, alleges that the use of the offensive term 'Nigger Brown' on a grandstand at a sporting ground in Toowoomba, Queensland, violates articles 2, 4, 5, 6, and 7 of the International Convention on the Elimination of All Forms of Racial Discrimination. Australia argues that the term is not racially offensive and does not violate Article 4. The Committee on the Elimination of Racial Discrimination finds that the use of the term is offensive and constitutes a violation of Article 4.",
+  "Case Summary": "The petitioner, Stephen Hagan, alleges that the use of the offensive term 'Nigger Brown' on a grandstand at a sporting ground in Toowoomba, Queensland, violates articles 2, 4, 5, 6, and 7 of the International Convention on the Elimination of All Forms of Racial Discrimination. Australia argues that the term is not racially offensive and does not violate Article 4. The Committee on the Elimination of Racial Discrimination finds that the use of the term is offensive and constitutes a violation of Article 4.",
+  "Keywords": [
+    "Stephen Hagan",
+    "Australia",
+    "Nigger Brown",
+    "Racial Discrimination",
+    "International Convention on the Elimination of All Forms of Racial Discrimination",
+    "Article 4",
+    "Committee on the Elimination of Racial Discrimination",
+    "Opinion"
+  ]
+}

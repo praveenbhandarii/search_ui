@@ -1,0 +1,23 @@
+{
+    "Date": "2018",
+    "Parties Involved": ["Qatar", "United Arab Emirates (UAE)"],
+    "Case Name": "Application of the International Convention on the Elimination of All Forms of Racial Discrimination (Qatar v. United Arab Emirates)",
+    "Case Number": "ICJ/172",
+    "Court Name": "International Court of Justice (ICJ)",
+    "Document Type": "Order",
+    "Document Date": "2018",
+    "Document Summary": "The document is an order issued by the International Court of Justice in Case ICJ/172, Application of the International Convention on the Elimination of All Forms of Racial Discrimination (Qatar v. United Arab Emirates). The order addresses provisional measures requested by Qatar and orders the UAE to take specific actions to protect the rights of Qatari citizens.",
+    "Case Summary": "Qatar filed a case against the UAE alleging violations of the International Convention on the Elimination of All Forms of Racial Discrimination (CERD). The ICJ is evaluating whether it has jurisdiction to hear the case and whether Qatar's rights are plausible and worthy of protection. The measures ordered by the ICJ have binding effect and create international legal obligations for the parties involved.",
+    "Keywords": [
+        "Qatar",
+        "United Arab Emirates (UAE)",
+        "International Convention on the Elimination of All Forms of Racial Discrimination",
+        "CERD",
+        "ICJ Statute",
+        "Provisional Measures",
+        "Racial Discrimination",
+        "Qatari citizens",
+        "Jurisdiction",
+        "International Legal Obligations"
+    ]
+}

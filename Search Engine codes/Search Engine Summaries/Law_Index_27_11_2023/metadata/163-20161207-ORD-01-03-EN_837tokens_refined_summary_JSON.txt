@@ -1,0 +1,28 @@
+{
+    "Date": "2016",
+    "Parties Involved": [
+        "Equatorial Guinea",
+        "France"
+    ],
+    "Case Name": "Immunities and Criminal Proceedings (Equatorial Guinea v. France)",
+    "Case Number": "163",
+    "Court Name": "International Court of Justice (ICJ)",
+    "Document Type": "Order",
+    "Document Date": "2016",
+    "Document Summary": "This document contains a declaration by Judge Gevorgian concerning the interpretation of Article 4 of the Palermo Convention in the case of Immunities and Criminal Proceedings between Equatorial Guinea and France.",
+    "Case Summary": "The case involves a dispute concerning the immunity from criminal jurisdiction of the Second Vice-President of Equatorial Guinea and the legal status of the building housing the Embassy of Equatorial Guinea in France. The document is an order type document authored by Judge Kirill Gevorgian.",
+    "Keywords": [
+        "Immunities",
+        "Criminal Proceedings",
+        "Equatorial Guinea",
+        "France",
+        "Second Vice-President",
+        "Teodoro Nguema Obiang Mangue",
+        "Embassy of Equatorial Guinea",
+        "Palermo Convention",
+        "Declaration",
+        "Judge Gevorgian",
+        "Sovereign Equality of States",
+        "International Law Commission"
+    ]
+}

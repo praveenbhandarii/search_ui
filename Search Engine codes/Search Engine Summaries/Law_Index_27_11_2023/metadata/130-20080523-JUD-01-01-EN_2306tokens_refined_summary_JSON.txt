@@ -1,0 +1,27 @@
+{
+  "Date": "2003",
+  "Parties Involved": ["Malaysia", "Singapore"],
+  "Case Name": "Sovereignty over Pedra Branca/Pulau Batu Puteh, Middle Rocks and South Ledge (Malaysia/Singapore)",
+  "Case Number": "130",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2003",
+  "Document Summary": "The case involves a dispute between Malaysia and Singapore over the sovereignty of Pedra Branca/Pulau Batu Puteh, Middle Rocks, and South Ledge. The parties jointly submitted the dispute to the International Court of Justice (ICJ) in 2003, requesting the court to determine the ownership of these territories. Both countries agreed to accept the court's judgment as final and binding.",
+  "Case Summary": "The case revolves around the sovereignty of Pedra Branca/Pulau Batu Puteh in the Johor Strait. The historical context reveals that the Sultan of Johor had previously ceded the island to the British, who exercised colonial authority over it. Upon Singapore's independence, it succeeded to the British colonial territorial title. The legal analysis suggests that Singapore's succession to the British colonial territorial title provides evidence of its sovereignty over Pedra Branca/Pulau Batu Puteh. Malaysia's silence or indifference cannot be used to dispute Singapore's claim to sovereignty over the territory. Key legal principles involved in the case include acquiescence and rules of colonial law.",
+  "Keywords": [
+    "Sovereignty",
+    "Pedra Branca",
+    "Pulau Batu Puteh",
+    "Middle Rocks",
+    "South Ledge",
+    "Malaysia",
+    "Singapore",
+    "Dispute",
+    "International Court of Justice",
+    "ICJ",
+    "Special Agreement",
+    "Colonial Authority",
+    "Acquiescence",
+    "Rules of Colonial Law"
+  ]
+}

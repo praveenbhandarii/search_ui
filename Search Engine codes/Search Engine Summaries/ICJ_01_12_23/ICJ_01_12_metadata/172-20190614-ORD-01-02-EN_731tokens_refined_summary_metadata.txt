@@ -1,0 +1,20 @@
+{
+  "Date": "2019",
+  "Parties Involved": ["Qatar", "United Arab Emirates (UAE)"],
+  "Case Name": "Application of the International Convention on the Elimination of All Forms of Racial Discrimination (Qatar v. United Arab Emirates)",
+  "Case Number": "ICJ/172",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Order",
+  "Document Date": "2019",
+  "Document Summary": "This document is an order from the International Court of Justice (ICJ) regarding the application of the International Convention on the Elimination of All Forms of Racial Discrimination (CERD) in the case of Qatar v. United Arab Emirates.",
+  "Case Summary": "Qatar filed a case against the UAE alleging violations of the International Convention on the Elimination of All Forms of Racial Discrimination (CERD). The court's order discusses the jurisdictional issue and the plausibility of the UAE's rights based on CERD.",
+  "Keywords": [
+    "Qatar",
+    "United Arab Emirates (UAE)",
+    "International Convention on the Elimination of All Forms of Racial Discrimination",
+    "CERD",
+    "Jurisdiction",
+    "Plausibility of Rights",
+    "Provisional Measures"
+  ]
+}

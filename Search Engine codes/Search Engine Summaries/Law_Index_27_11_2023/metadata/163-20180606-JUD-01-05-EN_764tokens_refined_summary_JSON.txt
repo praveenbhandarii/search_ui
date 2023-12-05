@@ -1,0 +1,27 @@
+{
+  "Date": "2018",
+  "Parties Involved": ["Equatorial Guinea", "France"],
+  "Case Name": "Immunities and Criminal Proceedings (Equatorial Guinea v. France)",
+  "Case Number": "163",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2018",
+  "Document Summary": "This judgment document, dated 20180606, is a declaration by Judge Gaja regarding the ownership of a building located at 42 Avenue Foch in Paris. It pertains to the dispute between Equatorial Guinea and France concerning the use of the building as the premises of Equatorial Guinea's diplomatic mission. The document is written in English and is part of the International Court of Justice's judgment type documents.",
+  "Case Summary": "This case involves a dispute between the Republic of Equatorial Guinea and the French Republic. Equatorial Guinea initiated proceedings against France regarding the immunity from criminal jurisdiction of its Second Vice-President, Mr. Teodoro Nguema Obiang Mangue, and the legal status of the building housing Equatorial Guinea's embassy in France.",
+  "Keywords": [
+    "Immunities",
+    "Criminal Proceedings",
+    "Equatorial Guinea",
+    "France",
+    "Second Vice-President",
+    "Teodoro Nguema Obiang Mangue",
+    "Diplomatic Mission",
+    "Vienna Convention",
+    "Ownership Dispute",
+    "Optional Protocol",
+    "Jurisdiction",
+    "Immunity",
+    "Inviolability",
+    "ICJ"
+  ]
+}

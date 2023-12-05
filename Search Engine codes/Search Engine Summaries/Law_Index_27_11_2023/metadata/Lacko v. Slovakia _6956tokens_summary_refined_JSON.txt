@@ -1,0 +1,22 @@
+{
+  "Date": "2001",
+  "Parties Involved": [
+    "Miroslav Lacko",
+    "Slovak Republic"
+  ],
+  "Case Name": "Miroslav Lacko v. Slovak Republic",
+  "Case Number": "Not specified",
+  "Court Name": "United Nations Human Rights Committee",
+  "Document Type": "Case Communication",
+  "Document Date": "March 2001",
+  "Document Summary": "Communication from the United Nations Human Rights Committee to the Slovak Republic regarding a case of alleged racial discrimination.",
+  "Case Summary": "The case involves a Slovak citizen, Mr. Lacko, who was denied service at a restaurant because he is Roma. The restaurant owner has a history of discriminating against Roma people, and Mr. Lacko was only admitted to the restaurant on some days when he was considered 'polite.' The petitioner's lawyer claims that the restaurant owner's actions constitute racial discrimination and violate several articles of the European Convention on Human Rights. The State party argues that the petitioner failed to exhaust domestic remedies available to him, but the Committee found that there were no effective remedies available to the petitioner under Slovak law.",
+  "Keywords": [
+    "Racial Discrimination",
+    "Miroslav Lacko",
+    "Slovak Republic",
+    "European Convention on Human Rights",
+    "UNCRPD",
+    "Incitement to Racial Hatred"
+  ]
+}

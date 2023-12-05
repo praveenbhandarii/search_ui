@@ -1,0 +1,22 @@
+Case ID: ICJ/172
+Court/Tribunal: International Court of Justice (ICJ)
+Document Date: 20210204
+Key Parties Involved: Qatar, United Arab Emirates (UAE)
+Case Name: Application of the International Convention on the Elimination of All Forms of Racial Discrimination (Qatar v. United Arab Emirates)
+
+Case Summary:
+Qatar filed a case against the UAE on June 11, 2018, alleging violations of the International Convention on the Elimination of All Forms of Racial Discrimination (CERD). The case revolves around the UAE's alleged discriminatory measures against Qatari nationals, including travel bans. The ICJ issued a judgment on July 16, 2020, addressing key provisions and jurisdictional issues.
+
+Context:
+- Qatar accuses the UAE of implementing discriminatory measures against Qatari nationals, violating CERD.
+- The ICJ examined whether the subject matter of the dispute fell within the scope of CERD and whether Qatar's claims related to racial discrimination based on current nationality.
+- The ICJ referred to previous cases, including Territorial and Maritime Dispute (Nicaragua v. Colombia) and Fisheries Jurisdiction (Spain v. Canada), to support its interpretation and application of CERD.
+- The ICJ considered the term "national origin" in CERD and ruled that it does not encompass measures based on current nationality.
+- Qatar's claims of indirect discrimination on the basis of national origin were deemed not constituting racial discrimination under the Convention.
+
+Citations:
+- International Convention on the Elimination of All Forms of Racial Discrimination (CERD)
+- Territorial and Maritime Dispute (Nicaragua v. Colombia)
+- Fisheries Jurisdiction (Spain v. Canada)
+
+Note: The additional information provided in the document is not directly related to the case at hand and involves a separate case between Bolivia and Chile.

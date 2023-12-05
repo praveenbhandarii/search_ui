@@ -1,0 +1,23 @@
+{
+  "Date": "2019",
+  "Parties Involved": ["Hungary", "Bujdos et al."],
+  "Case Name": "Bujdos et al. v. Hungary",
+  "Case Number": "CRPD/C/10/D/4/2011",
+  "Court Name": "Committee on the Rights of Persons with Disabilities",
+  "Document Type": "Follow-up progress report on individual communications",
+  "Document Date": "2019",
+  "Document Summary": "The Committee on the Rights of Persons with Disabilities issued a follow-up progress report on individual communications regarding the case of Bujdos et al. v. Hungary.",
+  "Case Summary": "The case involves noncompliance with article 12 of the Convention on the Rights of Persons with Disabilities by Hungary, specifically regarding the authors' access to compensation amounts transferred to their bank accounts due to the restrictive conceptualization of guardianship. The Committee decided to discontinue the follow-up procedure, which may have implications for the authors and set a precedent for future cases involving similar issues.",
+  "Keywords": [
+    "Convention on the Rights of Persons with Disabilities",
+    "Bujdos et al.",
+    "Hungary",
+    "Article 12",
+    "Follow-up progress report",
+    "Noncompliance",
+    "Guardianship",
+    "Compensation",
+    "Discontinuation",
+    "Precedent"
+  ]
+}

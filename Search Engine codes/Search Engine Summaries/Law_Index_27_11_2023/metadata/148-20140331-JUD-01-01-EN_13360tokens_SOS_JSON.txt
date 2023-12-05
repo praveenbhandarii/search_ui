@@ -1,0 +1,28 @@
+{
+  "Date": "2015",
+  "Parties Involved": ["Australia", "Japan"],
+  "Case Name": "Whaling in the Antarctic (Australia v. Japan: New Zealand intervening)",
+  "Case Number": "98 8 CIJ1062.indb 324",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2015",
+  "Document Summary": "This document is a judgment from the International Court of Justice (ICJ) regarding the case of Whaling in the Antarctic. It provides a detailed analysis of the legal issues surrounding Japan's whaling activities and the interpretation of the International Convention for the Regulation of Whaling (ICRW). The judgment concluded that Japan's whaling activities under JARPA II, including the lethal taking of whales, do not qualify as activities conducted for scientific research and are therefore not in accordance with the Convention.",
+  "Case Summary": "Australia initiated proceedings against Japan in 2010, alleging that Japan's whaling program in the Antarctic, known as JARPA II, violated its obligations under the International Convention for the Regulation of Whaling (ICRW) and other international obligations for the preservation of marine mammals and the marine environment. The judgment by the ICJ highlighted the interpretation of Article VIII of the Convention, which governs special permits for scientific research whaling, and concluded that Japan's whaling activities under JARPA II did not qualify as scientific research.",
+  "Keywords": [
+    "Whaling",
+    "Antarctic",
+    "Australia",
+    "Japan",
+    "New Zealand",
+    "International Convention for the Regulation of Whaling",
+    "ICRW",
+    "International Whaling Commission",
+    "IWC",
+    "JARPA II",
+    "Scientific Research Whaling",
+    "Marine Mammals",
+    "ICJ Judgment",
+    "Legal Interpretation",
+    "Court Review"
+  ]
+}

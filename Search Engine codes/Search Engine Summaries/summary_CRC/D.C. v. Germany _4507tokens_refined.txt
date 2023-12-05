@@ -1,0 +1,34 @@
+Summary:
+
+Case Details:
+- Case ID: CRC/C/83/D/60/2018
+- Court/Tribunal: United Nations Committee on the Rights of the Child (UNCRC)
+- Document Date: 2020
+- Key Parties Involved: D.C. (the author and victim, represented by counsel, Kurt-Peter Merk) vs. State party: Germany
+- Case Name: D.C. v. Germany
+- Case Summary: D.C., a 16-year-old child, alleges that Germany violated his rights under articles 2 (1), 3 (1), 4 and 12 (1) of the Convention by denying him his right to vote in local elections on the grounds of age.
+
+Procedural History:
+The case involves a communication submitted to the Committee on the Rights of the Child by D.C., alleging a violation of his rights under the Convention on the Rights of the Child by Germany. The communication was initially submitted on 27 August 2018, and the decision was adopted on 4 February 2020.
+
+Legal Analysis and Reasoning:
+The main issue in this case is whether the State party's minimum age requirement of 18 years old for voting in local elections is compatible with the CRC's provisions on the right to participation and the best interests of the child. The Committee had to interpret the provisions of the CRC and assess whether the State party's laws and policies comply with its obligations under the Convention.
+
+Decisions and Rulings:
+The Committee found that the author did not exhaust all reasonably available domestic remedies, specifically the option to submit a constitutional complaint to the Constitutional Court of Saarland. Therefore, the communication was declared inadmissible for non-exhaustion of domestic remedies under Article 7(e) of the Optional Protocol.
+
+Impact and Significance:
+This decision sets a precedent for future cases involving the exhaustion of domestic remedies under the Optional Protocol to the Convention on the Rights of the Child. It emphasizes the importance of exhausting all available domestic remedies before submitting a complaint to an international human rights body.
+
+Citations and References:
+- United Nations Convention on the Rights of the Child (CRC)
+- Optional Protocol to the CRC on a communications procedure
+- Article 2 (1), 3 (1), 4 and 12 (1) of the CRC
+- Article 29 of the Convention on the Rights of Persons with Disabilities
+- Local election law of Saarland
+- Administrative Court of Saarland, judgment dated 4 November 2016, file number 3 K 921/15
+- Higher Administrative Court of Saarland, judgment dated 7 November 2017, file number 2 A 433/16
+- Human Rights Committee, Pratt and Morgan v. Jamaica, communication No. 225/1987
+- Human Rights Committee, Barzhig v. France, communication No. 327/1988
+- Human Rights Committee, Young v. Australia (CCPR/C/78/D/941/2000)
+- Human Rights Committee, R.T. v. France, communication No. 262/1987

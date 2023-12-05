@@ -1,0 +1,25 @@
+{
+  "Date": "2019",
+  "Parties Involved": [
+    "Kingdom of Bahrain",
+    "Arab Republic of Egypt",
+    "United Arab Emirates",
+    "State of Qatar"
+  ],
+  "Case Name": "Appeal relating to the Jurisdiction of the ICAO Council under Article II, Section 2, of the 1944 International Air Services Transit Agreement (Bahrain, Egypt and United Arab Emirates v. Qatar)",
+  "Case Number": "ICJ/174",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2019",
+  "Document Summary": "This legal document is an order from the International Court of Justice (ICJ) in Case Number 174. The case involves an appeal filed by the Kingdom of Bahrain, the Arab Republic of Egypt, and the United Arab Emirates against the State of Qatar. The appeal is related to the jurisdiction of the International Civil Aviation Organization (ICAO) Council under Article II, Section 2, of the 1944 International Air Services Transit Agreement.",
+  "Case Summary": "This legal document is an order from the International Court of Justice (ICJ) in Case Number 174. The case involves an appeal filed by the Kingdom of Bahrain, the Arab Republic of Egypt, and the United Arab Emirates against the State of Qatar. The appeal is related to the jurisdiction of the International Civil Aviation Organization (ICAO) Council under Article II, Section 2, of the 1944 International Air Services Transit Agreement. The appeal was filed in response to a decision rendered by the ICAO Council on 29 June 2018 in proceedings initiated by Qatar against the four states.",
+  "Keywords": [
+    "ICAO Council Jurisdiction",
+    "International Air Services Transit Agreement",
+    "Bahrain",
+    "Egypt",
+    "United Arab Emirates",
+    "Qatar",
+    "State Jurisdiction"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "Date": "2021",
+  "Parties Involved": [
+    "Equatorial Guinea",
+    "France"
+  ],
+  "Case Name": "Immunities and Criminal Proceedings (Equatorial Guinea v. France)",
+  "Case Number": "163",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2021",
+  "Document Summary": "This judgment document from the International Court of Justice (ICJ) provides a summary of the case and presents the majority and dissenting opinions of the ICJ judges. It discusses the interpretation and application of the Palermo Convention, particularly in relation to the immunities of high-ranking state officials and state property from foreign criminal jurisdiction, as well as the legal status of the building housing the Embassy of Equatorial Guinea in France.",
+  "Case Summary": "This case (Case Number 163) involves a dispute between Equatorial Guinea and France regarding the immunity from criminal jurisdiction of the Second Vice-President of Equatorial Guinea, Mr. Teodoro Nguema Obiang Mangue, and the legal status of the building housing the Embassy of Equatorial Guinea in France. Equatorial Guinea argues that France's prosecution of Mr. Mangue for money laundering breaches the Palermo Convention on Transnational Organized Crime.",
+  "Keywords": [
+    "Immunities",
+    "Criminal Proceedings",
+    "Equatorial Guinea",
+    "France",
+    "Palermo Convention on Transnational Organized Crime",
+    "ICJ",
+    "State Immunity",
+    "High-Ranking State Officials",
+    "Sovereign Equality",
+    "Transnational Organized Crime",
+    "Dissenting Opinion",
+    "Majority Opinion",
+    "Palermo Convention Interpretation",
+    "Previous Cases",
+    "State Property",
+    "Foreign Criminal Jurisdiction"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Date": "2001",
+  "Parties Involved": ["Nicaragua", "Colombia"],
+  "Case Name": "Territorial and Maritime Dispute (Nicaragua v. Colombia)",
+  "Case Number": "ICJ/XX", 
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2010",
+  "Document Summary": "This judgment document discusses the principles and considerations related to intervention in maritime boundary cases. It refers to a previous case involving Equatorial Guinea's request to intervene and highlights the relevant legal provisions, including Article 62 of the ICJ Statute and Article 81(2)(b) of the Rules of Court. The document also provides the date, judge, and paragraphs covered.",
+  "Case Summary": "The case involves a territorial and maritime dispute between Nicaragua and Colombia. Nicaragua filed an application in 2001, and Colombia raised preliminary objections to jurisdiction in 2003, leading to the suspension of the proceedings on the merits. The International Court of Justice (ICJ) has the discretion to grant intervention in maritime boundary cases, and the Court's practice is based on the idea that a generalized interest in international law is not sufficient to comprise an interest of a legal nature.",
+  "Keywords": ["Territorial Dispute", "Maritime Dispute", "Nicaragua", "Colombia", "Intervention", "Maritime Boundary", "ICJ Statute", "Rules of Court", "Equatorial Guinea", "Article 62", "Article 81(2)(b)", "2001", "2010", "Judgment", "Legal Interest"]
+}

@@ -1,0 +1,31 @@
+{
+  "Date": "2018",
+  "Parties Involved": [
+    "Equatorial Guinea",
+    "France"
+  ],
+  "Case Name": "Immunities and Criminal Proceedings (Equatorial Guinea v. France)",
+  "Case Number": "ICJ/2018",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2018",
+  "Document Summary": "This judgment document, issued by the International Court of Justice (ICJ) on 6 June 2018, provides a summary of the case and its key issues. It also addresses the preliminary objections raised by France and the court's decision on jurisdiction. The document includes relevant dates, court details, and case numbers.",
+  "Case Summary": "This case involves a dispute between the Republic of Equatorial Guinea and the French Republic regarding the immunity from criminal jurisdiction of the Second Vice-President of Equatorial Guinea, Mr. Teodoro Nguema Obiang Mangue, and the legal status of the building housing the Embassy of Equatorial Guinea in France. The judgment addresses the preliminary objections raised by France and the court's decision on jurisdiction, and it provides a resolution to the case.",
+  "Keywords": [
+    "Immunities",
+    "Criminal Proceedings",
+    "Equatorial Guinea",
+    "France",
+    "International Court of Justice",
+    "ICJ Judgment",
+    "Teodoro Nguema Obiang Mangue",
+    "Preliminary Objections",
+    "Palermo Convention",
+    "Vienna Convention",
+    "Inviolability of Embassy",
+    "State Property",
+    "Money Laundering",
+    "Jurisdiction",
+    "Immunity from Jurisdiction"
+  ]
+}

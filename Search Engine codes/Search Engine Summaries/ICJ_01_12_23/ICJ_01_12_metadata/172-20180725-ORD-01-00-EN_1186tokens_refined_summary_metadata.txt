@@ -1,0 +1,24 @@
+{
+  "Date": "2018",
+  "Parties Involved": ["State of Qatar", "United Arab Emirates"],
+  "Case Name": "Application of the International Convention on the Elimination of All Forms of Racial Discrimination (Qatar v. United Arab Emirates)",
+  "Case Number": "ICJ/172",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Case Communication",
+  "Document Date": "2018",
+  "Document Summary": "Qatar filed a case against the United Arab Emirates (UAE) on June 11, 2018, alleging violations of the International Convention on the Elimination of All Forms of Racial Discrimination (CERD). The case involves key provisions of the CERD and is currently being adjudicated by the ICJ.",
+  "Case Summary": "Qatar filed a case against the United Arab Emirates (UAE) on June 11, 2018, alleging violations of the International Convention on the Elimination of All Forms of Racial Discrimination (CERD). The case involves the application of the CERD and is being heard at the ICJ. Provisional measures have been indicated, and time limits for submission of memorials have been set.",
+  "Keywords": [
+    "International Convention on the Elimination of All Forms of Racial Discrimination",
+    "CERD",
+    "Qatar",
+    "United Arab Emirates",
+    "Provisional Measures",
+    "Peace Palace",
+    "The Hague",
+    "Abdulqawi Ahmed Yusuf",
+    "Philippe Couvreur",
+    "Reservation of Subsequent Procedure",
+    "CJ1146"
+  ]
+}

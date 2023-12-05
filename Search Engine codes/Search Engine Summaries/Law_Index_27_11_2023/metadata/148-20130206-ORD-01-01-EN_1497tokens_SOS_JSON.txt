@@ -1,0 +1,28 @@
+{
+  "Date": "2010",
+  "Parties Involved": ["Australia", "Japan"],
+  "Case Name": "Whaling in the Antarctic (Australia v. Japan: New Zealand intervening)",
+  "Case Number": "148",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Order",
+  "Document Date": "2010",
+  "Document Summary": "This document is an Order issued by the International Court of Justice (ICJ) in Case Number 148, containing Judge Owada's Declaration on the admissibility of New Zealand's intervention as a third-party intervenor under Article 63 of the ICJ Statute. It also includes the judgment of the ICJ.",
+  "Case Summary": "Australia initiated proceedings against Japan, alleging that Japan's large-scale whaling program in the Antarctic, known as JARPA II, violated its obligations under the International Convention for the Regulation of Whaling (ICRW) and other international obligations for the preservation of marine mammals and the marine environment.",
+  "Keywords": [
+    "Whaling",
+    "Antarctic",
+    "Australia",
+    "Japan",
+    "New Zealand",
+    "International Convention for the Regulation of Whaling (ICRW)",
+    "Marine Mammals",
+    "Marine Environment",
+    "Judge Owada's Declaration",
+    "Article 63",
+    "Intervention",
+    "ICJ Statute",
+    "Equality of the Parties",
+    "Fair Administration of Justice",
+    "Article 36(1)of the Rules of Court"
+  ]
+}

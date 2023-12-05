@@ -1,0 +1,33 @@
+Title: Whaling in the Antarctic (Australia v. Japan: New Zealand intervening)
+
+Case Overview:
+Australia filed a case against Japan in 2010, alleging that Japan's whaling program, JARPA II, violated the International Convention for the Regulation of Whaling (ICRW) and other international obligations for the preservation of marine mammals and the marine environment.
+
+Document Overview:
+This document is a judgment type document from the International Court of Justice (ICJ) in Case Number 148. It provides important details, including the case name, jurisdiction, date, parties involved, key provisions, sample sizes, use of lethal methods, decision, remedies, case background, and hearing dates. The document also includes additional information about the case, such as the involvement of New Zealand as an intervening party, the delivery of the judgment on May 18, 2015, and the various agents, counsel, advocates, and judges involved in the case. The document is signed by President Tomka and Registrar Philippe Couvreur, with dissenting opinions and separate opinions appended by various Judges. The case citation is 78 8 CIJ1062.indb 284 18/05/15 09:29.
+
+Important Details:
+- Australia alleged that Japan's whaling program, JARPA II, violated the ICRW and the ICJ's jurisdiction.
+- The key provisions include Article VIII, paragraph 1 of the ICRW, the Schedule to the Convention, and the Research Plan for JARPA II.
+- The Court found that the sample sizes in the Research Plan were insufficient for minke whales and that the program lacked an analysis of non-lethal methods.
+- Japan's decisions regarding the use of lethal methods were not in violation of the ICRW, but the sample sizes were inadequate.
+- The Court did not impose any remedies, as it was not called upon to resolve scientific or whaling policy matters.
+- The ICJ has stated that the two elements of the phrase "for purposes of scientific research" are cumulative, and that the killing, taking, and treating of whales pursuant to a whaling program does not fall within Article VIII unless these activities are for purposes of scientific research.
+- The ICJ has considered the arguments of the parties and the intervening State regarding the meaning of the term "scientific research" and the term "for purposes of" in the phrase "for purposes of scientific research."
+- Judges Keith, Skotnikov, Canado Trindade, Greenwood, Xue, Donoghue, Gaja, Sebutinde, Bhandari, and Judge ad hoc Charlesworth voted in favor, while Judges Owada, Abraham, Bennouna, and Yusuf dissented.
+
+Additional Information:
+- The case involved Australia, Japan, and New Zealand as an intervening party.
+- The judgment was delivered on May 18, 2015, at the ICJ in The Hague, Netherlands.
+- Various agents, counsel, advocates, and judges were involved in the case.
+- Japan was ordered to revoke any authorization, permit, or license related to JARPA II and refrain from granting further permits.
+- The case involved multiple rounds of written pleadings, oral hearings, and interventions by New Zealand.
+- The ICJ's jurisdiction was based on declarations made by both parties under Article 36, paragraph 2, of the ICJ Statute.
+- The ICJ considered the scope of its review, the standard of review to be applied, and the meaning of "scientific research" in Article VIII of the ICRW.
+- The ICJ identified four criteria advanced by Australia as relevant to determining whether activities constitute scientific research under Article VIII.
+- The ICJ ruled that the use of lethal methods in scientific research does not necessarily render the research nonscientific.
+- The ICJ stated that the IWC and the Scientific Committee have a duty to cooperate and should give due regard to recommendations calling for an assessment of nonlethal alternatives.
+- The ICJ considered the role of IWC resolutions and guidelines, noting that they are not binding and do not establish an interpretation of Article VIII.
+- The ICJ found that the ICRW does not prohibit the use of lethal methods in scientific research.
+- The ICJ ruled that Japan must recalculate the sample size for its research program, taking into account factors such as the effects of the research period, accuracy, and rate of change on sample size, and provide a new plan for its research.
+- The ICJ's ruling is pending and is expected to provide further guidance on the case.

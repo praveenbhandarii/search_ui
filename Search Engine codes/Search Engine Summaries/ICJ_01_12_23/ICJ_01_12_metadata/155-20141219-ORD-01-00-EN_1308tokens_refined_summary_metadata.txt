@@ -1,0 +1,24 @@
+{
+  "Date": "2014",
+  "Parties Involved": ["Nicaragua", "Colombia"],
+  "Case Name": "Alleged Violations of Sovereign Rights and Maritime Spaces in the Caribbean Sea (Nicaragua v. Colombia)",
+  "Case Number": "ICJ/155",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Case Communication",
+  "Document Date": "2014",
+  "Document Summary": "Nicaragua filed an application against Colombia, alleging violations of its sovereign rights and maritime zones as declared by the Court's Judgment in a previous case. Colombia raised preliminary objections to the jurisdiction of the Court. The proceedings on the merits were suspended until Nicaragua presents its written statement of observations and submissions on the preliminary objections.",
+  "Case Summary": "Nicaragua filed an application against Colombia, alleging violations of its sovereign rights and maritime zones as declared by the Court's Judgment in a previous case. Colombia raised preliminary objections to the jurisdiction of the Court. The proceedings on the merits were suspended until Nicaragua presents its written statement of observations and submissions on the preliminary objections.",
+  "Keywords": [
+    "Sovereign Rights",
+    "Maritime Spaces",
+    "Caribbean Sea",
+    "Nicaragua",
+    "Colombia",
+    "Jurisdiction",
+    "Preliminary Objections",
+    "Written Statement",
+    "Observations",
+    "Submissions",
+    "Timelimit"
+  ]
+}

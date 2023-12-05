@@ -1,0 +1,24 @@
+{
+  "Date": "2020",
+  "Parties Involved": ["F.O.F.", "Brazil"],
+  "Case Name": "F.O.F. v. Brazil",
+  "Case Number": "CRPD/C/23/D/40/2017",
+  "Court Name": "United Nations Committee on the Rights of Persons with Disabilities",
+  "Document Type": "Judgment",
+  "Document Date": "2020",
+  "Document Summary": "The United Nations Committee on the Rights of Persons with Disabilities ruled in the case of F.O.F. v. Brazil that Brazil violated the author's rights under various articles of the Convention and the Optional Protocol. The decision highlights the importance of ensuring access to justice and protection against discrimination for individuals with disabilities.",
+  "Case Summary": "The United Nations Committee on the Rights of Persons with Disabilities held that Brazil violated the author's rights under various articles of the Convention and the Optional Protocol. The decision emphasizes the need for states to provide reasonable accommodation and equal remuneration for individuals with disabilities.",
+  "Keywords": [
+    "Disability Rights",
+    "F.O.F.",
+    "Brazil",
+    "Reasonable Accommodation",
+    "Discrimination",
+    "Convention on the Rights of Persons with Disabilities",
+    "Optional Protocol",
+    "Access to Justice",
+    "Equal Remuneration",
+    "Integrity",
+    "Autonomy"
+  ]
+}

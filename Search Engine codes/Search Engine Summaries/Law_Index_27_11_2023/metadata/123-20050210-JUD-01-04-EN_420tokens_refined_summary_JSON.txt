@@ -1,0 +1,23 @@
+{
+  "Date": "2001",
+  "Parties Involved": ["Liechtenstein", "Germany"],
+  "Case Name": "Certain Property (Liechtenstein v. Germany)",
+  "Case Number": "123",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2001",
+  "Document Summary": "This is a judgment type document of the International Court of Justice, relating to a dispute concerning certain property between Liechtenstein and Germany. The document discusses the preliminary objections, reasoning, evidence, and the standard for determining the existence of a dispute.",
+  "Case Summary": "Liechtenstein filed an Application against Germany in the International Court of Justice, initiating proceedings related to a dispute concerning certain property. The case details, preliminary objections, reasoning, evidence, and the standard for determining the existence of a dispute were discussed. Germany raised six preliminary objections, of which only the second objection was upheld by the Court. The document emphasizes the importance of setting a standard for determining the existence of a dispute to encourage peaceful settlements.",
+  "Keywords": [
+    "Certain Property",
+    "Liechtenstein",
+    "Germany",
+    "International Court of Justice",
+    "ICJ",
+    "Preliminary Objections",
+    "Legal Dispute",
+    "Peaceful Settlements",
+    "Bilateral Consultations",
+    "Minister for Foreign Affairs"
+  ]
+}

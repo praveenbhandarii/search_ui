@@ -1,0 +1,28 @@
+{
+  "Date": "2005",
+  "Parties Involved": ["Liechtenstein", "Germany"],
+  "Case Name": "Certain Property (Liechtenstein v. Germany)",
+  "Case Number": "123",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2005",
+  "Document Summary": "This judgment document discusses the jurisdiction of the International Court of Justice, the applicable law, and the critical date of 1980 in the context of the dispute between Liechtenstein and Germany over the confiscation of Liechtenstein property in Germany after World War II.",
+  "Case Summary": "This case involves a dispute between Liechtenstein and Germany regarding the confiscation of Liechtenstein property in Germany after World War II. The critical date in the case is 1980 when the Settlement Convention entered into force. The Court is tasked with determining the scope of its jurisdiction ratione temporis and interpreting the European Convention on Human Rights in relation to the case. The case also addresses the ownership dispute over a painting seized by the Czech authorities in 1946 and distinguishes itself from previous cases involving expropriation of assets in Germany after the war.",
+  "Keywords": [
+    "Liechtenstein",
+    "Germany",
+    "Property Confiscation",
+    "World War II",
+    "International Court of Justice",
+    "Jurisdiction Ratione Temporis",
+    "European Convention on Human Rights",
+    "Settlement Convention",
+    "Ownership Dispute",
+    "Czech Authorities",
+    "Expropriation of Assets",
+    "Judge Elaraby",
+    "Dissent",
+    "European Court of Human Rights",
+    "Benes Decrees"
+  ]
+}

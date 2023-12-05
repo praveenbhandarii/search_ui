@@ -1,0 +1,24 @@
+{
+  "Date": "2013",
+  "Parties Involved": ["Nicaragua", "Colombia"],
+  "Case Name": "Territorial and Maritime Dispute (Nicaragua v. Colombia)",
+  "Case Number": "124",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2013",
+  "Document Summary": "This judgment document, dated June 14, 2013, is part of the International Court of Justice case number 124. Judge Awn Shawkat AlKhasawneh presided over the case.",
+  "Case Summary": "The Republic of Nicaragua filed a case against the Republic of Colombia in 2001, seeking resolution for a dispute related to territory and maritime delimitation. Colombia raised preliminary objections to jurisdiction, leading to a suspension of the proceedings on the merits.",
+  "Keywords": [
+    "Territorial Dispute",
+    "Maritime Dispute",
+    "Nicaragua",
+    "Colombia",
+    "International Court of Justice",
+    "Case Number 124",
+    "Judge Awn Shawkat AlKhasawneh",
+    "Preliminary Objections",
+    "Jurisdiction",
+    "Territory Delimitation",
+    "Maritime Delimitation"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "Date": "2005",
+  "Parties Involved": ["L. R. et al.", "Slovak Republic"],
+  "Case Name": "L. R. et al. v. Slovak Republic",
+  "Case Number": "CERD/C/66/D/31/2003",
+  "Court Name": "United Nations Committee on the Elimination of Racial Discrimination (CERD)",
+  "Document Type": "Opinion on the admissibility of the petition",
+  "Document Date": "2005",
+  "Document Summary": "The document provides an opinion on the admissibility of the petition filed by L. R. and 26 other Slovak citizens of Roma ethnicity against the Slovak Republic, addressing issues related to the protection of minority rights and racial discrimination.",
+  "Case Summary": "The case involves a complaint filed by L. R. and 26 other Slovak citizens of Roma ethnicity against the Slovak Republic, alleging violations of their rights under the CERD and the Slovak Constitution. The Committee found the petition admissible, ruled in favor of the petitioners, and requested the State party to take measures to address the issues raised and provide an effective remedy.",
+  "Keywords": [
+    "L. R. et al.",
+    "Slovak Republic",
+    "Racial Discrimination",
+    "Minority Rights",
+    "CERD/C/66/D/31/2003",
+    "Opinion on Admissibility",
+    "International Convention on the Elimination of All Forms of Racial Discrimination",
+    "United Nations Committee on the Elimination of Racial Discrimination"
+  ]
+}

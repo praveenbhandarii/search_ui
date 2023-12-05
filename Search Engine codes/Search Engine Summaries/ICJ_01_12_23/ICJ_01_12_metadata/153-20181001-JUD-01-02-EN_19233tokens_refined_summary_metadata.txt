@@ -1,0 +1,24 @@
+{
+  "Date": "2018",
+  "Parties Involved": ["Bolivia", "Chile"],
+  "Case Name": "Obligation to Negotiate Access to the Pacific Ocean (Bolivia v. Chile)",
+  "Case Number": "ICJ/153",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2018",
+  "Document Summary": "The case involves Bolivia's demand for sovereign access to the Pacific Ocean and Chile's obligation to negotiate this access. Bolivia cites historical agreements, diplomatic practice, and declarations as evidence, while Chile denies the existence of this obligation. The case is based on Article XXXI of the American Treaty on Pacific Settlement, and references the Vienna Convention on the Law of Treaties (VCLT) and ICJ Reports, Volume 5, page 156.",
+  "Case Summary": "The case centers on Bolivia's demand for sovereign access to the Pacific Ocean and the dispute over Chile's obligation to negotiate this access. Bolivia argues that historical documents and commitments support its claim, while Chile denies any such obligation. The case references the 1904 Treaty of Peace and Friendship and various historical declarations and memorandums.",
+  "Keywords": [
+    "Bolivia",
+    "Chile",
+    "Pacific Ocean",
+    "Sovereign Access",
+    "Negotiation",
+    "American Treaty on Pacific Settlement",
+    "Vienna Convention on the Law of Treaties",
+    "ICJ Reports",
+    "Treaty of Peace and Friendship",
+    "Trucco Memorandum",
+    "Charaa Declarations"
+  ]
+}

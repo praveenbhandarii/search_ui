@@ -1,0 +1,23 @@
+{
+  "Date": "2014",
+  "Parties Involved": ["Republic of the Marshall Islands", "India"],
+  "Case Name": "Obligations concerning Negotiations relating to Cessation of the Nuclear Arms Race and to Nuclear Disarmament (Marshall Islands v. India)",
+  "Case Number": "ICJ/158",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Case Communication",
+  "Document Date": "2014",
+  "Document Summary": "This document provides information about the case, including the judges, registrar, legal provisions, jurisdiction, agents, and important dates.",
+  "Case Summary": "The Republic of the Marshall Islands filed Applications against nine states, including India, accusing them of not fulfilling their obligations regarding the cessation of the nuclear arms race and nuclear disarmament.",
+  "Keywords": [
+    "Republic of the Marshall Islands",
+    "India",
+    "Nuclear Arms Race",
+    "Nuclear Disarmament",
+    "International Court of Justice",
+    "Article 36 of the Statute",
+    "Jurisdiction",
+    "Legal Provisions",
+    "Agents",
+    "Obligations"
+  ]
+}

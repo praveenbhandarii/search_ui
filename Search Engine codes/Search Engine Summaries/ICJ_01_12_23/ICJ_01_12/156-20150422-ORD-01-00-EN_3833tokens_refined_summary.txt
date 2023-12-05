@@ -1,0 +1,19 @@
+Case ID: ICJ/156
+Court/Tribunal: International Court of Justice (ICJ)
+Document Date: 2015
+Key Parties Involved: Timor-Leste, Australia
+Case Name: Questions relating to the Seizure and Detention of Certain Documents and Data (Timor-Leste v. Australia)
+
+Case Summary:
+Timor-Leste initiated proceedings against Australia regarding the seizure and detention of documents, data, and other property belonging to Timor-Leste or protected under international law. These items were allegedly seized under a warrant issued by Australia. The seized materials included correspondence between the Government of Timor-Leste and its legal advisers related to a pending arbitration under the Timor Sea Treaty. Timor-Leste invoked its declaration under Article 36, paragraph 2 of the Statute as the basis for the Court's jurisdiction.
+
+Context:
+- Timor-Leste claimed that the seizure and detention violated its sovereignty and territorial integrity.
+- Australia argued that the seizure was necessary to protect national security and prevent the disclosure of classified information.
+- The ICJ granted a joint request to postpone oral proceedings and considered Australia's change in position regarding the return of the documents as a change in the situation.
+- The ICJ found that Timor-Leste's right to conduct arbitral proceedings and negotiations without interference could suffer irreparable harm if the confidentiality of the seized material was not safeguarded.
+
+Citations:
+- Article 25 of the Australian Security Intelligence Organisation Act of 1979
+- Article 36, paragraph 2 of the Statute of the International Court of Justice
+- Timor Sea Treaty of 2002

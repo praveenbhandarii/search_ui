@@ -1,0 +1,26 @@
+{
+  "Date": "2018",
+  "Parties Involved": ["Costa Rica", "Nicaragua"],
+  "Case Name": "Land Boundary in the Northern Part of Isla Portillos (Costa Rica v. Nicaragua)",
+  "Case Number": "165",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2018",
+  "Document Summary": "This judgment, issued by Judge Awn AlKhasawneh, is a declaration regarding the case. It provides key points related to maritime delimitation, including the compromise between legal certainty and geographic realities, the subjective nature of island weight in delimitation, the limitations of equidistance lines, the holistic assessment of equity in delimitation, and the lack of support for self-imposed reduction of an equitable solution in the Law of the Sea Convention.",
+  "Case Summary": "This case, numbered 165, involves a dispute between Costa Rica and Nicaragua regarding the precise definition of the boundary in the area of Los Portillos/Harbor Head Lagoon and the establishment of a new military camp by Nicaragua on the beach of Isla Portillos. Costa Rica filed an Application instituting proceedings against Nicaragua on 16 January 2017.",
+  "Keywords": [
+    "Land Boundary",
+    "Isla Portillos",
+    "Costa Rica",
+    "Nicaragua",
+    "Maritime Delimitation",
+    "Legal Certainty",
+    "Geographic Realities",
+    "Equidistance Lines",
+    "Equity",
+    "Island Weight",
+    "Exclusive Economic Zone",
+    "Continental Shelf",
+    "Law of the Sea Convention"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "Date": "2016",
+  "Parties Involved": ["Republic of the Marshall Islands (RMI)", "India"],
+  "Case Name": "Obligations concerning Negotiations relating to Cessation of the Nuclear Arms Race and to Nuclear Disarmament (Marshall Islands v. India)",
+  "Case Number": "ICJ/158",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Case Communication",
+  "Document Date": "2016",
+  "Document Summary": "The Republic of the Marshall Islands (RMI) filed an application against India, along with eight other states, accusing them of not fulfilling their obligations regarding the cessation of the nuclear arms race and nuclear disarmament. The RMI alleged that India had failed to comply with its obligations under customary international law to pursue negotiations leading to nuclear disarmament in good faith.",
+  "Case Summary": "The Republic of the Marshall Islands (RMI) filed an application against India, along with eight other states, accusing them of not fulfilling their obligations regarding the cessation of the nuclear arms race and nuclear disarmament. The RMI alleged that India had failed to comply with its obligations under customary international law to pursue negotiations leading to nuclear disarmament in good faith.",
+  "Keywords": [
+    "Republic of the Marshall Islands (RMI)",
+    "India",
+    "Nuclear Arms Race",
+    "Nuclear Disarmament",
+    "International Court of Justice (ICJ)",
+    "Customary International Law",
+    "Negotiations",
+    "Good Faith",
+    "Nuclear Weapons",
+    "UN Charter",
+    "NPT",
+    "Statute of the ICJ"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "Date": "2012",
+  "Parties Involved": ["A.M.M.", "Switzerland"],
+  "Case Name": "A.M.M. vs Switzerland",
+  "Case Number": "Not available",
+  "Court Name": "United Nations Committee on the Elimination of Racial Discrimination (CERD)",
+  "Document Type": "Case Communication",
+  "Document Date": "March 2012",
+  "Document Summary": "A.M.M. submitted a communication to the CERD alleging violations of the ICERD by Switzerland, claiming racial discrimination and lack of respect for privacy and private life.",
+  "Case Summary": "A.M.M. alleged racial discrimination and lack of privacy and private life respect against Switzerland, highlighting discriminatory treatment, restrictions on access to the labor market and education, denial of access to health services, violation of privacy, and denial of renewal of a maritime navigation certificate and opportunity to visit a sick mother. The case emphasized the discriminatory treatment from the Migrant Reception Office of the Canton of Vaud based on race and nationality.",
+  "Keywords": [
+    "Racial Discrimination",
+    "ICERD",
+    "Switzerland",
+    "Privacy",
+    "Freedom of Movement",
+    "Foreign Nationals",
+    "Equality",
+    "Non-discrimination",
+    "Immigration Laws",
+    "Human Rights",
+    "CERD",
+    "Discrimination against non-citizens"
+  ]
+}

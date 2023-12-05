@@ -1,0 +1,21 @@
+Case ID: ICJ/174
+Court/Tribunal: International Court of Justice (ICJ)
+Document Date: 20200714
+Key Parties Involved: Kingdom of Bahrain, Arab Republic of Egypt, Kingdom of Saudi Arabia, United Arab Emirates, State of Qatar
+Case Name: Appeal relating to the Jurisdiction of the ICAO Council under Article II, Section 2, of the 1944 International Air Services Transit Agreement (Bahrain, Egypt and United Arab Emirates v. Qatar)
+
+Case Summary:
+This document is a separate opinion of Judge ad hoc Berman in an appeal before the International Court of Justice (ICJ). The appeal was filed by the Kingdom of Bahrain, the Arab Republic of Egypt, the Kingdom of Saudi Arabia, and the United Arab Emirates against the decision of the Council of the International Civil Aviation Organization (ICAO Council). The document highlights the difficulties in interpreting Article 84 of the Chicago Convention and the role of the ICAO Council in the dispute settlement process. It argues that the Court missed an opportunity to clarify the jurisdiction of the ICAO Council and that its finding may lead to future misunderstandings or confusion. The document emphasizes that the Council's functions are not judicial in nature but rather to provide authoritative rulings based on its specialist expertise. It suggests that the Court should have subjected the Council's decision to more nuanced attention, particularly with regard to due process considerations. The document also discusses the interpretation and application of Article 84 of the Chicago Convention and raises concerns about the Court's failure to address the underlying issues and provide clarity on the Council's jurisdiction.
+
+Context:
+- The appeal was filed by Bahrain, Egypt, Saudi Arabia, and the UAE against the decision of the ICAO Council.
+- The appeal relates to the jurisdiction of the ICAO Council under Article II, Section 2, of the 1944 International Air Services Transit Agreement.
+- The Council's jurisdiction is not clearly established by the submissions of the parties, leading to potential future misunderstandings or confusion.
+- The document discusses the difficulties in interpreting Article 84 of the Chicago Convention and the role of the ICAO Council in the dispute settlement process.
+- The Council's functions are not judicial in nature but rather to provide authoritative rulings based on its specialist expertise.
+- The Court should have given more nuanced attention to the Council's decision, particularly with regard to due process considerations.
+- The Court's failure to address the underlying issues and provide clarity on the Council's jurisdiction contributes to the confusion surrounding Article 84.
+
+Citations:
+- Article 84 of the Chicago Convention on International Civil Aviation
+- Mavrom v. Palestine Concessions (previous judgment referenced in the document)

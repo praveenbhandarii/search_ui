@@ -1,0 +1,27 @@
+{
+  "Date": "2000",
+  "Parties Involved": ["Democratic Republic of the Congo", "Belgium"],
+  "Case Name": "Case Concerning the Arrest Warrant of 11 April 2000 (Democratic Republic of the Congo v. Belgium)",
+  "Case Number": "ICJ/XXX",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Order",
+  "Document Date": "2000",
+  "Document Summary": "This document is an order issued by the International Court of Justice on 13 December 2000 in the case concerning the arrest warrant of 11 April 2000. It outlines the agreed timelimits for filing written pleadings and emphasizes the need for an expedited decision on the Democratic Republic of the Congo's application.",
+  "Case Summary": "The Democratic Republic of the Congo (DRC) filed a case against Belgium regarding an international arrest warrant issued on 11 April 2000 targeting the acting Congolese Minister for Foreign Affairs. The DRC sought his detention and subsequent extradition to Belgium. The court adjudicated upon the DRC's request for a provisional measure, and the parties agreed on the timelimits for filing written pleadings.",
+  "Keywords": [
+    "Arrest Warrant",
+    "International Court of Justice",
+    "Democratic Republic of the Congo",
+    "Belgium",
+    "Diplomatic Immunity",
+    "International Humanitarian Law",
+    "Extradition",
+    "Jurisdiction",
+    "Admissibility",
+    "Written Pleadings",
+    "Provitional Measure",
+    "Peace Palace",
+    "The Hague",
+    "French Text"
+  ]
+}

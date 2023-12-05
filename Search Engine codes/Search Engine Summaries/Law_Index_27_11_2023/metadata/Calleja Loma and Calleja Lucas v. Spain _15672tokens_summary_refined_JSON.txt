@@ -1,0 +1,28 @@
+{
+  "Date": "2021",
+  "Parties Involved": ["Rubn Calleja Loma and Alejandro Calleja Lucas", "Spain"],
+  "Case Name": "Rubn Calleja Loma and Alejandro Calleja Lucas v. Spain",
+  "Case Number": "CRPD/C/23/D/41/2017",
+  "Court Name": "United Nations Committee on the Rights of Persons with Disabilities (UNCRPD)",
+  "Document Type": "Views adopted by the Committee under article 5 of the Optional Protocol, concerning communication No. 41/2017",
+  "Document Date": "2020",
+  "Document Summary": "The United Nations Committee on the Rights of Persons with Disabilities adopted Views concerning communication No. 41/2017 on 28 August 2020, finding that the State party, Spain, violated Rubn's rights under the Convention on the Rights of Persons with Disabilities.",
+  "Case Summary": "Rubn Calleja Loma and Alejandro Calleja Lucas submitted a communication to the United Nations Committee on the Rights of Persons with Disabilities, alleging violations of Rubn's rights by Spain under the Convention. The Committee adopted Views on 28 August 2020, finding multiple violations of Rubn's rights. This case emphasizes the importance of inclusive education and sets a precedent for holding states accountable for violations of the rights of persons with disabilities under the Convention.",
+  "Keywords": [
+    "Rubn Calleja Loma",
+    "Alejandro Calleja Lucas",
+    "Spain",
+    "Convention on the Rights of Persons with Disabilities",
+    "UNCRPD",
+    "Discrimination",
+    "Inclusive Education",
+    "Violation of Rights",
+    "Optional Protocol",
+    "Communication No. 41/2017",
+    "Article 5",
+    "Views",
+    "Cruel, Inhuman or Degrading Treatment",
+    "Precedent",
+    "Accountability"
+  ]
+}

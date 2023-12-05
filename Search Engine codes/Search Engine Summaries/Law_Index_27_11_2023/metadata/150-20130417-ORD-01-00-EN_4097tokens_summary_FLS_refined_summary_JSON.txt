@@ -1,0 +1,27 @@
+{
+  "Date": "2013",
+  "Parties Involved": ["Costa Rica", "Nicaragua"],
+  "Case Name": "Certain Activities Carried Out by Nicaragua in the Border Area (Costa Rica v. Nicaragua)",
+  "Case Number": "150",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Order",
+  "Document Date": "2013",
+  "Document Summary": "This legal document pertains to the case between Costa Rica and Nicaragua regarding certain activities carried out by Nicaragua in the border area, providing information about jurisdiction, allegations, requests, provisional measures, counter-claims, objections, joinder of proceedings, legal issues, and the current status of the case.",
+  "Case Summary": "The document provides information about the jurisdiction, allegations, requests, provisional measures, counter-claims, objections, joinder of proceedings, legal issues, and the current status of the case. It mentions the jurisdiction of the ICJ, the allegations by Costa Rica, requests for provisional measures, counter-claims by Nicaragua, objections, joinder of proceedings, legal issues involving treaty interpretation and international environmental law, and the current pending status of the case.",
+  "Keywords": [
+    "Costa Rica",
+    "Nicaragua",
+    "International Court of Justice",
+    "ICJ",
+    "border area",
+    "jurisdiction",
+    "allegations",
+    "provisional measures",
+    "counter-claims",
+    "objections",
+    "joinder of proceedings",
+    "treaty interpretation",
+    "international environmental law",
+    "San Juan River"
+  ]
+}

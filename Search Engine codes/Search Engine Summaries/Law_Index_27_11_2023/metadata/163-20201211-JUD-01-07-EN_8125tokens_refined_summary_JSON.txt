@@ -1,0 +1,12 @@
+{
+  "Date": "2022",
+  "Parties Involved": ["Equatorial Guinea", "France"],
+  "Case Name": "Immunities and Criminal Proceedings (Equatorial Guinea v. France)",
+  "Case Number": "163",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2022",
+  "Document Summary": "This judgment document pertains to the dispute between the Republic of Equatorial Guinea and France regarding the immunity from criminal jurisdiction of the Second Vice-President of Equatorial Guinea and the legal status of the building housing the Embassy of Equatorial Guinea in France. It includes dissenting opinions from Judge Ad Hoc Kateka and Judge ad hoc Mensah, references specific paragraphs of the judgment, and cites the Vienna Convention on Diplomatic Relations (VCDR) and other relevant legal provisions.",
+  "Case Summary": "The case involves a dispute between the Republic of Equatorial Guinea and France regarding the immunity from criminal jurisdiction of the Second Vice-President of Equatorial Guinea and the legal status of the building housing the Embassy of Equatorial Guinea in France. The majority held that the VCDR does not require the sending State to obtain the prior consent of the receiving State before designating the premises of its diplomatic mission, while Judge Kateka dissented, arguing that the VCDR does require prior consent from the receiving State for the designation of diplomatic premises. The fate of the building remains uncertain pending an appeal against a judgment from the Cour d'appel.",
+  "Keywords": ["Immunities and Criminal Proceedings", "Equatorial Guinea", "France", "Second Vice-President", "Immunity", "Diplomatic Mission", "Vienna Convention on Diplomatic Relations", "VCDR", "Dispute", "Judgment", "Appeal"]
+}

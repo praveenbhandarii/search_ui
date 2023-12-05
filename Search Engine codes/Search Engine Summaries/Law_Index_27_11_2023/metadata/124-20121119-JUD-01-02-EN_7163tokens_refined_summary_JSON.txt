@@ -1,0 +1,27 @@
+{
+  "Date": "2014",
+  "Parties Involved": ["Nicaragua", "Colombia"],
+  "Case Name": "Territorial and Maritime Dispute (Nicaragua v. Colombia)",
+  "Case Number": "124",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2014",
+  "Document Summary": "This judgment, dated July 1, 2014, is part of the ICJ Reports and was written by Judge Ronny Abraham. It provides a detailed analysis of the territorial and maritime dispute between Nicaragua and Colombia, the interpretation of the 1928 Treaty, and the Court's decision to construct a provisional median line for delimitation.",
+  "Case Summary": "This case, numbered 124, involves a territorial and maritime dispute between Nicaragua and Colombia. The dispute centers around the sovereignty over several islands in the Caribbean Sea. The case has important implications for the delimitation of maritime boundaries in similar cases. The Court's approach in departing from its usual technique to maintain clarity and intelligibility was deemed necessary by Judge Abraham.",
+  "Keywords": [
+    "Territorial Dispute",
+    "Maritime Dispute",
+    "Nicaragua",
+    "Colombia",
+    "Sovereignty",
+    "Caribbean Sea",
+    "1928 Treaty",
+    "International Court of Justice",
+    "ICJ Reports",
+    "Judge Ronny Abraham",
+    "Provisional Median Line",
+    "Delimitation",
+    "Exclusive Economic Zone",
+    "Territorial Boundaries"
+  ]
+}

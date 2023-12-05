@@ -1,0 +1,25 @@
+{
+  "Date": "2016",
+  "Parties Involved": ["Marshall Islands", "India"],
+  "Case Name": "Obligations concerning Negotiations relating to Cessation of the Nuclear Arms Race and to Nuclear Disarmament (Marshall Islands v. India)",
+  "Case Number": "ICJ/158",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2016",
+  "Document Summary": "The ICJ dismissed the case filed by the Republic of the Marshall Islands against India, alleging violations of obligations concerning the cessation of the nuclear arms race and nuclear disarmament. The Court stated that no dispute existed between the parties prior to the filing of the application.",
+  "Case Summary": "The Republic of the Marshall Islands filed applications against nine states, including India, accusing them of not fulfilling their obligations regarding the cessation of the nuclear arms race and nuclear disarmament. The Marshall Islands requested the ICJ to issue a declaratory judgment finding that India violated its international obligations and to order India to comply with customary international law. India denied the claims made by the Marshall Islands. The ICJ dismissed the case, stating that no dispute existed between the parties prior to the filing of the application.",
+  "Keywords": [
+    "Marshall Islands",
+    "India",
+    "Obligations",
+    "Nuclear Arms Race",
+    "Nuclear Disarmament",
+    "International Court of Justice",
+    "ICJ",
+    "Dispute",
+    "International Obligations",
+    "Customary International Law",
+    "Judgment",
+    "Article 36"
+  ]
+}

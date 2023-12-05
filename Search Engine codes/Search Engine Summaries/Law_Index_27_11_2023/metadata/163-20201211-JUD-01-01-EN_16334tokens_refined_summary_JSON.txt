@@ -1,0 +1,28 @@
+{
+  "Date": "2016",
+  "Parties Involved": ["Equatorial Guinea", "France"],
+  "Case Name": "Immunities and Criminal Proceedings (Equatorial Guinea v. France)",
+  "Case Number": "ICJ/2016",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2021",
+  "Document Summary": "This judgment document from the International Court of Justice (ICJ) discusses the interpretation and application of the Vienna Convention on Diplomatic Relations (VCDR) regarding the status of premises of the mission. It also includes separate opinions, such as that of President Yusuf, who disagrees with the court's decision on the status of the building.",
+  "Case Summary": "The case involves a dispute between the Republic of Equatorial Guinea and the French Republic regarding the immunity from criminal jurisdiction of the Second Vice-President of Equatorial Guinea and the legal status of the Embassy building in France. The proceedings were initiated on 13 June 2016.",
+  "Keywords": [
+    "Immunities",
+    "Criminal Proceedings",
+    "Equatorial Guinea",
+    "France",
+    "Vienna Convention on Diplomatic Relations",
+    "VCDR",
+    "Embassy Building",
+    "Diplomatic Mission",
+    "Separate Opinions",
+    "President Yusuf",
+    "Legal Status",
+    "International Court of Justice",
+    "ICJ",
+    "Customary Law",
+    "Diplomatic Relations"
+  ]
+}

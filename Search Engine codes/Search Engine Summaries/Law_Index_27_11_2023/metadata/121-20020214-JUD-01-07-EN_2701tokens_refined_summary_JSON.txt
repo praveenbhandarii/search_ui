@@ -1,0 +1,25 @@
+{
+  "Date": "2000",
+  "Parties Involved": ["Democratic Republic of the Congo", "Belgium"],
+  "Case Name": "Arrest Warrant of 11 April 2000 (Democratic Republic of the Congo v. Belgium)",
+  "Case Number": "121",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2000",
+  "Document Summary": "The judgment addresses the immunities of foreign ministers, the distinction from diplomatic immunities, and the arrest warrant issued by Belgium against Mr. Yerodia. It discusses the question of personal accountability for high state officials. The dissenting view argues for personal accountability as a higher norm than immunity rules.",
+  "Case Summary": "The Democratic Republic of the Congo (DRC) filed a case against Belgium regarding an international arrest warrant issued against the acting Congolese Minister for Foreign Affairs. The DRC claimed that the warrant violated international law. The document also references international law and the draft Code of Crimes against the Peace and Security of Mankind.",
+  "Keywords": [
+    "Arrest Warrant",
+    "Belgium",
+    "Democratic Republic of the Congo",
+    "International Court of Justice",
+    "Minister for Foreign Affairs",
+    "Immunities",
+    "Diplomatic Immunities",
+    "High State Officials",
+    "Personal Accountability",
+    "Immunity Rules",
+    "International Law",
+    "Code of Crimes against the Peace and Security of Mankind"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "Date": "2000",
+  "Parties Involved": ["Democratic Republic of the Congo", "Belgium"],
+  "Case Name": "Arrest Warrant of 11 April 2000 (Democratic Republic of the Congo v. Belgium)",
+  "Case Number": "ICJ/79",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Separate Opinion",
+  "Document Date": "2000",
+  "Document Summary": "This document is a separate opinion written by Judge Rezek in a case before the International Court of Justice regarding the arrest warrant issued by Belgium against the Congolese Minister for Foreign Affairs. It discusses the Court's decision to rule first on the jurisdictional issue instead of the immunity issue, arguing that immunity should have been considered as a precondition to the jurisdictional issue. The document includes citations and references to international law and the work of the International Court of Justice.",
+  "Case Summary": "The Democratic Republic of the Congo (DRC) filed a dispute against Belgium regarding an international arrest warrant issued against the acting Congolese Minister for Foreign Affairs, Mr. Abdoulaye Yerodia Ndombasi. The case raises questions about jurisdiction, immunity, and the principle of universal jurisdiction. The document analyzes the legal principles surrounding universal jurisdiction and argues against activist intervention by States in exercising criminal jurisdiction over crimes committed abroad. It questions the wisdom of adopting a practice conflicting with certain principles governing contemporary international relations and highlights the potential consequences.",
+  "Keywords": [
+    "Arrest Warrant",
+    "International Court of Justice",
+    "Democratic Republic of the Congo",
+    "Belgium",
+    "Immunity",
+    "Jurisdiction",
+    "Universal Jurisdiction",
+    "International Humanitarian Law",
+    "Separate Opinion",
+    "Judge Rezek"
+  ]
+}

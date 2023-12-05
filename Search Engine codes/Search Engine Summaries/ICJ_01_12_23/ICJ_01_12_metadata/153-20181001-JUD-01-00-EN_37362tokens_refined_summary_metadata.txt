@@ -1,0 +1,28 @@
+{
+  "Date": "2018",
+  "Parties Involved": ["Bolivia", "Chile"],
+  "Case Name": "Obligation to Negotiate Access to the Pacific Ocean (Bolivia v. Chile)",
+  "Case Number": "ICJ/153",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Case Communication",
+  "Document Date": "2018",
+  "Document Summary": "The case involves a dispute between Bolivia and Chile regarding Bolivia's sovereign access to the Pacific Ocean. Bolivia argues that Chile has an obligation to negotiate in good faith and effectively to reach an agreement granting Bolivia fully sovereign access to the sea. Bolivia claims that Chile has not complied with this obligation and denies its existence. Bolivia invokes Article XXXI of the American Treaty on Pacific Settlement as the basis for the jurisdiction of the Court.",
+  "Case Summary": "The case involves a dispute between Bolivia and Chile regarding Bolivia's sovereign access to the Pacific Ocean. Bolivia argues that Chile has an obligation to negotiate in good faith and effectively to reach an agreement granting Bolivia fully sovereign access to the sea. Bolivia claims that Chile has not complied with this obligation and denies its existence. Bolivia invokes Article XXXI of the American Treaty on Pacific Settlement as the basis for the jurisdiction of the Court.",
+  "Keywords": [
+    "Bolivia",
+    "Chile",
+    "Pacific Ocean",
+    "Sovereign Access",
+    "Negotiation Obligation",
+    "Article XXXI",
+    "American Treaty on Pacific Settlement",
+    "1866 Treaty",
+    "1904 Peace Treaty",
+    "War of the Pacific",
+    "International Court of Justice",
+    "Jurisdiction",
+    "Dispute Resolution",
+    "United Nations Charter",
+    "Organization of American States Charter"
+  ]
+}

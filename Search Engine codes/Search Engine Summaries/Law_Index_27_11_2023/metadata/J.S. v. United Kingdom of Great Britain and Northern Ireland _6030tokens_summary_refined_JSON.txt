@@ -1,0 +1,32 @@
+{
+  "Date": "2021",
+  "Parties Involved": ["J.S.", "The United Kingdom of Great Britain and Northern Ireland"],
+  "Case Name": "J.S. v. The United Kingdom of Great Britain and Northern Ireland",
+  "Case Number": "CRPD/C/27/D/85/2021",
+  "Court Name": "United Nations Committee on the Rights of Persons with Disabilities",
+  "Document Type": "Decision",
+  "Document Date": "2023",
+  "Document Summary": "The United Nations Committee on the Rights of Persons with Disabilities adopted a decision in the case of J.S. v. The United Kingdom of Great Britain and Northern Ireland.",
+  "Case Summary": "The case involves a dispute over the discontinuation of life support for S.S., a patient in a vegetative state. The State party argues that the discontinuation of life support is lawful and in the best interests of S.S. The case was brought before the United Nations Committee on the Rights of Persons with Disabilities.",
+  "Keywords": [
+    "Discontinuation of Life Support",
+    "Rights of Persons with Disabilities",
+    "Convention on the Rights of Persons with Disabilities",
+    "Optional Protocol",
+    "End-of-Life Care",
+    "Patient Rights",
+    "Family Involvement",
+    "Human Rights Law",
+    "Procedural Consideration",
+    "Substantive Issues",
+    "Precedent",
+    "Medical Treatment Decisions",
+    "ECtHR Decision",
+    "Committee against Torture",
+    "Bertelli Glvez v. Spain",
+    "Wdowiak v. Poland",
+    "Alzery v. Sweden",
+    "Quliyev v. Azerbaijan",
+    "CAT/C/55/D/642/2014"
+  ]
+}

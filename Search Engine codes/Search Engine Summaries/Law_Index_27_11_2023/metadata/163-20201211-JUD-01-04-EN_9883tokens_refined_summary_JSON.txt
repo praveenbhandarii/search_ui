@@ -1,0 +1,25 @@
+{
+  "Date": "2018",
+  "Parties Involved": ["Equatorial Guinea", "France"],
+  "Case Name": "Immunities and Criminal Proceedings (Equatorial Guinea v. France)",
+  "Case Number": "ICJ/2018",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2018",
+  "Document Summary": "This judgment document, dated 15 February 2018, addresses preliminary objections raised by France. It provides key details such as the case name, case number, date, and the judges involved. The document also cites relevant legal issues and the legal basis for the case.",
+  "Case Summary": "This case involves a dispute between the Republic of Equatorial Guinea and the French Republic regarding the immunity from criminal jurisdiction of the Second Vice-President of Equatorial Guinea and the legal status of the building housing the Embassy of Equatorial Guinea in France. The case is being heard by the International Court of Justice.",
+  "Keywords": [
+    "Immunities",
+    "Criminal Proceedings",
+    "Equatorial Guinea",
+    "France",
+    "Diplomatic Immunity",
+    "Vienna Convention on Diplomatic Relations",
+    "International Court of Justice",
+    "Jurisdiction",
+    "Embassy",
+    "Preliminary Objections",
+    "Legal Status",
+    "Good Faith"
+  ]
+}

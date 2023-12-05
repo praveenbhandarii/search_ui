@@ -1,0 +1,23 @@
+{
+  "Date": "2021",
+  "Parties Involved": ["Equatorial Guinea", "France"],
+  "Case Name": "Immunities and Criminal Proceedings (Equatorial Guinea v. France)",
+  "Case Number": "ICJ/2021",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2021",
+  "Document Summary": "This judgment document from the International Court of Justice (ICJ) addresses the Republic of Equatorial Guinea's proceedings against the French Republic regarding the immunity from criminal jurisdiction of the Second Vice-President of Equatorial Guinea, Mr. Teodoro Nguema Obiang Mangue, and the legal status of the Embassy of Equatorial Guinea in France. The document also provides key information related to a previous case (France v. Equatorial Guinea), along with references to the Vienna Convention on Diplomatic Relations and the arguments made by both parties.",
+  "Case Summary": "The Republic of Equatorial Guinea initiated proceedings against the French Republic regarding the immunity from criminal jurisdiction of the Second Vice-President of Equatorial Guinea, Mr. Teodoro Nguema Obiang Mangue, and the legal status of the Embassy of Equatorial Guinea in France. The judgment addresses the interpretation of the Vienna Convention on Diplomatic Relations and the arguments related to the receiving State's consent for the use of diplomatic premises.",
+  "Keywords": [
+    "Immunities and Criminal Proceedings",
+    "Equatorial Guinea",
+    "France",
+    "Vienna Convention on Diplomatic Relations",
+    "Immunity from Criminal Jurisdiction",
+    "Embassy Status",
+    "Diplomatic Premises",
+    "Consent of Receiving State",
+    "International Court of Justice",
+    "ICJ Judgment"
+  ]
+}

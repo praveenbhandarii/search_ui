@@ -1,0 +1,37 @@
+{
+  "Date": "2015",
+  "Parties Involved": [
+    "Costa Rica",
+    "Nicaragua"
+  ],
+  "Case Name": "Separate Opinion by Judge Canado Trindade on Provisional Measures in the Cases of Certain Activities Carried Out by Nicaragua in the Border Area (Costa Rica v. Nicaragua) and the Construction of a Road in Costa Rica along the San Juan River (Nicaragua v. Costa Rica)",
+  "Case Number": "ICJ/2015",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Separate Opinion",
+  "Document Date": "2015",
+  "Document Summary": "This document is a separate opinion by Judge Canado Trindade of the International Court of Justice (ICJ) in the cases of Certain Activities Carried Out by Nicaragua in the Border Area (Costa Rica v. Nicaragua) and the Construction of a Road in Costa Rica along the San Juan River (Nicaragua v. Costa Rica). It focuses on the preventive dimension of contemporary international law, specifically in the context of provisional measures of protection, and provides a detailed analysis of the autonomous legal regime of provisional measures, their evolution, and the interrelatedness between the principle of prevention and the precautionary principle.",
+  "Case Summary": "This case involves disputes over activities and construction of a road in the zone of the River San Juan, which is the subject of a longstanding territorial dispute between Costa Rica and Nicaragua. The ICJ's decision highlights the breaches of provisional measures, the obligation of conducting an environmental impact assessment, and the importance of the proper exercise of the international judicial function in determining breaches of provisional measures of protection.",
+  "Keywords": [
+    "Provisional Measures",
+    "Separate Opinion",
+    "Judge Canado Trindade",
+    "International Court of Justice",
+    "Border Area",
+    "Costa Rica",
+    "Nicaragua",
+    "Construction",
+    "San Juan River",
+    "Preventive Dimension",
+    "Contemporary International Law",
+    "Autonomous Legal Regime",
+    "Environmental Impact Assessment",
+    "Principle of Prevention",
+    "Precautionary Principle",
+    "State Responsibility",
+    "Transboundary Environmental Harm",
+    "Duty of Due Diligence",
+    "ICJ Statute",
+    "Rules of Court",
+    "Jurisprudence"
+  ]
+}

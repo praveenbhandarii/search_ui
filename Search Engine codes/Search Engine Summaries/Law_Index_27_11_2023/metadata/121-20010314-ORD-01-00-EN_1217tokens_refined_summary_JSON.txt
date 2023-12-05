@@ -1,0 +1,23 @@
+{
+  "Date": "2000",
+  "Parties Involved": ["Democratic Republic of the Congo", "Belgium"],
+  "Case Name": "Arrest Warrant of 11 April 2000 (Democratic Republic of the Congo v. Belgium)",
+  "Case Number": "121",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2001",
+  "Document Summary": "The International Court of Justice (ICJ) issued a judgment in the case concerning the arrest warrant of 11 April 2000 (Democratic Republic of the Congo v. Belgium) on 14 March 2001 at the Peace Palace in The Hague. The decision was signed by Gilbert GUILLAUME, the President of the ICJ, and Philippe COUVREUR, the Registrar.",
+  "Case Summary": "The Democratic Republic of the Congo (DRC) filed a case against Belgium regarding an international arrest warrant issued against the acting Congolese Minister for Foreign Affairs, Mr. Abdoulaye Yerodia Ndombasi. The DRC alleged that the warrant sought his detention and extradition to Belgium for crimes constituting grave violations of international humanitarian law.",
+  "Keywords": [
+    "Arrest Warrant",
+    "11 April 2000",
+    "Democratic Republic of the Congo",
+    "Belgium",
+    "International Court of Justice",
+    "ICJ Judgment",
+    "Peace Palace",
+    "The Hague",
+    "Gilbert GUILLAUME",
+    "Philippe COUVREUR"
+  ]
+}

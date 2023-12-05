@@ -1,0 +1,24 @@
+{
+  "Date": "2016",
+  "Parties Involved": ["Nicaragua", "Colombia"],
+  "Case Name": "Alleged Violations of Sovereign Rights and Maritime Spaces in the Caribbean Sea (Nicaragua v. Colombia)",
+  "Case Number": "ICJ/155",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Case Summary",
+  "Document Date": "2016",
+  "Document Summary": "The case involves a dispute between Nicaragua and Colombia regarding alleged violations of Nicaragua's sovereign rights and maritime zones in the Caribbean Sea. Nicaragua filed an application with the ICJ on 26 November 2013, claiming that Colombia's proclamation of an Integral Contiguous Zone violated its sovereign rights and maritime spaces. Colombia raised preliminary objections, arguing that the Court lacks jurisdiction and that no dispute existed between the parties prior to the filing of the application. The ICJ rejected Colombia's objections related to jurisdiction and the existence of a dispute, but partially upheld the objection that Nicaragua's claims were based on customary international law, which is outside the Court's jurisdiction.",
+  "Case Summary": "The case involves a dispute between Nicaragua and Colombia regarding alleged violations of Nicaragua's sovereign rights and maritime zones in the Caribbean Sea. Nicaragua filed an application with the ICJ on 26 November 2013, claiming that Colombia's proclamation of an Integral Contiguous Zone violated its sovereign rights and maritime spaces. Colombia raised preliminary objections, arguing that the Court lacks jurisdiction and that no dispute existed between the parties prior to the filing of the application. The ICJ rejected Colombia's objections related to jurisdiction and the existence of a dispute, but partially upheld the objection that Nicaragua's claims were based on customary international law, which is outside the Court's jurisdiction. The dispute arises from the Court's 2012 judgment in the case concerning Territorial and Maritime Dispute (Nicaragua v. Colombia), which declared Nicaragua's sovereign rights over certain maritime areas. Colombia's proclamation of an Integral Contiguous Zone in 2012 is at the center of the dispute. The Pact of Bogot, a treaty governing the dispute resolution process, is relevant to the case. The ICJ considered the interpretation of Article LVI of the Pact of Bogot, which deals with the effect of denunciation on pending procedures.",
+  "Keywords": [
+    "Sovereign Rights",
+    "Maritime Spaces",
+    "Caribbean Sea",
+    "Nicaragua",
+    "Colombia",
+    "ICJ",
+    "Jurisdiction",
+    "Dispute",
+    "International Law",
+    "Pact of Bogot",
+    "Customary International Law"
+  ]
+}

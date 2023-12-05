@@ -1,0 +1,29 @@
+{
+  "Date": "2009",
+  "Parties Involved": [
+    "A New Zealand citizen living in Australia",
+    "Australia"
+  ],
+  "Case Name": "Communication No. 46/2008, 1 June 2008",
+  "Case Number": "CERD/C/46/2008",
+  "Court Name": "United Nations Committee on the Elimination of Racial Discrimination (UNCERD)",
+  "Document Type": "Case Communication",
+  "Document Date": "2009",
+  "Document Summary": "The case involves discrimination on the ground of national origin and the rights of non-citizens in Australia. The State party's laws and regulations discriminate against the petitioner based on his national origin and impose unequal treatment between Australian citizens and legal residents.",
+  "Case Summary": "The case raises issues related to discrimination on the ground of national origin in Australia and the rights of non-citizens. The Committee finds that Australia has violated the petitioner's rights to non-discrimination based on national origin, social security, education, and nationality under the International Convention on the Elimination of All Forms of Racial Discrimination.",
+  "Keywords": [
+    "Discrimination",
+    "National Origin",
+    "Non-Citizens",
+    "Australia",
+    "International Convention on the Elimination of All Forms of Racial Discrimination",
+    "Social Security",
+    "Education",
+    "Nationality",
+    "UNCERD",
+    "CERD/C/46/2008",
+    "Legal Analysis",
+    "State Party",
+    "Procedural History"
+  ]
+}

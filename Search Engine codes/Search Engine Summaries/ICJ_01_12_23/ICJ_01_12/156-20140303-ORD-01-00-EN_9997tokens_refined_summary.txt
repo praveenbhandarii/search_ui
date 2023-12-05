@@ -1,0 +1,26 @@
+Case ID: ICJ/156
+Court/Tribunal: International Court of Justice (ICJ)
+Document Date: 2014
+Key Parties Involved: Timor-Leste, Australia
+Case Name: Questions relating to the Seizure and Detention of Certain Documents and Data (Timor-Leste v. Australia)
+
+Case Summary:
+Timor-Leste initiated proceedings against Australia regarding the seizure and detention of documents, data, and other property belonging to Timor-Leste or protected under international law. The items were allegedly seized from the offices of one of Timor-Leste's legal advisers in Australia. Timor-Leste claimed that the seized materials included correspondence related to a pending arbitration under the Timor Sea Treaty. The jurisdiction of the International Court of Justice (ICJ) was invoked based on declarations made by both parties. Timor-Leste sought provisional measures to protect its rights, including the inviolability and immunity of the seized property and the confidentiality of communications with legal advisers.
+
+Context:
+- Timor-Leste claimed that the seized materials were crucial to its future as a state and the well-being of its people.
+- Australia argued that there was no risk of irreparable prejudice to Timor-Leste's rights.
+- The ICJ found that the written undertaking of the Attorney General of Australia did not remove the risk of irreparable prejudice to Timor-Leste's rights.
+- The ICJ indicated provisional measures to protect Timor-Leste's rights, including maintaining the confidentiality of the seized materials and preventing interference in future communications between Timor-Leste and its legal advisers.
+- The ICJ emphasized the importance of ensuring the content of the seized material is not divulged to anyone who could use it to Timor-Leste's disadvantage in its relations with Australia over the Timor Sea.
+
+Citations:
+- Article 36, paragraph 2, of the ICJ Statute
+- Article 2, paragraph 1, of the Charter of the United Nations
+- Legal professional privilege (right to confidentiality of communications between legal counsel and client)
+- Sovereign equality of States
+- Noninterference in the preparation and conduct of a State's case in arbitration or negotiations
+
+References:
+- Australian Security Intelligence Organisation Act of 1979
+- Timor Sea Treaty (2002)

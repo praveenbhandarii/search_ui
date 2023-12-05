@@ -1,0 +1,27 @@
+{
+  "Date": "2001",
+  "Parties Involved": ["Nicaragua", "Colombia"],
+  "Case Name": "Territorial and Maritime Dispute (Nicaragua v. Colombia)",
+  "Case Number": "124",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2007",
+  "Document Summary": "This judgment, issued by the International Court of Justice (ICJ), provides a summary of the territorial and maritime dispute between Nicaragua and Colombia. It includes the relevant treaties, jurisdictional objections, the ICJ's ruling, and the reasoning behind it.",
+  "Case Summary": "The case involves a territorial and maritime dispute between Nicaragua and Colombia, specifically concerning sovereignty over the islands of San Andrés, Providencia, and Santa Catalina. It includes a 1928 Treaty, the Pact of Bogotá, and optional clause declarations made by the parties. The ICJ found jurisdiction and ruled on the dispute.",
+  "Keywords": [
+    "Territorial Dispute",
+    "Maritime Dispute",
+    "Nicaragua",
+    "Colombia",
+    "Sovereignty",
+    "San Andrés",
+    "Providencia",
+    "Santa Catalina",
+    "Pact of Bogotá",
+    "International Court of Justice",
+    "ICJ Jurisdiction",
+    "Optional Clause Declarations",
+    "2007 Judgment",
+    "1928 Treaty"
+  ]
+}

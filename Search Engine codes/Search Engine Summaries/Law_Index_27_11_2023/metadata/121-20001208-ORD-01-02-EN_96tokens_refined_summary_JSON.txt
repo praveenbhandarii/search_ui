@@ -1,0 +1,22 @@
+{
+  "Date": "2000",
+  "Parties Involved": ["Democratic Republic of the Congo", "Belgium"],
+  "Case Name": "Arrest Warrant of 11 April 2000 (Democratic Republic of the Congo v. Belgium)",
+  "Case Number": "11/2000",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Declaration",
+  "Document Date": "2000",
+  "Document Summary": "This order document, dated 8 December 2000, contains a declaration signed by Judge Raymond Ranjeva in favor of the operative part of an unknown order or document, based on the significance of paragraph 76 which emphasizes the need for a prompt resolution of all matters before the court with full cooperation of the parties involved.",
+  "Case Summary": "The Democratic Republic of the Congo (DRC) filed a case against Belgium regarding an international arrest warrant issued on 11 April 2000 targeting the acting Congolese Minister for Foreign Affairs, Mr. Abdoulaye Yerodia Ndombasi, for alleged crimes constituting 'grave violations of international humanitarian law'. The DRC sought to challenge the warrant and subsequent extradition to Belgium.",
+  "Keywords": [
+    "Arrest Warrant",
+    "Democratic Republic of the Congo",
+    "Belgium",
+    "International Court of Justice",
+    "Judge Raymond Ranjeva",
+    "Declaration",
+    "Paragraph 76",
+    "Cooperation of Parties",
+    "Extradition"
+  ]
+}

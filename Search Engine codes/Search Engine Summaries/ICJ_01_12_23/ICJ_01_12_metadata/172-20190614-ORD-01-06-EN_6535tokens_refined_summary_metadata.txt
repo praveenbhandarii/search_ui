@@ -1,0 +1,12 @@
+{
+  "Date": "2019",
+  "Parties Involved": ["Qatar", "United Arab Emirates (UAE)"],
+  "Case Name": "Application of the International Convention on the Elimination of All Forms of Racial Discrimination (Qatar v. United Arab Emirates)",
+  "Case Number": "ICJ/172",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Case Communication",
+  "Document Date": "2019",
+  "Document Summary": "Qatar instituted proceedings against the UAE for alleged violations of the International Convention on the Elimination of All Forms of Racial Discrimination. The document discusses the doctrine of lis pendens and the quasijudicial character of the dispute resolution mechanism established by CERD.",
+  "Case Summary": "Qatar instituted proceedings against the UAE for alleged violations of the International Convention on the Elimination of All Forms of Racial Discrimination. The dispute revolves around whether the present case is premature and whether the dispute resolution mechanism provided by the Convention should be exhausted before bringing the case to the ICJ.",
+  "Keywords": ["Racial Discrimination", "Qatar", "United Arab Emirates", "International Convention on the Elimination of All Forms of Racial Discrimination", "CERD", "Lis Pendens", "Dispute Resolution Mechanism", "Article 22"]
+}

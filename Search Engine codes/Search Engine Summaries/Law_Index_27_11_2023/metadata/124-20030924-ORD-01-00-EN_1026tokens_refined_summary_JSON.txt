@@ -1,0 +1,12 @@
+{
+  "Date": "2003",
+  "Parties Involved": ["Nicaragua", "Colombia"],
+  "Case Name": "Territorial and Maritime Dispute (Nicaragua v. Colombia)",
+  "Case Number": "124",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Order",
+  "Document Date": "2003",
+  "Document Summary": "This document is an order issued by the International Court of Justice on 24 September 2003, addressing the preliminary objections raised by Colombia and referring to the subsequent procedure of the case.",
+  "Case Summary": "The Republic of Nicaragua filed a case against the Republic of Colombia regarding a territorial and maritime dispute. Nicaragua submitted its Memorial within the given time limit, but Colombia filed preliminary objections to jurisdiction, leading to the suspension of the proceedings on the merits. The Court rejected Colombia's preliminary objections and proceeded to the next stage of the proceedings.",
+  "Keywords": ["Territorial Dispute", "Maritime Dispute", "Nicaragua", "Colombia", "Preliminary Objections", "International Court of Justice", "Order", "Peace Palace", "The Hague"]
+}

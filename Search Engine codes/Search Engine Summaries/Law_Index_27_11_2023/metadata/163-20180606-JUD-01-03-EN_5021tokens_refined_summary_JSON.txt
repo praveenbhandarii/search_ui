@@ -1,0 +1,26 @@
+{
+  "Date": "2020",
+  "Parties Involved": ["Equatorial Guinea", "France"],
+  "Case Name": "Immunities and Criminal Proceedings (Equatorial Guinea v. France)",
+  "Case Number": "ICJ/2019/15",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2019",
+  "Document Summary": "This judgment document, dated 21/02/19, contains the separate opinion of Judge Abraham addressing Equatorial Guinea's claim that France breached Article 4 of the Palermo Convention by initiating criminal proceedings against its Vice-President and attaching part of its property.",
+  "Case Summary": "The Republic of Equatorial Guinea initiated proceedings against the French Republic regarding the immunity from criminal jurisdiction of the Second Vice-President of Equatorial Guinea, Mr. Teodoro Nguema Obiang Mangue, and the legal status of the building housing the Embassy of Equatorial Guinea in France.",
+  "Keywords": [
+    "Immunities and Criminal Proceedings",
+    "Equatorial Guinea",
+    "France",
+    "Mr. Teodoro Nguema Obiang Mangue",
+    "Article 4",
+    "Palermo Convention",
+    "Sovereign Equality",
+    "Non-intervention",
+    "ICJ",
+    "Criminal Jurisdiction",
+    "State Property",
+    "Optional Protocol",
+    "Vienna Convention"
+  ]
+}

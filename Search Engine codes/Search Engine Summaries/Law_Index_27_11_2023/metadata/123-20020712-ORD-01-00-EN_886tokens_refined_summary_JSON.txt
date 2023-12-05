@@ -1,0 +1,22 @@
+{
+  "Date": "2001",
+  "Parties Involved": ["Principality of Liechtenstein", "Federal Republic of Germany"],
+  "Case Name": "Certains biens (Liechtenstein v. Germany)",
+  "Case Number": "123",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Order",
+  "Document Date": "2002",
+  "Document Summary": "This document is an order issued by the International Court of Justice on 12 July 2002.",
+  "Case Summary": "Liechtenstein filed an Application with the International Court of Justice on 1 June 2001, initiating proceedings against Germany. The dispute between the two countries revolves around certain property.",
+  "Keywords": [
+    "Certain Property",
+    "Liechtenstein",
+    "Germany",
+    "Preliminary Objections",
+    "Jurisdiction",
+    "Admissibility",
+    "Written Statement",
+    "Statute of the Court",
+    "Rules of Court"
+  ]
+}

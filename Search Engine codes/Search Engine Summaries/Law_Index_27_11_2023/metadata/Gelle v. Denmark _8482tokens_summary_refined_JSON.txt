@@ -1,0 +1,20 @@
+{
+  "Date": "2021",
+  "Parties Involved": ["Mohammed Hassan Gelle", "Denmark"],
+  "Case Name": "Mohammed Hassan Gelle v. Denmark",
+  "Case Number": "CERD/C/84/D/50/2012",
+  "Court Name": "United Nations Committee on the Elimination of Racial Discrimination (UNCERD)",
+  "Document Type": "Judgment",
+  "Document Date": "2021",
+  "Document Summary": "The case involves a complaint filed by the petitioner, a Danish citizen of Somali origin, against Denmark for comparing persons of Somali origin to paedophiles and rapists. The Committee held that the comparison constituted a form of racial discrimination and violated the Convention. The decision sets a precedent for the interpretation of the Convention and the protection of minority groups from hate speech.",
+  "Case Summary": "The case involves a complaint filed by Mohammed Hassan Gelle, a Danish citizen of Somali origin, against Denmark for comparing persons of Somali origin to paedophiles and rapists. The Committee ruled that Denmark violated articles 2, 4, and 6 of the Convention by failing to investigate and address the incident of racial discrimination. The decision emphasizes the importance of effective investigation and prosecution of racial discrimination incidents.",
+  "Keywords": [
+    "Racial Discrimination",
+    "Mohammed Hassan Gelle",
+    "Denmark",
+    "UNCERD",
+    "Convention on the Elimination of All Forms of Racial Discrimination",
+    "Criminal Code of Denmark",
+    "Danish Constitution"
+  ]
+}

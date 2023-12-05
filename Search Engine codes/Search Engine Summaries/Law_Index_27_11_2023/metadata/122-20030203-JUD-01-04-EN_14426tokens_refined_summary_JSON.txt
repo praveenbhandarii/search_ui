@@ -1,0 +1,30 @@
+{
+  "Date": "1996",
+  "Parties Involved": ["Bosnia and Herzegovina", "Yugoslavia"],
+  "Case Name": "Application for Revision of the Judgment of 11 July 1996 in the Case concerning Application of the Convention on the Prevention and Punishment of the Crime of Genocide (Bosnia and Herzegovina v. Yugoslavia), Preliminary Objections (Yugoslavia v. Bosnia and Herzegovina)",
+  "Case Number": "ICJ/1996",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Dissenting Opinion",
+  "Document Date": "1996",
+  "Document Summary": "This document is a dissenting opinion in a case related to the ICJ judgment on the Application of the Convention on the Prevention and Punishment of the Crime of Genocide (Bosnia and Herzegovina v. Yugoslavia). It discusses the concept of 'fact' in the context of the case and the importance of accurately determining the facts for jurisdictional purposes. The document includes citations and references to previous cases, international legal instruments, and the Genocide Convention. The judge's name is not provided, but it is likely from the former Yugoslavia or the region. The document argues that the FRY's constant protests against the 1996 Judgment and failure to dispute the fact that it was not a party to the Statute of ICJ are not sufficient to establish jurisdiction.",
+  "Case Summary": "This case involves an application for revision of a judgment delivered by the International Court of Justice (ICJ) on 11 July 1996. The judgment addressed preliminary objections raised by Yugoslavia in a case brought against it by Bosnia and Herzegovina. Yugoslavia argues that a revision of the judgment is necessary due to its status as a new Member of the United Nations and its claim that it did not continue the international legal and political personality of the Socialist Federal Republic of Yugoslavia. The case raises questions about the legality of certain actions taken by the UN in relation to the dispute. The application is deemed inadmissible due to the lack of demonstration of being a party to the 1996 Judgment or having a legal interest in the matter.",
+  "Keywords": [
+    "Application for Revision",
+    "Judgment",
+    "International Court of Justice",
+    "ICJ",
+    "Bosnia and Herzegovina",
+    "Yugoslavia",
+    "Genocide Convention",
+    "Dissenting Opinion",
+    "Jurisdiction",
+    "UN Membership",
+    "State Succession",
+    "Legal Status",
+    "Dispute Resolution",
+    "Fact Determination",
+    "International Law",
+    "Political Personality",
+    "Legal Interest"
+  ]
+}

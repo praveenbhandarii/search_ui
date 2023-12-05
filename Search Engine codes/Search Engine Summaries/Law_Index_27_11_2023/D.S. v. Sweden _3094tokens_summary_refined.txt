@@ -1,0 +1,31 @@
+Summary:
+
+Case Details:
+- Case Name: D.S. v. Sweden
+- Case ID: Not available
+- Court/Tribunal: United Nations Committee on the Elimination of All Forms of Racial Discrimination (CERD)
+- Document Dates: March 2001
+- Key Parties Involved: D.S. (petitioner), Sweden (State party)
+
+Procedural History:
+- The petitioner, a foreign national, applied for a job at the National Council for Cultural Affairs but was denied due to alleged discrimination based on her national origin and immigration status.
+- The petitioner claims that she was less qualified than the chosen candidate, L.J., but was denied the job anyway.
+- The State party argues that the petitioner has failed to exhaust available domestic remedies, as required by article 14, paragraph 7(a), of the Convention.
+- The petitioner has exhausted all available and effective domestic remedies and argues that she did not issue proceedings in the District Court because of the Trade Unions and Ombudsman's decision not to do so on her behalf.
+
+Legal Analysis and Reasoning:
+- The Committee on the Elimination of All Forms of Racial Discrimination found the petitioners' communication inadmissible due to her failure to exhaust available domestic remedies, as required by article 14, paragraph 7(a), of the Convention.
+- The Committee noted that the petitioner had not pursued a complaint before the District Court, despite her reservations about the effectiveness of the current legislation to prevent racial discrimination in the labor market.
+- The Committee also found that the petitioner had not exhausted all available and effective domestic remedies, as she had not taken an action before the District Court, and her trade union and the Ombudsman had found no merits in her claim.
+
+Decisions and Rulings:
+- The Committee on the Elimination of All Forms of Racial Discrimination concluded that the petitioner had failed to exhaust available domestic remedies and therefore found her communication inadmissible.
+
+Impact and Significance:
+- The case highlights the importance of exhausting all available domestic remedies in cases of alleged racial discrimination in the workplace.
+- The decision may have implications for future cases where petitioners claim to have exhausted all available domestic remedies but have not done so in reality.
+
+Citations and References:
+- International Convention on the Elimination of All Forms of Racial Discrimination
+- Act against Ethnic Discrimination (Sweden)
+- Act on Litigation in Labour Disputes (Sweden)

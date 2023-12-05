@@ -1,0 +1,22 @@
+{
+  "Date": "2018",
+  "Parties Involved": ["Mr. K.", "France"],
+  "Case Name": "Mr. K. vs. Renault",
+  "Case Number": "Not provided",
+  "Court Name": "United Nations Human Rights Committee (UNHRC)",
+  "Document Type": "Case Communication",
+  "Document Date": "November 2018",
+  "Document Summary": "The case involves a communication filed by Mr. K. against France, regarding racial discrimination in employment at Renault. The UNHRC adopted its views on the case on 20 November 2018 under article 5(4) of the Optional Protocol to the International Covenant on Civil and Political Rights.",
+  "Case Summary": "Mr. K., a black Frenchman, alleged racial discrimination in employment at Renault, claiming that the State party failed to ensure compliance with the ICERD and allowed systemic discrimination. The UNHRC found the claims admissible and held that the State party had violated the ICERD by failing to ensure Renault's compliance with the Convention.",
+  "Keywords": [
+    "Racial Discrimination",
+    "Mr. K.",
+    "France",
+    "Renault",
+    "UNHRC",
+    "ICERD",
+    "International Covenant on Civil and Political Rights",
+    "Optional Protocol",
+    "Employment Discrimination"
+  ]
+}

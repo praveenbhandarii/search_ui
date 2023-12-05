@@ -1,0 +1,12 @@
+{
+    "Date": "2018",
+    "Parties Involved": ["Qatar", "United Arab Emirates (UAE)"],
+    "Case Name": "Application of the International Convention on the Elimination of All Forms of Racial Discrimination (Qatar v. United Arab Emirates)",
+    "Case Number": "ICJ/172",
+    "Court Name": "International Court of Justice (ICJ)",
+    "Document Type": "Case Communication",
+    "Document Date": "2018",
+    "Document Summary": "Qatar instituted proceedings against the UAE for alleged violations of the International Convention on the Elimination of All Forms of Racial Discrimination. The case involves the question of whether the UAE's actions towards Qatari nationals constitute racial discrimination under the Convention. Qatar requested provisional measures to protect the rights of its nationals, while the UAE argued against the need for such measures.",
+    "Case Summary": "Qatar filed the case against the UAE for alleged violations of the International Convention on the Elimination of All Forms of Racial Discrimination. The case revolves around the question of whether the UAE's actions towards Qatari nationals constitute racial discrimination under the Convention. Qatar requested provisional measures to protect the rights of its nationals, while the UAE argued against the need for such measures.",
+    "Keywords": ["International Convention on the Elimination of All Forms of Racial Discrimination", "Qatar", "United Arab Emirates (UAE)", "Provisional Measures", "Racial Discrimination", "ICJ/172"]
+}

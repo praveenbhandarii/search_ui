@@ -1,0 +1,24 @@
+{
+  "Date": "2019",
+  "Parties Involved": ["N.B. and M.W.J.", "United Kingdom of Great Britain and Northern Ireland"],
+  "Case Name": "N.B. and M.W.J. v. the United Kingdom of Great Britain and Northern Ireland",
+  "Case Number": "CRPD/C/22/D/43/2017",
+  "Court Name": "Committee on the Rights of Persons with Disabilities under the United Nations Convention on the Rights of Persons with Disabilities",
+  "Document Type": "Judgment",
+  "Document Date": "2019",
+  "Document Summary": "The Committee on the Rights of Persons with Disabilities issued a judgment in the case of N.B. and M.W.J. v. the United Kingdom of Great Britain and Northern Ireland in March 2019, ruling that the closure of the Independent Living Fund without adequate consultation and impact assessment violated the authors' rights under the Convention.",
+  "Case Summary": "N.B. and M.W.J. filed a complaint with the Committee on the Rights of Persons with Disabilities regarding the closure of the Independent Living Fund. The Committee reviewed the case, and on 6 September 2019, it held that the closure of the Fund violated the authors' rights under the Convention. This decision has significant implications for the rights of individuals with disabilities to equal access to support services and the ability to live independently.",
+  "Keywords": [
+    "Rights of Persons with Disabilities",
+    "N.B.",
+    "M.W.J.",
+    "United Kingdom",
+    "Great Britain",
+    "Northern Ireland",
+    "Independent Living Fund",
+    "Consultation",
+    "Impact Assessment",
+    "Convention",
+    "Articles 17, 19, 20, 30, 31"
+  ]
+}

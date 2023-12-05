@@ -1,0 +1,12 @@
+{
+    "Date": "2016",
+    "Parties Involved": ["Republic of the Marshall Islands (RMI)", "India"],
+    "Case Name": "Obligations concerning Negotiations relating to Cessation of the Nuclear Arms Race and to Nuclear Disarmament (Marshall Islands v. India)",
+    "Case Number": "ICJ/158",
+    "Court Name": "International Court of Justice (ICJ)",
+    "Document Type": "Judgment",
+    "Document Date": "2016",
+    "Document Summary": "The ICJ found that the Republic of the Marshall Islands' position on the duties of nuclear-weapon states under the NPT was not enough to establish a concrete legal dispute capable of adjudication by the Court.",
+    "Case Summary": "The Republic of the Marshall Islands (RMI) filed applications against nine states, including India, accusing them of not fulfilling their obligations regarding the cessation of the nuclear arms race and nuclear disarmament. The main issue in this case is whether the ICJ has jurisdiction to hear the RMI's case. Judge Owada concludes that the RMI's position on the duties of nuclear-weapon states under the Non-Proliferation Treaty (NPT) is not enough to establish a concrete legal dispute capable of adjudication by the Court.",
+    "Keywords": ["Negotiations", "Nuclear Arms Race", "Nuclear Disarmament", "Marshall Islands", "India", "ICJ Jurisdiction", "Non-Proliferation Treaty (NPT)", "Legal Dispute", "ICJ Judgment"]
+}

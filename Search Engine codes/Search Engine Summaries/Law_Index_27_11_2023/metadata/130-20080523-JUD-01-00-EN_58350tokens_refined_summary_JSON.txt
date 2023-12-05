@@ -1,0 +1,28 @@
+{
+  "Date": "2008",
+  "Parties Involved": ["Malaysia", "Singapore"],
+  "Case Name": "Sovereignty over Pedra Branca/Pulau Batu Puteh, Middle Rocks and South Ledge (Malaysia/Singapore)",
+  "Case Number": "130",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2008",
+  "Document Summary": "The International Court of Justice (ICJ) issued a judgment in the case of Sovereignty over Pedra Branca/Pulau Batu Puteh, Middle Rocks and South Ledge, ruling that Pedra Branca/Pulau Batu Puteh is a rock and not capable of being possessed by either state. The court also found that the British and Singapore did not acquire sovereignty over the island through historical agreements or administration of the surrounding waters. The case is ongoing, with the court examining the conduct of the parties and their predecessors in title to determine the issue of sovereignty over Pedra Branca/Pulau Batu Puteh.",
+  "Case Summary": "The case involves a dispute between Malaysia and Singapore over the sovereignty of Pedra Branca/Pulau Batu Puteh, Middle Rocks, and South Ledge. The International Court of Justice (ICJ) ruled that Pedra Branca/Pulau Batu Puteh is a rock and not capable of being possessed by either state. The court also found that the British and Singapore did not acquire sovereignty over the island through historical agreements or administration of the surrounding waters. The case is ongoing, with the court examining the conduct of the parties and their predecessors in title to determine the issue of sovereignty over Pedra Branca/Pulau Batu Puteh.",
+  "Keywords": [
+    "Sovereignty",
+    "Pedra Branca/Pulau Batu Puteh",
+    "Middle Rocks",
+    "South Ledge",
+    "Malaysia",
+    "Singapore",
+    "International Court of Justice",
+    "ICJ Reports 2008",
+    "Territorial Seas",
+    "Boundary Dispute",
+    "Asian Nations",
+    "Territorial Ownership",
+    "Historical Agreements",
+    "Sultan Abdul Rahman",
+    "Johor-Riau-Lingga Sultanate"
+  ]
+}

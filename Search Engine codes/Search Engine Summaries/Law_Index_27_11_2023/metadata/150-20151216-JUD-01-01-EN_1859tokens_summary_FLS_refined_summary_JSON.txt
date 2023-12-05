@@ -1,0 +1,25 @@
+{
+  "Date": "1984",
+  "Parties Involved": ["Costa Rica", "Nicaragua"],
+  "Case Name": "Costa Rica v. Nicaragua",
+  "Case Number": "ICJ Reports 1984/160",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "1984",
+  "Document Summary": "This document is a judgment issued by the International Court of Justice in the case of Costa Rica v. Nicaragua. It emphasizes the principle of territorial integrity, enshrined in the Charter of the United Nations and customary international law, and highlights the breach of this principle by the organization of irregular forces or armed bands for incursion into the territory of another State. The judgment underscores the inviolability of the sovereign equality of States, territorial integrity, and political independence.",
+  "Case Summary": "The case of Costa Rica v. Nicaragua involves a judgment issued by the International Court of Justice in 1984, emphasizing the principle of territorial integrity and the breach of this principle by the organization of irregular forces or armed bands for incursion into the territory of another State. The judgment underscores the inviolability of the sovereign equality of States, territorial integrity, and political independence, consistent with the Court's previous case law.",
+  "Keywords": [
+    "Costa Rica",
+    "Nicaragua",
+    "Territorial Integrity",
+    "Charter of the United Nations",
+    "Customary International Law",
+    "Sovereign Equality of States",
+    "International Court of Justice",
+    "ICJ Reports 1984/160",
+    "Judgment",
+    "Principle of Territorial Integrity",
+    "Corfu Channel case",
+    "Accordance with International Law of the Unilateral Declaration of Independence in Respect of Kosovo case"
+  ]
+}

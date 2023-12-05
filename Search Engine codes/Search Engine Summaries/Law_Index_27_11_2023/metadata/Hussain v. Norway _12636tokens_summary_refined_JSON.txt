@@ -1,0 +1,12 @@
+{
+	"Date": "2021",
+	"Parties Involved": ["Sajjad Hussain", "Norway"],
+	"Case Name": "Sajjad Hussain v. Norway",
+	"Case Number": "61/2016",
+	"Court Name": "United Nations Committee on the Elimination of Racial Discrimination (UNCERD)",
+	"Document Type": "Case Communication",
+	"Document Date": "2021",
+	"Document Summary": "The case involves a Pakistani national detained in Norway and the Committee's review of the decision regarding pretrial detention, assessing potential discrimination based on race, color, national or ethnic origin.",
+	"Case Summary": "The case involves Sajjad Hussain, a Pakistani national detained in Norway, challenging the decision on the grounds of potential racial discrimination. The Committee has determined that there is no violation of the Convention and its decision has implications for the interpretation and application of the Convention in similar cases.",
+	"Keywords": ["Sajjad Hussain", "Norway", "Racial Discrimination", "Communication No. 61/2016", "International Convention on the Elimination of All Forms of Racial Discrimination", "Borgarting Court of Appeal", "Eidsivating Court of Appeal", "Human Trafficking", "Pretrial Detention", "Discrimination", "Pakistani National"]
+}

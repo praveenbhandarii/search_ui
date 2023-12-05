@@ -1,0 +1,27 @@
+Title: Republic of the Congo v. France (sep. op. koroma), Belgium v. Senegal, Armed Activities on the Territory of the Congo (Democratic Republic of the Congo v. Uganda)
+
+Overview:
+This combined summary provides an analysis of two legal documents. The first document discusses the court's power to indicate provisional measures and introduces the criterion of "plausibility." Judge Koroma expresses concerns about the ambiguity and uncertainty created by this criterion. The second document explores the evaluation of provisional measures and the potential risks associated with adopting plausibility as a standard. Both documents highlight the importance of considering irreparable harm, the link between protected rights and measures requested, and the urgency of the situation.
+
+Important Details:
+- The Court has the power to indicate provisional measures under Article 41 of its Statute.
+- Four criteria must be met for the Court to indicate provisional measures:
+  - The provisions invoked by the applicant must prima facie establish the Court's jurisdiction.
+  - There must be a link between the alleged rights and the subject of the proceedings.
+  - Irreparable prejudice or harm to the rights in dispute must be demonstrated.
+  - Urgency must exist to prevent prejudicial actions before the final decision.
+- Judge Koroma questions the plausibility criterion's introduction, as it lacks clarity and justification.
+- The plausibility standard was first introduced in the Belgium v. Senegal case without citing precedent or explanation.
+- The court acknowledges the vagueness of the plausibility standard and its potential to lower the threshold for indicating provisional measures.
+- The use of the plausibility standard may allow parties to submit misleading claims.
+- The court order in the Georgia v. Russian Federation case indicates provisional measures to respect Georgia's sovereignty and avoid actions that worsen the situation.
+- The court recognizes the risk of conflicts, harm to individuals, and irreparable harm resulting from Russia's activities in the disputed area.
+- The court establishes a link between the protected right and the requested measures.
+- The document provides key details about the Belgium v. Senegal case, including the evaluation of provisional measures and the potential consequences of adopting plausibility as a standard.
+
+Additional Information:
+- The ICJ does not formally evaluate the legitimacy of a party's claim when indicating provisional measures.
+- Factors considered include the plausibility of claims, potential irreparable prejudice, and likelihood of further legal action.
+- The ICJ is considering a new standard that requires a plausible case instead of a prima facie case.
+- Adopting an order based on plausibility may have unintended negative consequences.
+- The case of Armed Activities on the Territory of the Congo (Democratic Republic of the Congo v. Uganda) is also mentioned, providing relevant details about the case, the issuing judge, and the document's location in the ICJ Reports.

@@ -1,0 +1,26 @@
+{
+    "Date": "2003",
+    "Parties Involved": ["Dragan Durmic", "Serbia and Montenegro"],
+    "Case Name": "Dragan Durmic vs Serbia and Montenegro",
+    "Case Number": "Communication No. 29/2003",
+    "Court Name": "Committee on the Elimination of Racial Discrimination (CERD)",
+    "Document Type": "Case Communication",
+    "Document Date": "March 2003",
+    "Document Summary": "The document is a communication submitted to the CERD by Mr. Dragan Durmic, alleging violations of articles 2, 5(f), and 14 of the Convention on the Elimination of All Forms of Racial Discrimination (CERD) by Serbia and Montenegro.",
+    "Case Summary": "The case highlights the issue of discrimination against the Roma community in Serbia and Montenegro and the lack of effective remedies available to victims of discrimination. The petitioner's argument that the exhaustion of domestic remedies is not required, as the available remedies are not effective in addressing the discrimination, is supported by previous decisions of the Committee on the Elimination of Racial Discrimination.",
+    "Keywords": [
+      "Roma Community",
+      "Discrimination",
+      "Serbia",
+      "Montenegro",
+      "Effective Remedies",
+      "International Convention on the Elimination of Racial Discrimination",
+      "Article 2",
+      "Article 5(f)",
+      "Article 14",
+      "Effective Remedy",
+      "Human Rights Committee",
+      "Habassi v. Denmark",
+      "Kashif Ahmad v. Denmark"
+    ]
+  }

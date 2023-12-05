@@ -1,0 +1,22 @@
+{
+  "Date": "2014",
+  "Parties Involved": ["Timor-Leste", "Australia"],
+  "Case Name": "Questions relating to the Seizure and Detention of Certain Documents and Data (Timor-Leste v. Australia)",
+  "Case Number": "ICJ/156",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Case Communication",
+  "Document Date": "2014",
+  "Document Summary": "Timor-Leste initiated proceedings against Australia regarding the seizure and detention of documents, data, and other property belonging to Timor-Leste or protected under international law. The jurisdiction of the International Court of Justice (ICJ) was invoked by both parties.",
+  "Case Summary": "Timor-Leste alleged that Australia violated its rights under international law by seizing the documents and interfering with its right to conduct arbitration proceedings or negotiations without interference. The ICJ considered the need for provisional measures to prevent irreparable harm to Timor-Leste's rights and the potential risks associated with the seized material. One judge dissented, expressing concerns about the measures ordered by the ICJ and the potential harm to Australia's plausible rights.",
+  "Keywords": [
+    "Seizure and Detention of Documents and Data",
+    "Timor-Leste",
+    "Australia",
+    "Arbitration",
+    "Interference",
+    "International Court of Justice",
+    "Provisional Measures",
+    "Irreparable Harm",
+    "Dissenting Opinion"
+  ]
+}

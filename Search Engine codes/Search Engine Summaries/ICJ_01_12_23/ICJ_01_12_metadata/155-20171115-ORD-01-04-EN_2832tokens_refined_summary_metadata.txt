@@ -1,0 +1,25 @@
+{
+  "Date": "2017",
+  "Parties Involved": ["Nicaragua", "Colombia"],
+  "Case Name": "Alleged Violations of Sovereign Rights and Maritime Spaces in the Caribbean Sea (Nicaragua v. Colombia)",
+  "Case Number": "ICJ/155",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Order",
+  "Document Date": "2017",
+  "Document Summary": "An order from the ICJ related to the alleged violations of sovereign rights and maritime spaces in the Caribbean Sea (Nicaragua v. Colombia) filed by Nicaragua against Colombia, including the threat of force by Colombia to implement these violations.",
+  "Case Summary": "Nicaragua filed an application against Colombia in 2013, alleging violations of its sovereign rights and maritime zones as declared by a previous court judgment. The dispute also involved the threat of force by Colombia to implement these violations. This document is an order from the ICJ related to the case.",
+  "Keywords": [
+    "Sovereign Rights",
+    "Maritime Spaces",
+    "Caribbean Sea",
+    "Nicaragua",
+    "Colombia",
+    "Threat of Force",
+    "Jurisdiction",
+    "Counterclaims",
+    "Straight Baselines",
+    "Christopher Greenwood",
+    "Case Law",
+    "International Court of Justice"
+  ]
+}

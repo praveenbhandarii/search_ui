@@ -1,0 +1,35 @@
+Case ID: ICJ/172
+Court/Tribunal: International Court of Justice (ICJ)
+Document Date: 2021
+Key Parties Involved: Qatar, United Arab Emirates (UAE)
+Case Name: Application of the International Convention on the Elimination of All Forms of Racial Discrimination (Qatar v. United Arab Emirates)
+
+Case Summary:
+Qatar instituted proceedings against the UAE, alleging violations of the International Convention on the Elimination of All Forms of Racial Discrimination (CERD). The dispute revolves around the interpretation and application of CERD, specifically regarding the UAE's measures against Qatari nationals. Qatar claims that these measures constitute indirect discrimination based on national origin, while the UAE denies any discrimination and argues that the measures are not based on national origin. The court's decision on the preliminary objections will likely impact the merits of Qatar's claim.
+
+Context:
+- The document discusses the interpretation of the term "national origin" in CERD and how it differs from "nationality."
+- The CERD Committee recognizes indirect discrimination as a form of discrimination that can be demonstrated circumstantially.
+- Other human rights bodies and courts, such as the Human Rights Committee and the European Court of Human Rights (ECtHR), have embraced the notion of indirect discrimination.
+- The court distinguishes between national origin and nationality, with the former referring to the country or place of birth, while the latter refers to the legal bond between a person and a state.
+- The court cites various case laws and jurisprudence to support its interpretation, including Andrejeva v. Latvia and D. H. and Others v. Czech Republic.
+
+Citations:
+- Andrejeva v. Latvia
+- Proposed Amendments to the Naturalization Provision of the Constitution of Costa Rica
+- L. R. et al. v. Slovakia (Communication No. 31/2003)
+- CERD Committee, General Recommendation XIV on article 1, paragraph 1, of the Convention (17 March 1993)
+- CERD Committee, General Recommendation XXXII on the meaning and scope of special measures in the International Convention on the Elimination of All Forms Racial Discrimination (August 2009)
+- Human Rights Committee, Derksen v. Netherlands (Communication No. 976/2001)
+- Human Rights Committee, Althammer et al. v. Austria (Communication No. 998/2001)
+- ECtHR, First Section, J.D. and A v. the United Kingdom (judgment of 24 October 2019, Nos. 32949/17 and
+- Territorial and Maritime Dispute (Nicaragua v. Colombia)
+- Questions of Interpretation and Application of the 1971 Montreal Convention arising from the Aerial Incident at Lockerbie (Libyan Arab Jamahiriya v. United States of America and Libyan Arab Jamahiriya v. United Kingdom)
+
+References:
+- International Convention on the Elimination of All Forms of Racial Discrimination (CERD)
+- International Court of Justice Reports (ICJ Reports)
+- International Covenant on Economic, Social and Cultural Rights (ICESCR)
+- International Covenant on Civil and Political Rights (ICCPR)
+- European Convention on Human Rights
+- American Convention on Human Rights

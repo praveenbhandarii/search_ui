@@ -1,0 +1,12 @@
+{
+  "Date": "2016",
+  "Parties Involved": ["Equatorial Guinea", "France"],
+  "Case Name": "Immunities and Criminal Proceedings (Equatorial Guinea v. France)",
+  "Case Number": "ICJ/2016",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2021",
+  "Document Summary": "This document is a summary of the judgment and orders issued by the ICJ in the case. It provides key information about the case, including the case number, date, court, and document type. The document also highlights the important legal issues, jurisdiction, relevant dates, key parties, places, legislation, and players involved in the case. It further includes the key points of the ICJ's decision, as well as dissenting opinions and declarations appended to the judgment.",
+  "Case Summary": "The case involves a dispute between the Republic of Equatorial Guinea and the French Republic regarding the immunity from criminal jurisdiction of the Second Vice-President of Equatorial Guinea, Mr. Teodoro Nguema Obiang Mangue, and the legal status of the building housing the Embassy of Equatorial Guinea in France. Equatorial Guinea filed an application with the International Court of Justice (ICJ) in 2016, seeking a resolution to the dispute.",
+  "Keywords": ["Immunities", "Criminal Proceedings", "Equatorial Guinea", "France", "ICJ", "Judgment", "Vienna Convention on Diplomatic Relations", "Diplomatic Mission", "Diplomatic Status", "Jurisdiction", "Legal Dispute"]
+}

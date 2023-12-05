@@ -1,0 +1,12 @@
+{
+    "Date": "2016",
+    "Parties Involved": ["Somalia", "Kenya"],
+    "Case Name": "Maritime Delimitation in the Indian Ocean (Somalia v. Kenya)",
+    "Case Number": "5,2 CIJ1086",
+    "Court Name": "International Court of Justice (ICJ)",
+    "Document Type": "Order",
+    "Document Date": "2016",
+    "Document Summary": "The document, with an ISBN of 978921-157278-0, was signed on October 9, 2015, and printed on October 5, 2016, regarding the maritime delimitation in the Indian Ocean between Somalia and Kenya. The Court fixed February 5, 2016, as the deadline for Somalia to present a written statement addressing Kenya's preliminary objections.",
+    "Case Summary": "The case involves a dispute between Somalia and Kenya regarding the delimitation of maritime spaces in the Indian Ocean. Somalia filed an Application with the International Court of Justice (ICJ) on August 28, 2014, seeking the determination of the maritime boundary between the two states based on international law.",
+    "Keywords": ["Maritime Delimitation", "Indian Ocean", "Somalia", "Kenya", "ICJ", "Preliminary Objections", "International Law", "Order"]
+}

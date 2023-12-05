@@ -1,0 +1,21 @@
+{
+  "Date": "2008",
+  "Parties Involved": ["Nicaragua", "Colombia"],
+  "Case Name": "Territorial and Maritime Dispute (Nicaragua v. Colombia)",
+  "Case Number": "ICJ/--",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Order",
+  "Document Date": "2008",
+  "Document Summary": "This document is an order of the International Court of Justice, related to the territorial and maritime dispute between Nicaragua and Colombia. It contains instructions regarding the submission of pleadings and subsequent procedures, with specified deadlines for filing pleadings.",
+  "Case Summary": "The case involves a territorial and maritime dispute between Nicaragua and Colombia, initiated in 2001. It revolves around legal issues related to territory and maritime delimitation. Colombia filed preliminary objections to jurisdiction, leading to a suspension of the proceedings on the merits.",
+  "Keywords": [
+    "Territorial Dispute",
+    "Maritime Dispute",
+    "Nicaragua",
+    "Colombia",
+    "International Court of Justice",
+    "Pleadings",
+    "Jurisdiction",
+    "Legal Proceedings"
+  ]
+}

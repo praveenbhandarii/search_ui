@@ -1,0 +1,22 @@
+{
+  "Date": "2003",
+  "Parties Involved": ["Malaysia", "Singapore"],
+  "Case Name": "Case Concerning Sovereignty over Pedra Branca/Pulau Batu Puteh, Middle Rocks and South Ledge (Malaysia/Singapore)",
+  "Case Number": "ICJ/2003/2",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Order",
+  "Document Date": "2005",
+  "Document Summary": "This order sets the deadline for filing the Reply by each party as 25 November 2005 in the case concerning the sovereignty of Pedra Branca/Pulau Batu Puteh, Middle Rocks, and South Ledge between Malaysia and Singapore.",
+  "Case Summary": "The case involves a dispute between Malaysia and Singapore over the sovereignty of Pedra Branca/Pulau Batu Puteh, Middle Rocks, and South Ledge. Both parties jointly approached the ICJ through a Special Agreement and agreed to accept the court's judgment as final and binding.",
+  "Keywords": [
+    "Sovereignty",
+    "Pedra Branca",
+    "Pulau Batu Puteh",
+    "Middle Rocks",
+    "South Ledge",
+    "Malaysia",
+    "Singapore",
+    "International Court of Justice",
+    "ICJ/2003/2"
+  ]
+}

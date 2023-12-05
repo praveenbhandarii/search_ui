@@ -1,0 +1,29 @@
+{
+  "Date": "2016",
+  "Parties Involved": [
+    "Marshall Islands",
+    "India",
+    "Pakistan",
+    "United Kingdom"
+  ],
+  "Case Name": "Obligations concerning Negotiations relating to Cessation of the Nuclear Arms Race and to Nuclear Disarmament (Marshall Islands v. India, Pakistan, and the United Kingdom)",
+  "Case Number": "ICJ/158",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2016",
+  "Document Summary": "The International Court of Justice (ICJ) concluded that it does not have jurisdiction to hear the case brought by the Marshall Islands against India, Pakistan, and the United Kingdom regarding negotiations relating to the cessation of the nuclear arms race and nuclear disarmament.",
+  "Case Summary": "The Republic of the Marshall Islands accused India, Pakistan, and the United Kingdom of not fulfilling their obligations regarding the cessation of the nuclear arms race and nuclear disarmament. The document discusses the lack of jurisdiction in the cases brought and the majority's conclusion that no dispute exists.",
+  "Keywords": [
+    "Marshall Islands",
+    "India",
+    "Pakistan",
+    "United Kingdom",
+    "Nuclear Arms Race",
+    "Nuclear Disarmament",
+    "Jurisdiction",
+    "International Court of Justice",
+    "ICJ",
+    "Article VI",
+    "NPT"
+  ]
+}

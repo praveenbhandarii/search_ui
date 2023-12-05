@@ -1,0 +1,26 @@
+Case ID: ICJ/174
+Court/Tribunal: International Court of Justice (ICJ)
+Document Date: 2020
+Key Parties Involved: Kingdom of Bahrain, Arab Republic of Egypt, Kingdom of Saudi Arabia, United Arab Emirates, State of Qatar
+Case Name: Appeal relating to the Jurisdiction of the ICAO Council under Article II, Section 2, of the 1944 International Air Services Transit Agreement (Bahrain, Egypt and United Arab Emirates v. Qatar)
+
+Case Summary:
+This case involves an appeal filed by the Kingdom of Bahrain, the Arab Republic of Egypt, the Kingdom of Saudi Arabia, and the United Arab Emirates against the decision of the International Civil Aviation Organization (ICAO) Council. The appeal was made in response to proceedings initiated by the State of Qatar under Article 84 of the Convention on International Civil Aviation. The appeal questions the jurisdiction of the ICAO Council under the 1944 International Air Services Transit Agreement.
+
+Context:
+- The appeal was filed on July 4, 2018, following the decision of the ICAO Council on June 29, 2018.
+- The proceedings were initiated by the State of Qatar on October 30, 2017.
+- The appeal challenges the ICAO Council's competence to address matters unrelated to civil aviation.
+- The appellant argues that the Council's dispute settlement mandate is limited to the ICAO treaties and that states have not consented to the Council adjudicating matters unrelated to civil aviation.
+- The appellant cites the United States Diplomatic and Consular Staff in Tehran case to support their argument.
+- The International Court of Justice (ICJ) held that the ICAO Council's jurisdiction is not affected by broader political disputes between the involved states.
+- The ICJ relied on its previous judgment in the United States Diplomatic and Consular Staff in Tehran case to support its position.
+- The ICJ acknowledged that the ICAO Council is composed of contracting states elected by the Assembly, not independent judges like the ICJ.
+
+Citations:
+- I.C.J. Reports 1972, p. 61, para. 27
+- United States Diplomatic and Consular Staff in Tehran, Judgment, I.C.J. Reports 1980, p. 20, para. 37
+- Article 2 of the Statute of the International Court of Justice
+- Article 50(a) of the Chicago Convention
+- G.F. Fitzgerald, The Judgment of the International Court of Justice in the Appeal relating to the Jurisdiction of the ICAO Council, Canadian Yearbook of International Law, Vol. 12 (1974)
+- Armed Activities on the Territory of the Congo (New Application: 2002) (Democratic Republic of the Congo v. Rwanda), Jurisdiction and Admissibility, Judgment, I.C.J. Reports 2006

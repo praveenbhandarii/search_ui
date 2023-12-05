@@ -1,0 +1,27 @@
+{
+  "Date": "2018",
+  "Parties Involved": [
+    "Qatar",
+    "United Arab Emirates (UAE)"
+  ],
+  "Case Name": "Application of the International Convention on the Elimination of All Forms of Racial Discrimination (Qatar v. United Arab Emirates)",
+  "Case Number": "ICJ/172",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Case Communication",
+  "Document Date": "2018",
+  "Document Summary": "Qatar filed a case against the UAE alleging violations of the International Convention on the Elimination of All Forms of Racial Discrimination. The dispute arose from the UAE's decision to sever all relations with Qatar and close its airspace and seaports to Qatari nationals. The case revolves around the legality and justification of the UAE's measures and their impact on Qatar's rights.",
+  "Case Summary": "Qatar filed a case against the UAE on June 11, 2018, alleging violations of the International Convention on the Elimination of All Forms of Racial Discrimination. The dispute arose from the UAE's decision to sever all relations with Qatar and close its airspace and seaports to Qatari nationals. Qatar argues that these measures are unjustified and violate its rights under international law. The UAE claims that it took these actions due to Qatar's failure to comply with the Riyadh Agreement and its support for terrorist groups.",
+  "Keywords": [
+    "International Convention on the Elimination of All Forms of Racial Discrimination",
+    "Qatar",
+    "United Arab Emirates (UAE)",
+    "Severance of Relations",
+    "Airspace Closure",
+    "Seaport Closure",
+    "Riyadh Agreement",
+    "Terrorist Groups",
+    "Legality",
+    "Justification",
+    "Impact on Rights"
+  ]
+}

@@ -1,0 +1,29 @@
+Summary:
+
+Case Details:
+- Case ID: CRC/C/91/D/94/2019
+- Court/Tribunal: United Nations Committee on the Rights of the Child (UNCRC)
+- Document Date: 2022
+- Key Parties Involved:
+  - S.F. (the author and victim)
+  - State party: W.W. and S.W. (Ireland)
+- Case Name: S.F. v. Ireland
+- Case Summary: S.F., a national of Canada and Ireland, submitted a communication to the UNCRC claiming that her daughters, W.W. and S.W., both nationals of Canada, were being held in Ireland in violation of their rights under the Convention on the Rights of the Child. The author claimed that her daughters were being subjected to physical and psychological abuse by their father, who had been granted custody of them by the Canadian courts. The author also alleged that the Irish authorities had failed to protect her daughters from this abuse and had violated their rights under articles 3, 9, 12, 16 and 27 of the Convention.
+
+Procedural History:
+The case involves a mother who fled Canada with her two children after alleging abuse by her husband. The husband obtained a court order granting him sole custody of the children and initiated proceedings under the Convention on the Civil Aspects of International Child Abduction before the Irish High Court. The mother argued that returning the children to Canada would pose a grave risk to their well-being, citing her husband's history of substance abuse and lack of daily care for the children. The Irish High Court ruled that the mother had not established a grave risk and ordered the children's return to Canada. The mother appealed to the Irish Court of Appeal, which dismissed her appeal. She then requested legal aid to appeal to the Supreme Court, but was denied.
+
+Legal Analysis and Reasoning:
+The case revolves around the application of the Convention on the Civil Aspects of International Child Abduction and the assessment of a grave risk to the children's well-being. The Irish High Court and Court of Appeal held that the mother had not established a grave risk, despite her arguments regarding the husband's history of abuse and lack of daily care for the children. The courts emphasized that the Convention is concerned only with the international situation of children and does not require an assessment of the long-term best interests and welfare of the children.
+
+Decisions and Rulings:
+The Irish courts ruled in favor of the father, ordering the return of the children to Canada. The courts held that the mother had not established a grave risk to the children's well-being and that the Convention does not require an assessment of the long-term best interests and welfare of the children.
+
+Impact and Significance:
+This case highlights the challenges faced by litigants who are not represented by counsel and the potential impact of legal aid decisions on the outcome of such cases. It also underscores the importance of understanding the legal framework surrounding international child abduction and the role of the Convention on the Civil Aspects of International Child Abduction in such cases.
+
+Citations and References:
+- Convention on the Civil Aspects of International Child Abduction
+- Irish High Court, [2019] IEHC 222
+- Irish Court of Appeal, [2019] IECA 307
+- Supreme Court of British Columbia, [2019] BCSC 253

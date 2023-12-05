@@ -1,0 +1,31 @@
+{
+    "Date": "2014",
+    "Parties Involved": [
+        "Australia",
+        "Japan"
+    ],
+    "Case Name": "Whaling in the Antarctic (Australia v. Japan: New Zealand intervening)",
+    "Case Number": "148/2014",
+    "Court Name": "International Court of Justice (ICJ)",
+    "Document Type": "Order",
+    "Document Date": "2014",
+    "Document Summary": "This document is an order issued by Judge Giorgio Gaja in the International Court of Justice case number 148, specifically focusing on paragraphs 41-43. It raises concerns about the Court's failure to properly analyze the conditions for the admissibility of New Zealand's intervention and highlights a potential misinterpretation of the Statute regarding the binding nature of the convention.",
+    "Case Summary": "In May 2010, Australia initiated legal proceedings against Japan for its large-scale whaling program in the Antarctic, known as JARPA II. This document addresses concerns raised by Judge Gaja regarding the Court's analysis of New Zealand's intervention in the case, highlighting issues with the admissibility conditions and the interpretation of the convention's binding nature.",
+    "Keywords": [
+        "Whaling",
+        "Antarctic",
+        "Australia",
+        "Japan",
+        "New Zealand",
+        "JARPA II",
+        "International Convention for the Regulation of Whaling",
+        "ICRW",
+        "Marine Mammal Preservation",
+        "Marine Environment",
+        "Intervention Procedure",
+        "Admissibility",
+        "Statute",
+        "Binding Nature",
+        "Convention Interpretation"
+    ]
+}

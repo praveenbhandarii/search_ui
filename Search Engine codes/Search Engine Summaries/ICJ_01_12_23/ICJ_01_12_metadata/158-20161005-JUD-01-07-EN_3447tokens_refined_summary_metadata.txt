@@ -1,0 +1,23 @@
+{
+  "Date": "2016",
+  "Parties Involved": ["Marshall Islands", "United States", "India"],
+  "Case Name": "Obligations concerning Negotiations relating to Cessation of the Nuclear Arms Race and to Nuclear Disarmament (Marshall Islands v. India)",
+  "Case Number": "ICJ/158",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2016",
+  "Document Summary": "This document is a judgment from the ICJ regarding preliminary objections raised by the United States in a case filed by the Marshall Islands. The ICJ dismissed the case, stating that there was no dispute at the time the application was filed.",
+  "Case Summary": "The Republic of the Marshall Islands filed applications against nine states, including India, accusing them of not fulfilling their obligations regarding the cessation of the nuclear arms race and nuclear disarmament. This specific document is a judgment from the ICJ regarding preliminary objections raised by the United States in a case filed by the Marshall Islands. The United States argued that there was no dispute between the parties, and therefore the Court lacked jurisdiction.",
+  "Keywords": [
+    "Nuclear Arms Race",
+    "Nuclear Disarmament",
+    "Marshall Islands",
+    "United States",
+    "India",
+    "International Court of Justice",
+    "Preliminary Objections",
+    "Legal Dispute",
+    "NPT",
+    "Security Council Resolution"
+  ]
+}

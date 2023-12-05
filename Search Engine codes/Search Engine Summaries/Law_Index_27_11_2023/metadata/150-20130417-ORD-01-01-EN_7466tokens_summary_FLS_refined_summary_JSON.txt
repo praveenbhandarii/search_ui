@@ -1,0 +1,20 @@
+{
+  "Date": "2014",
+  "Parties Involved": ["International Court of Justice (ICJ)", "Unknown Party"],
+  "Case Name": "Case Number 150 - ORD",
+  "Case Number": "ICJ/150",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Legal Document",
+  "Document Date": "2013",
+  "Document Summary": "This legal document discusses the power of the International Court of Justice (ICJ) to order the joinder of proceedings, even in the absence of an express provision in the Court's rules. It emphasizes the importance of the principle of equality of the parties and the sound administration of justice. The document cites various case law and explores the concept of general principles of law in international legal procedure.",
+  "Case Summary": "The document emphasizes the ICJ's power to order the joinder of proceedings, the importance of the principle of equality of the parties, and the exploration of general principles of law in international legal procedure.",
+  "Keywords": [
+    "International Court of Justice",
+    "ICJ/150",
+    "Joinder of Proceedings",
+    "Equality of Parties",
+    "Sound Administration of Justice",
+    "General Principles of Law",
+    "International Legal Procedure"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "Date": "2018",
+  "Parties Involved": ["Qatar", "United Arab Emirates (UAE)"],
+  "Case Name": "Application of the International Convention on the Elimination of All Forms of Racial Discrimination (Qatar v. United Arab Emirates)",
+  "Case Number": "ICJ/172",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Case Communication",
+  "Document Date": "2018",
+  "Document Summary": "Qatar v. United Arab Emirates (UAE) case involving alleged violations of the International Convention on the Elimination of All Forms of Racial Discrimination (CERD). The ICJ found some rights asserted by Qatar to be plausible and indicated provisional measures to protect the rights of Qataris, including family reunification, education opportunities, access to justice, and refraining from aggravating the dispute.",
+  "Case Summary": "Qatar initiated proceedings against the UAE, alleging discriminatory measures violating the International Convention on the Elimination of All Forms of Racial Discrimination. The ICJ found plausibility in some rights claimed by Qatar and indicated provisional measures to protect Qataris' rights under CERD.",
+  "Keywords": [
+    "Qatar",
+    "United Arab Emirates (UAE)",
+    "International Convention on the Elimination of All Forms of Racial Discrimination",
+    "CERD",
+    "Provisional Measures",
+    "Discriminatory Measures",
+    "ICJ",
+    "Racial Discrimination",
+    "Human Rights",
+    "Access to Justice",
+    "Freedom of Movement",
+    "Family Reunification"
+  ]
+}

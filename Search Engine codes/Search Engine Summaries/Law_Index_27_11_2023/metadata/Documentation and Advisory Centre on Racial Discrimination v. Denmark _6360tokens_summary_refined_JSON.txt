@@ -1,0 +1,31 @@
+{
+  "Date": "2003",
+  "Parties Involved": [
+    "Documentation and Advisory Centre on Racial Discrimination",
+    "Denmark"
+  ],
+  "Case Name": "Documentation and Advisory Centre on Racial Discrimination v. Denmark",
+  "Case Number": "Communication No. 18/2003",
+  "Court Name": "United Nations Committee on the Elimination of Racial Discrimination (UNCERD)",
+  "Document Type": "Case Communication",
+  "Document Date": "2003",
+  "Document Summary": "The document is a communication submitted to the CERD by the Documentation and Advisory Centre on Racial Discrimination, alleging that Denmark has violated the International Convention on the Elimination of All Forms of Racial Discrimination (CERD) by allowing a private company to publish a job advertisement that discriminates against individuals based on their national origin.",
+  "Case Summary": "In March 2003, the Documentation and Advisory Centre on Racial Discrimination filed a communication with the CERD, alleging violations of the CERD by Denmark. The CERD is the court/tribunal responsible for adjudicating the case. The petitioner argues that the advertisement's requirement that the candidate be of Danish origin or ethnicity amounts to discrimination on the ground of national or ethnic origin, and that it has exhausted all available domestic remedies. The respondent state argues that the advertisement does not constitute discrimination as the term 'Danish' refers to Danish residents, who could be of any ethnicity or national origin. The Committee noted that the petitioner had not demonstrated a sufficient connection to the alleged victims of the job advertisement and had not shown that it represented a group of individuals claiming to be victims of a violation of the ICCPR. The Committee held that the communication was inadmissible ratione personae under article 14, paragraph 1 of the ICCPR. The Committee found that the communication was inadmissible ratione personae under article 14, paragraph 1 of the ICCPR. The petitioner failed to substantiate its claim that it constituted or represented a group of individuals claiming to be victims of a violation by Denmark of the ICCPR. This decision highlights the importance of establishing standing in human rights cases brought before international bodies. It emphasizes the need for NGOs to demonstrate a clear connection to the alleged victims and to show that they represent a group of individuals claiming to be victims of a violation of human rights. The decision also underscores the importance of interpreting the ICCPR in a way that balances the need for individual access to justice with the need to prevent abuse of the system through popular actions.",
+  "Keywords": [
+    "Documentation and Advisory Centre on Racial Discrimination",
+    "Denmark",
+    "Communication No. 18/2003",
+    "CERD",
+    "Discrimination",
+    "Job Advertisement",
+    "International Convention on the Elimination of All Forms of Racial Discrimination",
+    "ICCPR",
+    "Article 14, paragraph 1 of the ICCPR",
+    "NGO",
+    "Human Rights",
+    "International Bodies",
+    "Standing",
+    "Access to Justice",
+    "Prevention of Abuse"
+  ]
+}

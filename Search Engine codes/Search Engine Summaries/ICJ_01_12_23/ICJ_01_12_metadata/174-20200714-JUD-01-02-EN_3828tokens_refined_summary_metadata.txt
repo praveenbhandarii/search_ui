@@ -1,0 +1,35 @@
+{
+  "Date": "2020",
+  "Parties Involved": [
+    "Kingdom of Bahrain",
+    "Arab Republic of Egypt",
+    "Kingdom of Saudi Arabia",
+    "United Arab Emirates",
+    "State of Qatar"
+  ],
+  "Case Name": "Appeal relating to the Jurisdiction of the ICAO Council under Article II, Section 2, of the 1944 International Air Services Transit Agreement (Bahrain, Egypt and United Arab Emirates v. Qatar)",
+  "Case Number": "ICJ/174",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2020",
+  "Document Summary": "This document contains the judgment of the International Court of Justice on the appeal relating to the Jurisdiction of the ICAO Council under Article II, Section 2, of the 1944 International Air Services Transit Agreement between Bahrain, Egypt, United Arab Emirates, and Qatar.",
+  "Case Summary": "This case involves an appeal filed by the Kingdom of Bahrain, the Arab Republic of Egypt, the Kingdom of Saudi Arabia, and the United Arab Emirates against the decision of the International Civil Aviation Organization (ICAO) Council. The appeal questions the Council's jurisdiction under the 1944 International Air Services Transit Agreement.",
+  "Keywords": [
+    "International Air Services Transit Agreement",
+    "Bahrain",
+    "Egypt",
+    "Saudi Arabia",
+    "United Arab Emirates",
+    "Qatar",
+    "ICAO Council",
+    "ICJ",
+    "Jurisdiction",
+    "Appeal",
+    "Civil Aviation",
+    "State Dispute",
+    "United States Diplomatic and Consular Staff in Tehran case",
+    "Dispute Settlement",
+    "ICJ Judgment",
+    "Constitutional Principles"
+  ]
+}

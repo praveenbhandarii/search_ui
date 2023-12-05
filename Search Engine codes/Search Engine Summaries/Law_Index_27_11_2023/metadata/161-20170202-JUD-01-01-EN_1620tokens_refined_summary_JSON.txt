@@ -1,0 +1,27 @@
+{
+  "Date": "2017",
+  "Parties Involved": ["Somalia", "Kenya"],
+  "Case Name": "Maritime Delimitation in the Indian Ocean (Somalia v. Kenya)",
+  "Case Number": "161/2014",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2017",
+  "Document Summary": "The document contains paragraphs 54-56 of the judgment issued by Vice President Yusuf of the ICJ. The judgment was issued on March 24, 2017.",
+  "Case Summary": "The case involves a dispute between Somalia and Kenya regarding the delimitation of maritime spaces in the Indian Ocean. It highlights the issue of State succession and the cleanslate doctrine, with implications for other disputes related to State succession and the cleanslate doctrine. The case raises questions about the changing nature of international law since the 1960s and the need for active participation by States in the creation of legal instruments.",
+  "Keywords": [
+    "Maritime Delimitation",
+    "Somalia",
+    "Kenya",
+    "International Court of Justice",
+    "ICJ",
+    "Dispute Resolution",
+    "State Succession",
+    "Cleanslate Doctrine",
+    "Memorandum of Understanding",
+    "MOU",
+    "Nyerere Doctrine",
+    "Bilateral Agreement",
+    "International Law",
+    "Legal Instruments"
+  ]
+}

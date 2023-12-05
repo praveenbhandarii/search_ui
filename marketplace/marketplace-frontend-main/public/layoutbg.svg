@@ -1,0 +1,15 @@
+<svg class="w-full h-full" viewBox="0 0 400 400">
+    <defs>
+        <pattern id="bg_pattern" width="100" height="100" patternUnits="userSpaceOnUse">
+            <circle cx="25" cy="25" r="20" stroke="#F37802" stroke-width="6" fill="none"></circle>
+            <circle cx="22" cy="20" r="10" fill="#0027B3"></circle>
+            <circle cx="25" cy="75" r="20" stroke="#0027B3" stroke-width="6" fill="none"></circle>
+            <circle cx="22" cy="78" r="10" fill="#F37802"></circle>
+            <circle cx="75" cy="25" r="20" stroke="#0027B3" stroke-width="6" fill="none"></circle>
+            <circle cx="80" cy="26" r="10" fill="#F37802"></circle>
+            <circle cx="75" cy="75" r="20" stroke="#F37802" stroke-width="6" fill="none"></circle>
+            <circle cx="80" cy="78" r="10" fill="#0027B3"></circle>
+        </pattern>
+    </defs>
+    <rect x="0" y="0" width="100%" height="100%" fill="url(#bg_pattern)" opacity="1"></rect>
+</svg>

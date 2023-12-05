@@ -1,0 +1,31 @@
+{
+  "Date": "2016",
+  "Parties Involved": [
+    "Republic of the Marshall Islands",
+    "India"
+  ],
+  "Case Name": "Obligations concerning Negotiations relating to Cessation of the Nuclear Arms Race and to Nuclear Disarmament (Marshall Islands v. India)",
+  "Case Number": "ICJ/158",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2016",
+  "Document Summary": "This is a judgment document from the International Court of Justice in the case of Obligations concerning Negotiations relating to Cessation of the Nuclear Arms Race and to Nuclear Disarmament (Marshall Islands v. India). The Republic of the Marshall Islands filed applications against nine states, including India, accusing them of not fulfilling their obligations regarding the cessation of the nuclear arms race and nuclear disarmament.",
+  "Case Summary": "The Republic of the Marshall Islands filed applications against nine states, including India, accusing them of not fulfilling their obligations regarding the cessation of the nuclear arms race and nuclear disarmament. This document is a judgment type document from the International Court of Justice.",
+  "Keywords": [
+    "Negotiations",
+    "Nuclear Arms Race",
+    "Nuclear Disarmament",
+    "Marshall Islands",
+    "India",
+    "Obligations",
+    "International Court of Justice",
+    "ICJ/158",
+    "Preliminary Objections",
+    "Diplomatic Exchanges",
+    "Contentious Case",
+    "Dispute",
+    "Court Evidence",
+    "Clarity of Statements",
+    "Case Law Citations"
+  ]
+}

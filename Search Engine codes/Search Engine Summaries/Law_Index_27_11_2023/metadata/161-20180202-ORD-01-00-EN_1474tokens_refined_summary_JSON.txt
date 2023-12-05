@@ -1,0 +1,29 @@
+{
+  "Date": "2018",
+  "Parties Involved": ["Somalia", "Kenya"],
+  "Case Name": "Maritime Delimitation in the Indian Ocean (Somalia v. Kenya)",
+  "Case Number": "161/2014",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Order",
+  "Document Date": "2018",
+  "Document Summary": "This order document, dated February 2, 2018, provides key information about the case. It includes the case name, court details, case number, and the parties involved. The document also mentions the legal issues at hand, timelines for filing pleadings, important dates and events, document citation, judges involved, registrar, and requests for additional time by both parties.",
+  "Case Summary": "This case involves a dispute between Somalia and Kenya regarding the delimitation of maritime spaces in the Indian Ocean. Somalia filed an Application in August 2014, seeking the Court's determination of the maritime boundary between the two states based on international law. The parties agree on the need for a second round of written pleadings but disagree on the length of the time-limits for filing these pleadings. The ICJ takes this into consideration in its decision.",
+  "Keywords": [
+    "Maritime Delimitation",
+    "Somalia",
+    "Kenya",
+    "Indian Ocean",
+    "International Court of Justice",
+    "ICJ",
+    "Legal Boundary",
+    "Territorial Sea",
+    "Exclusive Economic Zone",
+    "Continental Shelf",
+    "Preliminary Objections",
+    "Jurisdiction",
+    "Admissibility",
+    "Timelines",
+    "Written Pleadings",
+    "Court Judgment"
+  ]
+}

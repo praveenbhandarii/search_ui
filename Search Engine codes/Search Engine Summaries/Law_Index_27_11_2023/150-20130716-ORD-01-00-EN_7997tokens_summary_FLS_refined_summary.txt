@@ -1,0 +1,43 @@
+Title:
+- Case: Costa Rica v. Nicaragua and Nicaragua v. Costa Rica
+- Document Type: ORD
+- Document Date: 20130716
+- Order: None
+- Language: EN
+- Tokens: 7997
+
+Overview:
+This legal document pertains to a dispute between Costa Rica and Nicaragua over the construction of a road in the border area between the two countries, including the San Juan River. It includes information about the case names, dates, judges, provisional measures, legal basis, parties' requests, and additional details.
+
+Important Details:
+- Case names: Costa Rica v. Nicaragua and Nicaragua v. Costa Rica
+- Case details: Dispute over construction of a road in the border area between the two countries, including the San Juan River.
+- Dates:
+  - Order issued: July 16, 2013
+  - Request for modification of order: December 22, 2011 (Nicaragua)
+  - Joining of cases: April 17, 2013
+- Judges:
+  - President Tomka
+  - Vice-President Seplveda Amor
+  - Judges Owada, Abraham, Keith, Bennouna, Skotnikov, Canado Trindade, Yusuf, Greenwood, Xue, Donoghue, Gaja, Sebutinde, Bhandari
+  - Ad hoc judges: Guillaume, Dugard
+- Document details:
+  - Document title: ICJ Reports of Judgments, Advisory Opinions, and Orders
+  - Publication year: 2013
+  - Case numbers: 150 and 152
+- Provisional measures:
+  - Requested by Costa Rica
+  - Aimed at halting Nicaragua's construction of the road and modifying certain activities in the border area
+  - Based on Article 41 of the Statute of the Court and Article 76 of the Rules of Court
+- Legal basis:
+  - Article 41 of the Statute of the Court
+  - Article 76 of the Rules of Court
+- Parties' requests:
+  - Costa Rica: Modification of the Court's Order of March 8, 2011, to prevent the presence of Nicaraguan persons in a designated area and to prevent irreparable harm to individuals and the area
+  - Nicaragua: Rejection of Costa Rica's request and modification of the Order of March 8, 2011, based on Article 76 of the Rules of Court
+
+Additional Information:
+- The case is titled "Nicaragua v. Costa Rica" and is pending before the International Court of Justice
+- Timelimits have been fixed for the filing of written observations and requests for the modification of the Order
+- Costa Rica's request for modification is based on Article 76 of the Rules of Court
+- Nicaragua has reserved the right to amend its request and argues that Costa Rica's request does not fulfill the requirements for modification

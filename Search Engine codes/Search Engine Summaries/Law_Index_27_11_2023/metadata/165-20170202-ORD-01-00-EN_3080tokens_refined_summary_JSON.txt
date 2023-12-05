@@ -1,0 +1,12 @@
+{
+    "Date": "2017",
+    "Parties Involved": ["Costa Rica", "Nicaragua"],
+    "Case Name": "Land Boundary in the Northern Part of Isla Portillos (Costa Rica v. Nicaragua)",
+    "Case Number": "165",
+    "Court Name": "International Court of Justice (ICJ)",
+    "Document Type": "Order",
+    "Document Date": "2017",
+    "Document Summary": "This document is an Order of the International Court of Justice dated 2 February 2017, cited as C.I.J. Reports 2017, p. 91, referencing Article 48 of the Statute of the Court, as well as Article 31 and 47 of the Rules of Court. The judges presiding over the case are President Abraham, Vice President Yusuf, Judges Owada, Tomka, Canado Trindade, Greenwood, Xue, Donoghue, Gaja, Sebutinde, Robinson, and Gevorgian. The Registrar is Couvreur.",
+    "Case Summary": "This case, numbered 165, involves a dispute between Costa Rica and Nicaragua regarding the precise definition of the boundary in the area of Los Portillos/Harbor Head Lagoon and the establishment of a new military camp by Nicaragua on the beach of Isla Portillos. Costa Rica filed an Application instituting proceedings against Nicaragua on 16 January 2017.",
+    "Keywords": ["Land Boundary", "Isla Portillos", "Costa Rica", "Nicaragua", "Dispute", "Military Camp", "Maritime Boundary", "Caribbean Sea", "Pacific Ocean", "International Court of Justice", "ICJ", "Article 48", "Statute of the Court", "Article 31", "Article 47", "Rules of Court", "President Abraham", "Vice President Yusuf", "Judges Owada", "Judge Tomka", "Judge Canado Trindade", "Judge Greenwood", "Judge Xue", "Judge Donoghue", "Judge Gaja", "Judge Sebutinde", "Judge Robinson", "Judge Gevorgian", "Registrar Couvreur"]
+}

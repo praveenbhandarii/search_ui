@@ -1,0 +1,26 @@
+{
+  "Date": "2013",
+  "Parties Involved": [
+    "Nicaragua",
+    "Colombia"
+  ],
+  "Case Name": "Territorial and Maritime Dispute (Nicaragua v. Colombia)",
+  "Case Number": "ICJ/XX",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2013",
+  "Document Summary": "This judgment, dated June 14, 2013, is a joint declaration by Judges Antonio Augusto Canado Trindade and Abdulqawi Ahmed Yusuf regarding the ICJ's jurisdiction to consider applications for permission to intervene. It emphasizes that the consent of the parties to the main case is not a condition for intervention as a nonparty under Article 62 of the ICJ Statute. The document cites previous cases to support the Court's jurisdiction and is part of the ICJ Reports publication.",
+  "Case Summary": "The case involves a territorial and maritime dispute in the Caribbean Sea between Nicaragua and Colombia. Honduras applied for permission to intervene, but the ICJ denied the application, finding that Honduras did not demonstrate a legal interest affected by the case and dismissed their arguments regarding the 1986 Treaty. The judgment clarifies the ICJ judges' positions on the relevance of state consent in considering intervention applications under Article 62 of the ICJ Statute.",
+  "Keywords": [
+    "Territorial Dispute",
+    "Maritime Dispute",
+    "Nicaragua",
+    "Colombia",
+    "Caribbean Sea",
+    "ICJ",
+    "Judgment",
+    "Intervention",
+    "Article 62",
+    "Consent of Parties"
+  ]
+}

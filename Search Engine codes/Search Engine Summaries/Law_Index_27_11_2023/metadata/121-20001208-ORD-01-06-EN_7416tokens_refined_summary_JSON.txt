@@ -1,0 +1,12 @@
+{
+  "Date": "2000",
+  "Parties Involved": ["Democratic Republic of the Congo", "Belgium"],
+  "Case Name": "Arrest Warrant of 11 April 2000 (Democratic Republic of the Congo v. Belgium)",
+  "Case Number": "ICJ/15",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Order",
+  "Document Date": "2000",
+  "Document Summary": "This document is an order containing a dissenting opinion from Judge Bulabula regarding the indication of provisional measures in the case between the Democratic Republic of the Congo and Belgium.",
+  "Case Summary": "The case involves a dispute between the Democratic Republic of the Congo (DRC) and Belgium regarding an international arrest warrant issued by Belgium against the acting Congolese Minister for Foreign Affairs. The ICJ is considering whether to indicate provisional measures to protect the rights of the DRC until a final decision is reached. Judge Bulabula dissents from the majority decision of the ICJ regarding the indication of provisional measures.",
+  "Keywords": ["Arrest Warrant", "11 April 2000", "Democratic Republic of the Congo", "Belgium", "International Court of Justice", "Dissenting Opinion", "Provisional Measures", "Vienna Convention on Consular Relations", "Jurisprudence", "Judge Bedjaoui"]
+}

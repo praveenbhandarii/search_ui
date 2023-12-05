@@ -1,0 +1,20 @@
+{
+  "Date": "2018",
+  "Parties Involved": ["Costa Rica", "Nicaragua"],
+  "Case Name": "Land Boundary in the Northern Part of Isla Portillos (Costa Rica v. Nicaragua)",
+  "Case Number": "165",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2018",
+  "Document Summary": "This document is the judgment on the dispute concerning the land boundary in the northern part of Isla Portillos between Costa Rica and Nicaragua. It provides a comprehensive analysis of the dispute and the ruling of the 17-judge panel.",
+  "Case Summary": "This case, numbered 165, involves a dispute between Costa Rica and Nicaragua regarding the precise definition of the boundary in the area of Los Portillos/Harbor Head Lagoon and the establishment of a new military camp by Nicaragua on the beach of Isla Portillos. Costa Rica filed an Application instituting proceedings against Nicaragua on 16 January 2017.",
+  "Keywords": [
+    "Costa Rica",
+    "Nicaragua",
+    "Isla Portillos",
+    "Land Boundary Dispute",
+    "International Court of Justice",
+    "ICJ Case 165",
+    "Judgment"
+  ]
+}

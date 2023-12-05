@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Simple Transactional Email</title>
+    <style>
+      @media only screen and (max-width: 620px) {
+        table.body h1 {
+          font-size: 28px !important;
+          margin-bottom: 10px !important;
+        }
+
+        table.body p,
+        table.body ul,
+        table.body ol,
+        table.body td,
+        table.body span,
+        table.body a {
+          font-size: 16px !important;
+        }
+
+        table.body .wrapper,
+        table.body .article {
+          padding: 10px !important;
+        }
+
+        table.body .content {
+          padding: 0 !important;
+        }
+
+        table.body .container {
+          padding: 0 !important;
+          width: 100% !important;
+        }
+
+        table.body .main {
+          border-left-width: 0 !important;
+          border-radius: 0 !important;
+          border-right-width: 0 !important;
+        }
+
+        table.body .btn table {
+          width: 100% !important;
+        }
+
+        table.body .btn a {
+          width: 100% !important;
+        }
+
+        table.body .img-responsive {
+          height: auto !important;
+          max-width: 100% !important;
+          width: auto !important;
+        }
+      }
+      @media all {
+        .ExternalClass {
+          width: 100%;
+        }
+
+        .ExternalClass,
+        .ExternalClass p,
+        .ExternalClass span,
+        .ExternalClass font,
+        .ExternalClass td,
+        .ExternalClass div {
+          line-height: 100%;
+        }
+
+        .apple-link a {
+          color: inherit !important;
+          font-family: inherit !important;
+          font-size: inherit !important;
+          font-weight: inherit !important;
+          line-height: inherit !important;
+          text-decoration: none !important;
+        }
+
+        #MessageViewBody a {
+          color: inherit;
+          text-decoration: none;
+          font-size: inherit;
+          font-family: inherit;
+          font-weight: inherit;
+          line-height: inherit;
+        }
+
+        .btn-primary table td:hover {
+          background-color: #34495e !important;
+        }
+
+        .btn-primary a:hover {
+          background-color: #34495e !important;
+          border-color: #34495e !important;
+        }
+      }
+    </style>
+  </head>
+  <body
+    style="
+      background-color: #f6f6f6;
+      font-family: sans-serif;
+      -webkit-font-smoothing: antialiased;
+      font-size: 14px;
+      line-height: 1.4;
+      margin: 0;
+      padding: 0;
+      -ms-text-size-adjust: 100%;
+      -webkit-text-size-adjust: 100%;
+    "
+  >
+    <span
+      class="preheader"
+      style="
+        color: transparent;
+        display: none;
+        height: 0;
+        max-height: 0;
+        max-width: 0;
+        opacity: 0;
+        overflow: hidden;
+        mso-hide: all;
+        visibility: hidden;
+        width: 0;
+      "
+      >Contact Us | Lawyantra</span
+    >
+    <table
+      role="presentation"
+      border="0"
+      cellpadding="0"
+      cellspacing="0"
+      class="body"
+      style="
+        border-collapse: separate;
+        mso-table-lspace: 0pt;
+        mso-table-rspace: 0pt;
+        background-color: #f6f6f6;
+        width: 100%;
+      "
+      width="100%"
+      bgcolor="#f6f6f6"
+    >
+      <tr>
+        <td
+          style="font-family: sans-serif; font-size: 14px; vertical-align: top"
+          valign="top"
+        >
+          &nbsp;
+        </td>
+        <td
+          class="container"
+          style="
+            font-family: sans-serif;
+            font-size: 14px;
+            vertical-align: top;
+            display: block;
+            max-width: 580px;
+            padding: 10px;
+            width: 580px;
+            margin: 0 auto;
+          "
+          width="580"
+          valign="top"
+        >
+          <div
+            class="content"
+            style="
+              box-sizing: border-box;
+              display: block;
+              margin: 0 auto;
+              max-width: 580px;
+              padding: 10px;
+            "
+          >
+            <!-- title logo -->
+            <div
+              class="contact"
+              style="clear: both; text-align: center; width: 100%"
+            >
+              <table
+                role="presentation"
+                border="0"
+                cellpadding="0"
+                cellspacing="0"
+                style="
+                  border-collapse: separate;
+                  mso-table-lspace: 0pt;
+                  mso-table-rspace: 0pt;
+                  width: 100%;
+                "
+                width="100%"
+              >
+                <tr>
+                  <td
+                    class="content-block powered-by"
+                    style="
+                      background-color: #ffffff;
+                      font-family: sans-serif;
+                      vertical-align: top;
+                      padding-top: 10px;
+                      color: #ffffff;
+                      font-size: 12px;
+                      text-align: center;
+                      vertical-align: middle;
+                    "
+                    valign="top"
+                    align="center"
+                  >
+                    <div
+                      style="
+                        margin-top: 23px;
+                        margin-bottom: 23px;
+                        text-align: center;
+                      "
+                    >
+                      <div
+                        style="
+                          color: #0027b3;
+                          text-align: center;
+                          font-size: 18px;
+                          font-style: normal;
+                          font-weight: 700;
+                          line-height: normal;
+                        "
+                      >
+                        <div>
+                          <img
+                            class="adapt-img"
+                            src="https://hgrrfp.stripocdn.email/content/guids/CABINET_3fd08a417f1abaaea7451be8f8e35d53da50090b1d0ecf4f4029c72d4ce792d6/images/group_586_1.png"
+                            alt
+                            width="129"
+                            height="42"
+                          />
+                        </div>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+              </table>
+            </div>
+
+            <!-- End title logo -->
+            <!-- Blue title -->
+            <div
+              class="contact"
+              style="clear: both; text-align: center; width: 100%"
+            >
+              <table
+                role="presentation"
+                border="0"
+                cellpadding="0"
+                cellspacing="0"
+                style="
+                  border-collapse: separate;
+                  mso-table-lspace: 0pt;
+                  mso-table-rspace: 0pt;
+                  width: 100%;
+                "
+                width="100%"
+              >
+                <tr>
+                  <td
+                    class="content-block powered-by"
+                    style="
+                      background-color: #0027b3;
+                      font-family: sans-serif;
+                      vertical-align: top;
+                      padding-top: 10px;
+                      color: #ffffff;
+                      font-size: 12px;
+                      text-align: center;
+                      vertical-align: middle;
+                    "
+                    valign="top"
+                    align="center"
+                  >
+                    <div
+                      style="
+                        margin-top: 23px;
+                        margin-bottom: 23px;
+                        text-align: center;
+                      "
+                    >
+                      <div
+                        style="
+                          color: #0027b3;
+                          text-align: center;
+                          font-size: 18px;
+                          font-style: normal;
+                          font-weight: 700;
+                          line-height: normal;
+                        "
+                      >
+                        <div>
+                          <svg
+                            width="176"
+                            height="35"
+                            viewBox="0 0 176 35"
+                            fill="none"
+                            xmlns="http://www.w3.org/2000/svg"
+                          >
+                            <line
+                              y1="16"
+                              x2="62"
+                              y2="16"
+                              stroke="white"
+                              stroke-width="2"
+                            />
+                            <line
+                              x1="114"
+                              y1="16"
+                              x2="176"
+                              y2="16"
+                              stroke="white"
+                              stroke-width="2"
+                            />
+                            <g clip-path="url(#clip0_1869_8538)">
+                              <path
+                                d="M78.1667 14C77.8572 14 77.5605 14.1229 77.3417 14.3417C77.1229 14.5605 77 14.8572 77 15.1667V19.8333C77 20.1428 77.1229 20.4395 77.3417 20.6583C77.5605 20.8771 77.8572 21 78.1667 21C78.4761 21 78.7728 20.8771 78.9916 20.6583C79.2104 20.4395 79.3333 20.1428 79.3333 19.8333V15.1667C79.3333 14.8572 79.2104 14.5605 78.9916 14.3417C78.7728 14.1229 78.4761 14 78.1667 14ZM95.6667 16.3333H96.8333C97.1428 16.3333 97.4395 16.2104 97.6583 15.9916C97.8771 15.7728 98 15.4761 98 15.1667C98 14.8572 97.8771 14.5605 97.6583 14.3417C97.4395 14.1229 97.1428 14 96.8333 14H95.6667V16.3333Z"
+                                fill="white"
+                              />
+                              <path
+                                fill-rule="evenodd"
+                                clip-rule="evenodd"
+                                d="M70 3.5C70 2.57174 70.3687 1.6815 71.0251 1.02513C71.6815 0.368749 72.5717 0 73.5 0L101.5 0C102.428 0 103.318 0.368749 103.975 1.02513C104.631 1.6815 105 2.57174 105 3.5V31.5C105 32.4283 104.631 33.3185 103.975 33.9749C103.318 34.6313 102.428 35 101.5 35H73.5C72.5717 35 71.6815 34.6313 71.0251 33.9749C70.3687 33.3185 70 32.4283 70 31.5V3.5ZM74.6667 15.1667C74.6667 14.707 74.7572 14.2519 74.9331 13.8273C75.109 13.4026 75.3668 13.0168 75.6918 12.6918C76.0168 12.3668 76.4026 12.109 76.8273 11.9331C77.2519 11.7572 77.707 11.6667 78.1667 11.6667C78.6263 11.6667 79.0814 11.7572 79.5061 11.9331C79.9307 12.109 80.3165 12.3668 80.6415 12.6918C80.9665 13.0168 81.2244 13.4026 81.4002 13.8273C81.5761 14.2519 81.6667 14.707 81.6667 15.1667V19.8333C81.6667 20.293 81.5761 20.7481 81.4002 21.1727C81.2244 21.5974 80.9665 21.9832 80.6415 22.3082C80.3165 22.6332 79.9307 22.891 79.5061 23.0669C79.0814 23.2428 78.6263 23.3333 78.1667 23.3333C77.707 23.3333 77.2519 23.2428 76.8273 23.0669C76.4026 22.891 76.0168 22.6332 75.6918 22.3082C75.3668 21.9832 75.109 21.5974 74.9331 21.1727C74.7572 20.7481 74.6667 20.293 74.6667 19.8333V15.1667ZM86.3333 14H84V11.6667H91V14H88.6667V23.3333H86.3333V14ZM93.3333 11.6667H96.8333C97.7616 11.6667 98.6518 12.0354 99.3082 12.6918C99.9646 13.3482 100.333 14.2384 100.333 15.1667C100.333 16.0949 99.9646 16.9852 99.3082 17.6415C98.6518 18.2979 97.7616 18.6667 96.8333 18.6667H95.6667V23.3333H93.3333V11.6667Z"
+                                fill="white"
+                              />
+                            </g>
+                            <defs>
+                              <clipPath id="clip0_1869_8538">
+                                <rect
+                                  width="35"
+                                  height="35"
+                                  fill="white"
+                                  transform="translate(70)"
+                                />
+                              </clipPath>
+                            </defs>
+                          </svg>
+                        </div>
+                      </div>
+                      <div>
+                        <div
+                          style="
+                            color: #fff;
+                            text-align: center;
+                            font-size: 18px;
+                            font-style: normal;
+                            font-weight: 500;
+                            margin-top: 15px;
+                            line-height: normal;
+                          "
+                        >
+                          Please use the verification code below on the Arengu
+                          website:
+                        </div>
+                      </div>
+                      <!-- <div>
+                      <div
+                        style="
+                          color: #fff;
+                          text-align: center;
+                          font-size: 22px;
+                          font-style: normal;
+                          font-weight: 800;
+                          line-height: normal;
+                        "
+                      >
+                        Verify your e-mail address
+                      </div>
+                    </div> -->
+                    </div>
+                  </td>
+                </tr>
+              </table>
+            </div>
+
+            <!-- End blue title -->
+
+            <!-- Blue title -->
+            <div
+              class="contact"
+              style="clear: both; text-align: center; width: 100%"
+            >
+              <table
+                role="presentation"
+                border="0"
+                cellpadding="0"
+                cellspacing="0"
+                style="
+                  border-collapse: separate;
+                  mso-table-lspace: 0pt;
+                  mso-table-rspace: 0pt;
+                  width: 100%;
+                "
+                width="100%"
+              >
+                <tr>
+                  <td
+                    class="content-block powered-by"
+                    style="
+                      background-color: #ffffff;
+                      font-family: sans-serif;
+                      vertical-align: top;
+                      padding-top: 10px;
+                      color: #ffffff;
+                      font-size: 12px;
+                      text-align: center;
+                      vertical-align: middle;
+                    "
+                    valign="top"
+                    align="center"
+                  >
+                    <div style="padding: 5%; text-align: center">
+                      <div>
+                        <div
+                          style="
+                            color: #2e2e2e;
+                            text-align: center;
+                            font-size: 18px;
+                            font-style: normal;
+                            font-weight: 700;
+                            line-height: normal;
+                          "
+                        >
+                          <!-- Enter name here  -->
+
+                          OTP: {{ otp }}<br />
+                          <br />
+                          <span
+                            style="
+                              color: #2e2e2e;
+                              text-align: center;
+                              font-size: 14px;
+                              font-style: normal;
+                              font-weight: 400;
+                              line-height: normal;
+                            "
+                          >
+                            <!-- Enter query here  -->
+                            If you didn't request this, you can ignore this
+                            email or let us know.
+                          </span>
+                          <br />
+                          <span
+                            style="
+                              color: #2e2e2e;
+                              text-align: center;
+                              font-size: 14px;
+
+                              font-weight: 400;
+                              line-height: normal;
+                            "
+                          >
+                            <!-- Enter query here  -->
+                            <strong> Team Lawyantra</strong>
+                          </span>
+                        </div>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+              </table>
+            </div>
+
+            <!-- End blue title -->
+
+            <!-- START FOOTER -->
+            <div
+              class="footer"
+              style="
+                clear: both;
+
+                text-align: center;
+                width: 100%;
+              "
+            >
+              <table
+                role="presentation"
+                border="0"
+                cellpadding="0"
+                cellspacing="0"
+                style="border-collapse: separate; width: 100%"
+                width="100%"
+              >
+                <tr>
+                  <td
+                    class="content-block powered-by"
+                    style="
+                      background-color: #0027b3;
+                      font-family: sans-serif;
+                      vertical-align: top;
+                      padding-bottom: 10px;
+                      padding-top: 10px;
+                      color: #ffffff;
+
+                      font-size: 12px;
+                      text-align: center;
+                    "
+                    valign="top"
+                    align="center"
+                  >
+                    © Lawyantra 2023
+                  </td>
+                </tr>
+              </table>
+            </div>
+            <!-- END FOOTER -->
+          </div>
+        </td>
+        <td
+          style="font-family: sans-serif; font-size: 14px; vertical-align: top"
+          valign="top"
+        >
+          &nbsp;
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>

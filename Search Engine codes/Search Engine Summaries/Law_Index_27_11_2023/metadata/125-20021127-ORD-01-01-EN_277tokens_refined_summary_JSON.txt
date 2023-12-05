@@ -1,0 +1,24 @@
+{
+    "Date": "2002",
+    "Parties Involved": ["Benin", "Niger"],
+    "Case Name": "Frontier Dispute (Benin/Niger)",
+    "Case Number": "ICJ/15",
+    "Court Name": "International Court of Justice (ICJ)",
+    "Document Type": "Order",
+    "Document Date": "1987",
+    "Document Summary": "This document is an Order of 8 May 1987, I.C.J. Reports 1987, p. 13, signed by Judge Oda. It emphasizes that for an ad hoc chamber to be constituted under Article 26 of the ICJ Statute, the litigating parties must agree not only on the number of chamber members but also on the selection of those members. Judge Oda refers to previous cases and writings on the chambers procedure of the ICJ.",
+    "Case Summary": "On 3 May 2002, Benin and Niger submitted a joint notification to the International Court of Justice (ICJ) regarding a dispute over the definitive delimitation of their entire boundary. Pursuant to Article 1 of the Special Agreement, the parties agreed to refer their frontier dispute to a Chamber of the Court, with each party selecting a judge ad hoc. On 27 November 2002, the ICJ unanimously decided to form a special Chamber of five judges to handle the case.",
+    "Keywords": [
+        "Frontier Dispute",
+        "Benin",
+        "Niger",
+        "Boundary Dispute",
+        "International Court of Justice",
+        "ICJ",
+        "Chamber of the Court",
+        "Judge Oda",
+        "ICJ Statute",
+        "Ad Hoc Chamber",
+        "Special Agreement"
+    ]
+}

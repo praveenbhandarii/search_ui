@@ -1,0 +1,32 @@
+{
+  "Date": "2020",
+  "Parties Involved": [
+    "Kingdom of Bahrain",
+    "Arab Republic of Egypt",
+    "Kingdom of Saudi Arabia",
+    "United Arab Emirates",
+    "State of Qatar"
+  ],
+  "Case Name": "Appeal relating to the Jurisdiction of the ICAO Council under Article II, Section 2, of the 1944 International Air Services Transit Agreement (Bahrain, Egypt and United Arab Emirates v. Qatar)",
+  "Case Number": "ICJ/174",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2020",
+  "Document Summary": "This document is a judgment by the International Court of Justice concerning the appeal relating to the Jurisdiction of the ICAO Council under Article II, Section 2, of the 1944 International Air Services Transit Agreement (IASTA) filed by the Kingdom of Bahrain, the Arab Republic of Egypt, the Kingdom of Saudi Arabia, and the United Arab Emirates against the State of Qatar.",
+  "Case Summary": "This case involves an appeal filed by the Kingdom of Bahrain, the Arab Republic of Egypt, the Kingdom of Saudi Arabia, and the United Arab Emirates (Appellants) against the decision rendered by the Council of the International Civil Aviation Organization (ICAO Council) on 29 June 2018. The appeal challenges the jurisdiction of the ICAO Council under Article II, Section 2, of the 1944 International Air Services Transit Agreement (IASTA). The International Court of Justice (ICJ) dismissed the appeal in its entirety.",
+  "Keywords": [
+    "International Air Services Transit Agreement",
+    "ICAO Council",
+    "Jurisdiction",
+    "Article II Section 2",
+    "ICJ",
+    "Kingdom of Bahrain",
+    "Arab Republic of Egypt",
+    "Kingdom of Saudi Arabia",
+    "United Arab Emirates",
+    "State of Qatar",
+    "Convention on International Civil Aviation",
+    "Due Process",
+    "Admissibility"
+  ]
+}

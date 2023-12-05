@@ -1,0 +1,37 @@
+Case ID: 174 (ICJ/Case Number)
+Court/Tribunal: International Court of Justice (ICJ)
+Document Date: 20200714
+Key Parties Involved: Kingdom of Bahrain, Arab Republic of Egypt, Kingdom of Saudi Arabia, United Arab Emirates, State of Qatar
+Case Name: Appeal relating to the Jurisdiction of the ICAO Council under Article II, Section 2, of the 1944 International Air Services Transit Agreement (Bahrain, Egypt and United Arab Emirates v. Qatar)
+
+Case Summary:
+This case involves an appeal filed by the Kingdom of Bahrain, the Arab Republic of Egypt, the Kingdom of Saudi Arabia, and the United Arab Emirates against the decision of the Council of the International Civil Aviation Organization (ICAO Council). The appeal was filed in response to proceedings initiated by the State of Qatar, alleging violations of the 1944 International Air Services Transit Agreement. The appellant States argue that their airspace restrictions were lawful countermeasures in response to Qatar's alleged prior breaches of obligations under customary international law and resolutions of the Security Council. The key legal issues in this case are whether the ICAO Council has jurisdiction to hear the dispute between Qatar and the appellant States, and whether Qatar's breach of the Riyadh Agreements constitutes a basis for the appellant States to take countermeasures.
+
+Context:
+- The appeal was filed on 4 July 2018, following the decision of the ICAO Council on 29 June 2018.
+- The proceedings were initiated by the State of Qatar against the four appellant States on 30 October 2017.
+- The appeal is based on Article 84 of the Convention on International Civil Aviation.
+- The appellant States argue that their airspace restrictions were lawful countermeasures in response to Qatar's alleged prior breaches of obligations.
+- The legal issues revolve around the jurisdiction of the ICAO Council and the basis for the appellant States' countermeasures.
+- Key citations include articles from the International Air Services Transit Agreement and the Convention on International Civil Aviation, as well as references to various court reports and documents.
+
+Citations:
+- ICAOA: Articles 1.2(b), 1.41.5, 2.552.67, and 7.37.4
+- ICAOB: Articles 1.22, 1.261.28, 1.321.33, 2.8, and 2.522.55
+- CR 2019/13: Paras. 34, 1213, 1214, 2122, and 2224
+- CR 2019/15: Para. 14, and pp. 4041
+- CR 2019/16: Paras. 2 and 34, and pp. 2838
+- CR 2019/17: Para. 9
+
+Citations and References:
+- UNGAOR (United Nations General Assembly Official Records), doc. A/C.6/47/SR.28 (1992), p. 15, para. 65; UNGAOR, doc. A/C.6/47/SR.29 (1992), p. 13, para. 58; UNGAOR, doc. A/C.6/55/SR.18 (2000), p. 11, paras. 59-61.
+- J. Crawford, The International Law Commission's Articles on State Responsibility Introduction, Text, and Commentaries, Cambridge University Press, 2002, pp. 48-49.
+- B. Simma, Countermeasures and Dispute Settlement: A Plea for a Different Balance, 5 European Journal of International Law (1994)
+- B. Simma, The Work of the International Law Commission at Its Fifty-Second Session (2000)
+- Francisco de Vitoria, Juan de la Pea, and Alberico Gentili's writings on the law of nations and human rights
+- A. A. Canado Trindade's book "Totus Orbis: A Viso de Direito Internacional dos Direitos Humanos"
+- Various legal scholars and courts
+- "Comit Jurdico Interamericano"
+- OAS General Secretariat
+
+Note: The summary provided is a combined summary of the information provided in the legal document chunks.

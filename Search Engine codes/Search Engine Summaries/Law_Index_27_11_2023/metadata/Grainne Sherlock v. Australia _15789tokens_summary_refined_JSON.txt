@@ -1,0 +1,21 @@
+{
+  "Date": "2021",
+  "Parties Involved": ["Grainne Sherlock (author)", "The State Party of Australia (party B)"],
+  "Case Name": "Grainne Sherlock vs. The State Party of Australia",
+  "Case Number": "CRPD/C/24/D/20/2014",
+  "Court Name": "United Nations Committee on the Rights of Persons with Disabilities",
+  "Document Type": "Judgment",
+  "Document Date": "2021",
+  "Document Summary": "The Committee found that the State Party violated Sherlock's rights under the Convention on the Rights of Persons with Disabilities. It recommended an effective remedy, including reimbursement of legal costs and compensation for Sherlock. Additionally, it recommended changes to the State Party's visa criteria and a written response within six months.",
+  "Case Summary": "The case highlighted the importance of preventing discrimination against people with disabilities in the immigration process, emphasizing the need for states to ensure that their immigration laws do not perpetuate discrimination. The decision sets a precedent for future cases involving disability-based discrimination in immigration and has implications for the State party's visa criteria and compliance with the ICCPR.",
+  "Keywords": [
+    "Disability Rights",
+    "Grainne Sherlock",
+    "The State Party of Australia",
+    "Visa Criteria",
+    "Convention on the Rights of Persons with Disabilities",
+    "ICCPR",
+    "CRPD",
+    "Immigration Discrimination"
+  ]
+}

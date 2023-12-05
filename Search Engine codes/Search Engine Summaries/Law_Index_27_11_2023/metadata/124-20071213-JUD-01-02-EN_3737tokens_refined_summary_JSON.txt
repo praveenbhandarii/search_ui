@@ -1,0 +1,23 @@
+{
+  "Date": "2007",
+  "Parties Involved": ["Nicaragua", "Colombia"],
+  "Case Name": "Territorial and Maritime Dispute (Nicaragua v. Colombia)",
+  "Case Number": "Not Available",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2007",
+  "Document Summary": "The judgment pertains to a territorial and maritime dispute between Nicaragua and Colombia. The International Court of Justice ruled on the possession of islands, the validity of the 1928 Treaty, and the need for diplomatic resolution. The ruling has implications for the territorial status of the islands and the relationship between Colombia and Nicaragua.",
+  "Case Summary": "The case involves a territorial and maritime dispute between Nicaragua and Colombia, based on an alleged violation of the 1928 Treaty. Nicaragua sought a declaratory judgment, while Colombia opposed the action, seeking a declaration that the treaty was valid. The ICJ ruled on possession, treaty validity, and the need for diplomatic resolution, emphasizing procedural fairness and legal submissions' clarity and precision.",
+  "Keywords": [
+    "Territorial Dispute",
+    "Maritime Dispute",
+    "Nicaragua",
+    "Colombia",
+    "1928 Treaty",
+    "Sovereignty",
+    "International Court of Justice",
+    "Diplomatic Resolution",
+    "Procedural Fairness",
+    "Treaty Nullity"
+  ]
+}

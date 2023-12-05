@@ -1,0 +1,12 @@
+{
+  "Date": "2013",
+  "Parties Involved": ["Nicaragua", "Colombia"],
+  "Case Name": "Territorial and Maritime Dispute (Nicaragua v. Colombia)",
+  "Case Number": "ICJ/2013",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2013",
+  "Document Summary": "The judgment by the ICJ in the case of Territorial and Maritime Dispute (Nicaragua v. Colombia), including a dissenting opinion by Judge Ronny Abraham. Discusses the interpretation of the 1986 Treaty between Nicaragua and Colombia and the role of Honduras in the dispute. Provides citations to relevant legal principles and precedents. The document was written on June 13, 2013, and is 77 pages long.",
+  "Case Summary": "The case involves a territorial and maritime dispute between Nicaragua and Colombia, with Honduras also having an interest in the matter. The ICJ is considering the interpretation of the 1986 Treaty between Nicaragua and Colombia and the role of Honduras in the dispute. Judge Abraham disagrees with the Court's decision to reject Honduras' request to intervene in the case, arguing that third states have a conditional right to intervene, subject to certain conditions. The case is related to the dispute between Nicaragua and Honduras, where the ICJ established a bisector line to delimit the maritime boundary in 2007. The future judgment may affect Honduras' interests in fixing the endpoint of the bisector line and its rights in the area to the south of the red line.",
+  "Keywords": ["Territorial Dispute", "Maritime Dispute", "Nicaragua", "Colombia", "Honduras", "ICJ", "1986 Treaty", "Dissenting Opinion", "Judge Abraham", "Jurisdiction", "Intervention", "Legal Principles", "Precedents", "June 13, 2013", "Pact of Bogotá", "Article VI"]
+}

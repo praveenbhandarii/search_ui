@@ -1,0 +1,33 @@
+Title: Whaling in the Antarctic (Australia v. Japan: New Zealand intervening)
+
+Case Overview:
+Australia initiated proceedings against Japan in 2010, alleging that Japan's whaling program in the Antarctic, known as JARPA II, violated its obligations under the International Convention for the Regulation of Whaling (ICRW) and other international obligations for the preservation of marine mammals and the marine environment.
+
+Document Overview:
+This document is a judgment from the International Court of Justice (ICJ) regarding the case of Whaling in the Antarctic. It was written on May 15, 2015, and is part of the ICJ case file. The judgment was delivered by Judge Owada, with additional opinions from other judges. The document provides a detailed analysis of the legal issues surrounding Japan's whaling activities and the interpretation of the ICRW. The document includes citations and dates, such as the 2007 statement from the Chair of the Scientific Committee and a forthcoming review of JARPA II by the IWC in 2014. The case citation is 98 8 CIJ1062.indb 324.
+
+Important Details:
+- The International Convention for the Regulation of Whaling aims to protect all species of whales from overfishing and establish a system of international regulation for whale fisheries.
+- The Convention does not impose a total permanent ban on whaling but provides for a phasing out of whaling based on scientific advice.
+- The International Whaling Commission (IWC) has the power to amend the provisions of the Convention's Schedule, which must be based on scientific findings and consider the interests of consumers and the whaling industry.
+- Each Contracting Government has the right to object to amendments to the Schedule, which will not become effective unless objections are withdrawn.
+- The case raises questions about the interpretation of Article VIII of the Convention, which governs special permits for scientific research whaling.
+- Japan argues that its whaling activities are for scientific research purposes and comply with IWC regulations, while Australia and the IWC contend that they are for commercial purposes and violate the Convention.
+- The Court concludes that Japan's whaling activities under JARPA II, including the lethal taking of whales, do not qualify as activities conducted for scientific research and are therefore not in accordance with the Convention.
+- The judgment has been criticized for expanding the scope of review and examining the design and implementation of the whaling program, which was not a common ground among the parties.
+- The Court's role is to ensure that the procedures prescribed by the Convention's regulatory regime are scrupulously observed.
+- The standard of review applied by the Court is a matter of debate, with Australia advocating for a broader scrutiny and a strong presumption against the validity of special permits.
+- The judgment cites the jurisprudence of the Appellate Body of the World Trade Organization to support the use of an objective reasonableness standard in assessing the grant of special permits.
+- The IWC's Scientific Committee is responsible for evaluating the scientific merits of research activities, including Japan's JARPA/JARPA II program.
+- The Court is not requiring Japan to revoke any extant authorization, permit, or license granted in relation to JARPA II.
+- The decision is based on the fact that JARPA II could appropriately be valuable in the review process with a view to remodeling or redesigning these activities in accordance with the regulatory framework of the Convention.
+
+Additional Information:
+- The judgment has been criticized for misrepresenting the positions of the parties and expanding the scope of the review by examining the design and implementation of the whaling program, which was not a common ground among the parties.
+- The ICJ clarified that the Court should not have done a substantive assessment of each concrete aspect of the JARPA II program, as it is not within the Court's power to do so.
+- Judge Owada's legal opinion on the International Whaling Commission's (IWC) judgment on Japan's JARPA II whaling program is included in the document.
+- The ICJ drew attention to a point of law related to the methodology employed by the Judgment in applying the standard of objective reasonableness in assessing the concrete activities of JARPA II.
+- The ICJ emphasized that the function of the Court is to assess whether the determination of the Contracting Government is objectively reasonable.
+- The document includes a memorandum from the Japanese government to the ICJ, arguing that the JARPA II program is for purposes of scientific research and not commercial whaling.
+- The document clarifies that the Court is not requiring Japan to revoke any extant authorization, permit, or license granted in relation to JARPA II.
+- The document states that the decision is based on the fact that JARPA II could appropriately be valuable in the review process with a view to remodeling or redesigning these activities in accordance with the regulatory framework of the Convention.

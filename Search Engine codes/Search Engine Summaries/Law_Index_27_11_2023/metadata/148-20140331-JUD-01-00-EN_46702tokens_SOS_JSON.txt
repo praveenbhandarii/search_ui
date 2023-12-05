@@ -1,0 +1,29 @@
+{
+  "Date": "2015",
+  "Parties Involved": ["Australia", "Japan: New Zealand"],
+  "Case Name": "Whaling in the Antarctic (Australia v. Japan: New Zealand intervening)",
+  "Case Number": "148",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2015",
+  "Document Summary": "This document is a judgment type document from the International Court of Justice (ICJ) in Case Number 148. It provides important details, including the case name, jurisdiction, date, parties involved, key provisions, sample sizes, use of lethal methods, decision, remedies, case background, and hearing dates. The document also includes additional information about the case, such as the involvement of New Zealand as an intervening party, the delivery of the judgment on May 18, 2015, and the various agents, counsel, advocates, and judges involved in the case.",
+  "Case Summary": "Australia filed a case against Japan in 2010, alleging that Japan's whaling program, JARPA II, violated the International Convention for the Regulation of Whaling (ICRW) and other international obligations for the preservation of marine mammals and the marine environment. The judgment includes details of the allegations, key provisions, findings, and the involvement of New Zealand as an intervening party.",
+  "Keywords": [
+    "Whaling in the Antarctic",
+    "Australia",
+    "Japan",
+    "New Zealand",
+    "JARPA II",
+    "International Convention for the Regulation of Whaling",
+    "ICRW",
+    "Marine Mammals",
+    "Marine Environment",
+    "ICJ",
+    "Jurisdiction",
+    "Sample Sizes",
+    "Lethal Methods",
+    "Scientific Research",
+    "Remedies",
+    "Article VIII"
+  ]
+}

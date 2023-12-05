@@ -1,0 +1,23 @@
+{
+  "Date": "2019",
+  "Parties Involved": ["A", "Denmark"],
+  "Case Name": "A v. Denmark",
+  "Case Number": "Not available",
+  "Court Name": "United Nations Committee on the Elimination of Racial Discrimination (UN CERD)",
+  "Document Type": "Case Communication",
+  "Document Date": "March 2019",
+  "Document Summary": "Communication submitted to the UN CERD regarding alleged violations of the International Convention on the Elimination of Racial Discrimination by the State party.",
+  "Case Summary": "The author filed a communication with the UN CERD alleging violations of the International Convention on the Elimination of Racial Discrimination by Denmark. The communication relates to the State party's alleged failure to effectively investigate and prosecute incidents of racial discrimination, specifically exhibitions that incited racial discrimination and hatred. The State party responded to the communication, arguing that the investigation was conducted on a fully informed basis and that the decision to discontinue the investigation was not arbitrary.",
+  "Keywords": [
+    "A",
+    "Denmark",
+    "International Convention on the Elimination of Racial Discrimination",
+    "UN CERD",
+    "Communication",
+    "Racial Discrimination",
+    "Hate Speech",
+    "Legal Violations",
+    "Effective Investigations",
+    "Committee's Opinion"
+  ]
+}

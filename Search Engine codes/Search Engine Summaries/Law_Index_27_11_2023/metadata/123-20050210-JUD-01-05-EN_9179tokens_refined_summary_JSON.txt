@@ -1,0 +1,29 @@
+{
+  "Date": "2005",
+  "Parties Involved": ["Liechtenstein", "Germany"],
+  "Case Name": "Certain Property (Liechtenstein v. Germany)",
+  "Case Number": "123",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2005",
+  "Document Summary": "This document is a judgment of the International Court of Justice in Case Number 123, involving a dispute between Liechtenstein and Germany over certain property confiscated during World War II. Key issues include the interpretation of the Convention on the Prevention and Punishment of the Crime of Genocide, duty of a judge ad hoc, jurisdiction and admissibility of the Court, and obligations of neutral states. The judgment also includes a significant dissenting opinion by Judge ad hoc Berman.",
+  "Case Summary": "Liechtenstein filed an application against Germany at the International Court of Justice, initiating proceedings related to a dispute over certain property confiscated during World War II. The case involves issues of jurisdiction, admissibility, interpretation of the Convention on the Prevention and Punishment of the Crime of Genocide, and obligations of neutral states during World War II. The Court has faced challenges in handling the case during the preliminary objections phase, with the German courts and government relying on the Settlement Convention and Allied High Commission Law No. 63.",
+  "Keywords": [
+    "Liechtenstein",
+    "Germany",
+    "International Court of Justice",
+    "Case Number 123",
+    "World War II",
+    "Property Dispute",
+    "Convention on the Prevention and Punishment of the Crime of Genocide",
+    "Judge ad hoc",
+    "Jurisdiction",
+    "Admissibility",
+    "Neutral States",
+    "Preliminary Objections",
+    "Settlement Convention",
+    "Allied High Commission Law No. 63",
+    "Dissenting Opinion",
+    "Vienna Convention on the Law of Treaties"
+  ]
+}

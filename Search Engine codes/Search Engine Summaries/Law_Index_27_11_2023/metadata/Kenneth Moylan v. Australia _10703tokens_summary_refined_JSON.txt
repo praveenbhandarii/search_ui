@@ -1,0 +1,12 @@
+{
+  "Date": "2019",
+  "Parties Involved": ["D.A.S.", "Australia"],
+  "Case Name": "D.A.S. v. Australia",
+  "Case Number": "Communication No. 2234/2013",
+  "Court Name": "United Nations Committee on the Elimination of Racial Discrimination (CERD)",
+  "Document Type": "Views adopted by the Committee under article 22 of the Convention",
+  "Document Date": "2019",
+  "Document Summary": "The Committee adopted views on the case of D.A.S. v. Australia (2234/2013) concerning the application of the Social Security Act and the rights of an Aboriginal Australian man.",
+  "Case Summary": "The case of D.A.S. v. Australia involves the discriminatory effect of the Social Security Act on Aboriginal Australians, the exhaustion of domestic remedies, and the violation of rights under articles 5 and 6 of the Convention.",
+  "Keywords": ["D.A.S.", "Australia", "Social Security Act", "Aboriginal Australians", "Discrimination", "Convention on the Elimination of Racial Discrimination", "Article 22", "Domestic Remedies", "Human Rights", "Social Security Benefits", "Marginalized Communities", "Indigenous Australians", "State Obligations"]
+}

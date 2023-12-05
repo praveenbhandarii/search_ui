@@ -1,0 +1,20 @@
+Title: Maritime Delimitation in the Indian Ocean (Somalia v. Kenya)
+
+Case Overview:
+This case involves a dispute between Somalia and Kenya regarding the delimitation of their maritime boundary in the Indian Ocean. Somalia filed an Application with the International Court of Justice (ICJ) in 2014, requesting the Court to determine the complete course of the maritime boundary between the two states based on international law.
+
+Important Details:
+- The ICJ has been asked to rule on the validity of Kenya's reservation to its optional clause declaration under the United Nations Convention on the Law of the Sea (UNCLOS).
+- Kenya's reservation excludes the jurisdiction of the ICJ in disputes where the parties have agreed to other methods of settlement.
+- The majority of the ICJ held that Kenya's reservation is not valid, as it violates the rules of interpretation of optional clause declarations and reservations established by the ICJ's jurisprudence.
+- The dissenting opinion argues that Kenya's reservation is valid and that the majority's interpretation of the relevant article in UNCLOS is overly broad.
+- The case involves multiple judges, including Judge Robinson, and multiple documents, including UNCLOS and the Memorandum of Understanding (MOU).
+- Kenya and Somalia have not entered into any agreement to exclude the application of Part XV of UNCLOS, which deals with dispute settlement mechanisms.
+- Article 282 of UNCLOS allows disputes to be excluded from the application of Part XV if there is an agreement between the states parties to submit the dispute to a binding decision.
+- The ICJ's decision has implications for other countries with similar reservations to their optional clause declarations.
+
+Document Details:
+This judgment document of the ICJ, dated 20170202, addresses the dispute between Somalia and Kenya over maritime delimitation in the Indian Ocean. The case name is "Maritime Delimitation in the Indian Ocean (Kenya v. Somalia)" and it was filed in 2014. The judges involved include Judge Robinson, and the document references UNCLOS and the ICJ's Statute. The ICJ's jurisdiction is based on the optional clause declaration made by both states under Part XV of UNCLOS, subject to Kenya's reservation. The Court's decision held that Kenya's reservation is not valid and that the Court does not have jurisdiction over the case.
+
+Additional Information:
+The Court's reasoning is based on the interpretation of Article 282 of UNCLOS and the ICJ's Statute. The Court found that Kenya's reservation is inconsistent with the object and purpose of UNCLOS and the ICJ's Statute, and it is not a valid reservation under international law. The procedures set out in Article 287 of UNCLOS do not provide a basis for the Court's jurisdiction. The Court must carefully consider its reasoning to avoid conflicting with the goals of the UNCLOS States parties in constructing the dispute settlement system. The case has implications for other countries with similar reservations to their optional clause declarations.

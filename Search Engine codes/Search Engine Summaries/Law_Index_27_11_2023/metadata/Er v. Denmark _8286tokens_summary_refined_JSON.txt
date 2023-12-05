@@ -1,0 +1,22 @@
+{
+    "Date": "2019",
+    "Parties Involved": ["Murat Er", "Denmark"],
+    "Case Name": "Murat Er vs. Denmark",
+    "Case Number": "Unknown",
+    "Court Name": "Human Rights Committee under the International Covenant on Civil and Political Rights",
+    "Document Type": "Decision on the merits of the case",
+    "Document Date": "March 2019",
+    "Document Summary": "The Human Rights Committee found that the complainant's rights under the Convention were violated, recommending adequate compensation for the moral injury caused by the violations of the Convention.",
+    "Case Summary": "The case involves the complainant, Murat Er, alleging denial of a training position at a company due to his ethnic background. The State party, Denmark, argued the complaint is inadmissible, claiming no imminent violation of the complainant's rights under the Convention. The State party's analysis contended that the protection offered and remedies available fully satisfy the Convention's requirements. However, the Human Rights Committee concluded that the complainant's rights were violated, highlighting issues of racial discrimination and the need for effective protection and remedies. The decision by the Committee on the Elimination of Racial Discrimination further supports the finding of violations and emphasizes the importance of effective protection against ethnic discrimination and the interpretation of national legislation in accordance with international human rights conventions, recommending adequate compensation and wide publicity of its opinion among prosecutors and judicial bodies.",
+    "Keywords": [
+        "Murat Er",
+        "Denmark",
+        "Human Rights Committee",
+        "International Covenant on Civil and Political Rights",
+        "Merits of the Case",
+        "Racial Discrimination",
+        "Admissibility",
+        "Violation of Rights",
+        "Remedies"
+    ]
+}

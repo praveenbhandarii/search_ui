@@ -1,0 +1,28 @@
+{
+	"Date": "2018",
+	"Parties Involved": ["Republic of Nicaragua (Nicaragua)", "Republic of Colombia (Colombia)"],
+	"Case Name": "Alleged Violations of Sovereign Rights and Maritime Spaces in the Caribbean Sea (Nicaragua v. Colombia)",
+	"Case Number": "ICJ/155",
+	"Court Name": "International Court of Justice (ICJ)",
+	"Document Type": "Judgment",
+	"Document Date": "2018",
+	"Document Summary": "The document pertains to the case of Alleged Violations of Sovereign Rights and Maritime Spaces in the Caribbean Sea between Nicaragua and Colombia. It includes the Court's ruling on jurisdiction, admissibility of counterclaims, and setting of timelimits for pleadings.",
+	"Case Summary": "Nicaragua filed an Application on 26 November 2013, initiating proceedings against Colombia. The dispute revolves around the violations of Nicaragua's sovereign rights and maritime zones, as declared by the Court's Judgment of 19 November 2012 in the case concerning Territorial and Maritime Dispute (Nicaragua v. Colombia). Nicaragua also alleges that Colombia has threatened to use force to implement these violations.",
+	"Keywords": [
+		"Alleged Violations",
+		"Sovereign Rights",
+		"Maritime Spaces",
+		"Caribbean Sea",
+		"Nicaragua",
+		"Colombia",
+		"ICJ",
+		"Jurisdiction",
+		"Counterclaims",
+		"Pleadings",
+		"Timelimits",
+		"Pact of Bogotá",
+		"Article XXXI",
+		"Article 79",
+		"Rules of Court"
+	]
+}

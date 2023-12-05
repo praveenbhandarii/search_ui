@@ -1,0 +1,27 @@
+{
+  "Date": "2017",
+  "Parties Involved": ["Nicaragua", "Colombia"],
+  "Case Name": "Alleged Violations of Sovereign Rights and Maritime Spaces in the Caribbean Sea (Nicaragua v. Colombia)",
+  "Case Number": "ICJ/155",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2017",
+  "Document Summary": "The case involves Nicaragua's application against Colombia alleging violations of its sovereign rights and maritime zones as declared by the ICJ's judgment in 2012. The case concerned the delimitation of the maritime boundary, fishing licenses, marine research authorizations, and the duty of due diligence to protect the marine environment.",
+  "Case Summary": "Nicaragua filed an application against Colombia in 2013, alleging violations of its sovereign rights and maritime zones as declared by the ICJ's judgment in 2012. The dispute also involved the threat of force by Colombia to implement these violations. The case revolves around the delimitation of the maritime boundary, fishing licenses, marine research authorizations, and the duty of due diligence to protect the marine environment.",
+  "Keywords": [
+    "Sovereign Rights",
+    "Maritime Spaces",
+    "Caribbean Sea",
+    "Nicaragua",
+    "Colombia",
+    "ICJ",
+    "Maritime Boundary",
+    "Fishing Licenses",
+    "Marine Research Authorizations",
+    "Due Diligence",
+    "Marine Environment",
+    "Pact of Bogot",
+    "Nicaragua's Application",
+    "Colombia's Counter-Claims"
+  ]
+}

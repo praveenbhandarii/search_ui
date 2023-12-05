@@ -1,0 +1,12 @@
+{
+  "Date": "2001",
+  "Parties Involved": ["Nicaragua", "Colombia"],
+  "Case Name": "Territorial and Maritime Dispute (Nicaragua v. Colombia)",
+  "Case Number": "124",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2021",
+  "Document Summary": "This document is a judgment type document of the ICJ in Case Number 124. It contains excerpts from various cases heard by the ICJ, including the S.S. Wimbledon case, Nuclear Tests cases, Continental Shelf case, and El Salvador/Honduras case. The document discusses the distinction between established rights and interests of a legal nature, the ICJ's jurisdiction, and the power to issue binding decisions. It also mentions the principle of 'erga omnes' in international law and the practice of states intervening to protect their legal rights and interests.",
+  "Case Summary": "The case involves a territorial and maritime dispute between Nicaragua and Colombia. Nicaragua filed an application in 2001, initiating proceedings against Colombia regarding legal issues related to territory and maritime delimitation. Colombia filed preliminary objections to jurisdiction, leading to the suspension of the proceedings on the merits. The ICJ has considered the interests of third states in its jurisdictional judgments and has allowed intervention in certain cases. The distinction between rights and interests in the context of territorial and maritime disputes has posed difficulties, and the practical usefulness of this distinction is questioned.",
+  "Keywords": ["Territorial Dispute", "Maritime Dispute", "Nicaragua", "Colombia", "International Court of Justice", "ICJ", "Judgment", "Jurisdiction", "Binding Decisions", "Erga Omnes", "Intervention", "Legal Rights", "Interests of a Legal Nature", "Sovereignty", "Caribbean Sea"]
+}

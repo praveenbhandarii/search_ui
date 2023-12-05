@@ -1,0 +1,32 @@
+{
+  "Date": "2015",
+  "Parties Involved": ["Germany", "Italy"],
+  "Case Name": "ICJ Case Number 150 - JUD",
+  "Case Number": "150 - JUD - 20151216",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judge Donoghue's Separate Opinion",
+  "Document Date": "2015",
+  "Document Summary": "This legal document pertains to a case involving state immunity and the obligation of states to prevent significant transboundary environmental harm. The International Court of Justice (ICJ) examined the concept of customary international law and the balance between sovereign equality and territorial sovereignty. Judge Donoghue delivered a separate opinion emphasizing the duty of states to exercise due diligence in preventing transboundary environmental harm.",
+  "Case Summary": "The case addresses the issue of state immunity and whether Germany was immune from certain lawsuits and measures of constraint in Italy. The ICJ considered the question of customary international law regarding transboundary environmental harm and the obligation of states to exercise due diligence in preventing such harm. Judge Donoghue emphasized the obligation of states to exercise due diligence in preventing significant transboundary environmental harm. The ICJ evaluated the terms 'general international law' and 'customary international law' and examined international custom as evidence of a general practice accepted as law. The importance of considering territorial sovereignty and the norms embodied in the UN Charter when determining customary international law regarding transboundary environmental harm was highlighted. Evidence of state practice and opinio juris is necessary to define the rules of customary international law governing a specific case. The exception to state immunity was evaluated, considering the tension between sovereign equality and territorial sovereignty. States have the right to exploit their resources but also the responsibility to prevent significant transboundary environmental harm. The state of origin has the obligation to exercise due diligence in preventing transboundary environmental harm, even in the absence of material damage. The principle of prevention is rooted in the due diligence required of a state within its territory.",
+  "Keywords": [
+    "State Immunity",
+    "Transboundary Environmental Harm",
+    "Customary International Law",
+    "Sovereign Equality",
+    "Territorial Sovereignty",
+    "Due Diligence",
+    "International Custom",
+    "Opinio Juris",
+    "General International Law",
+    "UN Charter",
+    "State Practice",
+    "Exception to State Immunity",
+    "Environmental Impact Assessment",
+    "Pulp Mills on the River Uruguay Case",
+    "Costa Rica",
+    "Nicaragua",
+    "Notification and Consultation",
+    "International Law Commission",
+    "Draft Articles on Prevention of Transboundary Harm from Hazardous Activities"
+  ]
+}

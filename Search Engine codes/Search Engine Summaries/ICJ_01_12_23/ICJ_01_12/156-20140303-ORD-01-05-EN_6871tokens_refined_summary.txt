@@ -1,0 +1,23 @@
+Case ID: ICJ/156
+Court/Tribunal: International Court of Justice (ICJ)
+Document Date: 2014
+Key Parties Involved: Timor-Leste, Australia
+Case Name: Questions relating to the Seizure and Detention of Certain Documents and Data (Timor-Leste v. Australia)
+
+Case Summary:
+Timor-Leste initiated proceedings against Australia regarding the seizure and detention of documents, data, and other property belonging to Timor-Leste or protected under international law. The items were seized from the offices of one of Timor-Leste's legal advisers in Australia. Timor-Leste claimed that the seized items included correspondence related to a pending arbitration under the Timor Sea Treaty. Timor-Leste invoked its declaration under Article 36, paragraph 2 of the Statute as the basis for jurisdiction. Australia acknowledged the ICJ's compulsory jurisdiction but made a reservation regarding the delimitation of maritime zones.
+
+Context:
+- Timor-Leste contended that the seizure occurred under a warrant issued under the Australian Security Intelligence Organisation Act of 1979.
+- Timor-Leste argued that the ICJ has prima facie jurisdiction over the dispute and that the case is urgent.
+- Australia informed the ICJ that it will not contest jurisdictional or admissibility matters at this stage of the proceedings.
+- Timor-Leste requested the ICJ to order Australia not to access or use the seized documents.
+- The ICJ considered whether the Attorney General of Australia was exercising a judicial or quasi-judicial function when signing the warrants for the raid.
+- The ICJ found that the Attorney General is a member of the Executive and not a judge or quasi-judge, and therefore, the signing of the warrants was not a judicial or quasi-judicial function.
+- The ICJ required Australia to notify the court and Timor-Leste before accessing or using any of the seized documents.
+
+Citations:
+- Australia Security Organisation Act 1979 (Cth)
+- Article 36, paragraph 2 of the Statute
+- Blatch v. Archer (1774), 98 ER 969
+- Refjek v. McElroy (1965), 112 CLR 517

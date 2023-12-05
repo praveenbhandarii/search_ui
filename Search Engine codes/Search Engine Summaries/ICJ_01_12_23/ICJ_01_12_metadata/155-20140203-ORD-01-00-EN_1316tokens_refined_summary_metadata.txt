@@ -1,0 +1,12 @@
+{
+	"Date": "2014",
+	"Parties Involved": ["Republic of Nicaragua", "Republic of Colombia"],
+	"Case Name": "Alleged Violations of Sovereign Rights and Maritime Spaces in the Caribbean Sea (Nicaragua v. Colombia)",
+	"Case Number": "ICJ/155",
+	"Court Name": "International Court of Justice (ICJ)",
+	"Document Type": "Case Communication",
+	"Document Date": "2014",
+	"Document Summary": "Nicaragua filed an Application on November 26, 2013, instituting proceedings against Colombia before the ICJ. The dispute revolves around the violations of Nicaragua's sovereign rights and maritime zones, as declared by the ICJ's Judgment on November 19, 2012, in the case concerning Territorial and Maritime Dispute (Nicaragua v. Colombia). Nicaragua also alleges that Colombia has threatened to use force to implement these violations.",
+	"Case Summary": "Nicaragua filed an Application on November 26, 2013, instituting proceedings against Colombia before the ICJ. The dispute revolves around the violations of Nicaragua's sovereign rights and maritime zones, as declared by the ICJ's Judgment on November 19, 2012, in the case concerning Territorial and Maritime Dispute (Nicaragua v. Colombia). Nicaragua also alleges that Colombia has threatened to use force to implement these violations.",
+	"Keywords": ["Nicaragua", "Colombia", "Sovereign Rights", "Maritime Spaces", "Caribbean Sea", "Territorial Dispute", "Maritime Dispute", "ICJ", "Application", "Judgment", "Violation", "Threat of Force", "Rules of Court", "Reservation of Subsequent Procedure", "English", "French", "President Tomka", "Vice-President Seplveda Amor", "Argello Gmez", "Carlos Gustavo Arrieta", "Manuel Jos Cepeda", "Peter Tomka", "Philippe Couvreur", "Articles 31", "44", "45", "48", "49"]
+}

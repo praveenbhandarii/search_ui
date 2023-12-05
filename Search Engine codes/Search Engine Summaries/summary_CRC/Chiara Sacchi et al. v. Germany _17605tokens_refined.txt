@@ -1,0 +1,24 @@
+Summary:
+
+Case Details:
+- Case ID: CRC/C/88/D/107/2019
+- Court/Tribunal: United Nations Committee on the Rights of the Child (UNCRC)
+- Document Date: 2021
+- Key Parties Involved: Chiara Sacchi, et al. (the authors and victims) vs. Germany (the state party)
+- Case Name: Sacchi et al. v. Germany
+
+Procedural History:
+The authors, represented by counsel, submitted a communication to the Committee alleging violations of their rights under the Convention by Germany. The Committee had to determine the admissibility of the communication, including whether the authors had exhausted domestic remedies before submitting their communication.
+
+Legal Analysis and Reasoning:
+The Committee found that the authors had not exhausted domestic remedies as required under the Optional Protocol. The authors argued that pursuing remedies in the State party would be unreasonably prolonged and that foreign sovereign immunity would prevent them from exhausting domestic remedies. However, the Committee found that the authors had not sufficiently substantiated their arguments concerning the exception under the Optional Protocol. The Committee also noted that the authors had failed to initiate domestic proceedings in the State party.
+
+Decisions and Rulings:
+The Committee found the communication inadmissible under the Optional Protocol due to the authors' failure to exhaust domestic remedies.
+
+Impact and Significance:
+This decision highlights the importance of exhausting domestic remedies before submitting a communication to the Committee. It emphasizes that authors must demonstrate that they have taken all necessary steps to pursue remedies in the State party before resorting to international procedures. The decision also underscores the Committee's discretion to determine whether domestic remedies are available and effective.
+
+Citations and References:
+- Optional Protocol to the International Covenant on Civil and Political Rights, art. 7(e)
+- Neubauer, et al. v. Germany (official English translation), para. 2 (c)

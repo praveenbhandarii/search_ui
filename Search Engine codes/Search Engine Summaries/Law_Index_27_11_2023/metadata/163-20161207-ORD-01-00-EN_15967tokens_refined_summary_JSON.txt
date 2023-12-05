@@ -1,0 +1,24 @@
+{
+  "Date": "2016",
+  "Parties Involved": ["Equatorial Guinea", "France"],
+  "Case Name": "Immunities and Criminal Proceedings (Equatorial Guinea v. France)",
+  "Case Number": "163",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Court Order",
+  "Document Date": "2016",
+  "Document Summary": "This document is an order issued by the International Court of Justice (ICJ) in Case Number 163 between Equatorial Guinea and France. It provides important details about the case, including the parties involved, key issues, provisional measures requested, the ICJ's decision and order, legal background, timeline of events, and the judges involved in the case.",
+  "Case Summary": "The case involves a dispute between Equatorial Guinea and France regarding the immunity from criminal jurisdiction of the Second Vice-President of Equatorial Guinea, Mr. Teodoro Nguema Obiang Mangue, and the legal status of the building housing the Embassy of Equatorial Guinea in France. Equatorial Guinea alleges that France has violated its obligations under international law, including the United Nations Convention against Transnational Organized Crime and general international law.",
+  "Keywords": [
+    "Equatorial Guinea",
+    "France",
+    "International Court of Justice",
+    "ICJ",
+    "immunity",
+    "criminal proceedings",
+    "diplomatic mission",
+    "provisional measures",
+    "Vienna Convention",
+    "Optional Protocol",
+    "transnational organized crime"
+  ]
+}

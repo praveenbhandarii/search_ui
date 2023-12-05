@@ -1,0 +1,22 @@
+{
+    "Date": "2005",
+    "Parties Involved": ["Liechtenstein", "Germany"],
+    "Case Name": "Certain Property (Liechtenstein v. Germany)",
+    "Case Number": "123",
+    "Court Name": "International Court of Justice (ICJ)",
+    "Document Type": "Judgment",
+    "Document Date": "2005",
+    "Document Summary": "This judgment document involves a dispute between Liechtenstein and Germany regarding the treatment of Liechtenstein property by Germany. It discusses the interpretation of Article 27(a) of the European Convention for the Peaceful Settlement of Disputes, comparing it to other instruments and examining the legislative history.",
+    "Case Summary": "This case involves a dispute between Liechtenstein and Germany regarding German external assets, the application of the Settlement Convention of 1952, the Pieter van Laer Painting case, and issues of treaty interpretation, practice dating back to 1779, and the failure of India to comply with its obligations concerning the right of passage in 1954.",
+    "Keywords": [
+        "Liechtenstein",
+        "Germany",
+        "Settlement Convention",
+        "Pieter van Laer Painting",
+        "European Convention for the Peaceful Settlement of Disputes",
+        "Article 27(a)",
+        "International Court of Justice",
+        "Judgment",
+        "treaty interpretation"
+    ]
+}

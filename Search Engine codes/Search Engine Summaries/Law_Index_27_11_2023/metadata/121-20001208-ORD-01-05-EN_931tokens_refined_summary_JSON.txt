@@ -1,0 +1,27 @@
+{
+  "Date": "2000",
+  "Parties Involved": ["Democratic Republic of the Congo", "Belgium"],
+  "Case Name": "Arrest Warrant of 11 April 2000 (Democratic Republic of the Congo v. Belgium)",
+  "Case Number": "ICJ/23",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Order",
+  "Document Date": "2000",
+  "Document Summary": "This document is an order of the International Court of Justice containing Judge Francisco Rezek's opinion supporting the DRC's request for provisional measures regarding the dispute over an international arrest warrant. It references legal principles, previous cases, and the ongoing nature of the case.",
+  "Case Summary": "The Democratic Republic of the Congo (DRC) filed a case against Belgium disputing an international arrest warrant issued against the acting Congolese Minister for Foreign Affairs, Mr. Abdoulaye Yerodia Ndombasi. The DRC alleges grave violations of international humanitarian law and seeks provisional measures to suspend the effects of the arrest warrant until a final ruling is made. Judge Francisco Rezek supports the DRC's request, citing potential harm to the DRC's sovereignty and the individual's public office.",
+  "Keywords": [
+    "Arrest Warrant",
+    "11 April 2000",
+    "Democratic Republic of the Congo",
+    "Belgium",
+    "International Court of Justice",
+    "ICJ/23",
+    "Judge Francisco Rezek",
+    "Provisional Measures",
+    "International Humanitarian Law",
+    "Sovereignty",
+    "Universal Justice",
+    "Sovereign Equality of States",
+    "Legal Principles",
+    "Previous Cases"
+  ]
+}

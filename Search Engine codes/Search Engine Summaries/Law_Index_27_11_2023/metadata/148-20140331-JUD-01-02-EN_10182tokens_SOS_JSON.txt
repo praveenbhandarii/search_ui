@@ -1,0 +1,31 @@
+{
+    "Date": "2014",
+    "Parties Involved": ["Australia", "Japan"],
+    "Case Name": "Whaling in the Antarctic (Australia v. Japan: New Zealand intervening)",
+    "Case Number": "148",
+    "Court Name": "International Court of Justice (ICJ)",
+    "Document Type": "Judgment",
+    "Document Date": "2014",
+    "Document Summary": "This document is a judgment from the International Court of Justice (ICJ) in the case of Whaling in the Antarctic. It provides important details and findings related to the dispute between Australia and Japan over Japan's whaling program known as JARPA II.",
+    "Case Summary": "This case involves a dispute between Australia and Japan over Japan's whaling program in the Antarctic. The ICJ rejected Australia's claims and held that Japan's whaling permits were for scientific research purposes. However, there were dissenting opinions on the interpretation of the reservation and Article VIII of the Convention. The judgment emphasized the need for Japan to provide solid evidence and demonstrate a reasonable basis for its whaling activities.",
+    "Keywords": [
+      "Whaling",
+      "Antarctic",
+      "Australia",
+      "Japan",
+      "New Zealand",
+      "JARPA II",
+      "International Convention for the Regulation of Whaling",
+      "ICRW",
+      "Marine Mammals",
+      "Marine Environment",
+      "Reservation",
+      "Arbitration",
+      "Judgment",
+      "Scientific Research",
+      "Dissenting Opinion",
+      "Professor Walle",
+      "Good Faith",
+      "Solid Evidence"
+    ]
+  }

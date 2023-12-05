@@ -1,0 +1,21 @@
+{
+  "Date": "2019",
+  "Parties Involved": ["M.Y.", "Sweden"],
+  "Case Name": "M.Y. v. Sweden",
+  "Case Number": "CRPD/C/24/D/49/2018",
+  "Court Name": "Committee on the Rights of Persons with Disabilities",
+  "Document Type": "Decision adopted by the Committee under article 2 of the Optional Protocol, concerning communication No. 49/2018",
+  "Document Date": "March 2019",
+  "Document Summary": "The Committee on the Rights of Persons with Disabilities adopted a decision under the Optional Protocol concerning communication No. 49/2018, finding that Sweden would violate the rights of M.Y. under the Convention on the Rights of Persons with Disabilities by deporting him to Afghanistan.",
+  "Case Summary": "M.Y., an Afghan national, filed a communication with the Committee on the Rights of Persons with Disabilities, alleging that his deportation to Afghanistan would violate his rights under the Convention on the Rights of Persons with Disabilities. The Committee found his claims substantiated, stating that his deportation would expose him to real risk of torture and violation of Convention rights. The decision sets an important precedent for cases involving the expulsion of individuals with disabilities to countries where they may face a risk of torture or ill-treatment.",
+  "Keywords": [
+    "M.Y.",
+    "Sweden",
+    "Deportation",
+    "Convention on the Rights of Persons with Disabilities",
+    "Articles 15, 16, 26",
+    "Optional Protocol",
+    "Irreparable Harm",
+    "Non-refoulement"
+  ]
+}

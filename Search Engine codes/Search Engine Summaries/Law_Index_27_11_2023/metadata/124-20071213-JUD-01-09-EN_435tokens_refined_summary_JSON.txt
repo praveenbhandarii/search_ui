@@ -1,0 +1,26 @@
+{
+  "Date": "2001",
+  "Parties Involved": ["Nicaragua", "Colombia"],
+  "Case Name": "Territorial and Maritime Dispute (Nicaragua v. Colombia)",
+  "Case Number": "124",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "",
+  "Document Summary": "This judgment document, issued by the International Court of Justice, is a declaration by Judge Gaja. Judge Gaja agrees with the operative part of the judgment but disagrees with the view that there is no extant dispute between the parties regarding sovereignty over the islands of San Andrés, Providencia, and Santa Catalina.",
+  "Case Summary": "The case before the International Court of Justice involves a territorial and maritime dispute between Nicaragua and Colombia. Nicaragua filed an Application in 2001, seeking resolution of a group of related legal issues concerning title to territory and maritime delimitation. Colombia filed preliminary objections to jurisdiction in 2003, leading to the suspension of proceedings on the merits.",
+  "Keywords": [
+    "Territorial Dispute",
+    "Maritime Dispute",
+    "Nicaragua",
+    "Colombia",
+    "International Court of Justice",
+    "Sovereignty",
+    "San Andrés",
+    "Providencia",
+    "Santa Catalina",
+    "1928 Treaty",
+    "Judge Gaja",
+    "Jurisdiction",
+    "Dispute Settlement"
+  ]
+}

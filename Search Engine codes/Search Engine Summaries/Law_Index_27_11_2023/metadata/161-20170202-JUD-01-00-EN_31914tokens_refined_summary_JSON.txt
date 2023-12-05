@@ -1,0 +1,12 @@
+{
+  "Date": "2017",
+  "Parties Involved": ["Somalia", "Kenya"],
+  "Case Name": "Maritime Delimitation in the Indian Ocean (Somalia v. Kenya)",
+  "Case Number": "161",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2017",
+  "Document Summary": "This judgment is a preliminary objections judgment issued by the ICJ on February 2, 2017. It addresses Kenya's objections to the admissibility of Somalia's application and affirms the Court's jurisdiction to entertain the case.",
+  "Case Summary": "This case involves a dispute between Somalia and Kenya regarding the delimitation of maritime spaces in the Indian Ocean. Somalia filed an application with the ICJ in 2014, seeking the determination of a single maritime boundary between the two countries based on international law. The case centers around the interpretation and legal status of a Memorandum of Understanding (MOU) signed between the parties in 2009.",
+  "Keywords": ["Maritime Delimitation", "Indian Ocean", "Somalia", "Kenya", "International Court of Justice", "Preliminary Objections Judgment", "Memorandum of Understanding", "UNCLOS", "Continental Shelf", "Judgment"]
+}

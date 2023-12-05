@@ -1,0 +1,23 @@
+{
+  "Date": "2021",
+  "Parties Involved": ["State of Qatar (Applicant)", "United Arab Emirates (Respondent)"],
+  "Case Name": "Application of the International Convention on the Elimination of All Forms of Racial Discrimination (Qatar v. United Arab Emirates)",
+  "Case Number": "ICJ/172",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2021",
+  "Document Summary": "The ICJ adjudicated the application of the International Convention on the Elimination of All Forms of Racial Discrimination in the case brought by Qatar against the United Arab Emirates. The Court considered the interpretation of the term 'national origin', found the measures complained of to be outside the scope of the convention, and determined jurisdiction for the claims.",
+  "Case Summary": "Qatar alleged violations of the International Convention on the Elimination of All Forms of Racial Discrimination by the UAE, based on measures such as travel bans and restrictions on Qatari media corporations. The case revolved around the interpretation of 'national origin' in CERD and whether the measures constitute racial discrimination. The ICJ found that the term 'national origin' does not include current nationality and that the measures complained of do not fall within the scope of CERD.",
+  "Keywords": [
+    "National Origin",
+    "CERD",
+    "Racial Discrimination",
+    "Qatar",
+    "United Arab Emirates",
+    "ICJ Jurisdiction",
+    "Admissibility",
+    "Vienna Convention on the Law of Treaties",
+    "Article 31",
+    "Article 32"
+  ]
+}

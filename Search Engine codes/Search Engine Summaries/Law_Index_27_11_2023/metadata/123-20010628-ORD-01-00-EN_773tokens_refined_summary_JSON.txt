@@ -1,0 +1,23 @@
+{
+  "Date": "2001",
+  "Parties Involved": ["Principality of Liechtenstein", "Federal Republic of Germany"],
+  "Case Name": "Certain Property (Liechtenstein v. Germany)",
+  "Case Number": "123",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Order",
+  "Document Date": "2001",
+  "Document Summary": "This document is an order type document of the ICJ, dated June 28, 2001. It outlines the case number (123) and provides information about the parties involved, the dispute, and the timelimits for filing written pleadings.",
+  "Case Summary": "Liechtenstein has filed a case against Germany at the ICJ regarding a dispute over the treatment of Liechtenstein nationals' property after 1998. Germany allegedly seized the property without providing compensation, thereby violating Liechtenstein's ownership rights. The case involves issues of property and compensation for losses during World War II.",
+  "Keywords": [
+    "Property Dispute",
+    "Liechtenstein",
+    "Germany",
+    "International Court of Justice",
+    "ICJ",
+    "Ownership Rights",
+    "Compensation",
+    "World War II",
+    "Written Pleadings",
+    "President Guillaume"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "Date": "2016",
+  "Parties Involved": ["Equatorial Guinea", "France"],
+  "Case Name": "Immunities and Criminal Proceedings (Equatorial Guinea v. France)",
+  "Case Number": "163",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Order",
+  "Document Date": "2016",
+  "Document Summary": "This order document, dated 20161207, is part of the International Court of Justice (ICJ) case number 163. It provides information on the case 'Questions relating to the Obligation to Prosecute or Extradite (Belgium v. Senegal)' from 28 May 2009, as well as details on the Equatorial Guinea v. France case from 2016. The document refers to the Palermo Convention, the United Nations Convention Against Transnational Organized Crime, and previous decisions of the ICJ.",
+  "Case Summary": "This case, numbered 163, involves a dispute between the Republic of Equatorial Guinea and the French Republic regarding the immunity from criminal jurisdiction of the Second Vice-President of Equatorial Guinea, Mr. Teodoro Nguema Obiang Mangue, and the legal status of the building housing the Embassy of Equatorial Guinea in France. Equatorial Guinea initiated proceedings against France, alleging a breach of the Palermo Convention by instituting criminal proceedings against the Vice-President of Equatorial Guinea. Key issues include the interpretation and application of Article 4 of the Palermo Convention, the immunity of the Vice-President under customary international law, and whether France violated that immunity.",
+  "Keywords": [
+    "Immunities",
+    "Criminal Proceedings",
+    "Equatorial Guinea",
+    "France",
+    "ICJ",
+    "Palermo Convention",
+    "Vice-President",
+    "Teodoro Nguema Obiang Mangue",
+    "Diplomatic Immunity",
+    "Provisional Measures",
+    "International Law",
+    "Border Dispute"
+  ]
+}

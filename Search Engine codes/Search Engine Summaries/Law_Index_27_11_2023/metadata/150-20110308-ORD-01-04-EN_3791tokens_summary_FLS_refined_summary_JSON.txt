@@ -1,0 +1,12 @@
+{
+  "Date": "2011",
+  "Parties Involved": ["Costa Rica", "Nicaragua"],
+  "Case Name": "Case 150 - ORD - 20110308 - International Court of Justice - Judge Keith",
+  "Case Number": "ICJ/150/ORD/20110308",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2011",
+  "Document Summary": "This legal document pertains to a dispute between Costa Rica and Nicaragua over the San Juan River and Harbor Head Lagoon. The International Court of Justice has ordered provisional measures to prevent environmental damage to the disputed area and has encouraged the parties to cooperate in devising protective measures.",
+  "Case Summary": "This case involves a dispute between Costa Rica and Nicaragua over the San Juan River and Harbor Head Lagoon. The document discusses the request for provisional measures to protect Costa Rica's rights pending a final decision on the merits. The International Court of Justice has ordered provisional measures to prevent environmental damage to the disputed area and has encouraged the parties to cooperate in devising protective measures.",
+  "Keywords": ["San Juan River", "Harbor Head Lagoon", "provisional measures", "environmental damage", "ICJ", "dispute", "Costa Rica", "Nicaragua", "boundary", "dredging works", "Judge Keith", "Judge Christopher Greenwood", "Ramsar Convention", "wetlands", "protective measures", "cooperation"]
+}

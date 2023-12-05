@@ -1,0 +1,21 @@
+Case ID: ICJ/172
+Court/Tribunal: International Court of Justice (ICJ)
+Document Date: 2018
+Key Parties Involved: Qatar, United Arab Emirates (UAE)
+Case Name: Application of the International Convention on the Elimination of All Forms of Racial Discrimination (Qatar v. United Arab Emirates)
+
+Case Summary:
+Qatar instituted proceedings against the UAE for alleged violations of the International Convention on the Elimination of All Forms of Racial Discrimination. The case revolves around the question of whether the UAE's actions towards Qatari nationals constitute racial discrimination under the Convention. Qatar requested provisional measures to protect the rights of its nationals, while the UAE argued against the need for such measures.
+
+Context:
+- Qatar filed the case on 11 June 2018, citing violations of the International Convention on the Elimination of All Forms of Racial Discrimination.
+- The ICJ considered whether the request for provisional measures prejudges the merits of the case and found that if the request is identical to one of the claims on the merits, it must be rejected.
+- The Court determined that there was no imminent risk of irreparable prejudice in this case, as the rights in question were not of such a nature that prejudice to them could cause irreparable harm.
+- The Court noted that the status quo ante could potentially be restored, although the Respondent contested this claim.
+- The UAE's actions were found to have caused irreparable harm to Qatari nationals, including the separation of families and denial of education and training opportunities.
+- The Court ordered the UAE to lift the measure prohibiting Qatari nationals from entering the country and ensure that UAE courts provide effective protection and remedies for Qatari nationals.
+
+Citations:
+- Jadhav (India v. Pakistan), Provisional Measures, Order of 18 May 2017, I.C.J. Reports 2017, p. 245, para. 60
+- Immunities and Criminal Proceedings (Equatorial Guinea v. France), Provisional Measures, Order of 7 December 2016, I.C.J. Reports 2016 (II), p. 1171, para. 98
+- Application of the International Convention for the Suppression of the Financing of Terrorism and of the International Convention on the Elimination of All Forms of Racial Discrimination (Ukraine v. Russian Federation), Provisional Measures, Order of 19 April 2017, I.C.J. Reports 2017, pp. 135, para. 82

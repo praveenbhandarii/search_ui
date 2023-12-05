@@ -1,0 +1,26 @@
+{
+  "Date": "2018",
+  "Parties Involved": ["Equatorial Guinea", "France"],
+  "Case Name": "Immunities and Criminal Proceedings (Equatorial Guinea v. France)",
+  "Case Number": "163",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2018",
+  "Document Summary": "This judgment document from the International Court of Justice (ICJ) pertains to Case Number 163 and is dated 20180606. It is a legal opinion written by Judge James Crawford. The document discusses the application of Article 4 of the Palermo Convention and its relevance to the jurisdiction of the ICJ in the dispute between Equatorial Guinea and another state. The document also references the 1988 Drugs Convention and highlights the importance of upholding principles such as sovereign equality and territorial integrity.",
+  "Case Summary": "The Republic of Equatorial Guinea initiated proceedings against the French Republic regarding the immunity from criminal jurisdiction of the Second Vice-President of Equatorial Guinea, Mr. Teodoro Nguema Obiang Mangue, and the legal status of the Embassy of Equatorial Guinea in France.",
+  "Keywords": [
+    "Immunities and Criminal Proceedings",
+    "Equatorial Guinea",
+    "France",
+    "International Court of Justice",
+    "ICJ",
+    "Palermo Convention",
+    "1988 Drugs Convention",
+    "Article 4",
+    "Sovereign Equality",
+    "Territorial Integrity",
+    "Legal Status",
+    "Embassy",
+    "Jurisdiction"
+  ]
+}

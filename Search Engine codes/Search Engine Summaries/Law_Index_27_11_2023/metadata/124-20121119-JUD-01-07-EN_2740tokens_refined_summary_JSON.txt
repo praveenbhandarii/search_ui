@@ -1,0 +1,25 @@
+{
+  "Date": "2014",
+  "Parties Involved": ["Nicaragua", "Colombia"],
+  "Case Name": "Territorial and Maritime Dispute (Nicaragua v. Colombia)",
+  "Case Number": "151 6 CIJ1034",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2014",
+  "Document Summary": "The judgment clarifies the legal framework for the delimitation of continental shelves and the relationship between UNCLOS and customary international law in the case of Territorial and Maritime Dispute (Nicaragua v. Colombia). It cites various provisions of UNCLOS, including Articles 74, 76, 83, and 121, as well as the Convention's Preamble.",
+  "Case Summary": "The case involves a territorial and maritime dispute between Nicaragua and Colombia. Nicaragua filed an application in 2001, and Colombia raised preliminary objections to jurisdiction in 2003, leading to the suspension of proceedings on the merits. The judgment, delivered in 2014, clarified the legal framework for the delimitation of continental shelves and the relationship between UNCLOS and customary international law.",
+  "Keywords": [
+    "Territorial Dispute",
+    "Maritime Dispute",
+    "Nicaragua",
+    "Colombia",
+    "Preliminary Objections",
+    "Jurisdiction",
+    "ICJ Judgment",
+    "UNCLOS",
+    "Customary International Law",
+    "Continental Shelves",
+    "Articles 74, 76, 83, 121",
+    "Case Citation: 151 6 CIJ1034"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Date": "2021",
+  "Parties Involved": [
+    "Republic of the Congo",
+    "France",
+    "Belgium",
+    "Senegal",
+    "Democratic Republic of the Congo",
+    "Uganda"
+  ],
+  "Case Name": "Republic of the Congo v. France (sep. op. koroma), Belgium v. Senegal, Armed Activities on the Territory of the Congo (Democratic Republic of the Congo v. Uganda)",
+  "Case Number": "",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Combined Summary",
+  "Document Date": "2021",
+  "Document Summary": "This combined summary provides an analysis of two legal documents. The first document discusses the court's power to indicate provisional measures and introduces the criterion of 'plausibility.' Judge Koroma expresses concerns about the ambiguity and uncertainty created by this criterion. The second document explores the evaluation of provisional measures and the potential risks associated with adopting plausibility as a standard. Both documents highlight the importance of considering irreparable harm, the link between protected rights and measures requested, and the urgency of the situation.",
+  "Case Summary": "The documents discuss the court's power to indicate provisional measures and the introduction of the criterion of 'plausibility.' Judge Koroma expresses concerns about the ambiguity and uncertainty created by this criterion. The evaluation of provisional measures and the potential risks associated with adopting plausibility as a standard are explored. Both documents highlight the importance of considering irreparable harm, the link between protected rights and measures requested, and the urgency of the situation.",
+  "Keywords": [
+    "ICJ",
+    "Republic of the Congo",
+    "France",
+    "Belgium",
+    "Senegal",
+    "Armed Activities on the Territory of the Congo",
+    "Democratic Republic of the Congo",
+    "Uganda",
+    "provisional measures",
+    "plausibility criterion",
+    "Judge Koroma",
+    "irreparable harm",
+    "protected rights",
+    "urgency",
+    "Belgium v. Senegal",
+    "Georgia v. Russian Federation",
+    "misleading claims",
+    "sovereignty",
+    "conflicts",
+    "ICJ Reports",
+    "legitimacy",
+    "prima facie case"
+  ]
+}

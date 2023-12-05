@@ -1,0 +1,31 @@
+Case ID: ICJ/172
+Court/Tribunal: International Court of Justice (ICJ)
+Document Date: 2018
+Key Parties Involved: Qatar, United Arab Emirates (UAE)
+Case Name: Application of the International Convention on the Elimination of All Forms of Racial Discrimination (Qatar v. United Arab Emirates)
+
+Case Summary:
+Qatar filed a case against the UAE alleging violations of the International Convention on the Elimination of All Forms of Racial Discrimination (CERD). Qatar claimed that the UAE targeted Qataris based on their national origin and subjected them to various forms of discrimination. The UAE denied the allegations and argued that it did not engage in any prohibited racial discrimination or interfere with the rights of Qataris under CERD. The ICJ is evaluating whether it has jurisdiction to hear the case and whether Qatar's rights are plausible and worthy of protection.
+
+Context:
+- Qatar alleged that the UAE violated CERD by targeting Qataris based on their national origin and subjecting them to discrimination.
+- The UAE argued that all Qataris in the UAE continue to enjoy full rights granted by law and have not been prevented from seeking legal remedies.
+- The ICJ found that the measures adopted by the UAE could fall within the scope of CERD, but the interpretation of the term "national origin" in Article 1, paragraph 1, of CERD is disputed.
+- Qatar requested provisional measures, including a cease and desist from conduct that could result in racial discrimination against Qataris and measures to protect the rights of Qatari citizens.
+- The ICJ ordered the UAE to reunite Qatari families, allow Qatari students to complete their education, and grant Qataris access to tribunals and other judicial organs of the UAE.
+- The ICJ's orders have binding effect and create international legal obligations for the parties involved.
+
+Citations:
+- International Convention on the Elimination of All Forms of Racial Discrimination (CERD)
+- Article 22 of CERD
+- Article 36, paragraph 1, of the ICJ Statute
+- United Nations Convention on the Jurisdiction of the International Court of Justice
+
+References:
+- ICJ Case Number: 172
+- Document Type: Order
+- Document Date: 20180723
+- Language: EN
+- File-name: 172-20180723-ORD-01-00-EN_20838tokens_SOS.txt
+- ICJ Case Overview: Case Number: 172
+- Case Name: Application of the International Convention on the Elimination of All Forms of Racial Discrimination (Qatar v. United Arab Emirates)

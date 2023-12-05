@@ -1,0 +1,23 @@
+{
+  "Date": "2021",
+  "Parties Involved": ["Equatorial Guinea", "France"],
+  "Case Name": "Immunities and Criminal Proceedings (Equatorial Guinea v. France)",
+  "Case Number": "ICJ/15",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2021",
+  "Document Summary": "This judgment document from the International Court of Justice (ICJ) provides a summary of the case and its key points, including relevant citations, key dates, parties involved, and the issues at hand. The document also mentions a dissenting opinion by Judge Xue and provides details about the case brought by Equatorial Guinea against France.",
+  "Case Summary": "The case involves a dispute between the Republic of Equatorial Guinea and France regarding the immunity from criminal jurisdiction of Mr. Teodoro Nguema Obiang Mangue, and the legal status of the building housing the Embassy of Equatorial Guinea in France. The central issue is the ownership of the building in Paris claimed by Equatorial Guinea as part of its diplomatic mission, which France disputes. The case raises issues related to the balance between sending and receiving states in diplomatic relations and the protection of diplomatic mission immunities and privileges.",
+  "Keywords": [
+    "Vienna Convention on Diplomatic Relations",
+    "Equatorial Guinea",
+    "France",
+    "diplomatic mission",
+    "immunities",
+    "criminal proceedings",
+    "Vienna Convention",
+    "Judge Xue Hanqin",
+    "ownership dispute",
+    "diplomatic relations"
+  ]
+}

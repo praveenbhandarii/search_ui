@@ -1,0 +1,17 @@
+Case ID: ICJ/158
+Court/Tribunal: International Court of Justice (ICJ)
+Document Date: 2016
+Key Parties Involved: Republic of the Marshall Islands, India
+Case Name: Obligations concerning Negotiations relating to Cessation of the Nuclear Arms Race and to Nuclear Disarmament (Marshall Islands v. India)
+
+Case Summary:
+The Republic of the Marshall Islands filed applications against nine states, including India, accusing them of not fulfilling their obligations regarding the cessation of the nuclear arms race and nuclear disarmament. In the specific case of Marshall Islands v. United Kingdom, the ICJ found that it lacked jurisdiction to entertain the Marshall Islands' claim due to the absence of a dispute between the parties on the subject matter of the claim at the time the proceedings were instituted. Judge Ronny Abraham provided a separate opinion expressing concerns about the Court's jurisprudence on the condition for the existence of a dispute.
+
+Context:
+- The Republic of the Marshall Islands filed applications against nine states, including India, for not fulfilling their obligations regarding the cessation of the nuclear arms race and nuclear disarmament.
+- The ICJ's jurisprudence requires that a dispute must be revealed by exchanges between the parties prior to the institution of proceedings and that the respondent must be aware of the claim against it beforehand.
+- Judge Ronny Abraham expresses concern about the Court's jurisprudence potentially becoming too strict in establishing the existence of a dispute.
+
+Citations:
+- Georgia v. Russian Federation case
+- Belgium v. Senegal case

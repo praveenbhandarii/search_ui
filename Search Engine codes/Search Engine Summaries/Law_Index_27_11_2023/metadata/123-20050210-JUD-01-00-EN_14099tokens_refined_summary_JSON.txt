@@ -1,0 +1,22 @@
+{
+  "Date": "2005",
+  "Parties Involved": ["Liechtenstein", "Germany"],
+  "Case Name": "Certain Property (Liechtenstein v. Germany)",
+  "Case Number": "123",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2005",
+  "Document Summary": "This judgment document of the International Court of Justice, dated February 10, 2005, pertains to case number 123, Certain Property (Liechtenstein v. Germany). The judges involved in the case include President SHI, Vice President RANJEVA, and several other judges. The Court has examined Germany's preliminary objections and has determined that it lacks jurisdiction to entertain Liechtenstein's application.",
+  "Case Summary": "This case involves a dispute between Liechtenstein and Germany regarding the ownership of a painting by Pieter van Laer. The Court has examined Germany's preliminary objections and has determined that it lacks jurisdiction to entertain Liechtenstein's application.",
+  "Keywords": [
+    "Property Dispute",
+    "Liechtenstein",
+    "Germany",
+    "International Court of Justice",
+    "Jurisdiction",
+    "Preliminary Objections",
+    "Benes Decrees",
+    "European Convention for the Peaceful Settlement of Disputes",
+    "Courts Jurisprudence"
+  ]
+}

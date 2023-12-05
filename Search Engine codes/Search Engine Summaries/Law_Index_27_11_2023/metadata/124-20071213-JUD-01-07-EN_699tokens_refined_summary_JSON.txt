@@ -1,0 +1,22 @@
+{
+  "Date": "1956",
+  "Parties Involved": ["Nicaragua", "Colombia"],
+  "Case Name": "Territorial and Maritime Dispute (Nicaragua v. Colombia)",
+  "Case Number": "124",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "1956",
+  "Document Summary": "The judgment document dated 11 July 1956, relates to the territorial and maritime dispute between Nicaragua and Colombia. It emphasizes the Court's power and responsibility to decide matters in dispute at a preliminary stage, as well as the Court's faithful adherence to its judicial character.",
+  "Case Summary": "The case involves a territorial and maritime dispute between Nicaragua and Colombia regarding territory and maritime delimitation. It includes a declaration by Judge Keith, a settlement of the question of sovereignty over three named islands in favor of Colombia in 1948, and equal rights for both parties to present evidence and submissions.",
+  "Keywords": [
+    "Territorial and Maritime Dispute",
+    "Nicaragua",
+    "Colombia",
+    "Jurisdiction",
+    "Pact of Bogot",
+    "Treaty Article VI",
+    "Statute of the Court",
+    "Judicial Character",
+    "Sovereignty"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "Date": "2022",
+  "Parties Involved": ["M. Kck (author)", "Austria (State party)"],
+  "Case Name": "M. Kck v. Austria",
+  "Case Number": "CRPD/C/26/D/50/2018",
+  "Court Name": "United Nations Committee on the Rights of Persons with Disabilities",
+  "Document Type": "Judgment",
+  "Document Date": "2022",
+  "Document Summary": "The Committee finds that the State party violated the author's rights under the Convention, particularly the right to education in the author's first language.",
+  "Case Summary": "The author, a deaf person, was forced to be educated in German, without access to instruction in Austrian Sign Language. The Committee finds that the State party violated the author's rights under the Convention, particularly the right to education in the author's first language.",
+  "Keywords": [
+    "Disability Rights",
+    "M. Kck",
+    "Austria",
+    "Deaf",
+    "Convention on the Rights of Persons with Disabilities",
+    "Articles 5, 7, 12(3)(4), 13(1), 21(b) and (e), 24, 30(4)",
+    "Discrimination",
+    "Inclusive Education",
+    "Austrian Sign Language"
+  ]
+}

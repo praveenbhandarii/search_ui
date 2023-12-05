@@ -1,0 +1,33 @@
+{
+  "Date": "2020",
+  "Parties Involved": [
+    "Kingdom of Bahrain",
+    "Arab Republic of Egypt",
+    "Kingdom of Saudi Arabia",
+    "United Arab Emirates",
+    "State of Qatar"
+  ],
+  "Case Name": "Appeal relating to the Jurisdiction of the ICAO Council under Article II, Section 2, of the 1944 International Air Services Transit Agreement (Bahrain, Egypt and United Arab Emirates v. Qatar)",
+  "Case Number": "ICJ/174",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Case Summary",
+  "Document Date": "2020",
+  "Document Summary": "This case involves an appeal filed by the Kingdom of Bahrain, the Arab Republic of Egypt, the Kingdom of Saudi Arabia, and the United Arab Emirates against the decision of the Council of the International Civil Aviation Organization (ICAO Council). The appeal was filed in response to proceedings initiated by the State of Qatar, alleging violations of the 1944 International Air Services Transit Agreement.",
+  "Case Summary": "This case involves an appeal filed by the Kingdom of Bahrain, the Arab Republic of Egypt, the Kingdom of Saudi Arabia, and the United Arab Emirates against the decision of the Council of the International Civil Aviation Organization (ICAO Council). The appeal was filed in response to proceedings initiated by the State of Qatar, alleging violations of the 1944 International Air Services Transit Agreement. The appellant States argue that their airspace restrictions were lawful countermeasures in response to Qatar's alleged prior breaches of obligations under customary international law and resolutions of the Security Council. The key legal issues in this case are whether the ICAO Council has jurisdiction to hear the dispute between Qatar and the appellant States, and whether Qatar's breach of the Riyadh Agreements constitutes a basis for the appellant States to take countermeasures.",
+  "Keywords": [
+    "International Court of Justice",
+    "ICJ",
+    "Kingdom of Bahrain",
+    "Arab Republic of Egypt",
+    "Kingdom of Saudi Arabia",
+    "United Arab Emirates",
+    "State of Qatar",
+    "ICAO Council",
+    "International Civil Aviation Organization",
+    "1944 International Air Services Transit Agreement",
+    "Airspace Restrictions",
+    "Customary International Law",
+    "Security Council Resolutions",
+    "Riyadh Agreements"
+  ]
+}

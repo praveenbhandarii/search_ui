@@ -1,0 +1,12 @@
+{
+  "Date": "2017",
+  "Parties Involved": ["Nicaragua", "Colombia"],
+  "Case Name": "Alleged Violations of Sovereign Rights and Maritime Spaces in the Caribbean Sea (Nicaragua v. Colombia)",
+  "Case Number": "ICJ/155",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Case Communication",
+  "Document Date": "2017",
+  "Document Summary": "Nicaragua filed an application against Colombia in 2013, alleging violations of its sovereign rights and maritime zones. The dispute arose from a previous judgment by the ICJ in 2012 regarding a territorial and maritime dispute between the two countries. Colombia raised preliminary objections to the ICJ's jurisdiction, but the court found that it had jurisdiction to adjudicate the dispute. Colombia submitted four counterclaims, which Nicaragua objected to, arguing that they were not directly connected to its principal claims. The ICJ examined the connections between the counterclaims and the principal claims and found no direct legal connection. The court also noted that the legal principles relied upon by the parties were different, and they were not pursuing the same legal aim.",
+  "Case Summary": "Nicaragua filed an application against Colombia in 2013, alleging violations of its sovereign rights and maritime zones. The dispute arose from a previous judgment by the ICJ in 2012 regarding a territorial and maritime dispute between the two countries. Colombia raised preliminary objections to the ICJ's jurisdiction, but the court found that it had jurisdiction to adjudicate the dispute. Colombia submitted four counterclaims, which Nicaragua objected to, arguing that they were not directly connected to its principal claims. The ICJ examined the connections between the counterclaims and the principal claims and found no direct legal connection. The court also noted that the legal principles relied upon by the parties were different, and they were not pursuing the same legal aim.",
+  "Keywords": ["Alleged Violations", "Sovereign Rights", "Maritime Spaces", "Caribbean Sea", "Nicaragua", "Colombia", "ICJ/155", "Preliminary Objections", "Counterclaims", "Jurisdiction", "UN Convention on the Law of the Sea", "UNCLOS", "Territorial Dispute"]
+}

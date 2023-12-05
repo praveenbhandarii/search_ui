@@ -1,0 +1,23 @@
+{
+  "Date": "2007",
+  "Parties Involved": ["Malaysia", "Singapore"],
+  "Case Name": "Sovereignty over Pedra Branca/Pulau Batu Puteh, Middle Rocks and South Ledge (Malaysia/Singapore)",
+  "Case Number": "ICJ/2007",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judge's Separate Opinion",
+  "Document Date": "2007",
+  "Document Summary": "This document is a separate opinion of Judge Parraranguren in the case regarding the sovereignty dispute over Pedra Branca/Pulau Batu Puteh, Middle Rocks, and South Ledge between Malaysia and Singapore. It provides relevant case details, citations, dates, and the names of the judges involved. The document challenges the majority's finding and presents an alternative perspective on the issue.",
+  "Case Summary": "This case involved a territorial dispute between Malaysia and Singapore over Pedra Branca/Pulau Batu Puteh, Middle Rocks, and South Ledge. The International Court of Justice (ICJ) was requested to determine the sovereignty over these islands, and the judgment was delivered on December 2, 2007, concluding that Pedra Branca/Pulau Batu Puteh belongs to Malaysia, while Middle Rocks and South Ledge are also under Malaysia's sovereignty. Judge Parraranguren's separate opinion challenges the majority finding that sovereignty over Pedra Branca belongs to Singapore, presenting an alternative perspective and questioning the significance of the 1953 letter from the Johor Acting State Secretary in determining sovereignty.",
+  "Keywords": [
+    "Sovereignty Dispute",
+    "Pedra Branca",
+    "Pulau Batu Puteh",
+    "Middle Rocks",
+    "South Ledge",
+    "Malaysia",
+    "Singapore",
+    "International Court of Justice",
+    "Judge's Separate Opinion",
+    "Territorial Dispute"
+  ]
+}

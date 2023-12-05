@@ -1,0 +1,30 @@
+{
+  "Date": "2019",
+  "Parties Involved": [
+    "Mr. Belemvire",
+    "Republic of Moldova"
+  ],
+  "Case Name": "Mr. Belemvire vs. the Republic of Moldova",
+  "Case Number": "Unknown",
+  "Court Name": "United Nations Committee on the Elimination of Racial Discrimination (CERD)",
+  "Document Type": "Views adopted by the Committee on the Elimination of Racial Discrimination under article 14 of the Convention, concerning communication No. 71/2015, Mr. Belemvire v. the Republic of Moldova.",
+  "Document Date": "2019",
+  "Document Summary": "The document contains the views adopted by the Committee on the Elimination of Racial Discrimination under article 14 of the Convention, concerning communication No. 71/2015, Mr. Belemvire v. the Republic of Moldova.",
+  "Case Summary": "The petitioner, Mr. Belemvire, alleged racial discrimination by the Republic of Moldova. The Committee found the State party violated the Convention by failing to investigate the discriminatory motive, denying the petitioner effective protection and remedies. The Committee recommended granting the petitioner adequate compensation and reviewing the State party's policy and procedures concerning prosecution of cases of alleged racial discrimination or racially motivated violence.",
+  "Keywords": [
+    "Mr. Belemvire",
+    "Republic of Moldova",
+    "racial discrimination",
+    "Convention",
+    "CERD",
+    "communication No. 71/2015",
+    "article 6",
+    "State party",
+    "effective protection",
+    "remedies",
+    "adequate compensation",
+    "policy and procedures",
+    "prosecution",
+    "motive"
+  ]
+}

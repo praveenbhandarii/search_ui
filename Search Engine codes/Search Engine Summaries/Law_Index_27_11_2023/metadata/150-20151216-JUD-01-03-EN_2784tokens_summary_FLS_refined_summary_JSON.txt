@@ -1,0 +1,22 @@
+{
+    "Date": "2013",
+    "Parties Involved": ["Costa Rica", "Nicaragua"],
+    "Case Name": "Costa Rica v. Nicaragua",
+    "Case Number": "ICJ Rep 2013",
+    "Court Name": "International Court of Justice (ICJ)",
+    "Document Type": "Judgment",
+    "Document Date": "2013",
+    "Document Summary": "This legal document pertains to the case of Costa Rica v. Nicaragua, with the judgment delivered on 22 November 2013. The document highlights the violations committed by Nicaragua in relation to the ICJ's provisional measures order, including the unauthorized digging of canals and the establishment of a military encampment in disputed territory. The ICJ found Nicaragua's actions to be deliberate breaches of the provisional measures order and held Nicaragua responsible. The court ordered Nicaragua to compensate Costa Rica for any damages caused by the violations.",
+    "Case Summary": "This legal document pertains to the violations committed by Nicaragua in relation to the ICJ's provisional measures order in the case of Costa Rica v. Nicaragua. Nicaragua violated the ICJ's provisional measures order by digging two new canals in the disputed territory without Costa Rica's consent and established a military encampment on land that formed part of the disputed territory. The ICJ found Nicaragua's actions to be deliberate breaches of the provisional measures order and held Nicaragua responsible, ordering them to compensate Costa Rica for any damage caused.",
+    "Keywords": [
+        "Costa Rica",
+        "Nicaragua",
+        "ICJ",
+        "Judgment",
+        "Provisional Measures Order",
+        "Canals",
+        "Military Encampment",
+        "Deliberate Breach",
+        "Compensation"
+    ]
+}

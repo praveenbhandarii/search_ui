@@ -1,0 +1,33 @@
+{
+  "Date": "2016",
+  "Parties Involved": ["Nicaragua", "Colombia"],
+  "Case Name": "Alleged Violations of Sovereign Rights and Maritime Spaces in the Caribbean Sea (Nicaragua v. Colombia)",
+  "Case Number": "ICJ/155",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2016",
+  "Document Summary": "This case involves a dispute between Nicaragua and Colombia regarding the violations of Nicaragua's sovereign rights and maritime zones declared by the Court's Judgment of 19 November 2012. Nicaragua filed an application instituting proceedings against Colombia, alleging the threat of the use of force by Colombia to implement these violations. The International Court of Justice (ICJ) has jurisdiction over the case based on Article XXXI of the Pact of Bogot. The ICJ's judgment was issued in 2016.",
+  "Case Summary": "This case involves a dispute between Nicaragua and Colombia regarding the violations of Nicaragua's sovereign rights and maritime zones. Nicaragua filed an application instituting proceedings against Colombia, alleging the threat of the use of force by Colombia to implement these violations. The International Court of Justice (ICJ) has jurisdiction over the case based on Article XXXI of the Pact of Bogot.",
+  "Keywords": [
+    "Sovereign Rights",
+    "Maritime Spaces",
+    "Caribbean Sea",
+    "Nicaragua",
+    "Colombia",
+    "International Court of Justice",
+    "Jurisdiction",
+    "Pact of Bogot",
+    "Dispute",
+    "Settlement",
+    "Negotiations",
+    "Application",
+    "Preliminary Objections",
+    "Legal Violation",
+    "President Ortega",
+    "Treaty",
+    "Judgment",
+    "Articles",
+    "International Law",
+    "Racial Discrimination"
+  ]
+}

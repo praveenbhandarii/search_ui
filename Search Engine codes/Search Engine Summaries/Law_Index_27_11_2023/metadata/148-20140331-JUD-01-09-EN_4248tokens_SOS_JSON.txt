@@ -1,0 +1,29 @@
+{
+    "Date": "2010",
+    "Parties Involved": ["Australia", "Japan", "New Zealand"],
+    "Case Name": "Whaling in the Antarctic (Australia v. Japan: New Zealand intervening)",
+    "Case Number": "Unspecified",
+    "Court Name": "International Whaling Commission (IWC)",
+    "Document Type": "Judgment",
+    "Document Date": "Unspecified",
+    "Document Summary": "This judgment document pertains to the case between the International Whaling Commission (IWC) and Japan, regarding Japan's large-scale whaling program in the Antarctic. It includes details such as the IWC resolutions 20033 and 20051, the Schedule to the International Convention for the Regulation of Whaling (ICRW), and relevant provisions such as Article VIII of the ICRW, paragraph 30 of the Schedule, and Rule M (4 (a)) of the IWC's Rules of Procedure.",
+    "Case Summary": "Australia initiated proceedings against Japan on May 31, 2010, alleging that Japan's large-scale whaling program, JARPA II, violated its obligations under the International Convention for the Regulation of Whaling (ICRW) and other international obligations for the preservation of marine mammals and the marine environment. The judgment highlights Japan's failure to comply with the required procedures in relation to JARPA II and its lack of meaningful cooperation with the IWC in the regulation of whaling.",
+    "Keywords": [
+        "Whaling",
+        "Antarctic",
+        "Australia",
+        "Japan",
+        "New Zealand",
+        "International Convention for the Regulation of Whaling",
+        "ICRW",
+        "International Whaling Commission",
+        "IWC",
+        "JARPA II",
+        "Marine Mammals",
+        "Article VIII",
+        "Paragraph 30",
+        "Rule M (4 (a))",
+        "Cooperation",
+        "Regulation"
+    ]
+}

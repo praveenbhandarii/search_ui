@@ -1,0 +1,22 @@
+{
+  "Date": "2018",
+  "Parties Involved": ["Qatar", "United Arab Emirates (UAE)"],
+  "Case Name": "Application of the International Convention on the Elimination of All Forms of Racial Discrimination (Qatar v. United Arab Emirates)",
+  "Case Number": "ICJ/172",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Case Communication",
+  "Document Date": "2018",
+  "Document Summary": "Qatar filed a case against the UAE on 11 June 2018, alleging violations of the International Convention on the Elimination of All Forms of Racial Discrimination (CERD). The case revolves around whether the ICJ has jurisdiction to hear the case based on Article 22 of CERD, and whether discrimination based on nationality falls within the scope of CERD.",
+  "Case Summary": "Qatar filed a case against the UAE on 11 June 2018, alleging violations of the International Convention on the Elimination of All Forms of Racial Discrimination (CERD). The case revolves around whether the ICJ has jurisdiction to hear the case based on Article 22 of CERD, and whether discrimination based on nationality falls within the scope of CERD.",
+  "Keywords": [
+    "International Convention on the Elimination of All Forms of Racial Discrimination",
+    "Qatar",
+    "United Arab Emirates (UAE)",
+    "ICJ jurisdiction",
+    "Article 22 of CERD",
+    "nationality discrimination",
+    "Vienna Convention on the Law of Treaties",
+    "ICJ Reports",
+    "human rights violations"
+  ]
+}

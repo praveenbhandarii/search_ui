@@ -1,0 +1,24 @@
+{
+  "Date": "1996",
+  "Parties Involved": ["Bosnia and Herzegovina", "Yugoslavia"],
+  "Case Name": "Application for Revision of the Judgment of 11 July 1996 in the Case concerning Application of the Convention on the Prevention and Punishment of the Crime of Genocide (Bosnia and Herzegovina v. Yugoslavia), Preliminary Objections (Yugoslavia v. Bosnia and Herzegovina)",
+  "Case Number": "122",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "1996",
+  "Document Summary": "This judgment document pertains to the application for the revision of the judgment delivered by the International Court of Justice (ICJ) on 11 July 1996. Yugoslavia seeks the revision, arguing that it was not the proper respondent in the original case due to a factual error and that new facts have emerged since the original judgment.",
+  "Case Summary": "This case involves an application for the revision of a judgment delivered by the International Court of Justice (ICJ) on 11 July 1996. The original case was brought by Bosnia and Herzegovina against Yugoslavia under the Convention on the Prevention and Punishment of the Crime of Genocide. Yugoslavia now seeks a revision of the judgment, claiming that it was not the proper respondent in the case due to a factual error and that new facts have emerged since the original judgment.",
+  "Keywords": [
+    "Revision of Judgment",
+    "Bosnia and Herzegovina",
+    "Yugoslavia",
+    "International Court of Justice",
+    "Genocide Convention",
+    "Preliminary Objections",
+    "Application for Revision",
+    "ICJ Statute",
+    "Security Council Resolution 777 (1992)",
+    "United Nations membership",
+    "Former Yugoslavia"
+  ]
+}

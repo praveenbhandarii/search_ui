@@ -1,0 +1,23 @@
+{
+  "Date": "2004",
+  "Parties Involved": ["D.F.", "Australia"],
+  "Case Name": "D.F. v. Australia",
+  "Case Number": "Communication No. 18/2004",
+  "Court Name": "Committee on the Elimination of Racial Discrimination (CERD)",
+  "Document Type": "Decision on the admissibility of the communication",
+  "Document Date": "2004",
+  "Document Summary": "The Committee on the Elimination of Racial Discrimination considered the admissibility of a communication alleging discrimination based on national origin. The petitioner, a New Zealand citizen residing in Australia, claimed he was discriminated against when denied social security benefits, which the State party contested. Ultimately, the Committee found the communication admissible based on the petitioner's substantiated claims of racial discrimination.",
+  "Case Summary": "The Committee on the Elimination of Racial Discrimination considered a petition submitted by D.F., a New Zealand citizen residing in Australia, alleging discrimination based on national origin. The petitioner claimed he was denied social security benefits on the basis of his national origin, while the State party argued there were no distinctions based on national origin. The Committee found the petitioner's claims substantiated, leading to the admissibility of the communication.",
+  "Keywords": [
+    "Racial Discrimination",
+    "National Origin",
+    "D.F.",
+    "Australia",
+    "Communication No. 18/2004",
+    "CERD",
+    "Admissibility",
+    "Social Security Benefits",
+    "Family and Community Services Legislation Amendment (New Zealand Citizens) Act 2001",
+    "Equal Treatment"
+  ]
+}

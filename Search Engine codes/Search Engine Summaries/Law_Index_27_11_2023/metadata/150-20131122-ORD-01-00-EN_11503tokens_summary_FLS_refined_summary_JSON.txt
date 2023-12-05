@@ -1,0 +1,25 @@
+{
+  "Date": "2013",
+  "Parties Involved": ["Costa Rica", "Nicaragua"],
+  "Case Name": "Costa Rica v. Nicaragua",
+  "Case Number": "ICJ Reports 2011 (I)",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2013",
+  "Document Summary": "This legal document pertains to the ongoing case between Costa Rica and Nicaragua regarding the disputed territory, specifically the San Juan River and the island of Calero. The International Court of Justice (ICJ) has issued orders and provisional measures to address the actions of Nicaragua in the disputed territory. This summary provides a concise overview of the important details and additional information contained in the legal document.",
+  "Case Summary": "This legal document pertains to the ongoing case between Costa Rica and Nicaragua regarding the disputed territory, specifically the San Juan River and the island of Calero. The case involves requests for provisional measures, satellite imagery evidence, violations of previous orders, and ongoing reporting on compliance with provisional measures. It also highlights the ICJ's power to indicate provisional measures and the authority to preserve the rights claimed by the parties pending a decision on the merits.",
+  "Keywords": [
+    "Costa Rica",
+    "Nicaragua",
+    "Case Communication",
+    "Provisional Measures",
+    "San Juan River",
+    "Island of Calero",
+    "ICJ",
+    "Orders",
+    "Judges",
+    "Satellite Imagery",
+    "Violation of Orders",
+    "Environmental Damage"
+  ]
+}

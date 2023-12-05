@@ -1,0 +1,30 @@
+{
+  "Date": "2022",
+  "Parties Involved": ["Equatorial Guinea", "France"],
+  "Case Name": "Immunities and Criminal Proceedings (Equatorial Guinea v. France)",
+  "Case Number": "163",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2022",
+  "Document Summary": "This judgment document, dated 19 January 2022, is a dissenting opinion by Judge Robinson in the case of Republic of Equatorial Guinea v. France. It pertains to Paragraph 415 of the judgment and discusses the key issue of whether the receiving State has the power to object to the sending State's designation of a building as premises of the mission under the Vienna Convention on Diplomatic Relations (VCDR).",
+  "Case Summary": "This case (Case Number 163) involves a dispute between the Republic of Equatorial Guinea and France regarding the immunity from criminal jurisdiction of the Second Vice-President of Equatorial Guinea and the legal status of the building housing the Embassy of Equatorial Guinea in France. The case was brought before the International Court of Justice (ICJ) on 13 June 2016. The majority of the ICJ holds that the VCDR does not grant the receiving State the power to object to the sending State's designation of a building as premises of the mission, unless the receiving State has expressly consented to such designation. France argues that the VCDR establishes a consensual regime, where the sending State can designate premises as mission premises, but the receiving State can object to such designation. The majority's finding is based on Article 2 of the VCDR, which states that the establishment of diplomatic relations and permanent diplomatic missions occurs by mutual consent. The majority's approach is criticized for confusing the requirement for the receiving State's consent with the power of the receiving State to object to the designation. The dissenting opinion argues for an interpretation of the VCDR that promotes friendly relations between States and maintains international peace and security. The case revolves around the dispute over the status of a specific building used by the Equatorial Guinean embassy in Paris. The ICJ considers evidence such as a Note Verbale and signs placed on the building by Equatorial Guinea, as well as the gradual relocation of the Embassy's offices to the building. The ICJ is expected to deliver its judgment in the case at a future date.",
+  "Keywords": [
+    "Immunities",
+    "Criminal Proceedings",
+    "Equatorial Guinea",
+    "France",
+    "International Court of Justice",
+    "Vienna Convention on Diplomatic Relations",
+    "Second Vice-President",
+    "Dissenting Opinion",
+    "Article 2",
+    "Consent",
+    "Embassy",
+    "Diplomatic Relations",
+    "Mission Premises",
+    "Note Verbale",
+    "Friendly Relations",
+    "International Peace",
+    "Security"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Date": "2022",
+  "Parties Involved": ["Nicaragua", "Colombia"],
+  "Case Name": "Alleged Violations of Sovereign Rights and Maritime Spaces in the Caribbean Sea (Nicaragua v. Colombia)",
+  "Case Number": "ICJ/155",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Case Summary",
+  "Document Date": "2022",
+  "Document Summary": "Nicaragua filed an application against Colombia in 2013, alleging violations of Nicaragua's sovereign rights and maritime zones. The dispute arose from Colombia's actions following a judgment by the ICJ in 2012 regarding a territorial and maritime dispute between the two countries. Nicaragua claimed that Colombia interfered with its fishing and marine scientific research activities in its exclusive economic zone (EEZ), granted permits for fishing and research to Colombians and nationals of third states in Nicaragua's EEZ, violated Nicaragua's exclusive sovereign right to explore and exploit natural resources in its EEZ, established an integral contiguous zone that overlapped with Nicaragua's EEZ, and pushed the external limit of its territorial sea beyond the permitted 12-mile limit. Nicaragua sought remedies for these alleged violations.",
+  "Case Summary": "The case concerns alleged violations of Nicaragua's sovereign rights and maritime spaces in the Caribbean Sea by Colombia. Key issues include Colombia's interference with Nicaragua's fishing and marine scientific research activities in its EEZ, enforcement of conservation measures in Nicaragua's EEZ, authorization of fishing activities in Nicaragua's EEZ, violations of Nicaragua's sovereign rights and jurisdiction in its EEZ and contiguous zone, and oil exploration licensing in Nicaragua's EEZ. Relevant documents include the 2012 judgment on the territorial and maritime dispute between Nicaragua and Colombia, Presidential Decree 1946 establishing an integral contiguous zone, and Nicaragua's straight baselines.",
+  "Keywords": ["Nicaragua", "Colombia", "Sovereign Rights", "Maritime Spaces", "Caribbean Sea", "Exclusive Economic Zone", "EEZ", "International Court of Justice", "ICJ", "Fishing Activities", "Marine Scientific Research", "Territorial Dispute", "Maritime Dispute", "Conservation Measures", "Oil Exploration", "UNCLOS", "Pact of Bogotá", "Vienna Convention on the Law of Treaties"]
+}

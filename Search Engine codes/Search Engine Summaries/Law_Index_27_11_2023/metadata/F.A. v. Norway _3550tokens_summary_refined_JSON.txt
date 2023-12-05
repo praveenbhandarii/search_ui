@@ -1,0 +1,12 @@
+{
+  "Date": "2000",
+  "Parties Involved": ["F.A.", "Norway"],
+  "Case Name": "F.A. v. Norway",
+  "Case Number": "Not available",
+  "Court Name": "Committee on the Elimination of Racial Discrimination (CERD)",
+  "Document Type": "Decision on the admissibility of a communication",
+  "Document Date": "March 2000",
+  "Document Summary": "The Committee on the Elimination of Racial Discrimination decided on the admissibility of a communication submitted by F.A., who alleged discrimination by a housing agency in Norway, finding the communication inadmissible and urging Norway to take effective measures to prevent discriminatory practices in the private housing sector.",
+  "Case Summary": "The Committee on the Elimination of Racial Discrimination decided on the admissibility of a communication submitted by F.A., who alleged discrimination by a housing agency in Norway. The State party challenged the admissibility, citing the failure to meet the six-month deadline set out in the rules of procedure. The Committee found the communication inadmissible and urged Norway to take effective measures to prevent discriminatory practices in the private housing sector.",
+  "Keywords": ["Communication", "Admissibility", "Discrimination", "Housing Agency", "Norway", "Committee on the Elimination of Racial Discrimination", "CERD", "Rule 91(f)", "International Convention on the Elimination of All Forms of Racial Discrimination", "Section 349a of the Norwegian Penal Code"]
+}

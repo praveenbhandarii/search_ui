@@ -1,0 +1,23 @@
+{
+    "Date": "2019",
+    "Parties Involved": ["A.S.", "Sweden"],
+    "Case Name": "A.S. v. Sweden",
+    "Case Number": "Communication No. 74/2019",
+    "Court Name": "United Nations Committee on the Rights of Persons with Disabilities (UNCRPD)",
+    "Document Type": "Decision adopted by the Committee under the Optional Protocol",
+    "Document Date": "2021",
+    "Document Summary": "The Committee discontinued the consideration of the communication due to the statute-barred expulsion decision and the author no longer facing the risk of being returned to Afghanistan.",
+    "Case Summary": "A.S., a national of Afghanistan, claimed that his deportation to Afghanistan would violate articles 10, 15, 16, and 22 of the Convention on the Rights of Persons with Disabilities. Sweden argued for the inadmissibility of the communication, stating the author's claims do not reveal a violation of the Convention. The Committee's decision sets a precedent for future cases involving disability rights and immigration law.",
+    "Keywords": [
+        "Disability Rights",
+        "A.S.",
+        "Sweden",
+        "Deportation",
+        "Convention on the Rights of Persons with Disabilities",
+        "Articles 10, 15, 16, 22",
+        "Expulsion",
+        "UNCRPD",
+        "Statute-Barred Decision",
+        "Risk of Return"
+    ]
+}

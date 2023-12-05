@@ -1,0 +1,27 @@
+{
+  "Date": "2018",
+  "Parties Involved": [
+    "Lauren Henley (represented by counsel, Erin Turner Manners)",
+    "The State Party (Australia)"
+  ],
+  "Case Name": "Lauren Henley (represented by counsel, Erin Turner Manners) v. The State Party (Australia)",
+  "Case Number": "CRPD/C/27/D/56/2018",
+  "Court Name": "United Nations Committee on the Rights of Persons with Disabilities",
+  "Document Type": "Views adopted by the Committee on the Rights of Persons with Disabilities under article 5 of the Optional Protocol to the Convention on the Rights of Persons with Disabilities",
+  "Document Date": "2018",
+  "Document Summary": "This document contains the views adopted by the Committee on the Rights of Persons with Disabilities under article 5 of the Optional Protocol to the Convention on the Rights of Persons with Disabilities in the case of Lauren Henley (represented by counsel, Erin Turner Manners) v. The State Party (Australia).",
+  "Case Summary": "Lauren Henley, represented by counsel Erin Turner Manners, filed a case against the State Party (Australia) with the United Nations Committee on the Rights of Persons with Disabilities. The case involved the lack of audio description on freeto-air television, alleging violations of her rights under the Convention on the Rights of Persons with Disabilities. The Committee found the State party to have violated the author's rights, leading to the adoption of Views in accordance with article 5 of the Optional Protocol, concerning communication No. 56/2018.",
+  "Keywords": [
+    "Lauren Henley",
+    "Erin Turner Manners",
+    "The State Party",
+    "Australia",
+    "Rights of Persons with Disabilities",
+    "Optional Protocol",
+    "Audio Description",
+    "Convention on the Rights of Persons with Disabilities",
+    "Accessibility",
+    "Visual Impairments",
+    "Domestic Remedies"
+  ]
+}

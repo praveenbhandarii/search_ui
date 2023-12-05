@@ -1,0 +1,25 @@
+{
+  "Date": "2008",
+  "Parties Involved": ["M.M.", "Denmark"],
+  "Case Name": "M.M. v. Denmark",
+  "Case Number": "Communication No. 163/2007",
+  "Court Name": "United Nations Committee on the Elimination of Racial Discrimination (CERD)",
+  "Document Type": "Committee decision",
+  "Document Date": "2008",
+  "Document Summary": "The case involves a complaint submitted to the United Nations Committee on the Elimination of Racial Discrimination (CERD) by M.M., who alleged that they were a victim of a racially motivated attack in Denmark. The petitioner claimed that the police did not properly investigate the incident as a racially motivated crime. The State party disputed the allegations and argued that the assault was not racially motivated.",
+  "Case Summary": "The case involves a complaint submitted to the United Nations Committee on the Elimination of Racial Discrimination (CERD) by M.M., who alleged that they were a victim of a racially motivated attack in Denmark. The petitioner claimed that the police did not properly investigate the incident as a racially motivated crime. The State party disputed the allegations and argued that the assault was not racially motivated.",
+  "Keywords": [
+    "Racial Discrimination",
+    "M.M.",
+    "Denmark",
+    "CERD",
+    "Committee decision",
+    "Convention on the Elimination of Racial Discrimination",
+    "Articles 2, 6",
+    "Procedural History",
+    "Legal Analysis",
+    "Human Rights",
+    "UN",
+    "Recommendations"
+  ]
+}

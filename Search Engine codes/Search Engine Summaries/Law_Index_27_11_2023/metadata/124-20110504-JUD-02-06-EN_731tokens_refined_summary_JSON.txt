@@ -1,0 +1,25 @@
+{
+  "Date": "2011",
+  "Parties Involved": ["Nicaragua", "Colombia"],
+  "Case Name": "Territorial and Maritime Dispute (Nicaragua v. Colombia)",
+  "Case Number": "124",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2011",
+  "Document Summary": "This judgment document pertains to Case Number 124, titled 'Territorial and Maritime Dispute (Nicaragua v. Colombia).' It was issued by the International Court of Justice on May 4, 2011.",
+  "Case Summary": "The Republic of Nicaragua filed a dispute against the Republic of Colombia regarding territorial and maritime delimitation. Nicaragua submitted its Memorial within the specified time limit, but Colombia raised preliminary objections to jurisdiction, resulting in the suspension of the proceedings on the merits.",
+  "Keywords": [
+    "Territorial Dispute",
+    "Maritime Dispute",
+    "Nicaragua",
+    "Colombia",
+    "International Court of Justice",
+    "Jurisdiction",
+    "Preliminary Objections",
+    "Intervention",
+    "Statute",
+    "Legal Interest",
+    "Equatorial Guinea",
+    "Maritime Delimitation"
+  ]
+}

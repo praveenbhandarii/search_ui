@@ -1,0 +1,29 @@
+{
+  "Date": "2021",
+  "Parties Involved": ["Nicaragua", "Colombia"],
+  "Case Name": "Territorial and Maritime Dispute (Nicaragua v. Colombia)",
+  "Case Number": "124",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Dissenting Opinion",
+  "Document Date": "2013",
+  "Document Summary": "This dissenting opinion by Judge Joan E. Donoghue addresses the territorial and maritime dispute between Nicaragua and Colombia at the International Court of Justice. It includes citations to previous cases and international legal documents, such as the ICJ Reports. The opinion discusses the intervention of Costa Rica due to overlapping claims and the Court's approach to Article 62 of the Statute of the Court. The dissenting opinion was filed on June 13, 2013.",
+  "Case Summary": "The case involves a territorial and maritime dispute between Nicaragua and Colombia at the International Court of Justice. It also includes the intervention of Costa Rica, which overlaps with the disputed area. The Court's practice in handling delimitation cases involving overlapping claims is discussed, along with Judge Donoghue's disagreement with the Court's approach to Article 62. The dissenting opinion addresses the interests and concerns of Costa Rica in the case.",
+  "Keywords": [
+    "Territorial Dispute",
+    "Maritime Dispute",
+    "Nicaragua",
+    "Colombia",
+    "Costa Rica",
+    "Intervention",
+    "Article 62",
+    "Judge Joan E. Donoghue",
+    "Dissenting Opinion",
+    "ICJ Reports",
+    "Legal Documents",
+    "Case Number 124",
+    "CIJ1019",
+    "Boundary Dispute",
+    "Third State Claims",
+    "Overlapping Claims"
+  ]
+}

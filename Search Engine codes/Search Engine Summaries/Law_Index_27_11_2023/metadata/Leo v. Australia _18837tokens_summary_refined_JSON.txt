@@ -1,0 +1,22 @@
+{
+  "Date": "2019",
+  "Parties Involved": ["Christopher Leo", "Australia"],
+  "Case Name": "Christopher Leo v. Australia",
+  "Case Number": "CRPD/C/22/D/17/2013",
+  "Court Name": "United Nations Committee on the Rights of Persons with Disabilities (UNCRPD)",
+  "Document Type": "Judgment",
+  "Document Date": "2019",
+  "Document Summary": "The United Nations Committee on the Rights of Persons with Disabilities made a ruling in the case of Christopher Leo v. Australia, finding that Australia violated the author's rights under the Convention on the Rights of Persons with Disabilities. The Committee recommended appropriate remedies and measures to prevent similar violations in the future.",
+  "Case Summary": "The case involved Christopher Leo's complaint alleging violations of his rights under the Convention on the Rights of Persons with Disabilities. The Committee found that Australia violated Leo's rights under several articles of the Convention, setting a precedent for holding states accountable for such violations.",
+  "Keywords": [
+    "Convention on the Rights of Persons with Disabilities",
+    "Christopher Leo",
+    "Australia",
+    "CRPD/C/22/D/17/2013",
+    "UNCRPD",
+    "Optional Protocol",
+    "Equality",
+    "Dignity",
+    "Rights of Persons with Disabilities"
+  ]
+}

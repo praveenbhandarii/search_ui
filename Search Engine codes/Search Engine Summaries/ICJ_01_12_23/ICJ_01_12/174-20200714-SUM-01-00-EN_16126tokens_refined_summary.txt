@@ -1,0 +1,30 @@
+Case ID: ICJ/174
+Court/Tribunal: International Court of Justice (ICJ)
+Document Date: 2020
+Key Parties Involved: Bahrain, Egypt, United Arab Emirates (Appellants), Qatar (Respondent)
+Case Name: Appeal relating to the Jurisdiction of the ICAO Council under Article II, Section 2, of the 1944 International Air Services Transit Agreement (Bahrain, Egypt and United Arab Emirates v. Qatar)
+
+Case Summary:
+This case involves an appeal filed by Bahrain, Egypt, and the United Arab Emirates (Appellants) against the decision of the Council of the International Civil Aviation Organization (ICAO Council) regarding a dispute with Qatar (Respondent). The dispute revolves around the jurisdiction of the ICAO Council to decide disputes related to the interpretation or application of the International Air Services Transit Agreement (IASTA). The Appellants raised preliminary objections, arguing that the ICAO Council lacked jurisdiction and that Qatar's application was inadmissible. The ICAO Council rejected the preliminary objections, leading to the appeal. The Appellants also alleged that the aviation restrictions imposed by Qatar violated their obligations under the IASTA and international law. The International Court of Justice (ICJ) upheld the ICAO Council's jurisdiction and dismissed the appeal, finding that the Council did not err in rejecting the preliminary objections and that Qatar's claims were admissible.
+
+Context:
+- The dispute arose from proceedings commenced by Qatar against Bahrain, Egypt, Saudi Arabia, and the United Arab Emirates on October 30, 2017, pursuant to Article 84 of the Convention on International Civil Aviation.
+- The Appellants argued that the ICAO Council lacked jurisdiction due to the real issue in dispute extending beyond the scope of the IASTA and Qatar's failure to meet the precondition of negotiation.
+- The ICAO Council rejected the preliminary objections by a vote of 18 to 2 with 5 abstentions.
+- The ICJ found that Qatar made a genuine attempt to negotiate and fulfilled the negotiation precondition, rendering its claims admissible.
+- Judge Canado Trindade presented a separate opinion, disagreeing with the majority's rejection of countermeasures and stating that he would have dismissed the appeal on different grounds.
+
+Citations:
+- Article II, Section 2 of the 1944 International Air Services Transit Agreement (IASTA)
+- Article 84 of the Chicago Convention on International Civil Aviation
+- ICAO Rules for the Settlement of Differences
+- Riyadh Agreement of 23 and 24 November 2013
+- Mechanism Implementing the Riyadh Agreement of 17 April 2014
+- Supplementary Riyadh Agreement of 16 November 2014
+
+References:
+- ICJ Case Number: 174
+- Document Type: Summary
+- Document Date: 20200714
+- Language: EN
+- File-name: 174-20200714-SUM-01-00-EN_16126tokens_SOS.txt

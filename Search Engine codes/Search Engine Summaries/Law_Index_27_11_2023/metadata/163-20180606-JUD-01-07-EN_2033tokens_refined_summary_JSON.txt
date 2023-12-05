@@ -1,0 +1,28 @@
+{
+    "Date": "2020",
+    "Parties Involved": ["Equatorial Guinea", "France"],
+    "Case Name": "Immunities and Criminal Proceedings (Equatorial Guinea v. France)",
+    "Case Number": "Unspecified",
+    "Court Name": "International Court of Justice (ICJ)",
+    "Document Type": "Judgment",
+    "Document Date": "2020",
+    "Document Summary": "This judgment document provides the separate opinion of Judge Gevorgian on the preliminary objections raised in the case regarding the immunity from criminal jurisdiction of the Second Vice-President of Equatorial Guinea and the legal status of the Embassy of Equatorial Guinea in France.",
+    "Case Summary": "The Republic of Equatorial Guinea initiated proceedings against the French Republic regarding the immunity from criminal jurisdiction of the Second Vice-President of Equatorial Guinea, Mr. Teodoro Nguema Obiang Mangue, and the legal status of the Embassy of Equatorial Guinea in France.",
+    "Keywords": [
+        "Immunities",
+        "Criminal Proceedings",
+        "Equatorial Guinea",
+        "France",
+        "Palermo Convention",
+        "Sovereign Equality",
+        "ICJ",
+        "Judge Gevorgian",
+        "Judge Canado Trindade",
+        "Judge Donoghue",
+        "Judge Gaja",
+        "Judge Keith",
+        "Judge Bennouna",
+        "Judge Xue",
+        "Holdings of High-Ranking Office"
+    ]
+}

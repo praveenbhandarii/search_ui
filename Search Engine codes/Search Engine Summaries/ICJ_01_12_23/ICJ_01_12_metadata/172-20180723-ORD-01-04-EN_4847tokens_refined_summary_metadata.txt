@@ -1,0 +1,26 @@
+{
+	"Date": "2018",
+	"Parties Involved": [
+		"Qatar",
+		"United Arab Emirates (UAE)"
+	],
+	"Case Name": "Application of the International Convention on the Elimination of All Forms of Racial Discrimination (Qatar v. United Arab Emirates)",
+	"Case Number": "ICJ/172",
+	"Court Name": "International Court of Justice (ICJ)",
+	"Document Type": "Dissenting Opinion",
+	"Document Date": "2018",
+	"Document Summary": "The document is a dissenting opinion by Judge Crawford in a case related to the Gulf crisis and human rights abuses. It examines the legality of measures imposed by the UAE on Qatari nationals, particularly in the context of the International Convention on the Elimination of All Forms of Racial Discrimination (CERD). It discusses the humanitarian circumstances of Emirati-Qatari joint families, the impact of the measures on Qatari nationals' rights, and the legal requirements for provisional measures.",
+	"Case Summary": "Qatar filed a case against the UAE, alleging violations of the International Convention on the Elimination of All Forms of Racial Discrimination (CERD). The case centers around measures imposed by the UAE on Qatari nationals, targeting them based on their nationality, which Qatar argues violates the CERD.",
+	"Keywords": [
+		"International Convention on the Elimination of All Forms of Racial Discrimination",
+		"CERD",
+		"Qatar",
+		"United Arab Emirates (UAE)",
+		"Dissenting Opinion",
+		"Provisional Measures",
+		"Humanitarian Circumstances",
+		"Gulf Crisis",
+		"Human Rights Abuses",
+		"Judge Crawford"
+	]
+}

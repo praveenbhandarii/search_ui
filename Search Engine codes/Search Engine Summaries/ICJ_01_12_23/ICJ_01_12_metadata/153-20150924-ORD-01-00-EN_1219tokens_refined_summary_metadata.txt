@@ -1,0 +1,21 @@
+{
+  "Date": "2015",
+  "Parties Involved": ["Plurinational State of Bolivia", "Republic of Chile"],
+  "Case Name": "Obligation to Negotiate Access to the Pacific Ocean (Bolivia v. Chile)",
+  "Case Number": "ICJ/153",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2015",
+  "Document Summary": "The case involves a dispute between Bolivia and Chile regarding Chile's obligation to negotiate in good faith and effectively with Bolivia to grant it fully sovereign access to the Pacific Ocean. Bolivia claims that Chile has not fulfilled this obligation and denies its existence. Bolivia invoked Article XXXI of the Pact of Bogotá as the basis for the jurisdiction of the International Court of Justice (ICJ).",
+  "Case Summary": "The case involves a dispute between Bolivia and Chile regarding Chile's obligation to negotiate in good faith and effectively with Bolivia to grant it fully sovereign access to the Pacific Ocean. Bolivia claims that Chile has committed itself to negotiate such access through agreements, diplomatic practice, and declarations by its highest-level representatives. Bolivia argues that Chile has not fulfilled this obligation and denies its existence. Bolivia invoked Article XXXI of the Pact of Bogotá as the basis for the jurisdiction of the International Court of Justice (ICJ).",
+  "Keywords": [
+    "Obligation to Negotiate",
+    "Pacific Ocean",
+    "Bolivia",
+    "Chile",
+    "Article XXXI",
+    "Pact of Bogotá",
+    "Sovereign Access",
+    "Good Faith Negotiation"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "Date": "2001",
+  "Parties Involved": ["D.S.", "Sweden"],
+  "Case Name": "D.S. v. Sweden",
+  "Case Number": "Not available",
+  "Court Name": "United Nations Committee on the Elimination of Racial Discrimination (UNCERD)",
+  "Document Type": "Case Communication",
+  "Document Date": "March 2001",
+  "Document Summary": "The case involves D.S., a foreign national, alleging discrimination based on national origin and immigration status in a job application at the National Council for Cultural Affairs in Sweden. The Committee found the petitioners' communication inadmissible due to her failure to exhaust available domestic remedies, as required by article 14, paragraph 7(a), of the International Convention on the Elimination of All Forms of Racial Discrimination.",
+  "Case Summary": "The case highlights the importance of exhausting all available domestic remedies in cases of alleged racial discrimination in the workplace. The decision may have implications for future cases where petitioners claim to have exhausted all available domestic remedies but have not done so in reality.",
+  "Keywords": [
+    "Racial Discrimination",
+    "D.S.",
+    "Sweden",
+    "National Council for Cultural Affairs",
+    "International Convention on the Elimination of All Forms of Racial Discrimination",
+    "Exhaustion of Domestic Remedies",
+    "Trade Unions",
+    "Ombudsman",
+    "Labor Market"
+  ]
+}

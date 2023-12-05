@@ -1,0 +1,21 @@
+{
+    "Date": "2019",
+    "Parties Involved": ["Qatar", "United Arab Emirates (UAE)"],
+    "Case Name": "Application of the International Convention on the Elimination of All Forms of Racial Discrimination (Qatar v. United Arab Emirates)",
+    "Case Number": "ICJ/172",
+    "Court Name": "International Court of Justice (ICJ)",
+    "Document Type": "Preliminary Objections Order",
+    "Document Date": "2019",
+    "Document Summary": "This document is an order issued by the ICJ in response to preliminary objections raised by the UAE regarding the court's jurisdiction and the admissibility of the application. The order requires Qatar to present a written statement addressing the objections within four months. The subsequent procedure is reserved for further decision.",
+    "Case Summary": "Qatar filed a case against the UAE on June 11, 2018, alleging violations of the International Convention on the Elimination of All Forms of Racial Discrimination. This document is an order issued by the ICJ in response to preliminary objections raised by the UAE regarding the court's jurisdiction and the admissibility of the application. The order requires Qatar to present a written statement addressing the objections within four months. The subsequent procedure is reserved for further decision.",
+    "Keywords": [
+        "International Convention on the Elimination of All Forms of Racial Discrimination",
+        "Qatar",
+        "United Arab Emirates (UAE)",
+        "Preliminary Objections",
+        "Jurisdiction",
+        "Admissibility",
+        "Written Statement",
+        "ICJ/172"
+    ]
+}

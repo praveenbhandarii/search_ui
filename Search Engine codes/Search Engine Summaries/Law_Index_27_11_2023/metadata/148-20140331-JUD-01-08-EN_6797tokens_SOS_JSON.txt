@@ -1,0 +1,35 @@
+{
+    "Date": "2014",
+    "Parties Involved": [
+        "Australia",
+        "Japan",
+        "New Zealand"
+    ],
+    "Case Name": "Whaling in the Antarctic (Australia v. Japan: New Zealand intervening)",
+    "Case Number": "148",
+    "Court Name": "International Court of Justice (ICJ)",
+    "Document Type": "Judgment",
+    "Document Date": "2014",
+    "Document Summary": "This judgment document reviews Japan's decision to grant special permits for JARPA II, a large-scale whaling program in the Antarctic, and provides details about the case, including the case number (148), judges involved, and citation information (I.C.J. Reports 2014 (I), p. 532). The case involves Australia's challenge against Japan's program, alleging violations of the International Convention for the Regulation of Whaling (ICRW) and other international obligations for the preservation of marine mammals and the marine environment.",
+    "Case Summary": "This case involves Australia's challenge against Japan's large-scale whaling program, known as JARPA II, in the Antarctic. Australia argues that Japan's program violates its obligations under the International Convention for the Regulation of Whaling (ICRW) and other international obligations for the preservation of marine mammals and the marine environment. The ICJ ruled that Japan's decision to grant special permits for JARPA II was not objectively reasonable and violated the International Convention for the Regulation of Whaling. The importance of conservation for the protection of whale resources and the evolving restrictions on commercial whaling for conservation purposes was emphasized.",
+    "Keywords": [
+        "Whaling",
+        "Antarctic",
+        "Australia",
+        "Japan",
+        "New Zealand",
+        "JARPA II",
+        "International Convention for the Regulation of Whaling",
+        "ICRW",
+        "Marine Mammals",
+        "Marine Environment",
+        "Scientific Whaling",
+        "Article VIII",
+        "International Whaling Commission",
+        "IWC",
+        "Conservation",
+        "ICJ",
+        "Feasibility Studies",
+        "Nonlethal Methods"
+    ]
+}

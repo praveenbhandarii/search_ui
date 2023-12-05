@@ -1,0 +1,216 @@
+/* App.css */
+
+body {
+  font-family: "Arial", sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f4f4f4;
+}
+
+.search-container {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.search-container h1 {
+  color: #333;
+  margin-bottom: 30px;
+}
+
+.search-query {
+  width: calc(100% - 22px); /* Account for padding and border */
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.search-button {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  background: #5c6bc0;
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+.search-button:hover {
+  background: #3949ab;
+}
+
+.filter-section {
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.court-filters label,
+.year-filter label {
+  display: block;
+  margin-bottom: 10px;
+  font-size: 16px;
+  color: #333;
+}
+
+.court-filters input[type="checkbox"],
+.year-filter select {
+  margin-right: 10px;
+}
+
+.year-filter select {
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 16px;
+  background: white;
+  cursor: pointer;
+}
+
+/* Style the dropdown arrow */
+.year-filter select {
+  appearance: none;
+  background-image: url('data:image/svg+xml;charset=US-ASCII,<svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M7 10l5 5 5-5z" fill="%235c6bc0"/></svg>');
+  background-repeat: no-repeat;
+  background-position: right 10px center;
+  background-size: 12px;
+}
+
+.search-results {
+  margin-top: 20px;
+  text-align: left;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .search-container {
+    width: 90%;
+    margin: 30px auto;
+  }
+
+  .search-query,
+  .search-button,
+  .year-filter select {
+    width: calc(100% - 20px);
+  }
+}
+
+.result-card {
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin-bottom: 10px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.result-card h3 {
+  margin-top: 0;
+}
+
+.result-card {
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  background: #f9f9f9;
+}
+
+.result-card h3 {
+  margin-top: 0;
+  color: #0056b3;
+}
+
+.result-card p {
+  font-size: 0.9rem;
+  margin: 5px 0;
+}
+
+.result-card p strong {
+  color: #333;
+}
+
+.result-card a {
+  display: inline-block;
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  margin-top: 15px;
+  font-size: 0.8rem;
+}
+
+.result-card a:hover {
+  background-color: #0056b3;
+}
+.modal-backdrop {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.modal-content {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  max-width: 500px;
+  max-height: 80%;
+  overflow-y: auto;
+}
+
+/* Button styling for 'View Document' */
+.result-card button.view-document {
+  padding: 10px 20px;
+  background-color: #0056b3;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  margin-top: 10px;
+  transition: background-color 0.3s ease;
+}
+
+.result-card button.view-document:hover,
+.result-card button.view-document:focus {
+  background-color: #003d82;
+  outline: none;
+}
+
+/* Close button styling inside the modal */
+.modal-content button.close-modal {
+  padding: 5px 10px;
+  background-color: #f44336;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  float: right; /* Position the button to the right corner */
+}
+
+.modal-content button.close-modal:hover,
+.modal-content button.close-modal:focus {
+  background-color: #d32f2f;
+  outline: none;
+}
+
+/* Add this to your styles.css file or within a <style> tag in your component */
+.modal-content p {
+  white-space: pre-wrap; /* Preserves whitespace and line breaks */
+}

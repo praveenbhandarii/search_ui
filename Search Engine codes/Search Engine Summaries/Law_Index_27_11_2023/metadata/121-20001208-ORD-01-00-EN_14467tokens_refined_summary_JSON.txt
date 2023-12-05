@@ -1,0 +1,26 @@
+{
+  "Date": "2000",
+  "Parties Involved": ["Democratic Republic of the Congo", "Belgium"],
+  "Case Name": "Arrest Warrant of 11 April 2000 (Democratic Republic of the Congo v. Belgium)",
+  "Case Number": "ICJ/22",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Order Document",
+  "Document Date": "2000",
+  "Document Summary": "This order document provides details about the case, including the case name, date, case number, judges, and the legal basis for the DRC's application. It also highlights the DRC's request for provisional measures and the legal grounds on which it challenges the arrest warrant and Belgium's law. The document further mentions the related facts, such as the alleged crimes committed in the DRC and the responsibility of Mr. Ndombasi.",
+  "Case Summary": "The case involves a dispute between the DRC and Belgium over an international arrest warrant issued against the Congolese Minister for Foreign Affairs. The DRC argues that the arrest warrant and Belgium's law on serious violations of international humanitarian law violate international law. The DRC requests provisional measures to prevent the execution of the warrant and protect its rights. The document provides detailed information about the case, including the parties involved, legal grounds, relevant laws, and arguments made by both sides. It also highlights the change in circumstances following a cabinet reshuffle in the DRC. The case is being heard by the ICJ, with Judge Keith as the presiding judge.",
+  "Keywords": [
+    "Arrest Warrant",
+    "DRC",
+    "Belgium",
+    "International Court of Justice",
+    "ICJ/22",
+    "Abdoulaye Yerodia Ndombasi",
+    "Provisional Measures",
+    "Immunity",
+    "Inviolability",
+    "International Law",
+    "Non-retroactivity",
+    "Crimes in DRC",
+    "Judge Keith"
+  ]
+}

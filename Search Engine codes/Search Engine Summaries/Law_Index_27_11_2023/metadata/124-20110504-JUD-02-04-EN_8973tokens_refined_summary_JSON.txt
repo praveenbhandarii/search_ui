@@ -1,0 +1,25 @@
+{
+  "Date": "2001",
+  "Parties Involved": ["Nicaragua", "Colombia"],
+  "Case Name": "Territorial and Maritime Dispute (Nicaragua v. Colombia)",
+  "Case Number": "ICJ/XX",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2021",
+  "Document Summary": "This document is a judgment by the International Court of Justice (ICJ) regarding the territorial and maritime dispute between Nicaragua and Colombia. It discusses Costa Rica's application to intervene in the case and the Court's evaluation of whether Costa Rica's interest is of a legal nature. The document also explores the relationship between Articles 62 and 59 of the ICJ Statute and the purpose of intervention in protecting third states' interests.",
+  "Case Summary": "The case involves a territorial and maritime dispute between Nicaragua and Colombia. Nicaragua filed an application in 2001, and Colombia raised preliminary objections to jurisdiction in 2003, leading to the suspension of proceedings on the merits. Costa Rica applied to intervene in the case, citing an interest in the adjacent maritime spaces. The International Court of Justice (ICJ) dismissed Costa Rica's application, questioning whether its interest is of a legal nature. The Court recognized that an interest of a legal nature must be recognized by the applicable rules of international law. The dissenting judges argued that the Court's decision was based on policy grounds rather than a determination of Costa Rica's demonstrated interest. The dissenting judges believed that the Court had misconstrued the scope and object of Article 62 of the ICJ Statute, which allows for non-party intervention. The Court's approach was criticized for potentially closing the door to future applications for intervention, especially in territorial and maritime delimitations.",
+  "Keywords": [
+    "Territorial Dispute",
+    "Maritime Dispute",
+    "Nicaragua",
+    "Colombia",
+    "International Court of Justice",
+    "ICJ Statute",
+    "Costa Rica",
+    "Intervention",
+    "Legal Nature of Interest",
+    "Articles 62",
+    "Articles 59",
+    "Third States' Interests"
+  ]
+}

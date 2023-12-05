@@ -1,0 +1,23 @@
+{
+  "Date": "2019",
+  "Parties Involved": ["Manuway (Kerry) Doolan", "Australia"],
+  "Case Name": "Manuway (Kerry) Doolan v. Australia",
+  "Case Number": "CRPD/C/66/D/31/2003",
+  "Court Name": "United Nations Committee on the Rights of Persons with Disabilities",
+  "Document Type": "Views adopted by the Committee under article 5 of the Optional Protocol, concerning communication No. 18/2013",
+  "Document Date": "2019",
+  "Document Summary": "The United Nations Committee on the Rights of Persons with Disabilities adopted views concerning communication No. 18/2013, finding violations of the Convention on the Rights of Persons with Disabilities by Australia in the case of Manuway (Kerry) Doolan.",
+  "Case Summary": "Manuway (Kerry) Doolan filed a complaint alleging violations of his rights under the Convention on the Rights of Persons with Disabilities by Australia. The Committee found violations of various articles of the Convention, recommended the immediate release of the author, and emphasized the importance of treating individuals with disabilities equally and without discrimination.",
+  "Keywords": [
+    "Disability Rights",
+    "Manuway (Kerry) Doolan",
+    "Australia",
+    "Convention on the Rights of Persons with Disabilities",
+    "Articles 5, 12, 13, 14, 15",
+    "Detention",
+    "Involuntary Treatment",
+    "Effective Remedy",
+    "Compensation",
+    "Guidance for States"
+  ]
+}

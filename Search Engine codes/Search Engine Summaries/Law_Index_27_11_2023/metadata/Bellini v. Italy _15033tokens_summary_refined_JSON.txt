@@ -1,0 +1,21 @@
+{
+  "Date": "2019",
+  "Parties Involved": ["Bellini", "Italy"],
+  "Case Name": "Bellini v. Italy",
+  "Case Number": "CRPD/C/27/D/51/2018",
+  "Court Name": "Committee on the Rights of Persons with Disabilities",
+  "Document Type": "Views adopted by the Committee under article 5 of the Optional Protocol, concerning communication No. 51/2018",
+  "Document Date": "March 2019",
+  "Document Summary": "The Committee on the Rights of Persons with Disabilities adopted views in favor of the author, Maria Simona Bellini, finding that Italy had violated the rights of the author and her relatives under the Convention.",
+  "Case Summary": "The case involved the author, Maria Simona Bellini's communication to the Committee on the Rights of Persons with Disabilities alleging violations of the Convention on the Rights of Persons with Disabilities by Italy. The Committee found the communication to be substantiated and held that Italy's failure to recognize and support family caregivers constituted a violation of their rights under the Convention.",
+  "Keywords": [
+    "Rights of Persons with Disabilities",
+    "Bellini",
+    "Italy",
+    "Convention on the Rights of Persons with Disabilities",
+    "Family Caregivers",
+    "Committee on the Rights of Persons with Disabilities",
+    "Legal Recognition",
+    "Social Security"
+  ]
+}

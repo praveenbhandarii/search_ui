@@ -1,0 +1,23 @@
+{
+  "Date": "2016",
+  "Parties Involved": ["Nicaragua", "Colombia"],
+  "Case Name": "Alleged Violations of Sovereign Rights and Maritime Spaces in the Caribbean Sea (Nicaragua v. Colombia)",
+  "Case Number": "ICJ/155",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2016",
+  "Document Summary": "This judgment document pertains to the case of alleged violations of sovereign rights and maritime spaces in the Caribbean Sea between Nicaragua and Colombia. The document addresses preliminary objections raised by Colombia and concludes with the rejection of Nicaragua's claim to advance to the merits phase of the case.",
+  "Case Summary": "Nicaragua filed an application against Colombia in 2013, alleging violations of its sovereign rights and maritime zones as declared in a previous judgment by the ICJ. The dispute also involved the threat of force by Colombia to implement these violations.",
+  "Keywords": [
+    "Sovereign Rights",
+    "Maritime Spaces",
+    "Caribbean Sea",
+    "Nicaragua",
+    "Colombia",
+    "ICJ",
+    "Preliminary Objections",
+    "United Nations Charter",
+    "Pact of Bogotá",
+    "2012 Judgment"
+  ]
+}

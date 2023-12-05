@@ -1,0 +1,22 @@
+{
+  "Date": "2012",
+  "Parties Involved": ["Nicaragua", "Colombia"],
+  "Case Name": "Territorial and Maritime Dispute (Nicaragua v. Colombia)",
+  "Case Number": "124",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "20121119",
+  "Document Summary": "This judgment document pertains to the delimitation of the maritime boundary between Nicaragua and Colombia, addressing the challenges and principles applied by the Court.",
+  "Case Summary": "The case involves a territorial and maritime dispute in the Caribbean Sea between Nicaragua and Colombia. The ICJ has used a three-stage method to delimit the boundary, taking into account the interests of third States in the region. The Court's approach in delimiting the boundary has been questioned, as it may be seen as a departure from the standard method, and it highlights the challenges in delimiting boundaries between countries with disparate coast lengths and the need for an equitable solution.",
+  "Keywords": [
+    "Territorial Dispute",
+    "Maritime Dispute",
+    "Nicaragua",
+    "Colombia",
+    "International Court of Justice",
+    "ICJ",
+    "Caribbean Sea",
+    "Maritime Boundary Delimitation",
+    "Equitable Solution"
+  ]
+}

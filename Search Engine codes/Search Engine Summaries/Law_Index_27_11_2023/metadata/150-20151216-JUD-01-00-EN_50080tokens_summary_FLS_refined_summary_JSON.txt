@@ -1,0 +1,27 @@
+{
+    "Date": "2015",
+    "Parties Involved": ["Costa Rica", "Nicaragua"],
+    "Case Name": "Certain Activities Carried Out by Nicaragua in the Border Area (Costa Rica v. Nicaragua) and Construction of a Road in Costa Rica along the San Juan River (Nicaragua v. Costa Rica)",
+    "Case Number": "I.C.J. Reports 2015, p. 665",
+    "Court Name": "International Court of Justice (ICJ)",
+    "Document Type": "Judgment",
+    "Document Date": "2015",
+    "Document Summary": "This legal document pertains to a dispute between Costa Rica and Nicaragua regarding certain activities carried out by Nicaragua in the border area and the construction of a road in Costa Rica along the San Juan River. The document discusses the parties' procedural and substantive obligations, breaches of obligations, reparation measures, and key dates. The case raises issues related to sovereignty, territorial integrity, and the protection of the environment. The document also includes a summary of the judgment delivered on October 19, 2016, by the International Court of Justice (ICJ) in the case of Nicaragua v. Costa Rica.",
+    "Case Summary": "The case involves a dispute between Costa Rica and Nicaragua over the construction of a road along the San Juan River, which forms part of the border between the two countries. The dispute raises issues related to sovereignty, territorial integrity, and the protection of the environment. The document discusses the parties' procedural and substantive obligations, breaches of obligations, reparation measures, and key dates.",
+    "Keywords": [
+        "Nicaragua",
+        "Costa Rica",
+        "Sovereignty",
+        "Territorial Integrity",
+        "Environmental Protection",
+        "International Court of Justice",
+        "ICJ Judgment",
+        "Transboundary Harm",
+        "Reparation Measures",
+        "San Juan River",
+        "Treaty Obligations",
+        "Provisional Measures",
+        "Environmental Impact Assessment",
+        "Judgment"
+    ]
+}

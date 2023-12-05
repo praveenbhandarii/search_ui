@@ -1,0 +1,22 @@
+{
+  "Date": "2000",
+  "Parties Involved": ["Democratic Republic of the Congo", "Belgium"],
+  "Case Name": "Arrest Warrant of 11 April 2000 (Democratic Republic of the Congo v. Belgium)",
+  "Case Number": "ICJ/15",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Order",
+  "Document Date": "1999",
+  "Document Summary": "This document is an Order of the International Court of Justice (ICJ) regarding the case 'Arrest Warrant of 11 April 2000 (Democratic Republic of the Congo v. Belgium).' It discusses the jurisdictional issues raised by the DRC's invocation of its optional clause declaration in the second round of oral arguments.",
+  "Case Summary": "The Democratic Republic of the Congo (DRC) filed a dispute against Belgium concerning an international arrest warrant issued against the acting Congolese Minister for Foreign Affairs. The DRC alleged that the warrant sought his detention and extradition to Belgium for crimes constituting grave violations of international humanitarian law.",
+  "Keywords": [
+    "Democratic Republic of the Congo",
+    "Belgium",
+    "Arrest Warrant",
+    "International Court of Justice",
+    "Jurisdiction",
+    "Optional Clause Declaration",
+    "Legal Grounds",
+    "Grave Violations",
+    "International Humanitarian Law"
+  ]
+}

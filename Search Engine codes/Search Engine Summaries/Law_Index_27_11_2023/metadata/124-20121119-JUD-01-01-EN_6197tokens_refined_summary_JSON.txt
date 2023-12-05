@@ -1,0 +1,25 @@
+{
+  "Date": "2014",
+  "Parties Involved": ["Nicaragua", "Colombia"],
+  "Case Name": "Territorial and Maritime Dispute (Nicaragua v. Colombia)",
+  "Case Number": "CIJ1034",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2014",
+  "Document Summary": "The judgment of the ICJ delivered by Judge Owada in the case of Territorial and Maritime Dispute (Nicaragua v. Colombia) regarding the admissibility of Nicaragua's revised claim and the determination of the subject matter of the dispute.",
+  "Case Summary": "The case involves a territorial and maritime dispute between Nicaragua and Colombia, centering on the delimitation of maritime boundaries, especially regarding the continental shelf and exclusive economic zone. The ICJ had to determine the admissibility of Nicaragua's revised claim and whether it transformed the subject matter of the dispute.",
+  "Keywords": [
+    "Territorial Dispute",
+    "Maritime Dispute",
+    "Nicaragua",
+    "Colombia",
+    "Sovereignty",
+    "Maritime Boundaries",
+    "Continental Shelf",
+    "Exclusive Economic Zone",
+    "ICJ",
+    "Judge Owada",
+    "Admissibility",
+    "Revised Claim"
+  ]
+}

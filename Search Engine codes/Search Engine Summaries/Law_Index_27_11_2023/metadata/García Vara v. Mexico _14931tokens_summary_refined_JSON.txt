@@ -1,0 +1,20 @@
+{
+  "Date": "2023",
+  "Parties Involved": ["Selene Militza Garca Vara", "Mexico"],
+  "Case Name": "Selene Militza Garca Vara v. Mexico",
+  "Case Number": "CRPD/C/28/D/70/2019",
+  "Court Name": "United Nations Committee on the Rights of Persons with Disabilities",
+  "Document Type": "Views adopted by the Committee under article 5 of the Optional Protocol, concerning communication No. 70/2019",
+  "Document Date": "2023",
+  "Document Summary": "The Committee adopted its views on 23 March 2023.",
+  "Case Summary": "Selene Militza Garca Vara filed a complaint against Mexico alleging violations of her rights under the Convention on the Rights of Persons with Disabilities (CRPD). The Committee found that Mexico violated the author's rights under articles 1, 2, 4, 5, 6, 8, 9, and 24 of the CRPD, and ordered Mexico to provide the author with access to inclusive tertiary education and to make reasonable accommodations to ensure her equal participation in and completion of her education.",
+  "Keywords": [
+    "Disabilities Rights",
+    "Selene Militza Garca Vara",
+    "Mexico",
+    "CRPD",
+    "Discrimination",
+    "Tertiary Education",
+    "Reasonable Accommodation"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Date": "2016",
+  "Parties Involved": ["Marshall Islands", "India"],
+  "Case Name": "Obligations concerning Negotiations relating to Cessation of the Nuclear Arms Race and to Nuclear Disarmament (Marshall Islands v. India)",
+  "Case Number": "ICJ/158",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgement",
+  "Document Date": "2016",
+  "Document Summary": "The International Court of Justice (ICJ) found that there is no jurisdiction to consider the application lodged by the Marshall Islands and cannot proceed to the merits of the case. However, Judge Canado Trindade dissented from the majority decision and provided a dissenting opinion, arguing that a dispute exists between the parties and that the ICJ should have jurisdiction to consider the application.",
+  "Case Summary": "The Republic of the Marshall Islands filed applications against nine states, including India, accusing them of not fulfilling their obligations regarding the cessation of the nuclear arms race and nuclear disarmament. The case revolves around India's alleged failure to pursue negotiations in good faith for nuclear disarmament.",
+  "Keywords": ["Nuclear Disarmament", "Marshall Islands", "India", "International Court of Justice", "ICJ/158", "Judge Canado Trindade", "Dissenting Opinion", "Ethics", "Justice", "Human Values", "Nuclear Weapons"]
+}

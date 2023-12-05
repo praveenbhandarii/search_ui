@@ -1,0 +1,12 @@
+{
+  "Date": "2010",
+  "Parties Involved": ["Australia", "Japan"],
+  "Case Name": "Whaling in the Antarctic (Australia v. Japan)",
+  "Case Number": "148",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Order",
+  "Document Date": "2010",
+  "Document Summary": "This document is an order from the International Court of Justice (ICJ) in Case Number 148, issued on July 13, 2010, at the Peace Palace in The Hague, regarding Australia's accusations against Japan for breaching its obligations under the ICRW and other international obligations by conducting whaling in the Antarctic.",
+  "Case Summary": "Australia instituted proceedings against Japan on May 31, 2010, regarding Japan's large-scale whaling program in the Antarctic, known as JARPA II. Australia claimed that Japan's actions violated its obligations under the International Convention for the Regulation of Whaling (ICRW) and other international obligations for the preservation of marine mammals and the marine environment.",
+  "Keywords": ["Whaling", "Antarctic", "Australia", "Japan", "International Convention for the Regulation of Whaling", "ICRW", "Marine Mammals", "Marine Environment", "JARPA II"]
+}

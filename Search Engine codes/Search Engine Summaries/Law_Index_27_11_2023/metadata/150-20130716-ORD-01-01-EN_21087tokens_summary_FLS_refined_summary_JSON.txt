@@ -1,0 +1,25 @@
+{
+    "Date": "2021",
+    "Parties Involved": ["Costa Rica", "Nicaragua"],
+    "Case Name": "Certain Activities Carried Out by Nicaragua in the Border Area and the Construction of a Road in Costa Rica along the San Juan River",
+    "Case Number": "ICJ/[insert case number]",
+    "Court Name": "International Court of Justice (ICJ)",
+    "Document Type": "Dissenting Opinion",
+    "Document Date": "2021",
+    "Document Summary": "The legal document is a dissenting opinion written by Judge Canado Trindade in the case between Costa Rica and Nicaragua regarding certain activities carried out by Nicaragua in the border area and the construction of a road in Costa Rica along the San Juan River. It discusses the concept of provisional measures of protection in international law and argues for a more proactive stance by the ICJ in respect of such measures. It provides case law and citations to support the author's thesis, including the ICJ's decisions and contemporary international and national tribunals' practices.",
+    "Case Summary": "The case involves a dispute between Costa Rica and Nicaragua regarding certain activities carried out by Nicaragua in the border area and the construction of a road in Costa Rica along the San Juan River. Judge Canado Trindade's dissenting opinion emphasizes the legal regime of provisional measures, the ICJ's authority to indicate provisional measures motu proprio, and the importance of the human person in the new jus gentium. It also highlights the ICJ's power under Article 75 of its Rules to indicate provisional measures that are different from those requested by the parties. The case is related to the question of the obligation to prosecute or extradite, the United Nations Convention against Torture, and the significance of setting a precedent for future cases.",
+    "Keywords": [
+        "Costa Rica",
+        "Nicaragua",
+        "provisional measures",
+        "International Court of Justice",
+        "ICJ Case",
+        "Judge Canado Trindade",
+        "dissenting opinion",
+        "jus gentium",
+        "Article 75",
+        "United Nations Convention against Torture",
+        "prosecute or extradite",
+        "precedent"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+  "Date": "2011",
+  "Parties Involved": [
+    "Nicaragua",
+    "Colombia"
+  ],
+  "Case Name": "Territorial and Maritime Dispute (Nicaragua v. Colombia)",
+  "Case Number": "124",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2011",
+  "Document Summary": "This judgment document pertains to the territorial and maritime dispute (Nicaragua v. Colombia) case. It provides information about the case number, judges, legal framework, citations, and the parties involved. It also mentions the request for permission to intervene submitted by Costa Rica, which was denied by the ICJ.",
+  "Case Summary": "This case involves a territorial and maritime dispute between Nicaragua and Colombia. Costa Rica has applied for permission to intervene in the case, claiming an interest of a legal nature in the Caribbean Sea area claimed by the parties. The ICJ has not yet made a decision on Costa Rica's application.",
+  "Keywords": [
+    "Territorial Dispute",
+    "Maritime Dispute",
+    "Nicaragua",
+    "Colombia",
+    "Costa Rica",
+    "ICJ Statute",
+    "Intervention",
+    "Legal Interest",
+    "Judgment"
+  ]
+}

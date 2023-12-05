@@ -1,0 +1,21 @@
+{
+	"Date": "2004",
+	"Parties Involved": ["Kashif Ahmad", "Denmark"],
+	"Case Name": "Kashif Ahmad v. Denmark",
+	"Case Number": "Communication No. 15/2003",
+	"Court Name": "United Nations Committee on the Elimination of Racial Discrimination (UN CERD)",
+	"Document Type": "Views adopted by the Committee on the Elimination of Racial Discrimination under article 14 of the International Convention on the Elimination of All Forms of Racial Discrimination (ICERD)",
+	"Document Date": "2004",
+	"Document Summary": "The UN CERD found that the State party had violated the author's rights under the International Convention on the Elimination of All Forms of Racial Discrimination. The Committee requested the State party to provide the author with effective and adequate remedy, including compensation, and to take measures to prevent similar violations in the future.",
+	"Case Summary": "The author, a Pakistani national, alleges racial discrimination by Danish nationals at Avedore High School in Denmark. The national authorities did not examine the case properly, and the author never obtained an apology or sufficient satisfaction or reparation.",
+	"Keywords": [
+		"Kashif Ahmad",
+		"Denmark",
+		"Racial Discrimination",
+		"Avedore High School",
+		"UN CERD",
+		"ICCPR",
+		"Section 266b",
+		"Danish Criminal Code"
+	]
+}

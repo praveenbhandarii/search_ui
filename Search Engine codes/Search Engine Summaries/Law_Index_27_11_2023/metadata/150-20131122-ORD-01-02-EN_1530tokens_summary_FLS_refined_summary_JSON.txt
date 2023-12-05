@@ -1,0 +1,29 @@
+{
+  "Date": "2011",
+  "Parties Involved": ["Costa Rica", "Nicaragua"],
+  "Case Name": "Costa Rica v. Nicaragua",
+  "Case Number": "150/2011",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2014",
+  "Document Summary": "This legal document pertains to the ongoing dispute between Costa Rica and Nicaragua regarding the construction of a road and the presence of organized groups on disputed territory. The document includes orders and declarations issued by the ICJ between 2011 and 2014.",
+  "Case Summary": "This case involves ongoing disputes between Costa Rica and Nicaragua regarding the construction of a road and the presence of organized groups on disputed territory. The ICJ issued orders and declarations between 2011 and 2014, addressing concerns about the environment and activities in the disputed territory.",
+  "Keywords": [
+    "Costa Rica",
+    "Nicaragua",
+    "Dispute",
+    "Road construction",
+    "Organized groups",
+    "International Court of Justice",
+    "ICJ",
+    "Orders",
+    "Declarations",
+    "2011",
+    "2014",
+    "Provisional measures",
+    "Protected environment",
+    "Ramsar Convention",
+    "Joint inspections",
+    "Judge Gilbert Guillaume"
+  ]
+}

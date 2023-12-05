@@ -1,0 +1,22 @@
+{
+  "Date": "2022",
+  "Parties Involved": ["J.M.", "Sweden"],
+  "Case Name": "J.M. v. Sweden",
+  "Case Number": "53/2018",
+  "Court Name": "United Nations Committee on the Rights of Persons with Disabilities",
+  "Document Type": "Case Communication",
+  "Document Date": "2022",
+  "Document Summary": "The author, J.M., claimed that his removal to Afghanistan would breach his rights under the Convention due to his medical conditions and the risk of violence. The State party, Sweden, argued that parts of the communication were inadmissible and that the communication had been insufficiently substantiated. The Committee decided to register the communication and grant interim measures to prevent the author's removal to Afghanistan. The State party submitted that the decision to expel the author was due to become statute-barred. The author filed a new asylum application, and the State party requested that the Committee discontinue its consideration of the communication since the expulsion decision had become statute-barred and the author's asylum application remained pending.",
+  "Case Summary": "The decision to discontinue the consideration of the case was based on the fact that the author no longer risked expulsion to Afghanistan, making the subject matter of the communication moot. The State party argued that parts of the communication were inadmissible and insufficiently substantiated. The Committee decided to discontinue the consideration of the case, as the subject matter had become moot due to the author no longer risking expulsion to Afghanistan.",
+  "Keywords": [
+    "Disability Rights",
+    "J.M.",
+    "Sweden",
+    "Deportation",
+    "Convention on the Rights of Persons with Disabilities",
+    "Articles 10, 15, 16, 25, 26, 27",
+    "Asylum Application",
+    "Statute-Barred Decision",
+    "Optional Protocol"
+  ]
+}

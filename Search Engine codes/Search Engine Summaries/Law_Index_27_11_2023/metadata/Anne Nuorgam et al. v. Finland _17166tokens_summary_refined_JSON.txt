@@ -1,0 +1,27 @@
+{
+  "Date": "2016",
+  "Parties Involved": ["Petitioners", "Finland"],
+  "Case Name": "Communication No. 59/2016, Petitioners v. Finland",
+  "Case Number": "CERD/C/106/D/59/2016",
+  "Court Name": "Committee on the Elimination of Racial Discrimination (CERD)",
+  "Document Type": "Case Communication",
+  "Document Date": "2016",
+  "Document Summary": "The document is a communication submitted to the CERD by 23 petitioners representing the Saami community in Finland. The communication alleges violations of the International Convention on the Elimination of All Forms of Racial Discrimination (ICERD) by Finland.",
+  "Case Summary": "The case revolves around the Sami people's right to collectively determine the composition of the Sami Parliament and participate in public affairs. The petitioners alleged that the State party violated their rights under Article 5(c) of the Convention by not ensuring that the criteria for eligibility to vote in Sami Parliament elections are defined in a manner that respects the right of the Sami people to provide their free, prior, and informed consent on matters relating to their own membership and political participation.",
+  "Keywords": [
+    "Sami community",
+    "Finland",
+    "Communication No. 59/2016",
+    "CERD/C/106/D/59/2016",
+    "ICERD",
+    "International Convention on the Elimination of All Forms of Racial Discrimination",
+    "Saami Parliament",
+    "Indigenous Peoples",
+    "Article 1",
+    "Article 5(a)",
+    "Article 5(c)",
+    "Article 5(e)",
+    "Supreme Administrative Court",
+    "Act on the Sami Parliament"
+  ]
+}

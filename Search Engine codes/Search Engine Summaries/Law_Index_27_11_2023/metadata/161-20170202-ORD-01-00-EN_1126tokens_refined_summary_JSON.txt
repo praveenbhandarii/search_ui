@@ -1,0 +1,23 @@
+{
+  "Date": "2017",
+  "Parties Involved": ["Somalia", "Kenya"],
+  "Case Name": "Maritime Delimitation in the Indian Ocean (Somalia v. Kenya)",
+  "Case Number": "ICJ/2014",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Order",
+  "Document Date": "2017",
+  "Document Summary": "This Order document provides important information about the case, including the case title, subject, date, parties involved, judges, and court details.",
+  "Case Summary": "The case involves a dispute between Somalia and Kenya regarding the establishment of a single maritime boundary in the Indian Ocean. Somalia filed an Application in August 2014, requesting the International Court of Justice (ICJ) to determine the complete course of the maritime boundary between the two states based on international law.",
+  "Keywords": [
+    "Maritime Delimitation",
+    "Indian Ocean",
+    "Somalia",
+    "Kenya",
+    "International Court of Justice",
+    "ICJ Jurisdiction",
+    "Application Admissibility",
+    "Pleadings",
+    "Ronny Abraham",
+    "Philippe Couvreur"
+  ]
+}

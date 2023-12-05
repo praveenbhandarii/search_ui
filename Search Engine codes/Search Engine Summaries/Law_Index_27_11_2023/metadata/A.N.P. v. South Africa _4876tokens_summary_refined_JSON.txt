@@ -1,0 +1,23 @@
+{
+  "Date": "2019",
+  "Parties Involved": ["A.N.P.", "South Africa"],
+  "Case Name": "A.N.P. v. South Africa",
+  "Case Number": "CRPD/C/23/D/73/2019",
+  "Court Name": "Committee on the Rights of Persons with Disabilities (CRPD)",
+  "Document Type": "Case Communication",
+  "Document Date": "2019",
+  "Document Summary": "The document is a communication submitted to the Committee on the Rights of Persons with Disabilities (CRPD) by A.N.P., alleging violations of the Convention on the Rights of Persons with Disabilities by South Africa. The author claims that the State party denied his requests for tax rebates under the rates rebate program for disabled persons and senior citizens, and that the City of Cape Town's decisions on his tax rebate claims were unlawful, unreasonable, and discriminatory.",
+  "Case Summary": "A.N.P. has filed a complaint with the Committee on the Rights of Persons with Disabilities, alleging that South Africa violated several articles of the Convention on the Rights of Persons with Disabilities. The author claims that the State party denied his requests for tax rebates under the rates rebate program for disabled persons and senior citizens, and that the City of Cape Town's decisions on his tax rebate claims were unlawful, unreasonable, and discriminatory.",
+  "Keywords": [
+    "Convention on the Rights of Persons with Disabilities",
+    "A.N.P.",
+    "South Africa",
+    "Tax Rebates",
+    "Discrimination",
+    "Cape Town",
+    "Legal Capacity",
+    "Property Rights",
+    "Access to Justice",
+    "CRPD"
+  ]
+}

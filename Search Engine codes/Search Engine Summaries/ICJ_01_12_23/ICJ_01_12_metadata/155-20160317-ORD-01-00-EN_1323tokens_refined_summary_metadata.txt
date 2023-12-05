@@ -1,0 +1,12 @@
+{
+	"Date": "2016",
+	"Parties Involved": ["Republic of Nicaragua", "Republic of Colombia"],
+	"Case Name": "Alleged Violations of Sovereign Rights and Maritime Spaces in the Caribbean Sea (Nicaragua v. Colombia)",
+	"Case Number": "ICJ/155",
+	"Court Name": "International Court of Justice (ICJ)",
+	"Document Type": "Case Summary",
+	"Document Date": "2016",
+	"Document Summary": "Nicaragua filed an Application against Colombia, alleging violations of its sovereign rights and maritime zones as declared in the ICJ's 2012 Judgment in the case Territorial and Maritime Dispute (Nicaragua v. Colombia). Colombia raised preliminary objections to the jurisdiction of the Court. The ICJ found that it had jurisdiction to adjudicate the dispute based on Article XXXI of the Pact of Bogot. The Court fixed the timelimit for filing Colombia's CounterMemorial.",
+	"Case Summary": "Nicaragua filed an Application against Colombia, alleging violations of its sovereign rights and maritime zones as declared in the ICJ's 2012 Judgment in the case Territorial and Maritime Dispute (Nicaragua v. Colombia). Colombia raised preliminary objections to the jurisdiction of the Court. The ICJ found that it had jurisdiction to adjudicate the dispute based on Article XXXI of the Pact of Bogot. The Court fixed the timelimit for filing Colombia's CounterMemorial.",
+	"Keywords": ["Sovereign Rights", "Maritime Spaces", "Caribbean Sea", "Nicaragua", "Colombia", "Pact of Bogot", "Preliminary Objections", "CounterMemorial"]
+}

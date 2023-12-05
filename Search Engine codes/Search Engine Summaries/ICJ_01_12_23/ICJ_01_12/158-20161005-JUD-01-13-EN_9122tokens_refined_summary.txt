@@ -1,0 +1,29 @@
+Case ID: ICJ/158
+Court/Tribunal: International Court of Justice (ICJ)
+Document Date: 2016
+Key Parties Involved: Republic of the Marshall Islands, India
+Case Name: Obligations concerning Negotiations relating to Cessation of the Nuclear Arms Race and to Nuclear Disarmament (Marshall Islands v. India)
+
+Case Summary:
+The Republic of the Marshall Islands filed applications against nine states, including India, accusing them of not fulfilling their obligations regarding the cessation of the nuclear arms race and nuclear disarmament. This document discusses the ICJ's rejection of a case based on the absence of a dispute at the time of application. It introduces a new requirement of "objective awareness" to determine the existence of a dispute. The ICJ has been flexible in determining the existence and scope of a dispute, and it has never required that the respondent was aware of the applicant's claim before it was filed. The document also references a judgment in a separate case, Alleged Violations of Sovereign Rights and Maritime Spaces in the Caribbean Sea (Nicaragua v. Colombia), which the ICJ heavily relies on. The term "awareness" has been used in other cases to determine the existence of a dispute, but it has never been stated as a legal requirement.
+
+Context:
+- The ICJ has a low threshold for establishing a dispute.
+- The ICJ has shown flexibility in deciding on the existence and scope of a dispute in its earlier case law.
+- The ICJ has been criticized for transforming a non-formalistic requirement into a formalistic one through the use of the term "awareness."
+- The ICJ has the power to decide its own jurisdiction and discretion to overlook defects in the application.
+- The Mavrommatis principle allows the ICJ to overlook defects in the application and proceed to the merits.
+- The absence of discussion of additional claims in bilateral discussions can indicate the absence of a dispute over those claims.
+- The ICJ held that a dispute between parties must have existed and been subject to negotiation before it could be submitted to the Court.
+
+Citations:
+- Alleged Violations of Sovereign Rights and Maritime Spaces in the Caribbean Sea (Nicaragua v. Colombia)
+- East Timor (Portugal v. Australia)
+- Certain Property (Liechtenstein v. Germany)
+- Electricity Company of Sofia and Belgium v. Senegal
+- Genocide Convention
+- International Law Commission's Articles on the Responsibility of States for Internationally Wrongful Acts
+- Treaty on the NonProliferation of Nuclear Weapons (NPT)
+- Monetary Gold Removed from Rome in 1943 (Italy v. France; United Kingdom and United States of America)
+- Military and Paramilitary Activities in and against Nicaragua (Nicaragua v. United States of America)
+- Certain Phosphate Lands in Nauru (Nauru v. Australia)

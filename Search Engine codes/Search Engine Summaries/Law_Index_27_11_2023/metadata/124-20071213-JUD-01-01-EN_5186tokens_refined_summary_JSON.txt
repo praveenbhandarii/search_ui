@@ -1,0 +1,25 @@
+{
+  "Date": "2007",
+  "Parties Involved": ["Nicaragua", "Colombia"],
+  "Case Name": "Territorial and Maritime Dispute (Nicaragua v. Colombia)",
+  "Case Number": "124",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2007",
+  "Document Summary": "This judgment document of the International Court of Justice (ICJ) pertains to Case Number 124, titled 'Territorial and Maritime Dispute (Nicaragua v. Colombia).' It discusses the Court's decision to dispose of the validity of the 1928 Treaty and 1930 Protocol at the preliminary objections stage and the arguments presented by Nicaragua regarding the issue of coercion.",
+  "Case Summary": "The case involves a territorial and maritime dispute between Nicaragua and Colombia, with Nicaragua filing an application in 2001. The Court decided to dispose of the validity of the Treaty and Protocol at the preliminary objections stage without adequately discussing the issue of coercion, leading to Nicaragua arguing that the matter should have been resolved on the merits rather than at the preliminary stage.",
+  "Keywords": [
+    "Territorial Dispute",
+    "Maritime Dispute",
+    "Nicaragua",
+    "Colombia",
+    "Preliminary Objections",
+    "1928 Treaty",
+    "1930 Protocol",
+    "Coercion",
+    "International Court of Justice",
+    "ICJ",
+    "Judgment",
+    "Legal Dispute"
+  ]
+}

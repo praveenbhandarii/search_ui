@@ -1,0 +1,31 @@
+{
+  "Date": "2021",
+  "Parties Involved": ["Equatorial Guinea", "France"],
+  "Case Name": "Immunities and Criminal Proceedings (Equatorial Guinea v. France)",
+  "Case Number": "163",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2021",
+  "Document Summary": "This document is a summary of judgment and orders from the International Court of Justice (ICJ) in Case Number 163 between Equatorial Guinea and France. It provides important details about the case, including the date, court, judges, and key issues discussed.",
+  "Case Summary": "The dispute involves a conflict between Equatorial Guinea and France regarding the immunity from criminal jurisdiction of the Second Vice-President of Equatorial Guinea and the legal status of the building housing the Embassy of Equatorial Guinea in France.",
+  "Keywords": [
+    "Immunities",
+    "Criminal Proceedings",
+    "Equatorial Guinea",
+    "France",
+    "International Court of Justice",
+    "ICJ",
+    "Palermo Convention",
+    "Vienna Convention",
+    "Diplomatic Relations",
+    "Jurisdiction",
+    "Optional Protocol",
+    "State Immunities",
+    "State Officials",
+    "Money Laundering",
+    "Terrorism",
+    "Corruption",
+    "Judgment",
+    "Disputes"
+  ]
+}

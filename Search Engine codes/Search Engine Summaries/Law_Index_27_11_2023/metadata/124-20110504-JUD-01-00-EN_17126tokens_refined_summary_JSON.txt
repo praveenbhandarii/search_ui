@@ -1,0 +1,12 @@
+{
+  "Date": "2012",
+  "Parties Involved": ["Republic of Nicaragua", "Republic of Colombia"],
+  "Case Name": "Territorial and Maritime Dispute (Nicaragua v. Colombia)",
+  "Case Number": "124",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2012",
+  "Document Summary": "This document provides various chunks of information related to the case. It includes details about the case name, case number, date of the document, judges involved, parties, legal grounds, procedural history, and relevant dates. The document also highlights Honduras' application for permission to intervene and the arguments presented by Nicaragua and Colombia regarding the intervention. The document further discusses the ICJ's previous judgment in a similar case involving Nicaragua and Honduras, the importance of protecting the rights and interests of the intervening state, and the role of the ICJ in granting permission for intervention.",
+  "Case Summary": "The case involves a territorial and maritime dispute between Nicaragua and Colombia in the Caribbean Sea. Nicaragua filed an application in 2001, and Colombia raised preliminary objections to jurisdiction in 2003, leading to the suspension of proceedings. Honduras later sought permission to intervene in the case to protect its rights and interests in the disputed area. The International Court of Justice (ICJ) is tasked with deciding whether to grant Honduras' request for intervention.",
+  "Keywords": ["Territorial Dispute", "Maritime Dispute", "Nicaragua", "Colombia", "Honduras", "Intervention", "Jurisdiction", "ICJ", "Legal Interest", "Maritime Delimitation Treaty", "Sovereign Rights", "Previous Judgments"]
+}

@@ -1,0 +1,24 @@
+{
+  "Date": "2019",
+  "Parties Involved": ["Nyusti and Takcs", "Hungary"],
+  "Case Name": "Nyusti and Takcs v. Hungary",
+  "Case Number": "CRPD/C/9/D/1/2010",
+  "Court Name": "Committee on the Rights of Persons with Disabilities",
+  "Document Type": "Views adopted on 16 April 2013",
+  "Document Date": "March 2019",
+  "Document Summary": "The case involves Nyusti and Takcs (authors) alleging violations of their rights under the Convention on the Rights of Persons with Disabilities by Hungary (State party) for failing to provide equal access to financial services. The authors received compensation, but it was found insufficient. The case references the Constitution of Lithuania, the European Convention on Human Rights, and the Convention on the Rights of Persons with Disabilities.",
+  "Case Summary": "The case emphasizes the importance of ensuring equal access to financial services for persons with disabilities, including those with visual impairments, and has implications for privacy and access to justice for individuals with disabilities in Lithuania and beyond. It underscores the need for States to ensure that their laws and policies comply with international human rights standards.",
+  "Keywords": [
+    "Nyusti and Takcs",
+    "Hungary",
+    "Convention on the Rights of Persons with Disabilities",
+    "Views adopted on 16 April 2013",
+    "Financial Services",
+    "Equality",
+    "Privacy",
+    "Access to Justice",
+    "Lithuania",
+    "European Convention on Human Rights",
+    "CRPD/C/9/D/1/2010"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "Date": "2021",
+  "Parties Involved": ["Qatar", "United Arab Emirates (UAE)"],
+  "Case Name": "Application of the International Convention on the Elimination of All Forms of Racial Discrimination (Qatar v. United Arab Emirates)",
+  "Case Number": "ICJ/172",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Case Communication",
+  "Document Date": "2021",
+  "Document Summary": "Qatar has brought a case against the UAE concerning alleged violations of the International Convention on the Elimination of All Forms of Racial Discrimination (CERD). The dispute centers on the interpretation and application of CERD in relation to measures taken by the UAE against Qatari nationals. The decision on the preliminary objections will have implications for the merits of the case.",
+  "Case Summary": "Qatar has filed a case against the UAE, claiming violations of the International Convention on the Elimination of All Forms of Racial Discrimination (CERD). The dispute pertains to the interpretation and application of CERD, specifically concerning the UAE's measures against Qatari nationals, with Qatar alleging indirect discrimination based on national origin. The UAE denies any discrimination and contests the basis of the measures.",
+  "Keywords": [
+    "International Convention on the Elimination of All Forms of Racial Discrimination",
+    "CERD",
+    "Qatar",
+    "United Arab Emirates (UAE)",
+    "Preliminary Objections",
+    "National Origin",
+    "Nationality",
+    "Indirect Discrimination",
+    "Human Rights Committee",
+    "European Court of Human Rights",
+    "Andrejeva v. Latvia",
+    "D. H. and Others v. Czech Republic"
+  ]
+}

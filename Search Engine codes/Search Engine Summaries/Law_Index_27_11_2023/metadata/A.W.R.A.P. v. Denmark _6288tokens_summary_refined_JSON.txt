@@ -1,0 +1,23 @@
+{
+    "Date": "2019",
+    "Parties Involved": ["Mr. Krarup", "Denmark"],
+    "Case Name": "Not provided",
+    "Case Number": "Not provided",
+    "Court Name": "Committee on the Elimination of Racial Discrimination (CERD)",
+    "Document Type": "Decision on Admissibility",
+    "Document Date": "March 2019",
+    "Document Summary": "The Committee on the Elimination of Racial Discrimination declared a petition inadmissible that alleged discrimination against Muslims in Denmark, as the petition exclusively related to discrimination on religious grounds and the Convention does not cover discrimination based on religion alone.",
+    "Case Summary": "The Committee on the Elimination of Racial Discrimination declared a petition inadmissible that alleged discrimination against Muslims in Denmark, as the petition exclusively related to discrimination on religious grounds and the Convention does not cover discrimination based on religion alone.",
+    "Keywords": [
+        "Discrimination",
+        "Muslims",
+        "Denmark",
+        "CERD",
+        "Religious Discrimination",
+        "Convention on the Elimination of Racial Discrimination",
+        "Decision on Admissibility",
+        "Article 14",
+        "Racial and Religious Discrimination",
+        "Precedent"
+    ]
+}

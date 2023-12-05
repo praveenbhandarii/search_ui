@@ -1,0 +1,24 @@
+Case ID: 174 (ICJ/Case Number)
+Court/Tribunal: International Court of Justice (ICJ)
+Document Date: 20200714
+Key Parties Involved: Kingdom of Bahrain, Arab Republic of Egypt, Kingdom of Saudi Arabia, United Arab Emirates, State of Qatar
+Case Name: Appeal relating to the Jurisdiction of the ICAO Council under Article II, Section 2, of the 1944 International Air Services Transit Agreement (Bahrain, Egypt and United Arab Emirates v. Qatar)
+
+Case Summary:
+This case involves an appeal filed by the Kingdom of Bahrain, the Arab Republic of Egypt, the Kingdom of Saudi Arabia, and the United Arab Emirates (Appellants) against the decision rendered by the Council of the International Civil Aviation Organization (ICAO Council) on 29 June 2018. The decision was made in proceedings commenced by the State of Qatar against these four States on 30 October 2017. The appeal challenges the jurisdiction of the ICAO Council under Article II, Section 2, of the 1944 International Air Services Transit Agreement (IASTA). The Appellants raise grounds of appeal related to the rejection of their preliminary objections and alleged lack of due process in the procedure before the ICAO Council. The International Court of Justice (ICJ) dismissed the appeal in its entirety.
+
+Context:
+- The dispute arose from the alleged violation of the International Air Services Transit Agreement (IASTA) by the State of Qatar.
+- The State of Qatar initiated proceedings against the Kingdom of Bahrain, the Arab Republic of Egypt, the Kingdom of Saudi Arabia, and the United Arab Emirates before the ICAO Council.
+- The ICAO Council rejected the preliminary objections raised by the Appellants regarding its jurisdiction under Article II, Section 2, of the IASTA.
+- The Appellants appealed the decision of the ICAO Council to the ICJ, challenging its jurisdiction and alleging lack of due process.
+
+Citations:
+- I.C.J. Reports 2020, p. 172
+- Appeal concerning the jurisdiction of the ICAO Council under Article II, Section 2, of the 1944 International Air Services Transit Agreement (Bahrain, Egypt, and United Arab Emirates v. Qatar), Arrt, C.I.J. Recueil 2020, p. 172
+
+Articles and References:
+- Article II, Section 2 of the 1944 International Air Services Transit Agreement (IASTA)
+- Article 84 of the Convention on International Civil Aviation (Chicago Convention)
+- ICAO Rules for the Settlement of Differences
+- Previous case law and judgments of the ICJ and ICAO Council related to jurisdiction and admissibility

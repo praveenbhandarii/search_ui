@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Simple Transactional Email</title>
+    <style>
+      @media only screen and (max-width: 620px) {
+        table.body h1 {
+          font-size: 28px !important;
+          margin-bottom: 10px !important;
+        }
+
+        table.body p,
+        table.body ul,
+        table.body ol,
+        table.body td,
+        table.body span,
+        table.body a {
+          font-size: 16px !important;
+        }
+
+        table.body .wrapper,
+        table.body .article {
+          padding: 10px !important;
+        }
+
+        table.body .content {
+          padding: 0 !important;
+        }
+
+        table.body .container {
+          padding: 0 !important;
+          width: 100% !important;
+        }
+
+        table.body .main {
+          border-left-width: 0 !important;
+          border-radius: 0 !important;
+          border-right-width: 0 !important;
+        }
+
+        table.body .btn table {
+          width: 100% !important;
+        }
+
+        table.body .btn a {
+          width: 100% !important;
+        }
+
+        table.body .img-responsive {
+          height: auto !important;
+          max-width: 100% !important;
+          width: auto !important;
+        }
+      }
+      @media all {
+        .ExternalClass {
+          width: 100%;
+        }
+
+        .ExternalClass,
+        .ExternalClass p,
+        .ExternalClass span,
+        .ExternalClass font,
+        .ExternalClass td,
+        .ExternalClass div {
+          line-height: 100%;
+        }
+
+        .apple-link a {
+          color: inherit !important;
+          font-family: inherit !important;
+          font-size: inherit !important;
+          font-weight: inherit !important;
+          line-height: inherit !important;
+          text-decoration: none !important;
+        }
+
+        #MessageViewBody a {
+          color: inherit;
+          text-decoration: none;
+          font-size: inherit;
+          font-family: inherit;
+          font-weight: inherit;
+          line-height: inherit;
+        }
+
+        .btn-primary table td:hover {
+          background-color: #34495e !important;
+        }
+
+        .btn-primary a:hover {
+          background-color: #34495e !important;
+          border-color: #34495e !important;
+        }
+      }
+    </style>
+  </head>
+  <body
+    style="
+      background-color: #f6f6f6;
+      font-family: sans-serif;
+      -webkit-font-smoothing: antialiased;
+      font-size: 14px;
+      line-height: 1.4;
+      margin: 0;
+      padding: 0;
+      -ms-text-size-adjust: 100%;
+      -webkit-text-size-adjust: 100%;
+    "
+  >
+    <span
+      class="preheader"
+      style="
+        color: transparent;
+        display: none;
+        height: 0;
+        max-height: 0;
+        max-width: 0;
+        opacity: 0;
+        overflow: hidden;
+        mso-hide: all;
+        visibility: hidden;
+        width: 0;
+      "
+      >Contact Us | Lawyantra</span
+    >
+    <table
+      role="presentation"
+      border="0"
+      cellpadding="0"
+      cellspacing="0"
+      class="body"
+      style="
+        border-collapse: separate;
+        mso-table-lspace: 0pt;
+        mso-table-rspace: 0pt;
+        background-color: #f6f6f6;
+        width: 100%;
+      "
+      width="100%"
+      bgcolor="#f6f6f6"
+    >
+      <tr>
+        <td
+          style="font-family: sans-serif; font-size: 14px; vertical-align: top"
+          valign="top"
+        >
+          &nbsp;
+        </td>
+        <td
+          class="container"
+          style="
+            font-family: sans-serif;
+            font-size: 14px;
+            vertical-align: top;
+            display: block;
+            max-width: 580px;
+            padding: 10px;
+            width: 580px;
+            margin: 0 auto;
+          "
+          width="580"
+          valign="top"
+        >
+          <div
+            class="content"
+            style="
+              box-sizing: border-box;
+              display: block;
+              margin: 0 auto;
+              max-width: 580px;
+              padding: 10px;
+            "
+          >
+            <!-- title logo -->
+            <div
+              class="contact"
+              style="clear: both; text-align: center; width: 100%"
+            >
+              <table
+                role="presentation"
+                border="0"
+                cellpadding="0"
+                cellspacing="0"
+                style="
+                  border-collapse: separate;
+                  mso-table-lspace: 0pt;
+                  mso-table-rspace: 0pt;
+                  width: 100%;
+                "
+                width="100%"
+              >
+                <tr>
+                  <td
+                    class="content-block powered-by"
+                    style="
+                      background-color: #ffffff;
+                      font-family: sans-serif;
+                      vertical-align: top;
+                      padding-top: 10px;
+                      color: #ffffff;
+                      font-size: 12px;
+                      text-align: center;
+                      vertical-align: middle;
+                    "
+                    valign="top"
+                    align="center"
+                  >
+                    <div
+                      style="
+                        margin-top: 23px;
+                        margin-bottom: 23px;
+                        text-align: center;
+                      "
+                    >
+                      <div
+                        style="
+                          color: #0027b3;
+                          text-align: center;
+                          font-size: 18px;
+                          font-style: normal;
+                          font-weight: 700;
+                          line-height: normal;
+                        "
+                      >
+                        <div>
+                          <img
+                            class="adapt-img"
+                            src="https://hgrrfp.stripocdn.email/content/guids/CABINET_3fd08a417f1abaaea7451be8f8e35d53da50090b1d0ecf4f4029c72d4ce792d6/images/group_586_1.png"
+                            alt
+                            width="129"
+                            height="42"
+                          />
+                        </div>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+              </table>
+            </div>
+
+            <!-- End title logo -->
+            <!-- Blue title -->
+            <div
+              class="contact"
+              style="clear: both; text-align: center; width: 100%"
+            >
+              <table
+                role="presentation"
+                border="0"
+                cellpadding="0"
+                cellspacing="0"
+                style="
+                  border-collapse: separate;
+                  mso-table-lspace: 0pt;
+                  mso-table-rspace: 0pt;
+                  width: 100%;
+                "
+                width="100%"
+              >
+                <tr>
+                  <td
+                    class="content-block powered-by"
+                    style="
+                      background-color: #0027b3;
+                      font-family: sans-serif;
+                      vertical-align: top;
+                      padding-top: 10px;
+                      color: #ffffff;
+                      font-size: 12px;
+                      text-align: center;
+                      vertical-align: middle;
+                    "
+                    valign="top"
+                    align="center"
+                  >
+                    <div
+                      style="
+                        margin-top: 23px;
+                        margin-bottom: 23px;
+                        text-align: center;
+                      "
+                    >
+                      <div
+                        style="
+                          color: #0027b3;
+                          text-align: center;
+                          font-size: 18px;
+                          font-style: normal;
+                          font-weight: 700;
+                          line-height: normal;
+                        "
+                      >
+                        <div>
+                          <svg
+                            width="176"
+                            height="24"
+                            viewBox="0 0 176 24"
+                            fill="none"
+                            xmlns="http://www.w3.org/2000/svg"
+                          >
+                            <line
+                              y1="12"
+                              x2="62"
+                              y2="12"
+                              stroke="white"
+                              stroke-width="2"
+                            />
+                            <line
+                              x1="114"
+                              y1="12"
+                              x2="176"
+                              y2="12"
+                              stroke="white"
+                              stroke-width="2"
+                            />
+                            <path
+                              d="M74 0C73.2044 0 72.4413 0.31607 71.8787 0.878679C71.3161 1.44129 71 2.20435 71 3V21C71 21.7956 71.3161 22.5587 71.8787 23.1213C72.4413 23.6839 73.2044 24 74 24H100C100.796 24 101.559 23.6839 102.121 23.1213C102.684 22.5587 103 21.7956 103 21V3C103 2.20435 102.684 1.44129 102.121 0.878679C101.559 0.31607 100.796 0 100 0H74ZM80 12C79.2044 12 78.4413 11.6839 77.8787 11.1213C77.3161 10.5587 77 9.79565 77 9C77 8.20435 77.3161 7.44129 77.8787 6.87868C78.4413 6.31607 79.2044 6 80 6C80.7956 6 81.5587 6.31607 82.1213 6.87868C82.6839 7.44129 83 8.20435 83 9C83 9.79565 82.6839 10.5587 82.1213 11.1213C81.5587 11.6839 80.7956 12 80 12ZM76.898 13.5H83.1C83.6032 13.5005 84.0857 13.7007 84.4415 14.0565C84.7973 14.4123 84.9975 14.8948 84.998 15.398C84.998 17.092 83.844 18.568 82.2 18.98L82.082 19.01C80.714 19.35 79.282 19.35 77.914 19.01L77.794 18.98C76.9956 18.7798 76.2871 18.3186 75.7809 17.6696C75.2746 17.0206 74.9998 16.2211 75 15.398C75.0005 14.8948 75.2007 14.4123 75.5565 14.0565C75.9123 13.7007 76.3948 13.5005 76.898 13.5ZM89 9C89 8.73478 89.1054 8.48043 89.2929 8.29289C89.4804 8.10536 89.7348 8 90 8H96C96.2652 8 96.5196 8.10536 96.7071 8.29289C96.8946 8.48043 97 8.73478 97 9C97 9.26522 96.8946 9.51957 96.7071 9.70711C96.5196 9.89464 96.2652 10 96 10H90C89.7348 10 89.4804 9.89464 89.2929 9.70711C89.1054 9.51957 89 9.26522 89 9ZM90 14H96C96.2652 14 96.5196 14.1054 96.7071 14.2929C96.8946 14.4804 97 14.7348 97 15C97 15.2652 96.8946 15.5196 96.7071 15.7071C96.5196 15.8946 96.2652 16 96 16H90C89.7348 16 89.4804 15.8946 89.2929 15.7071C89.1054 15.5196 89 15.2652 89 15C89 14.7348 89.1054 14.4804 89.2929 14.2929C89.4804 14.1054 89.7348 14 90 14Z"
+                              fill="white"
+                            />
+                          </svg>
+                        </div>
+                      </div>
+                      <div>
+                        <div
+                          style="
+                            color: #fff;
+                            text-align: center;
+                            font-size: 18px;
+                            font-style: normal;
+                            font-weight: 500;
+                            margin-top: 15px;
+                            line-height: normal;
+                          "
+                        >
+                          Someone is trying to contact us
+                        </div>
+                      </div>
+                      <!-- <div>
+                      <div
+                        style="
+                          color: #fff;
+                          text-align: center;
+                          font-size: 22px;
+                          font-style: normal;
+                          font-weight: 800;
+                          line-height: normal;
+                        "
+                      >
+                        Verify your e-mail address
+                      </div>
+                    </div> -->
+                    </div>
+                  </td>
+                </tr>
+              </table>
+            </div>
+
+            <!-- End blue title -->
+
+            <!-- Blue title -->
+            <div
+              class="contact"
+              style="clear: both; text-align: center; width: 100%"
+            >
+              <table
+                role="presentation"
+                border="0"
+                cellpadding="0"
+                cellspacing="0"
+                style="
+                  border-collapse: separate;
+                  mso-table-lspace: 0pt;
+                  mso-table-rspace: 0pt;
+                  width: 100%;
+                "
+                width="100%"
+              >
+                <tr>
+                  <td
+                    class="content-block powered-by"
+                    style="
+                      background-color: #ffffff;
+                      font-family: sans-serif;
+                      vertical-align: top;
+                      padding-top: 10px;
+                      color: #ffffff;
+                      font-size: 12px;
+                      text-align: center;
+                      vertical-align: middle;
+                    "
+                    valign="top"
+                    align="center"
+                  >
+                    <div style="padding: 5%; text-align: center">
+                      <div>
+                        <div
+                          style="
+                            color: #2e2e2e;
+                            text-align: center;
+                            font-size: 18px;
+                            font-style: normal;
+                            font-weight: 700;
+                            line-height: normal;
+                          "
+                        >
+                          <!-- Enter name here  -->
+
+                          Name: {{ name }}<br />
+                          <span
+                            style="
+                              color: #2e2e2e;
+                              text-align: center;
+                              font-size: 16px;
+                              font-style: normal;
+                              font-weight: 600;
+                              line-height: normal;
+                            "
+                          >
+                            <!-- Enter email here  -->
+                            Email Id: {{ email_id }}</span
+                          ><br />
+                          <span
+                            style="
+                              color: #2e2e2e;
+                              text-align: center;
+                              font-size: 16px;
+                              font-style: normal;
+                              font-weight: 600;
+                              line-height: normal;
+                            "
+                            ><!-- Enter mobile number here  -->Mobile:
+                            {{ phone }}</span
+                          ><br />
+                          <span
+                            style="
+                              color: #2e2e2e;
+                              text-align: center;
+                              font-size: 14px;
+                              font-style: normal;
+                              font-weight: 400;
+                              line-height: normal;
+                            "
+                          >
+                            <!-- Enter query here  -->
+                            Query: {{ query }}
+                          </span>
+                        </div>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+              </table>
+            </div>
+
+            <!-- End blue title -->
+
+            <!-- START FOOTER -->
+            <div
+              class="footer"
+              style="
+                clear: both;
+
+                text-align: center;
+                width: 100%;
+              "
+            >
+              <table
+                role="presentation"
+                border="0"
+                cellpadding="0"
+                cellspacing="0"
+                style="border-collapse: separate; width: 100%"
+                width="100%"
+              >
+                <tr>
+                  <td
+                    class="content-block powered-by"
+                    style="
+                      background-color: #0027b3;
+                      font-family: sans-serif;
+                      vertical-align: top;
+                      padding-bottom: 10px;
+                      padding-top: 10px;
+                      color: #ffffff;
+
+                      font-size: 12px;
+                      text-align: center;
+                    "
+                    valign="top"
+                    align="center"
+                  >
+                    © Lawyantra 2023
+                  </td>
+                </tr>
+              </table>
+            </div>
+            <!-- END FOOTER -->
+          </div>
+        </td>
+        <td
+          style="font-family: sans-serif; font-size: 14px; vertical-align: top"
+          valign="top"
+        >
+          &nbsp;
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>

@@ -1,0 +1,24 @@
+{
+    "Date": "2013",
+    "Parties Involved": ["Australia", "Japan", "New Zealand"],
+    "Case Name": "Whaling in the Antarctic (Australia v. Japan: New Zealand intervening)",
+    "Case Number": "148",
+    "Court Name": "International Court of Justice (ICJ)",
+    "Document Type": "Order",
+    "Document Date": "2013",
+    "Document Summary": "This document is an order issued by the International Court of Justice (ICJ) in Case Number 148, 'Whaling in the Antarctic (Australia v. Japan: New Zealand intervening).' It pertains to the admissibility of New Zealand's Declaration of Intervention in the case and clarifies procedural equality concerns.",
+    "Case Summary": "Australia initiated proceedings against Japan, alleging violations of international obligations for the preservation of marine mammals and the marine environment. New Zealand filed a Declaration of Intervention, which was addressed by the ICJ, and its admissibility was confirmed with certain procedural implications.",
+    "Keywords": [
+      "Whaling in the Antarctic",
+      "Australia",
+      "Japan",
+      "New Zealand",
+      "International Convention for the Regulation of Whaling",
+      "ICJ",
+      "JARPA II",
+      "Marine Mammals",
+      "Marine Environment",
+      "Article VIII",
+      "Declaration of Intervention"
+    ]
+  }

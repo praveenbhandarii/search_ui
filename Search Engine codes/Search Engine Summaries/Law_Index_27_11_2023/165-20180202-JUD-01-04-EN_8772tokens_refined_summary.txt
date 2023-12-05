@@ -1,0 +1,28 @@
+International Court of Justice Case Number: 165, Document Type: This is the Judgement type Document of International Court of Justice, Document Date: 20180202, Order: None, Language: EN, File-name:165-20180202-JUD-01-04-EN_8772tokens_SOS.txt, ICJ Case Overview: Case Number: 165
+Case Name: Land Boundary in the Northern Part of Isla Portillos (Costa Rica v. Nicaragua)
+Overview: On 16 January 2017, Costa Rica filed an Application instituting proceedings against Nicaragua relating to a “dispute concerning the precise definition of the boundary in the area of Los Portillos/Harbor Head Lagoon and the establishment of a new military camp by Nicaragua” on the beach of Isla Portillos.
+
+Title: Land Boundary in the Northern Part of Isla Portillos (Costa Rica v. Nicaragua)
+
+Case Overview:
+This case, numbered 165, involves a dispute between Costa Rica and Nicaragua regarding the precise definition of the boundary in the area of Los Portillos/Harbor Head Lagoon and the establishment of a new military camp by Nicaragua on the beach of Isla Portillos. Costa Rica filed an Application instituting proceedings against Nicaragua on 16 January 2017.
+
+Important Details:
+- The legal regime of the territorial sea is distinct from that of the exclusive economic zone (EEZ), with the coastal state having sovereign rights and jurisdiction in the former, while in the latter, the coastal state only has sovereign rights and jurisdiction in respect of certain functions.
+- The United Nations Convention on the Law of the Sea (UNCLOS) provides for the delimitation of the EEZ and the territorial sea based on equitable principles, with a focus on achieving an equitable solution.
+- The document discusses the method for delimiting the territorial sea between two states, based on UNCLOS, using the median line as the basis for delimitation, with special circumstances and relevant circumstances as modifiers.
+- The International Court of Justice (ICJ) has applied a dichotomous approach to delimitation, using different methods for the territorial sea and the EEZ/continental shelf, considering factors such as special circumstances, relevant circumstances, and the principle of equity.
+- The document cites various cases, including the Arbitral Tribunal in Bangladesh/Myanmar and the Nicaragua v. Honduras case, to support the need for a dichotomous approach to delimitation in the territorial sea and the EEZ.
+- The document highlights the difference in value between the provisional median line in the territorial sea and the provisional median line in the EEZ and continental shelf.
+- The document mentions the importance of achieving an equitable solution in delimiting the various zones and emphasizes the first rule of interpretation for treaties, which is that the treaty shall be interpreted in good faith in accordance with the ordinary meaning to be given to the terms of the treaty.
+- The UNCLOS calls for a dichotomous approach in the delimitation methodology for the territorial sea on the one hand, and the EEZ and continental shelf on the other, but it is possible under the Convention for states to agree to utilize a uniform method.
+- The difference in the legal regime for the territorial sea on the one hand and the EEZ and continental shelf on the other is also highlighted.
+
+Document Details:
+This judgment document, dated 20180202, is a legal opinion or statement signed by Patrick L. Robinson. It discusses maritime boundary delimitation, specifically the territorial sea, EEZ, and continental shelf. The document cites numerous cases and legal sources, including UNCLOS and decisions of the ICJ. It was written by Professor Robinson and published in 2017.
+
+Additional Information:
+- The document mentions the Black Sea case, which established a three-stage approach to delimitation, but notes that this approach has not affected the dichotomous approach employed by the ICJ.
+- The document mentions the names of the judges and provides relevant dates, including the Award in the Arbitration regarding the Delimitation of the Maritime Boundary between Guyana and Suriname (September 17, 2007), the Maritime Delimitation in the Black Sea (Romania v. Ukraine) judgment (July 12, 2009), and the Territorial and Maritime Dispute between Nicaragua and Honduras in the Caribbean Sea (Nicaragua v. Honduras) judgment (July 22, 2007).
+- The document also mentions the United Nations and the ICJ as judicial information sources.
+- Legal principles and concepts discussed include equitable solution approach, special circumstances, median line, equidistance line, Black Sea three-stage approach, functional rights, and sovereignty over the seabed and superjacent waters and air column.

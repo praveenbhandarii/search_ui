@@ -1,0 +1,30 @@
+{
+  "Date": "2007",
+  "Parties Involved": ["Nicaragua", "Colombia"],
+  "Case Name": "Territorial and Maritime Dispute (Nicaragua v. Colombia)",
+  "Case Number": "124",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2007",
+  "Document Summary": "The judgment document of the International Court of Justice pertaining to case number 124, filed by Nicaragua against Colombia, discussing the preliminary objections raised by Colombia, the dissenting opinion of Judge Bennouna, and the court's ruling on the objections.",
+  "Case Summary": "The case involves a territorial and maritime dispute between Nicaragua and Colombia. Nicaragua filed an application in 2001, initiating proceedings against Colombia regarding a group of related legal issues concerning territory and maritime delimitation. Colombia raised preliminary objections to the court's jurisdiction, leading to the suspension of proceedings on the merits.",
+  "Keywords": [
+    "Territorial Dispute",
+    "Maritime Dispute",
+    "Nicaragua",
+    "Colombia",
+    "Preliminary Objections",
+    "Jurisdiction",
+    "Pact of Bogot",
+    "1928 Treaty",
+    "International Law Commission",
+    "Dissenting Opinion",
+    "Judge Bennouna",
+    "Invalidity of Treaties",
+    "Coercion",
+    "ICJ",
+    "Legal Disputes",
+    "Court's Credibility",
+    "International Law"
+  ]
+}

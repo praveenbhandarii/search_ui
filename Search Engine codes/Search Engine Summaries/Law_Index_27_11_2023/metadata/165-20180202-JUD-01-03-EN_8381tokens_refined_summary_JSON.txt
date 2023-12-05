@@ -1,0 +1,26 @@
+{
+  "Date": "2015",
+  "Parties Involved": ["Costa Rica", "Nicaragua"],
+  "Case Name": "Land Boundary in the Northern Part of Isla Portillos (Costa Rica v. Nicaragua)",
+  "Case Number": "165",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "20180202",
+  "Document Summary": "This judgment, dated December 16, 2015, is related to Case Number 165 and provides important details regarding the case. The judges involved include Judge Sebutinde, Judge Owada, Vice President Tomka, Judge Abraham, Judge Keith, Judge Bennouna, Judge Donoghue, and Judge AD HOC BulaBula. The document discusses the key issues, relevant provisions, previous judgments, legal concepts, parties' positions, disputed territory, preliminary objections, and the judgment rendered by the Court. The case is related to the delimitation of the maritime boundary between Costa Rica and Nicaragua in the Caribbean Sea. The Court examined the 1858 Treaty of Limits, relevant Awards, and changes in the coastal geography of the area. Significant geomorphic changes, erosion, and retreat of the headland of Punta de Castilla have affected the land boundary. The Court identified three termini of the land boundary in the northern part of Isla Portillos. The case was decided on December 16, 2015, and is part of a series of disputes between Costa Rica and Nicaragua.",
+  "Case Summary": "This case, numbered 165, involves a dispute between Costa Rica and Nicaragua regarding the precise definition of the land boundary in the area of Los Portillos/Harbor Head Lagoon and Nicaragua's establishment of a new military camp on the beach of Isla Portillos. Costa Rica filed an application with the International Court of Justice (ICJ) on January 16, 2017, seeking resolution of the dispute.",
+  "Keywords": [
+    "Land Boundary",
+    "Isla Portillos",
+    "Costa Rica",
+    "Nicaragua",
+    "International Court of Justice",
+    "Maritime Boundary",
+    "Treaty of Limits",
+    "Delimitation",
+    "Caribbean Sea",
+    "Judgment",
+    "Dispute",
+    "Military Camp",
+    "Sovereignty"
+  ]
+}

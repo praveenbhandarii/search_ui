@@ -1,0 +1,23 @@
+{
+	"Date": "2019",
+	"Parties Involved": ["S.M.", "Denmark"],
+	"Case Name": "S.M. v. Denmark",
+	"Case Number": "61/2019",
+	"Court Name": "United Nations Convention on the Rights of Persons with Disabilities",
+	"Document Type": "Views adopted by the Committee under article 5 of the Optional Protocol, concerning communication No. 61/2019",
+	"Document Date": "2019",
+	"Document Summary": "The case involves S.M., a human rights activist, who alleges that Denmark violated his rights under the Convention on the Rights of Persons with Disabilities. S.M. claims that he was subjected to forced psychiatric interventions and indefinite forced medication, and highlights the importance of protecting the rights of individuals with disabilities.",
+	"Case Summary": "The case involves S.M., a human rights activist, who alleges that Denmark violated his rights under the Convention on the Rights of Persons with Disabilities. S.M. claims that he was subjected to forced psychiatric interventions and indefinite forced medication. The Committee found that Denmark violated S.M.'s rights under articles 14, 15, and 16, read in conjunction with article 4, and articles 17 and 25 of the Convention.",
+	"Keywords": [
+		"Convention on the Rights of Persons with Disabilities",
+		"S.M.",
+		"Denmark",
+		"Forced psychiatric interventions",
+		"Indefinite forced medication",
+		"Fair trial",
+		"Human rights",
+		"Committee's decision",
+		"Precedent",
+		"Discrimination"
+	]
+}

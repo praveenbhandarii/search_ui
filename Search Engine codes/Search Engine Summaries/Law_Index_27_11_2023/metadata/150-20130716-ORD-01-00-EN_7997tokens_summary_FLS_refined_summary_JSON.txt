@@ -1,0 +1,23 @@
+{
+	"Date": "2013",
+	"Parties Involved": ["Costa Rica", "Nicaragua"],
+	"Case Name": "Costa Rica v. Nicaragua and Nicaragua v. Costa Rica",
+	"Case Number": "150, 152",
+	"Court Name": "International Court of Justice (ICJ)",
+	"Document Type": "ORD",
+	"Document Date": "2013",
+	"Document Summary": "This legal document pertains to a dispute between Costa Rica and Nicaragua over the construction of a road in the border area between the two countries, including the San Juan River, and includes information about the case names, dates, judges, provisional measures, legal basis, parties' requests, and additional details.",
+	"Case Summary": "This case involves a dispute between Costa Rica and Nicaragua over the construction of a road in the border area, including the San Juan River, with details about the case names, dates, judges, provisional measures, legal basis, and parties' requests.",
+	"Keywords": [
+		"Costa Rica",
+		"Nicaragua",
+		"International Court of Justice",
+		"ICJ Reports of Judgments, Advisory Opinions, and Orders",
+		"Border Dispute",
+		"San Juan River",
+		"Provisional Measures",
+		"Article 41 of the Statute of the Court",
+		"Article 76 of the Rules of Court",
+		"Modification of Order"
+	]
+}

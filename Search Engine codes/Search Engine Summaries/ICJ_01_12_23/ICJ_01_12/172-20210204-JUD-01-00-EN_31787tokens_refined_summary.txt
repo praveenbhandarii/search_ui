@@ -1,0 +1,24 @@
+Case ID: 172
+Court/Tribunal: International Court of Justice (ICJ)
+Document Date: 20210204
+Key Parties Involved: State of Qatar (Applicant) vs. United Arab Emirates (Respondent)
+Case Name: Application of the International Convention on the Elimination of All Forms of Racial Discrimination (Qatar v. United Arab Emirates)
+
+Case Summary:
+On 11 June 2018, Qatar filed an application against the United Arab Emirates (UAE) alleging violations of the International Convention on the Elimination of All Forms of Racial Discrimination (CERD). The case revolves around the interpretation of the term "national origin" in CERD and whether it encompasses current nationality. Qatar claims that the UAE's measures, including travel bans and restrictions on Qatari media corporations, constitute racial discrimination. The UAE argues that the measures are not discriminatory and are based on content restrictions. The ICJ has examined the jurisdiction and admissibility of the case, as well as the merits of the claims. The Court has found that the term "national origin" in CERD does not include current nationality and that the measures complained of do not fall within the scope of CERD. The Court has also determined that it does not have jurisdiction to entertain the third claim related to indirect discrimination.
+
+Context:
+- Qatar filed the case on 11 June 2018, alleging violations of CERD by the UAE.
+- The case involves the interpretation of the term "national origin" in CERD.
+- Qatar claims that the UAE's measures, including travel bans and restrictions on Qatari media corporations, constitute racial discrimination.
+- The UAE argues that the measures are not discriminatory and are based on content restrictions.
+- The ICJ has examined the jurisdiction, admissibility, and merits of the case.
+- The Court has found that the term "national origin" in CERD does not include current nationality.
+- The Court has also determined that the measures complained of do not fall within the scope of CERD.
+- The Court does not have jurisdiction to entertain the third claim related to indirect discrimination.
+
+Citations:
+- CERD Convention
+- Article 31 and 32 of the Vienna Convention on the Law of Treaties
+
+Note: The document does not provide specific citations or references.

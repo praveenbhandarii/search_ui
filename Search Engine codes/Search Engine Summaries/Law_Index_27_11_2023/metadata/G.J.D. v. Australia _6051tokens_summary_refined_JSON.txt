@@ -1,0 +1,23 @@
+{
+  "Date": "2021",
+  "Parties Involved": ["G.J.D.", "Australia"],
+  "Case Name": "G.J.D. (represented by counsel, Glenn Floyd) v. Australia",
+  "Case Number": "CRPD/C/24/D/36/2016",
+  "Court Name": "United Nations Committee on the Rights of Persons with Disabilities (UNCRPD)",
+  "Document Type": "Communication submitted under the Optional Protocol to the Convention on the Rights of Persons with Disabilities",
+  "Document Date": "2021",
+  "Document Summary": "The author, G.J.D., born in 1975, claimed that Australia violated his rights under the Convention on the Rights of Persons with Disabilities by subjecting him to forced hospitalization and treatment, including electroconvulsive therapy, without his informed consent. The Committee concluded that the State party failed to provide an effective remedy for the alleged violations and did not substantiate its claim that the author had not exhausted domestic remedies, requesting the State party to provide appropriate compensation and prevent similar violations in the future.",
+  "Case Summary": "The case involves G.J.D.'s claim of violation of rights under the Convention on the Rights of Persons with Disabilities by Australia through forced hospitalization and treatment without consent. The Committee found the State party failed to provide an effective remedy and requested appropriate compensation and preventive measures. The decision highlights the importance of equal recognition and access to remedies for persons with disabilities.",
+  "Keywords": [
+    "Psychosocial Disabilities",
+    "Forced Hospitalization",
+    "Electroconvulsive Therapy",
+    "Informed Consent",
+    "Mental Health Tribunal",
+    "Convention on the Rights of Persons with Disabilities",
+    "Optional Protocol",
+    "Effective Remedy",
+    "Discrimination",
+    "Access to Remedies"
+  ]
+}

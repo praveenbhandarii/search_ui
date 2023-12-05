@@ -1,0 +1,23 @@
+{
+  "Date": "2000",
+  "Parties Involved": ["Democratic Republic of the Congo", "Belgium"],
+  "Case Name": "Arrest Warrant of 11 April 2000 (Democratic Republic of the Congo v. Belgium)",
+  "Case Number": "121",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Order",
+  "Document Date": "2000",
+  "Document Summary": "This document is an order issued by the International Court of Justice (ICJ) in Case Number 121, titled 'Arrest Warrant of 11 April 2000 (Democratic Republic of the Congo v. Belgium).' The document discusses the legal principles of international law concerning the exercise of state jurisdiction.",
+  "Case Summary": "The Democratic Republic of the Congo (DRC) filed a case against Belgium regarding an international arrest warrant issued against the acting Congolese Minister for Foreign Affairs, Mr. Abdoulaye Yerodia Ndombasi. The DRC sought to challenge the warrant and subsequent extradition to Belgium for alleged crimes constituting 'grave violations of international humanitarian law.' The ICJ dismissed the DRC's request for provisional measures, and the case was deemed moot due to Mr. Yerodia Ndombasi's presence at the UN General Assembly. The Court held that there was no legal dispute between the Congo and Belgium and therefore no jurisdiction for the Court to hear the case.",
+  "Keywords": [
+    "International Court of Justice",
+    "Arrest Warrant",
+    "Democratic Republic of the Congo",
+    "Belgium",
+    "Case Number 121",
+    "State Jurisdiction",
+    "Provisional Measures",
+    "Optional Protocol",
+    "Compulsory Settlement of Disputes",
+    "Shigeru ODA"
+  ]
+}

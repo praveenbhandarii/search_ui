@@ -1,0 +1,30 @@
+{
+  "Date": "2018",
+  "Parties Involved": ["Costa Rica", "Nicaragua"],
+  "Case Name": "Land Boundary in the Northern Part of Isla Portillos (Costa Rica v. Nicaragua)",
+  "Case Number": "165",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2018",
+  "Document Summary": "This judgment document, dated 20180202, is a legal opinion or statement signed by Patrick L. Robinson. It discusses maritime boundary delimitation, specifically the territorial sea, EEZ, and continental shelf. The document cites numerous cases and legal sources, including UNCLOS and decisions of the ICJ. It was written by Professor Robinson and published in 2017.",
+  "Case Summary": "This case, numbered 165, involves a dispute between Costa Rica and Nicaragua regarding the precise definition of the boundary in the area of Los Portillos/Harbor Head Lagoon and the establishment of a new military camp by Nicaragua on the beach of Isla Portillos. Costa Rica filed an Application instituting proceedings against Nicaragua on 16 January 2017.",
+  "Keywords": [
+    "Isla Portillos",
+    "Costa Rica",
+    "Nicaragua",
+    "Maritime Boundary Delimitation",
+    "Territorial Sea",
+    "EEZ",
+    "Continental Shelf",
+    "International Court of Justice",
+    "ICJ",
+    "UNCLOS",
+    "Equitable Solution Approach",
+    "Special Circumstances",
+    "Median Line",
+    "Equidistance Line",
+    "Black Sea Three-Stage Approach",
+    "Functional Rights",
+    "Sovereignty"
+  ]
+}

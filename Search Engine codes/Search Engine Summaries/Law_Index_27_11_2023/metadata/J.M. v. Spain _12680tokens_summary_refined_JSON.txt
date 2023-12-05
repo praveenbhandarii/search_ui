@@ -1,0 +1,27 @@
+{
+  "Date": "2020",
+  "Parties Involved": [
+    "J.M. (author)",
+    "Spain (state party)"
+  ],
+  "Case Name": "J.M. v. Spain",
+  "Case Number": "CRPD/C/23/D/37/2016",
+  "Court Name": "Committee on the Rights of Persons with Disabilities",
+  "Document Type": "Views adopted by the Committee under article 5 of the Optional Protocol",
+  "Document Date": "2020",
+  "Document Summary": "The Committee adopted views on 21 August 2020, finding that Spain violated J.M.'s rights under the Convention by failing to provide effective legal protection and reasonable accommodation.",
+  "Case Summary": "The case involves a complaint filed by J.M. against Spain, alleging violations of his rights under the Convention on the Rights of Persons with Disabilities. J.M., a former police officer, was declared permanently disabled and mandatorily retired following a traffic accident. He requested reasonable accommodation to continue working in a modified capacity, but his request was denied. The Committee found that Spain violated several provisions of the Convention and failed to provide reasonable accommodation.",
+  "Keywords": [
+    "Disability Rights",
+    "J.M.",
+    "Spain",
+    "Retirement",
+    "Convention on the Rights of Persons with Disabilities",
+    "Reasonable Accommodation",
+    "Views Adoption",
+    "Optional Protocol",
+    "Discrimination",
+    "Employment Opportunities",
+    "Human Rights Standards"
+  ]
+}

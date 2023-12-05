@@ -1,0 +1,12 @@
+{
+  "Date": "2021",
+  "Parties Involved": ["Liechtenstein", "Germany"],
+  "Case Name": "Certain Property (Liechtenstein v. Germany)",
+  "Case Number": "123",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2021",
+  "Document Summary": "This judgment document of the International Court of Justice pertains to Case Number 123, titled 'Certain Property (Liechtenstein v. Germany).' The document provides important details about the case, including citations to relevant legal sources such as the 1952 Settlement Convention and the 1957 European Convention on Dispute Settlement.",
+  "Case Summary": "Liechtenstein instituted proceedings against Germany regarding a dispute over the interpretation and application of the 1952 Settlement Convention. The case revolves around Germany's treatment of certain Liechtenstein property as German assets without providing compensation. The dispute also involves the consideration of preliminary objections raised by Germany.",
+  "Keywords": ["Liechtenstein", "Germany", "1952 Settlement Convention", "1957 European Convention on Dispute Settlement", "International Court of Justice", "Preliminary Objections", "Reparations Regime", "Van Laer Painting", "Seizure of Assets", "World War II", "Diplomatic Protection"]
+}

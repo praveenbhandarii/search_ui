@@ -1,0 +1,26 @@
+{
+  "Date": "Not specified",
+  "Parties Involved": ["Costa Rica", "Nicaragua"],
+  "Case Name": "Costa Rica v. Nicaragua",
+  "Case Number": "Not specified",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "ORD",
+  "Document Date": "20110308",
+  "Document Summary": "This legal document pertains to the ongoing case between Costa Rica and Nicaragua regarding the disputed area of Isla Portillos. The main issue revolves around Nicaragua's construction of a canal and dredging of the San Juan River, which Costa Rica claims violates the Cleveland Award and the Treaty of Limits. The International Court of Justice (ICJ) has issued provisional measures to limit Nicaragua's activities in the disputed territory until the case is resolved. The ICJ has also recognized the potential environmental damage caused by the canal and has recommended negotiations between the parties.",
+  "Case Summary": "This legal document pertains to the ongoing case between Costa Rica and Nicaragua regarding the disputed area of Isla Portillos. The main issue revolves around Nicaragua's construction of a canal and dredging of the San Juan River, which Costa Rica claims violates the Cleveland Award and the Treaty of Limits. The International Court of Justice (ICJ) has issued provisional measures to limit Nicaragua's activities in the disputed territory until the case is resolved. The ICJ has also recognized the potential environmental damage caused by the canal and has recommended negotiations between the parties.",
+  "Keywords": [
+    "Isla Portillos",
+    "Cleveland Award",
+    "Treaty of Limits",
+    "Construction of Canal",
+    "San Juan River",
+    "International Court of Justice",
+    "Provisional Measures",
+    "Environmental Damage",
+    "Negotiations",
+    "Judge Gilbert Guillaume",
+    "Ramsar Convention",
+    "Humidal Caribe Noreste wetland",
+    "Sovereignty"
+  ]
+}

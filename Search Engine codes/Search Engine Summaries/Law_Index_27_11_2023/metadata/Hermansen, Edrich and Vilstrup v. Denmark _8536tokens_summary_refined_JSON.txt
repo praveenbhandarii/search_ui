@@ -1,0 +1,32 @@
+{
+  "Date": "2013",
+  "Parties Involved": ["DACoRD", "Denmark"],
+  "Case Name": "DACoRD vs Denmark",
+  "Case Number": "Communication No. 511/2013",
+  "Court Name": "United Nations Committee on the Elimination of All Forms of Racial Discrimination (CERD)",
+  "Document Type": "Case Communication",
+  "Document Date": "2013",
+  "Document Summary": "The document is a communication submitted to the CERD Committee by the Thai-Danish Association (DACoRD) against Denmark.",
+  "Case Summary": "The case was brought before the United Nations Committee on the Elimination of All Forms of Racial Discrimination (CERD) by the Thai-Danish Association (DACoRD) against Denmark. The communication was submitted in March 2013.",
+  "Keywords": [
+    "DACoRD",
+    "Denmark",
+    "Racial Discrimination",
+    "UNCRPD",
+    "Communication No. 511/2013",
+    "CERD",
+    "Article 6",
+    "Article 2",
+    "Article 5",
+    "Discriminatory Practices",
+    "Domestic Remedies",
+    "Admissibility",
+    "TV Broadcast",
+    "Danish Broadcasting Network",
+    "General Director of Public Prosecution",
+    "Effective Remedy",
+    "Decision",
+    "CERD General Recommendation No. 31",
+    "Danish Act on Prohibition of Differential Treatment"
+  ]
+}

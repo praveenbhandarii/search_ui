@@ -1,0 +1,22 @@
+Case ID: ICJ/155
+Court/Tribunal: International Court of Justice (ICJ)
+Document Date: 2017
+Key Parties Involved: Nicaragua, Colombia
+Case Name: Alleged Violations of Sovereign Rights and Maritime Spaces in the Caribbean Sea (Nicaragua v. Colombia)
+
+Case Summary:
+Nicaragua filed an application against Colombia in 2013, alleging violations of its sovereign rights and maritime zones as declared by a previous court judgment. The dispute also involved the threat of force by Colombia to implement these violations. This document is an order type document of the International Court of Justice.
+
+Context:
+- The case concerns the delimitation of the maritime boundary in the Gulf of Maine area.
+- Colombia alleges that Nicaragua has failed to curb predatory fishing and destruction of the marine environment, while Nicaragua alleges that Colombia has interfered with its exclusive sovereign rights and jurisdiction in its exclusive economic zone.
+- The legal principles and instruments relied upon by Colombia are rules of customary international law and instruments relating to the protection of the marine environment, while Nicaragua relies on customary international law rules relating to the law of the sea as reflected in Parts V and VI of UNCLOS.
+- The counterclaims brought by Yugoslavia against Bosnia and Herzegovina related to the delimitation of their maritime boundaries were considered by the ICJ, which applied the principle of direct connection to determine their admissibility.
+- The ICJ found that there was no direct connection between the counterclaims and the principal claim in this case, leading to the counterclaims being deemed inadmissible.
+
+Citations:
+- United Nations Convention on the Law of the Sea (UNCLOS)
+- Article 33 of the United Nations Charter
+- I.C.J. Reports 1997, p. 257, para. 30 (Application of the Convention on the Prevention and Punishment of the Crime of Genocide (Bosnia and Herzegovina v. Yugoslavia))
+
+Note: The document does not provide specific case numbers for the individual cases mentioned.

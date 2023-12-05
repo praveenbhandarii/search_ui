@@ -1,0 +1,26 @@
+{
+    "Date": "2015",
+    "Parties Involved": ["Costa Rica", "Nicaragua"],
+    "Case Name": "Costa Rica v. Nicaragua",
+    "Case Number": "OC 17/2015",
+    "Court Name": "International Court of Justice (ICJ)",
+    "Document Type": "Declaration",
+    "Document Date": "2015",
+    "Document Summary": "This document is a declaration by Judge Skotnikov in the case of Costa Rica v. Nicaragua. It emphasizes the obligations of the parties under the Ramsar Convention regarding wetland conservation.",
+    "Case Summary": "The dispute revolves around a disputed territory in the Caribbean Sea. The ICJ has issued provisional measures allowing Costa Rica to carry out certain activities in the disputed territory to protect the wetland. The declaration highlights the parties' obligations under the Ramsar Convention.",
+    "Keywords": [
+        "Costa Rica",
+        "Nicaragua",
+        "Caribbean Sea",
+        "International Court of Justice",
+        "ICJ",
+        "Ramsar Convention",
+        "Wetland Conservation",
+        "Judge Skotnikov",
+        "Judge Tomka",
+        "Judge Abraham",
+        "Provisional Measures",
+        "Reforestation",
+        "Territorial Dispute"
+    ]
+}

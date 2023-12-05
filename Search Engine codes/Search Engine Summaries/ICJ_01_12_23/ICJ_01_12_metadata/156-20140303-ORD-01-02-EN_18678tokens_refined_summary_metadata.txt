@@ -1,0 +1,25 @@
+{
+  "Date": "2015",
+  "Parties Involved": ["Timor-Leste", "Australia"],
+  "Case Name": "Questions relating to the Seizure and Detention of Certain Documents and Data (Timor-Leste v. Australia)",
+  "Case Number": "ICJ/156",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Case Communication",
+  "Document Date": "2015",
+  "Document Summary": "Timor-Leste initiated proceedings against Australia regarding the seizure and detention of documents, data, and other property belonging to Timor-Leste or protected under international law. The items were seized from the offices of one of Timor-Leste's legal advisers in Australia. Timor-Leste claimed that the seized items included correspondence related to a pending arbitration under the Timor Sea Treaty. Timor-Leste invoked its declaration under Article 36, paragraph 2, of the Statute as the basis for the Court's jurisdiction.",
+  "Case Summary": "Timor-Leste alleged that the seizure and detention of the documents and data violated its rights under international law. Australia argued that the ownership of the seized items could not be determined without examining the documents. The ICJ ordered provisional measures to protect Timor-Leste's rights and prevent further harm. The ICJ emphasized the principle of juridical equality of states and the importance of objective justice in international legal proceedings. The ICJ rejected Australia's argument invoking the rule of exhaustion of local remedies and the alleged risks of parallelism and fragmentation of international law. The ICJ expressed concerns about the breach of confidentiality and potential harm to Timor-Leste's position in the arbitration and future negotiations.",
+  "Keywords": [
+    "Timor-Leste",
+    "Australia",
+    "Seizure and Detention",
+    "Documents",
+    "Data",
+    "Timor Sea Treaty",
+    "Article 36",
+    "Statute of the Permanent Court of International Justice",
+    "Juridical Equality",
+    "Provisional Measures",
+    "International Law",
+    "Confidentiality"
+  ]
+}

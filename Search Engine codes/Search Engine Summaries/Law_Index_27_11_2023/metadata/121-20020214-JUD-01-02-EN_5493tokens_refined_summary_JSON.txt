@@ -1,0 +1,22 @@
+{
+  "Date": "2000",
+  "Parties Involved": ["Democratic Republic of the Congo", "Belgium"],
+  "Case Name": "Arrest Warrant of 11 April 2000 (Democratic Republic of the Congo v. Belgium)",
+  "Case Number": "ICJ Rep 2002/1",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2002",
+  "Document Summary": "This judgment, issued on 18 December 2002, addresses the case of the DRC v. Belgium, involving a dispute over an international arrest warrant issued against the acting Congolese Minister for Foreign Affairs, Mr. Abdoulaye Yerodia Ndombasi. The case raises legal issues such as sovereign equality, non-intervention, diplomatic immunity, and universal jurisdiction.",
+  "Case Summary": "The case involves a dispute between the Democratic Republic of the Congo (DRC) and Belgium regarding an international arrest warrant issued against the acting Congolese Minister for Foreign Affairs, Mr. Abdoulaye Yerodia Ndombasi. The DRC filed an application with the International Court of Justice (ICJ) alleging violations of international humanitarian law. The case raises important legal issues such as sovereign equality, non-intervention, diplomatic immunity, and universal jurisdiction.",
+  "Keywords": [
+    "Arrest Warrant",
+    "DRC",
+    "Belgium",
+    "International Court of Justice",
+    "Sovereign Equality",
+    "Non-Intervention",
+    "Diplomatic Immunity",
+    "Universal Jurisdiction",
+    "ICJ Rep 2002/1"
+  ]
+}

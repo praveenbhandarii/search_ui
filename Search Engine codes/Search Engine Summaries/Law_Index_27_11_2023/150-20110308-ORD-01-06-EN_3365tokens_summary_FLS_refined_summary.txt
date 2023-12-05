@@ -1,0 +1,33 @@
+Title:
+Case: Costa Rica v. Nicaragua
+Document Details: Case Number: 150, Document Type: ORD, Document Date: 20110308, Order: None, Language: EN, Tokens: 3365
+Citations: Cleveland Award (Article 6), Treaty of Limits (Article 54)
+Dates: December 18, 2015 (ICJ's Order), 1858 (Treaty of Limits), 1888 (Cleveland Award), 2009 (Judgment of 13 July), December 14, 2015 (ICJ hearing)
+Judges: Gilbert Guillaume (dissenting), other judges not specified
+
+Overview:
+This legal document pertains to the ongoing case between Costa Rica and Nicaragua regarding the disputed area of Isla Portillos. The main issue revolves around Nicaragua's construction of a canal and dredging of the San Juan River, which Costa Rica claims violates the Cleveland Award and the Treaty of Limits. The International Court of Justice (ICJ) has issued provisional measures to limit Nicaragua's activities in the disputed territory until the case is resolved. The ICJ has also recognized the potential environmental damage caused by the canal and has recommended negotiations between the parties.
+
+Important Details:
+- Case title: Costa Rica v. Nicaragua
+- Case number: Not specified
+- Date of ICJ's Order: December 18, 2015
+- Disputed area: Isla Portillos
+- Issue at hand: Nicaragua's construction of a canal and dredging of the San Juan River, which Costa Rica claims is a violation of the Cleveland Award and the Treaty of Limits
+- ICJ's ruling: Nicaragua's activities on the disputed territory should be limited until the case is resolved; Costa Rica's claim is plausible, but the court did not express an opinion on the merits of the case or on Nicaragua's claim
+- Provisional measures ordered by the ICJ:
+  - Nicaragua shall not station troops or personnel, construct or enlarge a canal, fell trees or remove vegetation or soil, or dump sediment in the disputed area
+  - Costa Rica is allowed to dispatch civilian personnel responsible for environmental protection to the disputed territory, subject to certain safeguards
+- Jurisprudence established by the ICJ: The existence of the canal poses a risk of irreparable damage to the protected environment
+- Relevant legal instruments: Cleveland Award (Article 6), Treaty of Limits (Article 54)
+- Dates mentioned in the document: 1858 (Treaty of Limits), 1888 (Cleveland Award), 2009 (Judgment of 13 July), December 14, 2015 (ICJ hearing), December 18, 2015 (ICJ's Order)
+- Other relevant information:
+  - Judge Guillaume's dissenting opinion
+  - The ICJ has recommended that Costa Rica hold negotiations with Nicaragua if necessary
+- Status of the case: Ongoing
+
+Additional Information:
+- The territory in question is the Ca River and its surrounding wetlands, which are of international importance under the Ramsar Convention.
+- The ICJ has been asked to provide provisional measures to protect the environment and assess the situation, with the ultimate responsibility of deciding whether to dispatch personnel to the disputed territory resting with Costa Rica alone.
+- Safeguards attached to ICJ's visit include consultation with the Secretariat of the Ramsar Convention, prior notice to Nicaragua, and efforts to find common solutions with Nicaragua.
+- Judge Gilbert Guillaume's dissenting opinion suggests that the ICJ's solution may favor Costa Rica's right to sovereignty over the territory due to its location in the Humidal Caribe Noreste wetland established by Costa Rica.

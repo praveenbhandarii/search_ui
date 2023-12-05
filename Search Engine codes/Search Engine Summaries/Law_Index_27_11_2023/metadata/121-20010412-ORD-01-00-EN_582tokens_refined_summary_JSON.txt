@@ -1,0 +1,28 @@
+{
+  "Date": "2001",
+  "Parties Involved": ["Democratic Republic of the Congo", "Belgium"],
+  "Case Name": "Arrest Warrant of 11 April 2000 (Democratic Republic of the Congo v. Belgium)",
+  "Case Number": "121",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Order",
+  "Document Date": "2001",
+  "Document Summary": "This order document, issued by the International Court of Justice (ICJ) on April 12, 2001, provides important details regarding the case concerning the Arrest Warrant of 11 April 2000 (Democratic Republic of the Congo v. Belgium). The document outlines the timelimits extension granted for the filing of the Memorial and CounterMemorial, as well as the individuals holding key positions within the ICJ, including President Gilbert Guillaume and Registrar Philippe Couvreur. The document specifies that the language of the document is French, with the English translation being authoritative. It also mentions the issuance of three copies, with one placed in the Court's archives and two transmitted to the Governments of the Democratic Republic of the Congo and the Kingdom of Belgium.",
+  "Case Summary": "The Democratic Republic of the Congo (DRC) filed a case against Belgium regarding an international arrest warrant issued on 11 April 2000. The warrant targeted the acting Congolese Minister for Foreign Affairs, Mr. Abdoulaye Yerodia Ndombasi, for alleged crimes constituting 'grave violations of international humanitarian law'. The DRC received the warrant on 12 July 2000.",
+  "Keywords": [
+    "Arrest Warrant",
+    "International Court of Justice",
+    "ICJ",
+    "Democratic Republic of the Congo",
+    "Belgium",
+    "Timelimits Extension",
+    "President Gilbert Guillaume",
+    "Registrar Philippe Couvreur",
+    "Language",
+    "French",
+    "English Translation",
+    "Memorial",
+    "CounterMemorial",
+    "Peace Palace",
+    "The Hague"
+  ]
+}

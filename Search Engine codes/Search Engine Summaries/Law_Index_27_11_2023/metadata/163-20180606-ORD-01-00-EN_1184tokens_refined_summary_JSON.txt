@@ -1,0 +1,29 @@
+{
+  "Date": "2018",
+  "Parties Involved": [
+    "Equatorial Guinea",
+    "France"
+  ],
+  "Case Name": "Immunities and Criminal Proceedings (Equatorial Guinea v. France)",
+  "Case Number": "163",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Order",
+  "Document Date": "2018",
+  "Document Summary": "This order document, dated June 6, 2018, pertains to International Court of Justice Case Number 163. It provides key information about the case, including the judges involved, the registrar, and the key facts and holdings of the ICJ. The document also mentions the next steps in the proceedings and cites relevant articles and protocols.",
+  "Case Summary": "The Republic of Equatorial Guinea initiated proceedings against the French Republic regarding the immunity of the Second Vice-President of Equatorial Guinea and the legal status of the Embassy of Equatorial Guinea in France.",
+  "Keywords": [
+    "Immunities",
+    "Criminal Proceedings",
+    "Equatorial Guinea",
+    "France",
+    "Second Vice-President",
+    "Embassy",
+    "Jurisdiction",
+    "Admissibility",
+    "CounterMemorial",
+    "Vienna Convention on Diplomatic Relations",
+    "Peace Palace",
+    "Hague",
+    "Application"
+  ]
+}

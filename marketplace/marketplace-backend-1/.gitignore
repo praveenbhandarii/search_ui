@@ -1,0 +1,16 @@
+*/__pycache__/*
+env/*
+*.sqlite3
+*.pyc
+.aider*
+app/migrations/*
+db.sqlite3
+app/views.py
+data/
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+*.pyc
+*.pyc
+.vscode/settings.json

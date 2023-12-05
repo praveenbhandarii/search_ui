@@ -1,0 +1,19 @@
+{
+  "Date": "2019",
+  "Parties Involved": ["Author (Makarov)", "State Party (Lithuania)"],
+  "Case Name": "Makarov v. Lithuania",
+  "Case Number": "CRPD/C/18/D/30/2015",
+  "Court Name": "Committee on the Rights of Persons with Disabilities",
+  "Document Type": "Views adopted on 18 August 2017",
+  "Document Date": "March 2019",
+  "Document Summary": "The case of Makarov v. Lithuania was brought before the Committee on the Rights of Persons with Disabilities. The author alleged that the State party had violated several articles of the Convention on the Rights of Persons with Disabilities, including the right to access to justice, the right to equality before a court, and the right to compensation for damages incurred. The Committee found that the State party had not provided the author with an effective and comprehensive remedy for the violations committed and had not ensured the author's access to justice on an equal basis with others.",
+  "Case Summary": "The case of Makarov v. Lithuania was brought before the Committee on the Rights of Persons with Disabilities. The author alleged that the State party had violated several articles of the Convention on the Rights of Persons with Disabilities, including the right to access to justice, the right to equality before a court, and the right to compensation for damages incurred. The Committee found that the State party had not provided the author with an effective and comprehensive remedy for the violations committed and had not ensured the author's access to justice on an equal basis with others.",
+  "Keywords": [
+    "Makarov",
+    "Lithuania",
+    "Access to Justice",
+    "Equal Rights",
+    "Convention on the Rights of Persons with Disabilities",
+    "CRPD/C/18/D/30/2015"
+  ]
+}

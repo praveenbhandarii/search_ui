@@ -1,0 +1,23 @@
+{
+  "Date": "2005",
+  "Parties Involved": ["Benin", "Niger"],
+  "Case Name": "Frontier Dispute (Benin/Niger)",
+  "Case Number": "125/2005",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Order",
+  "Document Date": "2005",
+  "Document Summary": "This order document, dated 16 February 2005, provides important information about the Case Concerning the Frontier Dispute (Benin/Niger). It includes details such as the case name, case number, parties involved, date of the case, judges, registrar, language of the document, and signatories. The document confirms the formation of a special Chamber of five judges to handle the dispute.",
+  "Case Summary": "The case involves a frontier dispute between Benin and Niger. The dispute was brought before the International Court of Justice (ICJ) through a Special Agreement signed on 15 June 2001. The agreement entered into force on 11 April 2002, and the Court formed a special Chamber of five judges to handle the case. The dispute concerns the definitive delimitation of the entire boundary between Benin and Niger.",
+  "Keywords": [
+    "Frontier Dispute",
+    "Benin",
+    "Niger",
+    "International Court of Justice",
+    "ICJ",
+    "Special Agreement",
+    "Case Number 125",
+    "Chamber of five judges",
+    "Delimitation",
+    "Boundary"
+  ]
+}

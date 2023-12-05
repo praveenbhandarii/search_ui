@@ -1,0 +1,35 @@
+{
+    "Date": "1996",
+    "Parties Involved": [
+        "Bosnia and Herzegovina",
+        "Yugoslavia"
+    ],
+    "Case Name": "Application for Revision of the Judgment of 11 July 1996 in the Case concerning Application of the Convention on the Prevention and Punishment of the Crime of Genocide (Bosnia and Herzegovina v. Yugoslavia), Preliminary Objections (Yugoslavia v. Bosnia and Herzegovina)",
+    "Case Number": "122",
+    "Court Name": "International Court of Justice (ICJ)",
+    "Document Type": "Judgment",
+    "Document Date": "1996",
+    "Document Summary": "This document is a judgment type document of the International Court of Justice (ICJ) in Case Number 122. It provides an overview of the case, including the parties involved, the date of the judgment, and the court where the case was heard. The document also discusses the key issues, such as the application for revision of the judgment, the preliminary objections raised by Yugoslavia, and the legal consequences sought by the FRY based on the alleged new facts. It further highlights the facts of the case, the timeline of events, and the representation of the parties. The document references Article 61 of the ICJ's Statute and Article 99 of the Rules of Court, which are relevant to the application for revision and the admissibility of the FRY's application.",
+    "Case Summary": "This case involves an application for revision of a judgment rendered by the International Court of Justice (ICJ) on 11 July 1996. The Federal Republic of Yugoslavia (FRY) filed the application, alleging the discovery of new facts. The FRY argues that the admission of Yugoslavia as a member of the United Nations in 2000 constitutes a new fact that justifies the revision of the judgment. Bosnia and Herzegovina opposes the application, claiming that the alleged new facts do not meet the requirements for revision under Article 61 of the ICJ's Statute.",
+    "Keywords": [
+        "Application for Revision",
+        "Judgment",
+        "International Court of Justice",
+        "Genocide Convention",
+        "Bosnia and Herzegovina",
+        "Yugoslavia",
+        "Preliminary Objections",
+        "FRY",
+        "Article 61",
+        "Discovery of New Facts",
+        "UN Admissions",
+        "ICTY",
+        "Legal Consequences",
+        "Statute",
+        "Rules of Court",
+        "Timeline of Events",
+        "Representation of Parties",
+        "General Assembly Resolution",
+        "Security Council Resolution"
+    ]
+}

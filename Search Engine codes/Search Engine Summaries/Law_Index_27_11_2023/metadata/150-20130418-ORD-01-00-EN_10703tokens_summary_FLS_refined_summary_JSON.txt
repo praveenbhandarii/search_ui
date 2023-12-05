@@ -1,0 +1,25 @@
+{
+  "Date": "2013",
+  "Parties Involved": ["Costa Rica", "Nicaragua"],
+  "Case Name": "Certain Activities Carried Out by Nicaragua in the Border Area (Costa Rica v. Nicaragua)",
+  "Case Number": "CIJ 1045",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "ORD",
+  "Document Date": "2013",
+  "Document Summary": "This document pertains to the case of Certain Activities Carried Out by Nicaragua in the Border Area (Costa Rica v. Nicaragua). It provides important details regarding the case, including the alleged breaches, jurisdiction, provisional measures, deadlines for filing memorial and counter-memorial, and the admissibility of counterclaims.",
+  "Case Summary": "The case involves disputed territory along the border between Costa Rica and Nicaragua. Nicaragua has filed counterclaims against Costa Rica, alleging violations of territorial sovereignty, navigational rights, and environmental damage. The ICJ has reserved the subsequent procedure for further decision.",
+  "Keywords": [
+    "Disputed Territory",
+    "Costa Rica",
+    "Nicaragua",
+    "Counterclaims",
+    "Territorial Sovereignty",
+    "Navigational Rights",
+    "Environmental Damage",
+    "Provisional Measures",
+    "Deadlines for Filing Memorial and CounterMemorial",
+    "Admissibility of Counterclaims",
+    "ICJ",
+    "CIJ 1045"
+  ]
+}

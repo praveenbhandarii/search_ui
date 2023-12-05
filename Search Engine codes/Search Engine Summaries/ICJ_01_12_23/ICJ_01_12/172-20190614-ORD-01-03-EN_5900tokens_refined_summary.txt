@@ -1,0 +1,19 @@
+Case ID: ICJ/172
+Court/Tribunal: International Court of Justice (ICJ)
+Document Date: 20190614
+Key Parties Involved: Qatar, United Arab Emirates (UAE)
+Case Name: Application of the International Convention on the Elimination of All Forms of Racial Discrimination (Qatar v. United Arab Emirates)
+
+Case Summary:
+Qatar instituted proceedings against the UAE for alleged violations of the International Convention on the Elimination of All Forms of Racial Discrimination (CERD). The case involves a dispute between the two countries regarding the implementation of provisional measures ordered by the Court. Qatar's request for a provisional measure against the UAE was rejected. The Court found that the UAE's procedural rights in the judicial proceedings were not at risk of irreparable harm. The existence of parallel proceedings before the CERD Committee was deemed not to breach procedural fairness and equality of arms between the parties. The UAE would have the opportunity to demonstrate harm caused by Qatar's alleged conduct at a later stage of the proceedings.
+
+Context:
+- Qatar alleged violations of the CERD by the UAE.
+- The Court rejected the UAE's first two requested provisional measures.
+- The Court had previously ruled on the question of prima facie jurisdiction.
+- The UAE's requests for provisional measures were found not to concern plausible rights under CERD.
+- The Court did not rule out considering other requests for provisional measures in the future if necessary.
+
+Citations:
+- International Convention on the Elimination of All Forms of Racial Discrimination (CERD)
+- Article 22 of CERD

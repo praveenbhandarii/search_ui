@@ -1,0 +1,23 @@
+{
+  "Date": "2021",
+  "Parties Involved": ["Equatorial Guinea", "France"],
+  "Case Name": "Immunities and Criminal Proceedings (Equatorial Guinea v. France)",
+  "Case Number": "ICJ/2021",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Order",
+  "Document Date": "2021",
+  "Document Summary": "This order, issued by the International Court of Justice (ICJ) on March 31, provides insights into the transparency of the court's deliberations. The order does not record the court's decision on the request concerning the immunity of Mr. Teodoro Nguema Obiang Mangue, despite it being extensively discussed in the document.",
+  "Case Summary": "The Republic of Equatorial Guinea initiated proceedings against the French Republic regarding the immunity from criminal jurisdiction of the Second Vice-President of Equatorial Guinea, Mr. Teodoro Nguema Obiang Mangue, and the legal status of the Embassy of Equatorial Guinea in France.",
+  "Keywords": [
+    "Equatorial Guinea",
+    "France",
+    "Immunity",
+    "Criminal Proceedings",
+    "ICJ",
+    "International Court of Justice",
+    "Transparency",
+    "Immunity from Criminal Jurisdiction",
+    "Teodoro Nguema Obiang Mangue",
+    "Embassy of Equatorial Guinea"
+  ]
+}

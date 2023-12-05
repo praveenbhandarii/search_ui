@@ -1,0 +1,24 @@
+{
+  "Date": "2019",
+  "Parties Involved": ["L.G.", "Republic of Korea"],
+  "Case Name": "L.G. v. Republic of Korea",
+  "Case Number": "Communication No. 511/2013",
+  "Court Name": "United Nations International Convention on the Elimination of All Forms of Racial Discrimination",
+  "Document Type": "Case Communication",
+  "Document Date": "2019",
+  "Document Summary": "L.G., a national of New Zealand residing in the United States, alleged a violation of her rights under articles 2(1)(c) and (d), 5 and 6 of the Convention due to the respondent's policy of mandatory medical testing for HIV/AIDS and illegal drugs use. The Committee found the policy to be discriminatory and ordered the respondent to ensure equal treatment for foreign English-speaking teachers and to repeal the policy of mandatory medical testing.",
+  "Case Summary": "L.G., a national of New Zealand residing in the United States, alleged a violation of her rights under articles 2(1)(c) and (d), 5 and 6 of the Convention due to the respondent's policy of mandatory medical testing for HIV/AIDS and illegal drugs use. The Committee found the policy to be a violation of the petitioner's rights under the Convention and ordered the respondent to ensure equal treatment for foreign English-speaking teachers and to repeal the policy of mandatory medical testing.",
+  "Keywords": [
+    "Discrimination",
+    "Foreign workers",
+    "Nationality",
+    "Immigration status",
+    "Equal treatment",
+    "Non-discrimination",
+    "Employment policies",
+    "United Nations",
+    "Convention on the Elimination of All Forms of Racial Discrimination",
+    "Communication No. 511/2013",
+    "Committee on the Elimination of Racial Discrimination"
+  ]
+}

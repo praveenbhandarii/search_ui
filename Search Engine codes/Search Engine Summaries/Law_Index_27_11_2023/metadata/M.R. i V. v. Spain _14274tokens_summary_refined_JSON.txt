@@ -1,0 +1,24 @@
+{
+  "Date": "2022",
+  "Parties Involved": ["M.R. i V.", "Spain"],
+  "Case Name": "M.R. i V. v. Spain",
+  "Case Number": "CRPD/C/26/D/48/2018",
+  "Court Name": "Committee on the Rights of Persons with Disabilities",
+  "Document Type": "Views adopted by the Committee under article 5 of the Optional Protocol",
+  "Document Date": "2022",
+  "Document Summary": "The case concerns a complaint filed by M.R. i V., a person with a mental disability, against Spain for violating their rights under the Convention on the Rights of Persons with Disabilities. The author claimed that Spain denied them access to modified duty employment in the Mossos d'Esquadra and failed to provide adequate legal protection and remedies. The author's appeals to the Barcelona Administrative Court No. 13 and the High Court of Justice of Catalonia were dismissed.",
+  "Case Summary": "The case concerns a complaint filed by M.R. i V., a person with a mental disability, against Spain for violating their rights under the Convention on the Rights of Persons with Disabilities. The author claimed that Spain denied them access to modified duty employment in the Mossos d'Esquadra and failed to provide adequate legal protection and remedies. The author's appeals to the Barcelona Administrative Court No. 13 and the High Court of Justice of Catalonia were dismissed.",
+  "Keywords": [
+    "Mental Disability",
+    "Spain",
+    "Convention on the Rights of Persons with Disabilities",
+    "Mossos d'Esquadra",
+    "Legal Protection",
+    "Remedies",
+    "Barcelona Administrative Court",
+    "High Court of Justice of Catalonia",
+    "Employment",
+    "Discrimination",
+    "Reasonable Accommodation"
+  ]
+}

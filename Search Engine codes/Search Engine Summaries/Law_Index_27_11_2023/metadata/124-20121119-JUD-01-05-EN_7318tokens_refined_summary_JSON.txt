@@ -1,0 +1,28 @@
+{
+    "Date": "2001",
+    "Parties Involved": ["Nicaragua", "Colombia"],
+    "Case Name": "Territorial and Maritime Dispute (Nicaragua v. Colombia)",
+    "Case Number": "ICJ Rep 1034",
+    "Court Name": "International Court of Justice (ICJ)",
+    "Document Type": "Judgment",
+    "Document Date": "2011",
+    "Document Summary": "This document contains a separate opinion of Judge Donoghue in the case of Republic of Nicaragua v. Colombia, part of the judgment of the International Court of Justice. The judge's dissenting opinion focuses on the delimitation of the continental shelf and the Court's decision regarding intervention by Costa Rica and Honduras.",
+    "Case Summary": "The case involves a territorial and maritime dispute between Nicaragua and Colombia regarding the continental shelf beyond 200 nautical miles of Nicaragua's coast. Nicaragua claimed an extensive area of continental shelf, while Colombia sought a delimitation of the overlapping entitlements. The International Court of Justice (ICJ) examined the case and rendered a judgment.",
+    "Keywords": [
+        "Territorial Dispute",
+        "Maritime Dispute",
+        "Nicaragua",
+        "Colombia",
+        "Continental Shelf",
+        "International Court of Justice",
+        "ICJ Rep 1034",
+        "Judge Donoghue",
+        "Delimitation",
+        "UN Convention on the Law of the Sea",
+        "Article 76",
+        "Preliminary Objections",
+        "Intervention",
+        "Costa Rica",
+        "Honduras"
+    ]
+}

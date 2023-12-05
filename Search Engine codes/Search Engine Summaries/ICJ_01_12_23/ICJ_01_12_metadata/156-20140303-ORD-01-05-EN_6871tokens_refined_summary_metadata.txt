@@ -1,0 +1,12 @@
+{
+  "Date": "2014",
+  "Parties Involved": ["Timor-Leste", "Australia"],
+  "Case Name": "Questions relating to the Seizure and Detention of Certain Documents and Data (Timor-Leste v. Australia)",
+  "Case Number": "ICJ/156",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2014",
+  "Document Summary": "The case involves the seizure and detention of documents, data, and property belonging to Timor-Leste, leading to a dispute between Timor-Leste and Australia. Timor-Leste invoked its declaration under Article 36, paragraph 2 of the Statute as the basis for jurisdiction. The ICJ considered the jurisdictional and admissibility matters and required Australia to notify the court and Timor-Leste before accessing or using any of the seized documents.",
+  "Case Summary": "Timor-Leste initiated proceedings against Australia regarding the seizure and detention of documents, data, and other property. The items were seized from the offices of Timor-Leste's legal advisers in Australia, including correspondence related to a pending arbitration under the Timor Sea Treaty. Australia acknowledged the ICJ's compulsory jurisdiction but made a reservation regarding the delimitation of maritime zones.",
+  "Keywords": ["Seizure", "Detention", "Timor-Leste", "Australia", "International Law", "Jurisdiction", "Timor Sea Treaty", "Statute", "Maritime Zones", "Australian Security Intelligence Organisation Act 1979", "ICJ", "Arbitration", "Declaration under Article 36", "Property"]
+}

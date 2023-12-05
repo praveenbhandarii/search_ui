@@ -1,0 +1,12 @@
+{
+  "Date": "2016",
+  "Parties Involved": ["Australia", "Japan", "New Zealand"],
+  "Case Name": "Whaling in the Antarctic (Australia v. Japan: New Zealand intervening)",
+  "Case Number": "148",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2014",
+  "Document Summary": "The judgment dated March 31, 2014, from the International Court of Justice (ICJ) in Case Number 148, involves Australia, Japan, and New Zealand. The ICJ analyzed Japan's whaling program, JARPA II, and raised concerns about its scientific basis, sample sizes, and the use of lethal methods. The judgment emphasizes the need for a clear definition of scientific research and the potential conflicts between states' sovereign rights and regulatory objectives. Judge Bennouna dissented, emphasizing the importance of considering the Convention's objectives and the Court's role.",
+  "Case Summary": "Australia initiated proceedings against Japan in May 2010, alleging that Japan's whaling program, JARPA II, violated its obligations under the International Convention for the Regulation of Whaling (ICRW) and other international obligations for the preservation of marine mammals and the marine environment.",
+  "Keywords": ["Whaling", "Antarctic", "Australia", "Japan", "New Zealand", "JARPA II", "International Convention for the Regulation of Whaling", "ICJ Judgment", "Scientific Research", "Sovereign Rights", "Judge Bennouna"]
+}

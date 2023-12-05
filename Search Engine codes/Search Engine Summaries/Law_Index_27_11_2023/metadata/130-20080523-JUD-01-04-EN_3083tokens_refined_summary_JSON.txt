@@ -1,0 +1,12 @@
+{
+  "Date": "2008",
+  "Parties Involved": ["Malaysia", "Singapore"],
+  "Case Name": "Sovereignty over Pedra Branca/Pulau Batu Puteh, Middle Rocks and South Ledge (Malaysia/Singapore)",
+  "Case Number": "130/2003",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2008",
+  "Document Summary": "This judgment document of the International Court of Justice (ICJ) pertains to case number 130, titled 'Sovereignty over Pedra Branca/Pulau Batu Puteh, Middle Rocks and South Ledge (Malaysia/Singapore).' The document provides important information about the case, including the judges involved, key parts of the judgment, and relevant citations. It also includes additional details such as the trial dates, parties involved, and a statement by Judge Mohamed Bennounna.",
+  "Case Summary": "The case involves a territorial dispute between Malaysia and Singapore over the ownership of three islands: Pedra Branca/Pulau Batu Puteh, Middle Rocks, and South Ledge. The dispute was brought before the International Court of Justice (ICJ) through a Special Agreement signed by both parties. The Court was requested to determine the sovereignty over the islands, and both countries agreed to accept the Court's judgment as final and binding.",
+  "Keywords": ["Sovereignty", "Territorial Dispute", "Pedra Branca", "Pulau Batu Puteh", "Middle Rocks", "South Ledge", "Malaysia", "Singapore", "International Court of Justice", "ICJ", "Special Agreement", "Intertemporal Law", "Sultanate of Johor", "Treaty of Westphalia", "Crawfurd Treaty", "Anglo-Dutch Treaty of 1824", "Uti Possidetis Juris", "Colonial Law", "Sovereignty Determination", "UN Convention on the Law of the Sea"]
+}

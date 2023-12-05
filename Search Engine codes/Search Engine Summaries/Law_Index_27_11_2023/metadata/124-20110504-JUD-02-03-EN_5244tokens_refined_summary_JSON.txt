@@ -1,0 +1,12 @@
+{
+  "Date": "2001",
+  "Parties Involved": ["Nicaragua", "Colombia"],
+  "Case Name": "Territorial and Maritime Dispute (Nicaragua v. Colombia)",
+  "Case Number": "124",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2001",
+  "Document Summary": "The document is a judgment type document of the International Court of Justice (ICJ) in Case Number 124. It contains information about various cases heard before the ICJ, relevant principles, the practice of states requesting permission to intervene, and the definition and consequences of an 'interest of a legal nature.' The document emphasizes the importance of the proper spatial extent of states' rights and the concept of 'erga omnes' obligations in international law.",
+  "Case Summary": "The case involves a territorial and maritime dispute between Nicaragua and Colombia. Nicaragua filed an application in 2001, initiating proceedings against Colombia regarding a group of related legal issues concerning title to territory and maritime delimitation. Colombia filed preliminary objections to jurisdiction, leading to the suspension of the proceedings on the merits. The document provides insights into the legal principles, practices, and disputes related to territorial and maritime issues, highlighting the significance of the proper spatial extent of states' rights and the obligations under international law.",
+  "Keywords": ["Territorial and Maritime Dispute", "Nicaragua", "Colombia", "International Court of Justice", "ICJ", "Judgment", "Case Number 124", "spatial extent of states' rights", "erga omnes obligations", "preliminary objections to jurisdiction", "maritime delimitation", "principles of international law", "practice of states requesting permission to intervene", "interest of a legal nature", "Judge Keith", "distinction between rights and interests", "Caribbean Sea"]
+}

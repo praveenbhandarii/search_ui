@@ -1,0 +1,29 @@
+Case ID: ICJ/172
+Court/Tribunal: International Court of Justice (ICJ)
+Document Date: 2021
+Key Parties Involved: Qatar, United Arab Emirates (UAE)
+Case Name: Application of the International Convention on the Elimination of All Forms of Racial Discrimination (Qatar v. United Arab Emirates)
+
+Case Summary:
+Qatar instituted proceedings against the UAE, alleging violations of the International Convention on the Elimination of All Forms of Racial Discrimination (CERD). The dispute revolves around the UAE's measures targeting Qatari nationals and residents, including travel bans, expulsion orders, restrictions on Qatari media corporations, and indirect discrimination against persons of Qatari national origin. The UAE raised preliminary objections, challenging the jurisdiction of the court. The majority of judges upheld the objections, while Judge Sebutinde and Judge Bhandari dissented. The case raises questions about the interpretation of "national origin" in CERD and its relevance to discrimination claims based on current nationality.
+
+Context:
+- Qatar alleges racial discrimination and indirect discrimination against persons of Qatari national origin by the UAE.
+- The UAE argues that its measures are necessary for public order and security.
+- The court examines whether the dispute falls within its jurisdiction under Article 22 of CERD and whether the claims fall within the scope of CERD.
+- The CERD Committee's General Recommendation XXX supports the interpretation that "national origin" encompasses current nationality.
+- The measures adopted by the UAE disproportionately affect Qatari nationals and may fall within the scope of CERD.
+- Qatar's claim of indirect discrimination is capable of being entertained by the court.
+
+Citations:
+- International Convention on the Elimination of All Forms of Racial Discrimination (CERD)
+- General Recommendation XXX of the CERD Committee
+- ICJ Reports 2017, p. 215, para. 7 (Order of 19 April 2017)
+- CERD/C/99/3 (UN document number)
+
+References:
+- Committee's decision on jurisdiction with regard to Qatar's interState communication submitted against the UAE
+- Practice of the CERD Committee and Jurisprudence of Regional Human Rights Courts
+- European Court of Human Rights (ECtHR) jurisprudence
+
+Note: The summary provided is a combined summary of the information provided in the legal document chunks.

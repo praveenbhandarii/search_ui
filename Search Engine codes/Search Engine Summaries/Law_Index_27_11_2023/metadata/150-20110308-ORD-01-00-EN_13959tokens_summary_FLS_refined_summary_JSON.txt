@@ -1,0 +1,28 @@
+{
+  "Date": "2011",
+  "Parties Involved": ["Costa Rica", "Nicaragua"],
+  "Case Name": "Costa Rica v. Nicaragua",
+  "Case Number": "150/2011",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Request for Provisional Measures",
+  "Document Date": "2011",
+  "Document Summary": "This legal document pertains to a dispute between Costa Rica and Nicaragua regarding the construction of a canal across Isla Portillos, dredging activities in the San Juan River, and the presence of Nicaraguan troops in Costa Rican territory. Costa Rica alleges breaches of the established boundary regime, principles of territorial integrity, prohibition of the use of force, and environmental protection obligations.",
+  "Case Summary": "The case involves a dispute between Costa Rica and Nicaragua concerning the construction of a canal, dredging activities, and the presence of troops. Costa Rica has made requests to the International Court of Justice (ICJ) for provisional measures to protect its rights and interests, and the Court fixed dates for oral proceedings on the request. The document also discusses the interpretation of the Alexander Award, a 1897 treaty between Costa Rica and Nicaragua that established the border between the two countries.",
+  "Keywords": [
+    "Costa Rica",
+    "Nicaragua",
+    "Isla Portillos",
+    "San Juan River",
+    "International Court of Justice",
+    "Provisional Measures",
+    "Boundary Regime",
+    "Territorial Integrity",
+    "Use of Force",
+    "Environmental Protection",
+    "Ramsar Convention on Wetlands",
+    "Cleveland Award",
+    "Alexander Award",
+    "Organization of American States",
+    "Pact of Bogotá"
+  ]
+}

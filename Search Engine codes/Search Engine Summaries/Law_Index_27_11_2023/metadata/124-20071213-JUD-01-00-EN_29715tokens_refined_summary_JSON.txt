@@ -1,0 +1,23 @@
+{
+  "Date": "2007",
+  "Parties Involved": ["Nicaragua", "Colombia"],
+  "Case Name": "Territorial and Maritime Dispute (Nicaragua v. Colombia)",
+  "Case Number": "ICJ, Series A/B, No. 77, p. 76",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2007",
+  "Document Summary": "The judgment issued by the International Court of Justice (ICJ) on December 13, 2007, in the territorial and maritime dispute between Nicaragua and Colombia over the Roncador, Quitasueo, and Serrana islands, as well as the surrounding waters. The judgment addresses sovereignty, validity of treaties, and maritime delimitation, and establishes the jurisdiction of the ICJ in territorial and maritime disputes.",
+  "Case Summary": "The case involves a territorial and maritime dispute between Nicaragua and Colombia over the Roncador, Quitasueo, and Serrana islands, and the surrounding waters. Nicaragua claims the nullity of the 1928 Treaty due to historical context and infringement of its national constitution, while Colombia argues the validity of the treaty. The dispute has attracted international attention and involves diplomatic exchanges and legal opinions.",
+  "Keywords": [
+    "Territorial Dispute",
+    "Maritime Dispute",
+    "Nicaragua",
+    "Colombia",
+    "International Court of Justice",
+    "ICJ Judgment",
+    "Sovereignty",
+    "Treaty Validity",
+    "Maritime Delimitation",
+    "San Andrs Archipelago"
+  ]
+}

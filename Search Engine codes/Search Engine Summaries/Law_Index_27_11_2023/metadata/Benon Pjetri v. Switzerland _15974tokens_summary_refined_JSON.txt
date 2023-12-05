@@ -1,0 +1,25 @@
+{
+  "Date": "2011",
+  "Parties Involved": [
+    "Pjetri",
+    "Switzerland"
+  ],
+  "Case Name": "Pjetri vs Switzerland",
+  "Case Number": "Unknown",
+  "Court Name": "United Nations Human Rights Committee",
+  "Document Type": "Views adopted by the Committee under article 5(4) of the Optional Protocol to the International Covenant on Civil and Political Rights (121st session)",
+  "Document Date": "2011",
+  "Document Summary": "Mr. Pjetri, a person of African descent with a physical disability, alleged discrimination in the naturalization process in Switzerland. The United Nations Human Rights Committee found violations of articles 2, 14, and 26 of the International Covenant on Civil and Political Rights.",
+  "Case Summary": "Mr. Pjetri, a person of African descent with a disability, faced rejection in the naturalization process in Switzerland and alleged discrimination. The United Nations Human Rights Committee noted violations of articles 2, 14, and 26 of the International Covenant on Civil and Political Rights.",
+  "Keywords": [
+    "Discrimination",
+    "Naturalization",
+    "African descent",
+    "Disability",
+    "United Nations Human Rights Committee",
+    "International Covenant on Civil and Political Rights",
+    "Optional Protocol",
+    "Ethnic discrimination",
+    "Nondiscriminatory naturalization procedures"
+  ]
+}

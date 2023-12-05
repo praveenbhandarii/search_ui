@@ -1,0 +1,31 @@
+{
+  "Date": "2018",
+  "Parties Involved": ["Equatorial Guinea", "France"],
+  "Case Name": "Immunities and Criminal Proceedings (Equatorial Guinea v. France)",
+  "Case Number": "ICJ/2018",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2018",
+  "Document Summary": "The International Court of Justice (ICJ) rendered a judgment in the case of Immunities and Criminal Proceedings (Equatorial Guinea v. France). The case involves a dispute between Equatorial Guinea and France regarding the immunity from criminal jurisdiction of the Second Vice-President of Equatorial Guinea and the legal status of the building housing the Embassy of Equatorial Guinea in France. Equatorial Guinea alleged that France violated its international obligations under the United Nations Convention against Transnational Organized Crime and general international law. The ICJ held that France's objection to Equatorial Guinea's designation of the building as premises of its diplomatic mission was not arbitrary or discriminatory, and that the building never acquired the status of premises of the mission under the Vienna Convention on Diplomatic Relations. The ICJ awarded no relief to Equatorial Guinea and rejected its claims. The case raises important issues regarding the interpretation of the Vienna Convention, the consent of the receiving state for designating premises of a diplomatic mission, and the relationship between sending and receiving states. The case also involves a meeting between the French Ministry of Foreign Affairs and the Ambassador of Equatorial Guinea on February 16, 2012, and an interim order issued by the Tribunal de grande instance of Paris on October 22, 2013.",
+  "Case Summary": "The case involves a dispute between Equatorial Guinea and France regarding the immunity from criminal jurisdiction of the Second Vice-President of Equatorial Guinea and the legal status of the building housing the Embassy of Equatorial Guinea in France. Equatorial Guinea alleged that France violated its international obligations under the United Nations Convention against Transnational Organized Crime and general international law. The ICJ held that France's objection to Equatorial Guinea's designation of the building as premises of its diplomatic mission was not arbitrary or discriminatory, and that the building never acquired the status of premises of the mission under the Vienna Convention on Diplomatic Relations. The ICJ awarded no relief to Equatorial Guinea and rejected its claims. The case raises important issues regarding the interpretation of the Vienna Convention, the consent of the receiving state for designating premises of a diplomatic mission, and the relationship between sending and receiving states. The case also involves a meeting between the French Ministry of Foreign Affairs and the Ambassador of Equatorial Guinea on February 16, 2012, and an interim order issued by the Tribunal de grande instance of Paris on October 22, 2013.",
+  "Keywords": [
+    "Immunities",
+    "Criminal Proceedings",
+    "Equatorial Guinea",
+    "France",
+    "Diplomatic Mission",
+    "International Law",
+    "United Nations Convention against Transnational Organized Crime",
+    "Vienna Convention on Diplomatic Relations",
+    "International Court of Justice",
+    "ICJ",
+    "Immunity from Criminal Jurisdiction",
+    "Second Vice President",
+    "Interpretation of Vienna Convention",
+    "Consent of Receiving State",
+    "Relationship between Sending and Receiving States",
+    "French Tribunal de grande instance",
+    "Meeting between French Ministry of Foreign Affairs and Ambassador of Equatorial Guinea",
+    "Interim Order"
+  ]
+}

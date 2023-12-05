@@ -1,0 +1,27 @@
+{
+    "Date": "2018",
+    "Parties Involved": ["Bolivia", "Chile"],
+    "Case Name": "Obligation to Negotiate Access to the Pacific Ocean (Bolivia v. Chile)",
+    "Case Number": "ICJ/153",
+    "Court Name": "International Court of Justice (ICJ)",
+    "Document Type": "Case Communication",
+    "Document Date": "2018",
+    "Document Summary": "The case involves a dispute between Bolivia and Chile regarding Bolivia's access to the Pacific Ocean. Bolivia claims that Chile has an obligation to negotiate in good faith and effectively to grant Bolivia a fully sovereign access to the Pacific Ocean. Bolivia invoked Article XXXI of the American Treaty on Pacific Settlement as the basis for the jurisdiction of the Court.",
+    "Case Summary": "The case involves a dispute between Bolivia and Chile regarding Bolivia's access to the Pacific Ocean. Bolivia claims that Chile has an obligation to negotiate in good faith and effectively to grant Bolivia a fully sovereign access to the Pacific Ocean. Bolivia argues that Chile has not fulfilled this obligation and denies its existence. Bolivia invoked Article XXXI of the American Treaty on Pacific Settlement as the basis for the jurisdiction of the Court. Bolivia had a coastline on the Pacific Ocean before losing it to Chile in a war. In 1926, Bolivia proposed the Kellogg Proposal, which would have given Bolivia a sovereign coastline along the Pacific Ocean, but Chile did not accept it. The ICJ delivered its decision in 1963, stating that Chile has no obligation to provide Bolivia with a sovereign coastline along the Pacific Ocean. Negotiations between Bolivia and Chile have been ongoing since the 1960s to address Bolivia's landlocked status and access to the Pacific Ocean.",
+    "Keywords": [
+        "Access to the Pacific Ocean",
+        "Bolivia",
+        "Chile",
+        "Sovereign Access",
+        "Negotiation Obligation",
+        "Article XXXI",
+        "American Treaty on Pacific Settlement",
+        "Coastline Dispute",
+        "Kellogg Proposal",
+        "ICJ Jurisdiction",
+        "Treaty of Ancón",
+        "Trucco Memorandum",
+        "Charaa Declaration",
+        "Exchange of Notes"
+    ]
+}

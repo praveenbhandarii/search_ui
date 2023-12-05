@@ -1,0 +1,12 @@
+{
+	"Date": "2000",
+	"Parties Involved": ["Democratic Republic of the Congo", "Belgium"],
+	"Case Name": "Arrest Warrant of 11 April 2000 (Democratic Republic of the Congo v. Belgium)",
+	"Case Number": "ICJ/22",
+	"Court Name": "International Court of Justice (ICJ)",
+	"Document Type": "Case Overview",
+	"Document Date": "2001",
+	"Document Summary": "This document provides key information about the case, including the case name, case number, date of institution, and the parties involved. It also highlights important dates such as the issuance of the international arrest warrant and the institution of proceedings by the DRC. It mentions the orders of provisional measures and fixing timelimits for filing of memorials and counter-memorials. It identifies the key judges involved in the case and lists the key documents filed by both parties.",
+	"Case Summary": "The Democratic Republic of the Congo (DRC) filed a case against Belgium regarding an international arrest warrant issued against the acting Congolese Minister for Foreign Affairs, Mr. Abdoulaye Yerodia Ndombasi. The DRC sought to challenge the warrant and subsequent extradition to Belgium for alleged crimes constituting grave violations of international humanitarian law.",
+	"Keywords": ["Arrest Warrant", "Democratic Republic of the Congo", "Belgium", "International Court of Justice", "Preliminary Objections", "Extradition", "Procedural Developments", "International Humanitarian Law"]
+}

@@ -1,0 +1,23 @@
+{
+  "Date": "2001",
+  "Parties Involved": ["Nicaragua", "Colombia"],
+  "Case Name": "Territorial and Maritime Dispute (Nicaragua v. Colombia)",
+  "Case Number": "ICJ/XX",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "N/A",
+  "Document Summary": "The judgment involves a territorial and maritime dispute between Nicaragua and Colombia, focusing on issues of territory ownership, maritime delimitation, and the validity of the 1928 Treaty. It discusses objections to jurisdiction, the enforcement of treaties, and the validity of Nicaragua's optional clause declaration. Additionally, it references ongoing cases and historical treaties.",
+  "Case Summary": "The case involves a territorial and maritime dispute between Nicaragua and Colombia, covering issues related to territory ownership and maritime delimitation. It involves objections to jurisdiction, the validity of the 1928 Treaty, and the enforcement of treaties. The Court has held that Nicaragua's optional clause declaration is valid and provides jurisdiction over the dispute. The judgment lacks specific details such as the date of judgment, judges' names, and document details.",
+  "Keywords": [
+    "Territorial Dispute",
+    "Maritime Dispute",
+    "Nicaragua",
+    "Colombia",
+    "International Court of Justice",
+    "1928 Treaty",
+    "Pact of Bogotá",
+    "Jurisdiction",
+    "Treaty Validity",
+    "Optional Clause Declaration"
+  ]
+}

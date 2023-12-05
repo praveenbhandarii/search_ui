@@ -1,0 +1,25 @@
+{
+  "Date": "2002",
+  "Parties Involved": ["Democratic Republic of the Congo", "Belgium"],
+  "Case Name": "Arrest Warrant of 11 April 2000 (Democratic Republic of the Congo v. Belgium)",
+  "Case Number": "121",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2002",
+  "Document Summary": "This document is a judgment type document of the International Court of Justice (ICJ) in Case Number 121. It provides an overview of the case, including the case name, case date, court, key issues, important dates, and other relevant information. The document also mentions the judges presiding over the case and the documents included in the case. The judgment was delivered on 14 February 2002 by a panel of 14 judges, including President Guillaume and Vice President Shi.",
+  "Case Summary": "The case involves a dispute between the Democratic Republic of the Congo (DRC) and Belgium regarding an international arrest warrant issued by Belgium against the acting Congolese Minister for Foreign Affairs, Mr. Abdoulaye Yerodia Ndombasi. The DRC argues that the arrest warrant violates international law, including principles of state sovereignty, sovereign equality, and diplomatic immunity. Belgium objects to the jurisdiction and admissibility of the case. The arrest warrant is based on allegations of inciting racial hatred, resulting in several hundred deaths, internment, summary executions, arbitrary arrests, and unfair trials, which the DRC claims constitute grave violations of international humanitarian law.",
+  "Keywords": [
+    "Arrest Warrant",
+    "Belgium",
+    "Democratic Republic of the Congo",
+    "Immunity",
+    "International Court of Justice",
+    "Jurisdiction",
+    "Admissibility",
+    "Diplomatic Immunity",
+    "International Law",
+    "Vienna Convention on Consular Relations",
+    "Vienna Convention on Diplomatic Relations",
+    "State Sovereignty"
+  ]
+}

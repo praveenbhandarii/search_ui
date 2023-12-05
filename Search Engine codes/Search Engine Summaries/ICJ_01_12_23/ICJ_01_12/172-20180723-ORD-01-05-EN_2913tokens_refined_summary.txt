@@ -1,0 +1,25 @@
+Case ID: ICJ/172
+Court/Tribunal: International Court of Justice (ICJ)
+Document Date: 2018
+Key Parties Involved: Qatar, United Arab Emirates (UAE)
+Case Name: Application of the International Convention on the Elimination of All Forms of Racial Discrimination (Qatar v. United Arab Emirates)
+
+Case Summary:
+Qatar filed a case against the UAE on 11 June 2018, alleging violations of the International Convention on the Elimination of All Forms of Racial Discrimination (CERD). The case revolves around whether the ICJ has jurisdiction to hear the case based on Article 22 of CERD, and whether discrimination based on nationality falls within the scope of CERD.
+
+Context:
+- Judge Salam's dissenting opinion argues that the ICJ lacks prima facie jurisdiction to hear the case based on Article 22 of CERD.
+- The dissenting opinion contends that CERD only covers discrimination based on race, color, descent, or national or ethnic origin, and does not include discrimination based on nationality.
+- The ICJ has previously ruled on cases of discrimination based on ethnic origin but not national origin.
+- The distinction between nationality and national origin is highlighted by the ICJ.
+- The ICJ has emphasized that the recommendations of the Committee on the Elimination of Racial Discrimination (CERD) cannot be considered as subsequent practice of the parties to CERD.
+- The ICJ has found that it lacks prima facie jurisdiction to indicate provisional measures in certain cases, such as the Legality of Use of Force case (Yugoslavia v. United Kingdom).
+- The ICJ has requested the parties to avoid aggravating or extending the dispute.
+- The document mentions the title, order of provisional measures, and volume and page numbers of the ICJ Reports.
+- The document also refers to a case between the Democratic Republic of the Congo (DRC) and Rwanda, where the ICJ stressed the need to prevent human rights violations.
+- The conclusion of the document states that the Court should have emphasized the need to prevent human rights violations and avoid aggravating or extending the dispute, but lacks prima facie jurisdiction to do so.
+
+Citations:
+- Article 22 of CERD
+- Article 1 of CERD
+- Article 31 of the Vienna Convention on the Law of Treaties

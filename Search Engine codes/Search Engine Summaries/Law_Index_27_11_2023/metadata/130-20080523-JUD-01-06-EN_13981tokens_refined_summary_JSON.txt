@@ -1,0 +1,12 @@
+{
+  "Date": "2003",
+  "Parties Involved": ["Malaysia", "Singapore"],
+  "Case Name": "Sovereignty over Pedra Branca/Pulau Batu Puteh, Middle Rocks and South Ledge (Malaysia/Singapore)",
+  "Case Number": "ICJ/2003",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2003",
+  "Document Summary": "The International Court of Justice (ICJ) ruled that sovereignty over Pedra Branca/Pulau Batu Puteh belongs to Singapore, while sovereignty over Middle Rocks belongs to Malaysia. The ownership of South Ledge remains pending and can be settled as part of the delimitation of territorial sea limits among concerned states.",
+  "Case Summary": "The case involves a dispute between Malaysia and Singapore over the sovereignty of Pedra Branca/Pulau Batu Puteh, Middle Rocks, and South Ledge, located in the Strait of Malacca. The ICJ ruled in favor of Singapore for Pedra Branca/Pulau Batu Puteh and in favor of Malaysia for Middle Rocks. The ownership of South Ledge is pending and can be resolved as part of territorial sea limits delimitation.",
+  "Keywords": ["Sovereignty", "Pedra Branca", "Pulau Batu Puteh", "Middle Rocks", "South Ledge", "Malaysia", "Singapore", "Strait of Malacca", "International Court of Justice", "ICJ", "Territorial Sea Limits", "Ownership", "Delimitation", "Judgment", "Legal Principles", "Sultanate of Johor", "Orang Laut", "Burden of Proof", "Standard of Proof", "International Litigation"]
+}

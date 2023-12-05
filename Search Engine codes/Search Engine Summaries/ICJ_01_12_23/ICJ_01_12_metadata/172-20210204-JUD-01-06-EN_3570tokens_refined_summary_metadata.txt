@@ -1,0 +1,12 @@
+{
+  "Date": "2020",
+  "Parties Involved": ["Qatar", "United Arab Emirates (UAE)"],
+  "Case Name": "Application of the International Convention on the Elimination of All Forms of Racial Discrimination (Qatar v. United Arab Emirates)",
+  "Case Number": "ICJ/172",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2020",
+  "Document Summary": "Qatar v. UAE ICJ judgment of 2020 on alleged violations of the International Convention on the Elimination of All Forms of Racial Discrimination, addressing discrimination based on national origin, and the ICJ's lack of jurisdiction over the dispute but admissibility of Qatar's claims based on alleged discrimination. The UAE's actions found to constitute human rights violations under international conventions, reconciliation process initiated between the Gulf countries, and the Court's judgment expected to peacefully resolve the disputes.",
+  "Case Summary": "Qatar v. UAE ICJ case addressing alleged violations of the International Convention on the Elimination of All Forms of Racial Discrimination (CERD), lack of jurisdiction, but admissibility of Qatar's claims based on alleged discrimination. The UAE's actions found to be human rights violations, and a reconciliation process initiated between the Gulf countries, with the Court's judgment expected to bring an end to the disputes peacefully.",
+  "Keywords": ["International Court of Justice", "ICJ/172", "Qatar", "United Arab Emirates (UAE)", "International Convention on the Elimination of All Forms of Racial Discrimination", "CERD", "Discrimination", "Jurisdiction", "Admissibility", "Human Rights Violations", "Reconciliation Process", "Gulf Countries", "Peaceful Resolution"]
+}

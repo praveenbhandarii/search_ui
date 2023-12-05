@@ -1,0 +1,24 @@
+{
+    "Date": "2017",
+    "Parties Involved": ["Nicaragua", "Colombia"],
+    "Case Name": "Alleged Violations of Sovereign Rights and Maritime Spaces in the Caribbean Sea (Nicaragua v. Colombia)",
+    "Case Number": "ICJ/155",
+    "Court Name": "International Court of Justice (ICJ)",
+    "Document Type": "Case Communication",
+    "Document Date": "2017",
+    "Document Summary": "This case involves a dispute between Nicaragua and Colombia regarding alleged violations of Nicaragua's sovereign rights and maritime spaces in the Caribbean Sea. Nicaragua filed an application instituting proceedings against Colombia, claiming that Colombia's actions violated Nicaragua's rights as declared in a previous judgment by the ICJ. Colombia, in turn, filed counterclaims against Nicaragua, alleging violations of its own sovereign rights and maritime spaces. The ICJ issued an order regarding the admissibility of Colombia's counterclaims.",
+    "Case Summary": "This case involves a dispute between Nicaragua and Colombia regarding alleged violations of Nicaragua's sovereign rights and maritime spaces in the Caribbean Sea. Nicaragua filed an application instituting proceedings against Colombia, claiming that Colombia's actions violated Nicaragua's rights as declared in a previous judgment by the ICJ. Colombia, in turn, filed counterclaims against Nicaragua, alleging violations of its own sovereign rights and maritime spaces. The ICJ issued an order regarding the admissibility of Colombia's counterclaims.",
+    "Keywords": [
+        "Nicaragua",
+        "Colombia",
+        "Sovereign Rights",
+        "Maritime Spaces",
+        "Caribbean Sea",
+        "ICJ",
+        "Counterclaims",
+        "Admissibility",
+        "UNCLOS",
+        "Pact of Bogot",
+        "Rules of Court"
+    ]
+}

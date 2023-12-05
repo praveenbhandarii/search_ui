@@ -1,0 +1,27 @@
+Case ID: ICJ/155
+Court/Tribunal: International Court of Justice (ICJ)
+Document Date: 2017
+Key Parties Involved: Nicaragua, Colombia
+Case Name: Alleged Violations of Sovereign Rights and Maritime Spaces in the Caribbean Sea (Nicaragua v. Colombia)
+
+Case Summary:
+Nicaragua filed an application against Colombia in 2013, alleging violations of its sovereign rights and maritime zones as declared by a previous court judgment. The dispute also involved the threat of force by Colombia to implement these violations. This document is an order from the ICJ related to the case.
+
+Context:
+- The case concerns violations of Nicaragua's sovereign rights and maritime zones declared in a previous court judgment.
+- Nicaragua alleges that Colombia threatened to use force to implement these violations.
+- The document discusses the jurisdiction of the ICJ over counterclaims and the requirement of a direct connection between the counterclaim and the subject matter of the principal claim.
+- Christopher Greenwood, one of the judges, disagrees with the main decision regarding Colombia's fourth counterclaim, stating that it lacks a direct connection with the subject matter of the principal claim.
+- The dispute also involves Nicaragua's decree establishing straight baselines.
+
+Citations:
+- Case name: Colombia v. Nicaragua
+- Date: April 17, 2018
+- Judges: Greenwood, separately (ad hoc)
+- Citation: 54 CIJ1127.indb 388 17/04/18 11:10 340
+- Case name: Jurisdictional Immunities of the State (Germany v. Italy)
+- Date: July 6, 2010
+- Court: International Court of Justice (ICJ)
+- Judges: Christopher Greenwood (singular opinion)
+- Document details: Order of the ICJ, paragraphs 53-56
+- Subject matter: Dispute between Colombia and Nicaragua regarding sovereign rights and maritime spaces

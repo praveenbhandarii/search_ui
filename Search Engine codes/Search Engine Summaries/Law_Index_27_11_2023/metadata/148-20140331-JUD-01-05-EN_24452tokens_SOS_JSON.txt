@@ -1,0 +1,32 @@
+{
+  "Date": "2010",
+  "Parties Involved": [
+    "Australia",
+    "Japan"
+  ],
+  "Case Name": "Whaling in the Antarctic (Australia v. Japan: New Zealand intervening)",
+  "Case Number": "148",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2010",
+  "Document Summary": "The judgment from the ICJ in Case Number 148 provides important information regarding the regulation of whaling and the role of the International Whaling Commission (IWC). It includes details about the case, the judge, and relevant resolutions. The judgment sets a precedent for the interpretation and application of the International Convention for the Regulation of Whaling (ICRW) in the future, contributing to the formation of an opinio juris communis in the domain of conservation and sustainable use of living marine resources.",
+  "Case Summary": "The case of Whaling in the Antarctic (Australia v. Japan: New Zealand intervening) was brought before the ICJ in 2010. Australia alleged that Japan's whaling program, JARPA II, violated its obligations under the ICRW and other international obligations for the preservation of marine mammals and the marine environment. The ICJ ruled that Japan's whaling program, JARPA II, is not justified as scientific research and is not the main purpose of the program. The judgment emphasizes the importance of nonlethal research methods, the precautionary approach, and the principle of prevention in the interpretation and implementation of the ICRW.",
+  "Keywords": [
+    "Whaling in the Antarctic",
+    "Australia",
+    "Japan",
+    "New Zealand",
+    "International Court of Justice",
+    "ICJ",
+    "JARPA II",
+    "International Convention for the Regulation of Whaling",
+    "ICRW",
+    "Marine Mammals",
+    "Marine Environment",
+    "Precautionary Approach",
+    "Opinio Juris Communis",
+    "Conservation",
+    "Sustainable Use",
+    "Living Marine Resources"
+  ]
+}

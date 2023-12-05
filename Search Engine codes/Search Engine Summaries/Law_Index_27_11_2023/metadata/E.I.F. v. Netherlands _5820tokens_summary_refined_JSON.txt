@@ -1,0 +1,34 @@
+{
+  "Date": "2007",
+  "Parties Involved": [
+    "The author (a police officer of Surinamese origin)",
+    "The State party (the Netherlands)"
+  ],
+  "Case Name": "Communication No. 1111/2002",
+  "Case Number": "1111/2002",
+  "Court Name": "United Nations Human Rights Committee",
+  "Document Type": "Views",
+  "Document Date": "27 March 2007",
+  "Document Summary": "Views adopted by the Committee on 27 March 2007",
+  "Case Summary": "The author, a police officer of Surinamese origin, alleges discrimination by the teaching staff at the Netherlands Police Academy (NPA) and claims that the Minister wrongly overlooked the Boekraad Committee's recommendation in his case. The author argues that the State party violated articles 2, 5, 6, and 7 of the International Covenant on Civil and Political Rights. The State party disputes the author's claims and argues that there was no violation of the Covenant.",
+  "Keywords": [
+    "discrimination",
+    "police officer",
+    "Surinamese origin",
+    "Netherlands Police Academy",
+    "Boekraad Committee",
+    "Minister",
+    "International Covenant on Civil and Political Rights",
+    "Netherlands",
+    "allegations",
+    "jurisdiction",
+    "violation",
+    "decision",
+    "admissible",
+    "inadmissible",
+    "precedent",
+    "investigation",
+    "articles",
+    "Convention"
+  ]
+}

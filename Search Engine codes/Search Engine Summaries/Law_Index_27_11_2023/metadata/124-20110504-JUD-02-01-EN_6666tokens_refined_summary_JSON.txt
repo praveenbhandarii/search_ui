@@ -1,0 +1,30 @@
+{
+    "Date": "2013",
+    "Parties Involved": [
+        "Nicaragua",
+        "Colombia"
+    ],
+    "Case Name": "Territorial and Maritime Dispute (Nicaragua v. Colombia)",
+    "Case Number": "124",
+    "Court Name": "International Court of Justice (ICJ)",
+    "Document Type": "Judgment",
+    "Document Date": "2013",
+    "Document Summary": "This document is a judgment from the ICJ regarding the territorial and maritime dispute between Costa Rica and Nicaragua. The judgment was delivered on June 13, 2013, and is published in the ICJ Reports, volume 31, pages 6164. It addresses the distinction between an interest of a legal nature and a right, ultimately finding that both are relevant in this case. The document cites previous ICJ jurisprudence on maritime delimitation.",
+    "Case Summary": "This case, numbered 124, involves a territorial and maritime dispute between the Republic of Nicaragua and the Republic of Colombia. Nicaragua filed an Application in 2001, initiating proceedings regarding a group of related legal issues concerning title to territory and maritime delimitation. The proceedings were suspended in 2003 due to Colombia's preliminary objections to jurisdiction. The document discusses the concept of 'an interest of a legal nature' in the context of intervention proceedings before the ICJ. It highlights the exception to the general rule that third-state intervention is not allowed and provides insights into the development of the ICJ's practice relating to maritime delimitation. The document also mentions the use of various legal instruments, including the ICJ's statute and the United Nations Convention on the Law of the Sea (UNCLOS).",
+    "Keywords": [
+        "Territorial Dispute",
+        "Maritime Dispute",
+        "Nicaragua",
+        "Colombia",
+        "Territorial Title",
+        "Maritime Delimitation",
+        "International Court of Justice",
+        "ICJ Reports",
+        "Legal Interest",
+        "Right",
+        "Jurisprudence",
+        "Intervention Proceedings",
+        "Preliminary Objections",
+        "UNCLOS"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+  "Date": "1999",
+  "Parties Involved": ["The author (A)", "State party (B)"],
+  "Case Name": "Communication No. 13/1999",
+  "Case Number": "CERD/C/56/D/17/1999",
+  "Court Name": "United Nations Committee on the Elimination of Racial Discrimination (CERD)",
+  "Document Type": "Decision",
+  "Document Date": "17 March 1999",
+  "Document Summary": "Decision on a communication submitted by an individual who was denied admission to a discotheque in Denmark due to his ethnic background, alleging a violation of article 6 of the Convention on the Elimination of All Forms of Racial Discrimination (CERD) due to the lack of compensation for non-pecuniary damage.",
+  "Case Summary": "The author, of African descent, was denied admission to a discotheque in Odense, Denmark, due to his ethnic background. Despite court rulings, the author's claim for compensation was rejected, and the High Court found no basis for a claim of compensation. The author's appeal to the Supreme Court was also rejected, leaving no further remedies under Danish law.",
+  "Keywords": [
+    "Racial Discrimination",
+    "Denmark",
+    "Ethnic Background",
+    "Non-Pecuniary Damage",
+    "Admission Denial",
+    "Convention on the Elimination of All Forms of Racial Discrimination",
+    "CERD",
+    "Supreme Court",
+    "High Court",
+    "Odense",
+    "African Descent"
+  ]
+}

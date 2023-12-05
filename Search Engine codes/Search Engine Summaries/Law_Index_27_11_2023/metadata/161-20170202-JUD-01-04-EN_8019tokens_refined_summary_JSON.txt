@@ -1,0 +1,23 @@
+{
+  "Date": "2014",
+  "Parties Involved": ["Somalia", "Kenya"],
+  "Case Name": "Maritime Delimitation in the Indian Ocean (Somalia v. Kenya)",
+  "Case Number": "ICJ/2014",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "20170202",
+  "Document Summary": "This judgment document of the ICJ, dated 20170202, addresses the dispute between Somalia and Kenya over maritime delimitation in the Indian Ocean. The case name is 'Maritime Delimitation in the Indian Ocean (Kenya v. Somalia)' and it was filed in 2014. The judges involved include Judge Robinson, and the document references UNCLOS and the ICJ's Statute. The ICJ's jurisdiction is based on the optional clause declaration made by both states under Part XV of UNCLOS, subject to Kenya's reservation. The Court's decision held that Kenya's reservation is not valid and that the Court does not have jurisdiction over the case.",
+  "Case Summary": "This case involves a dispute between Somalia and Kenya regarding the delimitation of their maritime boundary in the Indian Ocean. Somalia filed an Application with the International Court of Justice (ICJ) in 2014, requesting the Court to determine the complete course of the maritime boundary between the two states based on international law.",
+  "Keywords": [
+    "Maritime Delimitation",
+    "Indian Ocean",
+    "Somalia",
+    "Kenya",
+    "Dispute",
+    "ICJ",
+    "UNCLOS",
+    "Optional Clause Declaration",
+    "Article 282",
+    "Judge Robinson"
+  ]
+}

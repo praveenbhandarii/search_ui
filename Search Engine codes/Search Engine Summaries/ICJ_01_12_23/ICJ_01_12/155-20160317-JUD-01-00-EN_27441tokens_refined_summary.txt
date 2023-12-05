@@ -1,0 +1,25 @@
+Case ID: ICJ/155
+Court/Tribunal: International Court of Justice (ICJ)
+Document Date: 17 March 2016
+Key Parties Involved: Nicaragua, Colombia
+Case Name: Alleged Violations of Sovereign Rights and Maritime Spaces in the Caribbean Sea (Nicaragua v. Colombia)
+
+Case Summary:
+The case involves a dispute between Nicaragua and Colombia regarding alleged violations of Nicaragua's sovereign rights and maritime zones in the Caribbean Sea. Nicaragua filed an application with the ICJ on 26 November 2013, claiming that Colombia's proclamation of an Integral Contiguous Zone violated its sovereign rights and maritime spaces. Colombia raised preliminary objections, arguing that the Court lacks jurisdiction and that no dispute existed between the parties prior to the filing of the application. The ICJ rejected Colombia's objections related to jurisdiction and the existence of a dispute, but partially upheld the objection that Nicaragua's claims were based on customary international law, which is outside the Court's jurisdiction.
+
+Context:
+- The dispute arises from the Court's 2012 judgment in the case concerning Territorial and Maritime Dispute (Nicaragua v. Colombia), which declared Nicaragua's sovereign rights over certain maritime areas.
+- Colombia's proclamation of an Integral Contiguous Zone in 2012 is at the center of the dispute.
+- The Pact of Bogot, a treaty governing the dispute resolution process, is relevant to the case.
+- The ICJ considered the interpretation of Article LVI of the Pact of Bogot, which deals with the effect of denunciation on pending procedures.
+
+Citations:
+- International Convention on the Elimination of All Forms of Racial Discrimination (Georgia v. Russian Federation), Preliminary Objections, Judgment, I.C.J. Reports 2011 (I), p. 85, para. 30
+- Questions of Interpretation and Application of the 1971 Montreal Convention arising from the Aerial Incident at Lockerbie (Libyan Arab Jamahiriya v. United Kingdom), Preliminary Objections, Judgment, I.C.J. Reports 1998, pp. 2526, paras. 43-45
+- Questions of Interpretation and Application of the 1971 Montreal Convention arising from the Aerial Incident at Lockerbie (Libyan Arab Jamahiriya v. United States of America), Preliminary Objections, Judgment, I.C.J. Reports 1998, pp. 130-131, paras. 42-44
+
+References:
+- Pact of Bogot (1948)
+- Vienna Convention on the Law of Treaties (1969)
+- ICJ Reports 2016, p. 1092 (ICJ 2016)
+- ICJ Reports 2012, p. 624 (ICJ 2012)

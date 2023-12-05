@@ -1,0 +1,34 @@
+{
+  "Date": "",
+  "Parties Involved": [
+    "Democratic Republic of the Congo",
+    "Belgium"
+  ],
+  "Case Name": "Arrest Warrant of 11 April 2000 (Democratic Republic of the Congo v. Belgium)",
+  "Case Number": "",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Legal Analysis/Memorandum",
+  "Document Date": "",
+  "Document Summary": "The document is a legal analysis or memorandum discussing the issue of universal jurisdiction and the jurisdiction of national courts over offenses committed abroad. It includes references to classic international law, treaties, and judgments of the Permanent Court of International Justice.",
+  "Case Summary": "The Democratic Republic of the Congo (DRC) filed a case against Belgium regarding an international arrest warrant issued against the acting Congolese Minister for Foreign Affairs, Mr. Abdoulaye Yerodia Ndombasi. The DRC disputed Belgium's jurisdiction to issue the warrant, which accused Mr. Yerodia of grave breaches of the Geneva Conventions and crimes against humanity.",
+  "Keywords": [
+    "Arrest Warrant",
+    "11 April 2000",
+    "Democratic Republic of the Congo",
+    "Belgium",
+    "Universal Jurisdiction",
+    "National Courts",
+    "Jurisdictional Dispute",
+    "Extraterritorial Jurisdiction",
+    "International Law",
+    "Humanitarian Law",
+    "Geneva Conventions",
+    "Crimes Against Humanity",
+    "Customary International Law",
+    "Treaties",
+    "Permanent Court of International Justice",
+    "French Court of Cassation",
+    "German Federal Supreme Court",
+    "Convention Against Torture"
+  ]
+}

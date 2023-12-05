@@ -1,0 +1,27 @@
+{
+  "Date": "2021",
+  "Parties Involved": ["Benin", "Niger"],
+  "Case Name": "Frontier Dispute (Benin/Niger)",
+  "Case Number": "ICJ/15",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2021",
+  "Document Summary": "This judgment document titled 'Frontier Dispute (Diss. Op. Benouna)' provides a summary of the case, including the case number, date, judges, citation, paragraph numbers, parties involved, applicable law, critical date for determination of colonial heritage, principle to be applied, task of the Chamber, method of determination, special agreement, and the role of the ad hoc judge.",
+  "Case Summary": "The case involves a frontier dispute between Benin and Niger regarding the definitive delimitation of their boundary, specifically focusing on the course of the boundary in the River Niger sector and the attribution of islands therein. The parties submitted the dispute to the International Court of Justice (ICJ) through a Special Agreement, and a special Chamber of five judges was formed to handle the case. The case highlights the significance of effectivits (administrative practices) at the critical date of August 1960 in determining the boundary between the two countries.",
+  "Keywords": [
+    "Frontier Dispute",
+    "Benin",
+    "Niger",
+    "Boundaries",
+    "River Niger",
+    "Islands",
+    "International Court of Justice",
+    "ICJ/15",
+    "Colonial Heritage",
+    "Uti Possidetis Juris",
+    "Effectivits",
+    "Special Agreement",
+    "Ad Hoc Judge",
+    "Delimitation"
+  ]
+}

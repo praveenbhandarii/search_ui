@@ -1,0 +1,23 @@
+{
+    "Date": "2002",
+    "Parties Involved": ["Republic of Nicaragua", "Republic of Colombia"],
+    "Case Name": "Territorial and Maritime Dispute (Nicaragua v. Colombia)",
+    "Case Number": "ICJ/1",
+    "Court Name": "International Court of Justice (ICJ)",
+    "Document Type": "Order",
+    "Document Date": "2002",
+    "Document Summary": "This order document, issued by the International Court of Justice, provides important details about the case, including the case name, date, judges, registrar, proceedings, timelimits for the memorial and counter-memorial, reservation of further procedure, language, citation, sales number, issuer, parties involved, document details, and procedural reserves.",
+    "Case Summary": "The Republic of Nicaragua filed an Application on 6 December 2001 against the Republic of Colombia, initiating proceedings regarding a dispute over territory and maritime delimitation. Nicaragua submitted its Memorial on 28 April 2003, but the proceedings on the merits were suspended when Colombia filed preliminary objections to jurisdiction on 21 July 2003.",
+    "Keywords": [
+        "Territorial and Maritime Dispute",
+        "Nicaragua",
+        "Colombia",
+        "International Court of Justice",
+        "Order",
+        "Preliminary Objections",
+        "Jurisdiction",
+        "Memorial",
+        "Counter-Memorial",
+        "Reservation of Further Procedure"
+    ]
+}

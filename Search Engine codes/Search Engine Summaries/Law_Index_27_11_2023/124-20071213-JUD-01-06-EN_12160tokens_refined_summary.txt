@@ -1,0 +1,28 @@
+Title: Territorial and Maritime Dispute (Nicaragua v. Colombia)
+
+Case Overview:
+The case involves a territorial and maritime dispute between Nicaragua and Colombia. Nicaragua filed an application in 2001, initiating proceedings against Colombia regarding a group of related legal issues concerning title to territory and maritime delimitation. Colombia raised preliminary objections to jurisdiction, leading to the suspension of proceedings on the merits. The International Court of Justice (ICJ) examined the objections and rendered a judgment on the jurisdictional aspects of the dispute. The dispute revolves around sovereignty over three islands (San Andrés, Providencia, and Santa Catalina) and maritime features in the Caribbean Sea.
+
+Important Details:
+- The Court examined two preliminary objections to jurisdiction: one based on Article XXXI of the Pact of Bogot and the other based on the optional clause declarations under Article 36 of the Statute of the Permanent Court of International Justice.
+- The Court found that Article XXXI of the Pact of Bogot provided jurisdiction over the disputed maritime features and maritime delimitation, but not over sovereignty over the three islands.
+- The optional clause declarations did not provide a basis for jurisdiction over the issue of sovereignty over the three islands.
+- The Court concluded that it had jurisdiction over the second and third aspects of the dispute but not over the first aspect.
+- Judge Abraham dissented from the majority on the exclusivity of the Pact of Bogot in respect of judicial settlement of disputes between States parties to the Pact.
+- The Court drew a line between issues falling within preliminary objections and those involving the merits but did not successfully resolve this difficulty.
+- The Court succumbed to the influence of unusual provisions in the Pact of Bogot, preventing it from applying judicial procedures to upset established states of affairs.
+- The Court concluded that the optional clause declarations did not provide a basis for jurisdiction over the issue of sovereignty over the three islands.
+- The 1928 Treaty between the parties governed the questions relating to the three islands but not the other aspects of the dispute.
+- The Court's jurisdiction is based on the Pact of Bogot and the optional clause declarations, but it did not need to consider the latter for the present case.
+
+Document Details:
+This document is a judgment of the International Court of Justice (ICJ) in the case of Territorial and Maritime Dispute (Nicaragua v. Colombia). It addresses preliminary objections to jurisdiction raised by Colombia and provides a ruling on the jurisdictional aspects of the dispute. The judgment examines the applicability of the Pact of Bogot and the optional clause declarations under the Statute of the Permanent Court of International Justice. The judgment was delivered on June 27, 1983, and was written by Judge Sir Humphrey Waldock, with concurrence from Judges Tarlach McGonagle, Manfred Lachs, and Nagendra Singh.
+
+Additional Information:
+- The 1928 Treaty between Nicaragua and Colombia established the border between the two countries.
+- Nicaragua argues that the treaty is invalid due to coercion and violation of its constitutional rules, but the Court found that Nicaragua acquiesced in the validity of the treaty by not objecting to it for decades.
+- The Court also found that the treaty was valid and in force in 1948, despite Judge Abraham's dissenting opinion.
+- The case involves the interpretation of the Pact of Bogot, a treaty between Nicaragua and Colombia that established a framework for resolving disputes.
+- The case is related to the Vienna Convention on the Law of Treaties.
+- The judgment has been criticized for inconsistency and for overstepping its role by deciding the merits of the dispute instead of solely determining jurisdiction.
+- The case also involves a territorial and maritime dispute between Bolivia and Chile that arose from the Chilean military occupation of the disputed territory in 1879.

@@ -1,0 +1,23 @@
+{
+    "Date": "2021",
+    "Parties Involved": ["Equatorial Guinea", "France"],
+    "Case Name": "Immunities and Criminal Proceedings (Equatorial Guinea v. France)",
+    "Case Number": "ICJ/2021",
+    "Court Name": "International Court of Justice (ICJ)",
+    "Document Type": "Order",
+    "Document Date": "2021",
+    "Document Summary": "This order document, issued by the International Court of Justice, provides a summary of the dispute and the position of Judge Xue Hanqin. It includes key provisions from the United Nations Convention against Transnational Organized Crime, addresses the issue of jurisdictional immunity of high-ranking officials, and discusses the applicability of the Convention to the case. The document also highlights the Court's prima facie jurisdiction under Article 35, paragraph 2, of the Convention.",
+    "Case Summary": "The Republic of Equatorial Guinea initiated proceedings against the French Republic regarding a dispute over the immunity from criminal jurisdiction of the Second Vice-President of Equatorial Guinea, Mr. Teodoro Nguema Obiang Mangue, and the legal status of the building housing the Embassy of Equatorial Guinea in France.",
+    "Keywords": [
+        "Immunities and Criminal Proceedings",
+        "Equatorial Guinea",
+        "France",
+        "International Court of Justice",
+        "Jurisdictional Immunity",
+        "Judge Xue Hanqin",
+        "United Nations Convention against Transnational Organized Crime",
+        "UN Convention Against Corruption (UNCAC)",
+        "Article 35",
+        "Prima Facie Jurisdiction"
+    ]
+}

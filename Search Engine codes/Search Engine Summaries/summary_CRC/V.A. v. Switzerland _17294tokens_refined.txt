@@ -1,0 +1,31 @@
+Summary:
+
+Case Details:
+- Case ID: CRC/C/85/D/56/2018
+- Court/Tribunal: United Nations Committee on the Rights of the Child (UNCRC)
+- Document Date: 2020
+- Key Parties Involved:
+  - Author: V.A. (represented by counsel, Immacolata Iglio Rezzonico and Paolo Bernasconi)
+  - Alleged victims: E.A. and U.A. (sons of V.A.)
+  - State party: Switzerland
+- Case Name: V.A. v. Switzerland
+- Case Summary: The author, V.A., and her sons, E.A. and U.A., are Azerbaijani nationals who fled to Switzerland due to political persecution in their home country. They applied for asylum in Switzerland but were denied and were subsequently deported to Italy. The author claims that the deportation violated their rights under the Convention on the Rights of the Child, specifically articles 2, 3, 6 (2), 12, 22, 24, and 37.
+
+Procedural History:
+The case involves a family of three individuals seeking asylum in Switzerland, with the author, V.A., and her two minor children, E.A. and U.A. The family's asylum application was rejected, and they were ordered to be removed to Italy under the Dublin III Regulation. The author appealed this decision to the Swiss Federal Administrative Court, citing concerns about her mental health and the potential harm that returning to Italy would cause to her and her child.
+
+Legal Analysis and Reasoning:
+The case centers around the application of the Dublin III Regulation and the criteria for determining the Member State responsible for examining an application for international protection. The author argues that Switzerland should apply the sovereignty clause set forth in article 17(1) of the Dublin III Regulation and assume responsibility for examining her asylum application. The State Secretariat for Migration, however, decided not to consider the case and ordered the removal of the author and her child to Italy.
+
+Decisions and Rulings:
+The main issues in this case are whether the State Secretariat for Migration correctly applied the Dublin III Regulation in ordering the removal of the author and her child to Italy, and whether the author's mental health and the potential harm that returning to Italy would cause to her and her child should be taken into account when determining the Member State responsible for examining her asylum application. The State Secretariat's decision was based on the agreement of the Italian authorities to take charge of the family and examine their asylum application, as well as the availability of medical treatment for psychiatric illnesses in Italy.
+
+Impact and Significance:
+This case highlights the importance of considering the well-being and safety of vulnerable individuals, including those with mental health concerns, when applying immigration policies and regulations. It also raises questions about the role of the sovereignty clause in the Dublin III Regulation and how it should be applied in practice.
+
+Citations and References:
+- Dublin III Regulation: Regulation (EU) No. 604/2013
+- Directive 2013/33/EU of the European Parliament and of the Council
+- Swiss Federal Administrative Court, Decision of 8 August 2018, E.A. and U.A. v. State Secretariat for Migration
+- Convention on the Rights of the Child, Arts. 2, 3, 6, 12, 22, 24, and 37
+- Optional Protocol to the Convention on the Rights of the Child on a communications procedure, Arts. 6 and 7(e) and (f)

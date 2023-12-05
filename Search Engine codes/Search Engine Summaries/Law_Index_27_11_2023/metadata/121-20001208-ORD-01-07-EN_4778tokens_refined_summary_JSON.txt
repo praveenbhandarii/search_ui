@@ -1,0 +1,12 @@
+{
+	"Date": "2000",
+	"Parties Involved": ["Democratic Republic of the Congo", "Belgium"],
+	"Case Name": "Arrest Warrant of 11 April 2000 (Democratic Republic of the Congo v. Belgium)",
+	"Case Number": "ICJ/11",
+	"Court Name": "International Court of Justice (ICJ)",
+	"Document Type": "Declaration",
+	"Document Date": "2000",
+	"Document Summary": "This document is an official declaration of the International Court of Justice (ICJ) written in English. It pertains to the arrest and enforcement of a warrant for Mr. Yerodia Ndombasi for crimes committed in the Congo. The document explores the applicability of international law principles to the prosecution of international core crimes and cites examples of international conventions and protocols recognizing these principles. It also highlights the increasing trend of domestic courts dealing with technical notions of public international law and the need for legal certainty in the present case.",
+	"Case Summary": "The case involves a dispute between the Democratic Republic of the Congo (DRC) and Belgium regarding an international arrest warrant issued by Belgium against the acting Congolese Minister for Foreign Affairs, Mr. Abdoulaye Yerodia Ndombasi. The DRC filed an application with the International Court of Justice (ICJ) seeking resolution over the implementation and enforcement of norms of international criminal law.",
+	"Keywords": ["Arrest Warrant", "International Court of Justice", "Democratic Republic of the Congo", "Belgium", "Mr. Yerodia Ndombasi", "International Criminal Law", "Core Crimes", "Geneva Conventions", "Hague Convention", "S.S. Lotus case", "Public International Law", "Jurisdiction", "Compliance with International Law"]
+}

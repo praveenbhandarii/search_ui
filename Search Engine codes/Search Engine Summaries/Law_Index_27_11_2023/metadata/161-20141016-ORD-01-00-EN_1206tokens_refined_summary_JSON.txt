@@ -1,0 +1,12 @@
+{
+  "Date": "2014",
+  "Parties Involved": ["Federal Republic of Somalia", "Republic of Kenya"],
+  "Case Name": "Maritime Delimitation in the Indian Ocean (Somalia v. Kenya)",
+  "Case Number": "161",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Order",
+  "Document Date": "2014",
+  "Document Summary": "This Order, issued on 16 October 2014, is part of the International Court of Justice Reports of Judgments, Advisory Opinions and Orders for 2014. The case is cited as Maritime Delimitation in the Indian Ocean (Somalia v. Kenya), Order of 16 October 2014, 4 CIJ1071.indb 137. The President of the ICJ at the time was Peter Tomka.",
+  "Case Summary": "Somalia filed an Application with the International Court of Justice (ICJ) on 28 August 2014, initiating proceedings against Kenya. The dispute concerns the delimitation of maritime spaces claimed by both states in the Indian Ocean. Somalia requested the Court to determine the complete course of the single maritime boundary dividing all the maritime areas belonging to Somalia and Kenya in the Indian Ocean, including the continental shelf beyond 200 nautical miles. The ICJ fixed timelimits for the filing of written pleadings: 13 July 2015 for Somalia's memorial and 27 May 2016 for Kenya's Countermemorial. The Court reserved the subsequent procedure for further decision.",
+  "Keywords": ["Maritime Delimitation", "Indian Ocean", "Somalia", "Kenya", "International Court of Justice", "ICJ Reports", "Order of 16 October 2014", "President Peter Tomka", "Written Pleadings", "Continental Shelf"]
+}

@@ -1,0 +1,27 @@
+{
+    "Date": "2011",
+    "Parties Involved": ["Cambodia", "Thailand"],
+    "Case Name": "Provisional Measures, Order of 18 July 2011 (Cambodia v. Thailand)",
+    "Case Number": "150",
+    "Court Name": "International Court of Justice (ICJ)",
+    "Document Type": "Provisional Measure Order",
+    "Document Date": "2011",
+    "Document Summary": "This document is a provisional measure order issued on 18 July 2011 by the International Court of Justice in the ongoing case between Cambodia and Thailand regarding the interpretation of the judgment of 15 June 1962 concerning the Temple of Preah Vihear.",
+    "Case Summary": "The document pertains to an ongoing dispute between Cambodia and Thailand regarding the interpretation of the judgment of 15 June 1962 concerning the Temple of Preah Vihear. Judge ad hoc Dugard supports the measures outlined in the order and believes that the method of how Cambodia will gain access to the disputed territory remains unresolved.",
+    "Keywords": [
+        "Provisional Measures",
+        "Order",
+        "Cambodia",
+        "Thailand",
+        "Interpretation",
+        "Judgment",
+        "Temple of Preah Vihear",
+        "International Court of Justice",
+        "ICJ",
+        "Judge Dugard",
+        "Dispute",
+        "Sovereignty",
+        "Navigational Rights",
+        "Environment Protection"
+    ]
+}

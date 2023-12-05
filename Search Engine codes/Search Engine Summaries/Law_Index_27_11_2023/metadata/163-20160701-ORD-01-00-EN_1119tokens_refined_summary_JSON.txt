@@ -1,0 +1,23 @@
+{
+  "Date": "2016",
+  "Parties Involved": ["Equatorial Guinea", "France"],
+  "Case Name": "Immunities and Criminal Proceedings (Equatorial Guinea v. France)",
+  "Case Number": "163",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Order",
+  "Document Date": "2016",
+  "Document Summary": "This order document, issued by the International Court of Justice, provides details about the case of Immunities and Criminal Proceedings between Equatorial Guinea and France. It is part of the Reports of Judgments, Advisory Opinions and Orders of the Court. The order was issued on July 1, 2016, and the French text is considered authoritative.",
+  "Case Summary": "The Republic of Equatorial Guinea initiated proceedings against the French Republic regarding the immunity from criminal jurisdiction of the Second Vice-President of Equatorial Guinea and the legal status of the building housing the Equatorial Guinean Embassy in France. The dispute involves the application filed on June 13, 2016, meeting between the Vice-President of the Court and the Agents of the Parties on June 29, 2016, and the requirements for filing Memorials and Counter-Memorials by both parties.",
+  "Keywords": [
+    "Immunities",
+    "Criminal Proceedings",
+    "Equatorial Guinea",
+    "France",
+    "International Court of Justice",
+    "Jurisdictional Immunity",
+    "Embassy",
+    "ICJ Reports",
+    "Abdulqawi Ahmed Yusuf",
+    "Philippe Couvreur"
+  ]
+}

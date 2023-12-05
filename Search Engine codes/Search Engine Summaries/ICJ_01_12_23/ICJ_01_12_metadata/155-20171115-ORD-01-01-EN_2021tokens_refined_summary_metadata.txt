@@ -1,0 +1,29 @@
+{
+  "Date": "2017",
+  "Parties Involved": [
+    "Nicaragua",
+    "Colombia"
+  ],
+  "Case Name": "Alleged Violations of Sovereign Rights and Maritime Spaces in the Caribbean Sea (Nicaragua v. Colombia)",
+  "Case Number": "ICJ/155",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "",
+  "Document Date": "2017",
+  "Document Summary": "",
+  "Case Summary": "Nicaragua filed an Application against Colombia in 2013, alleging violations of its sovereign rights and maritime zones. The violations were declared by the Court's Judgment in a previous case between the two countries. Nicaragua also claimed that Colombia threatened to use force to implement these violations.",
+  "Keywords": [
+    "Nicaragua",
+    "Colombia",
+    "Sovereign Rights",
+    "Maritime Spaces",
+    "Caribbean Sea",
+    "Application",
+    "Jurisdiction",
+    "Force",
+    "Violations",
+    "Previous Case",
+    "International Court of Justice",
+    "ICJ",
+    "Counterclaims"
+  ]
+}

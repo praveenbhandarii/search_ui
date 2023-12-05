@@ -1,0 +1,21 @@
+{
+  "Date": "2019",
+  "Parties Involved": ["Arturo Medina Vela", "Mexico"],
+  "Case Name": "Arturo Medina Vela v. Mexico",
+  "Case Number": "CRPD/C/22/D/32/2015",
+  "Court Name": "Committee on the Rights of Persons with Disabilities",
+  "Document Type": "Decision",
+  "Document Date": "2019",
+  "Document Summary": "The decision adopted by the Committee under article 5 of the Optional Protocol, concerning communication No. 32/2015 highlights the importance of ensuring equal protection and non-discrimination for persons with disabilities, as well as the need for States to respect the legal capacity of persons with disabilities and provide them with equal access to justice.",
+  "Case Summary": "Arturo Medina Vela was deprived of his liberty without due process and the opportunity to dispute the charges against him, leading to a violation of his rights under the Convention. The Committee found that the State party violated the author's rights under the Convention, emphasizing the significance of ensuring equal protection and non-discrimination for persons with disabilities.",
+  "Keywords": [
+    "Arturo Medina Vela",
+    "Mexico",
+    "Convention on the Rights of Persons with Disabilities",
+    "Optional Protocol",
+    "Equal Protection",
+    "Non-discrimination",
+    "Legal Capacity",
+    "Access to Justice"
+  ]
+}

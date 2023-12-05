@@ -1,0 +1,12 @@
+{
+    "Date": "2018",
+    "Parties Involved": ["Qatar", "United Arab Emirates (UAE)"],
+    "Case Name": "Application of the International Convention on the Elimination of All Forms of Racial Discrimination (Qatar v. United Arab Emirates)",
+    "Case Number": "ICJ/172",
+    "Court Name": "International Court of Justice (ICJ)",
+    "Document Type": "Case Communication",
+    "Document Date": "2018",
+    "Document Summary": "Qatar filed a case against the UAE alleging violations of the International Convention on the Elimination of All Forms of Racial Discrimination (CERD). The case involves the protection of human rights and the consideration of provisional measures of protection. Qatar requested the ICJ to indicate provisional measures to protect the rights of Qatari nationals affected by the UAE's discriminatory measures. The ICJ granted provisional measures of protection to ensure the reunification of Qatari families, completion of education for Qatari students, and access to national tribunals in the UAE for affected Qataris.",
+    "Case Summary": "The case is an example of the application of the local remedies rule in international human rights protection. The local remedies rule aims to ensure that disputes are addressed by the offending State's authorities before being elevated to the international plane. Provisional measures of protection are intended to prevent irreparable harm and are based on the principles of non-discrimination and the prohibition of arbitrariness. The principle of equality and non-discrimination is a fundamental pillar of international human rights law. The CERD Convention prohibits discriminatory measures against vulnerable groups. The local remedies rule in human rights cases has its own rationale, distinct from its application in diplomatic protection. The ICJ has the authority to order provisional measures based on its previous assessments in similar cases.",
+    "Keywords": ["International Convention on the Elimination of All Forms of Racial Discrimination", "CERD", "Qatar", "United Arab Emirates (UAE)", "Human Rights", "Provisional Measures", "Non-Discrimination", "Equality", "Arbitrariness", "Qatari Nationals", "Local Remedies Rule"]
+}

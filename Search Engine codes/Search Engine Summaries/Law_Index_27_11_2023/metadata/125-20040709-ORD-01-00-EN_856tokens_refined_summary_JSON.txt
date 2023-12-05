@@ -1,0 +1,25 @@
+{
+  "Date": "2002",
+  "Parties Involved": ["Benin", "Niger"],
+  "Case Name": "Frontier Dispute (Benin/Niger)",
+  "Case Number": "ICJ/125",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Order",
+  "Document Date": "2002",
+  "Document Summary": "An Order issued by the Chamber of Commerce and Industry of Niger authorizing the filing of a Reply by each party and setting the timelimit for filing pleadings. The document is signed by Gilbert Guillaume, President of the Chamber, and Philippe Couvreur, Registrar.",
+  "Case Summary": "The case involves a frontier dispute between Benin and Niger. On May 3, 2002, the two countries submitted a joint notification to the International Court of Justice (ICJ) regarding the definitive delimitation of their common boundary. A Special Agreement signed on June 15, 2001, formed the basis for this dispute. The ICJ formed a special Chamber of five judges to handle the case.",
+  "Keywords": [
+    "Frontier Dispute",
+    "Benin",
+    "Niger",
+    "International Court of Justice",
+    "ICJ/125",
+    "Chamber of Commerce and Industry of Niger",
+    "Reply",
+    "Pleadings",
+    "Special Agreement",
+    "Gilbert Guillaume",
+    "Philippe Couvreur",
+    "Official Gazette of Niger"
+  ]
+}

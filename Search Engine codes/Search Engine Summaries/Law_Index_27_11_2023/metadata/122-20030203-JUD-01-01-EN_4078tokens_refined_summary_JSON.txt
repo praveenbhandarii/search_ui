@@ -1,0 +1,25 @@
+{
+  "Date": "1996",
+  "Parties Involved": ["Bosnia and Herzegovina", "Yugoslavia"],
+  "Case Name": "Application for Revision of the Judgment of 11 July 1996 in the Case concerning Application of the Convention on the Prevention and Punishment of the Crime of Genocide (Bosnia and Herzegovina v. Yugoslavia), Preliminary Objections (Yugoslavia v. Bosnia and Herzegovina)",
+  "Case Number": "ICJ/11/1996",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2003",
+  "Document Summary": "This judgment document pertains to the application for revision of the ICJ judgment in the case between Bosnia and Herzegovina and Yugoslavia. It provides details about the case number, case name, parties involved, key facts, legal arguments, jurisdiction, judges, and other relevant information. The document date is 3 February 2003.",
+  "Case Summary": "This case involves an application for the revision of a judgment delivered by the International Court of Justice (ICJ) on 11 July 1996. The judgment pertained to preliminary objections raised by Yugoslavia in a case brought against it by Bosnia and Herzegovina. Yugoslavia argues that a revision of the judgment is necessary due to new evidence regarding its international legal and political personality, United Nations membership, and status as a party to the Genocide Convention.",
+  "Keywords": [
+    "Revision",
+    "Judgment",
+    "International Court of Justice",
+    "Bosnia and Herzegovina",
+    "Yugoslavia",
+    "Genocide Convention",
+    "Preliminary Objections",
+    "New Evidence",
+    "Jurisdiction",
+    "Article 61",
+    "ICJ Statute",
+    "UN Membership"
+  ]
+}

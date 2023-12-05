@@ -1,0 +1,12 @@
+{
+  "Date": "2019",
+  "Parties Involved": ["Equatorial Guinea", "France"],
+  "Case Name": "Immunities and Criminal Proceedings (Equatorial Guinea v. France)",
+  "Case Number": "ICJ/2019",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2019",
+  "Document Summary": "This judgment by the International Court of Justice (ICJ) addresses the interpretation and application of Articles 6, 15, and 4 of the Palermo Convention on Transnational Organized Crime. The ICJ must determine whether France's actions fall within the scope of the Convention and whether they constitute an internationally wrongful act. The judgment was delivered on 15 February 2019 by 15 judges of the ICJ, including Judge Peter Tomka.",
+  "Case Summary": "The Republic of Equatorial Guinea initiated proceedings against the French Republic regarding a dispute over the immunity from criminal jurisdiction of the Second Vice-President of Equatorial Guinea, Mr. Teodoro Nguema Obiang Mangue, and the legal status of the building housing the Embassy of Equatorial Guinea in France.",
+  "Keywords": ["Immunity", "Criminal Proceedings", "Equatorial Guinea", "France", "International Court of Justice", "ICJ", "Palermo Convention", "Transnational Organized Crime", "Vienna Convention", "Sovereign Equality", "Jurisdiction", "Immunities", "Viability", "Objection", "Abuse of Rights"]
+}

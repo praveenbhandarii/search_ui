@@ -1,0 +1,34 @@
+{
+  "Date": "2016",
+  "Parties Involved": [
+    "Republic of the Marshall Islands",
+    "China",
+    "Democratic People’s Republic of Korea",
+    "France",
+    "India",
+    "Israel",
+    "Pakistan",
+    "Russian Federation",
+    "United Kingdom of Great Britain and Northern Ireland",
+    "United States of America"
+  ],
+  "Case Name": "Obligations concerning Negotiations relating to Cessation of the Nuclear Arms Race and to Nuclear Disarmament (Marshall Islands v. India)",
+  "Case Number": "ICJ/158",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2016",
+  "Document Summary": "The Republic of the Marshall Islands filed applications against nine states, including India, regarding the cessation of the nuclear arms race and nuclear disarmament. The International Court of Justice (ICJ) found that there was no dispute between the parties at the time the applications were filed, and therefore, it could not entertain the cases. The court decided not to examine other objections raised by the respondent states, allowing the Marshall Islands to initiate new proceedings on the same matters if desired.",
+  "Case Summary": "The Republic of the Marshall Islands accused nine states, including India, of not fulfilling their obligations regarding the cessation of the nuclear arms race and nuclear disarmament. The ICJ found no dispute between the parties at the time of application filing and dismissed the cases. The court's judgments provide the Marshall Islands with the option to start new proceedings.",
+  "Keywords": [
+    "Nuclear Arms Race",
+    "Nuclear Disarmament",
+    "Marshall Islands",
+    "India",
+    "International Court of Justice",
+    "ICJ/158",
+    "Dispute Resolution",
+    "Judgment",
+    "Citations",
+    "Certain Norwegian Loans"
+  ]
+}

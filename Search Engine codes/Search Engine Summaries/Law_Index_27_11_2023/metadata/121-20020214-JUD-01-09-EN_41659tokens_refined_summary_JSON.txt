@@ -1,0 +1,25 @@
+{
+  "Date": "2000",
+  "Parties Involved": ["Democratic Republic of the Congo", "Belgium"],
+  "Case Name": "Arrest Warrant of 11 April 2000 (Democratic Republic of the Congo v. Belgium)",
+  "Case Number": "ICC01/04-01/05",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2007",
+  "Document Summary": "The ICJ's judgment on the arrest warrant issued by Belgium against the acting Congolese Minister for Foreign Affairs, Mr. Abdoulaye Yerodia Ndombasi, for alleged war crimes and crimes against humanity.",
+  "Case Summary": "The case involves a dispute between the Democratic Republic of the Congo (DRC) and Belgium regarding an international arrest warrant issued against the acting Congolese Minister for Foreign Affairs, Mr. Abdoulaye Yerodia Ndombasi. The ICJ ruled that Belgium had not violated international law by issuing and circulating the arrest warrant, based on Mr. Yerodia's immunity as a Foreign Minister and the charges of war crimes and crimes against humanity.",
+  "Keywords": [
+    "Arrest Warrant",
+    "11 April 2000",
+    "Democratic Republic of the Congo",
+    "Belgium",
+    "International Court of Justice",
+    "Immunities of States and their Property",
+    "Customary International Law",
+    "War Crimes",
+    "Crimes Against Humanity",
+    "Minister for Foreign Affairs",
+    "Universal Jurisdiction",
+    "Immunity from Jurisdiction"
+  ]
+}

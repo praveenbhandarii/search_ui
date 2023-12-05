@@ -1,0 +1,23 @@
+{
+  "Date": "2021",
+  "Parties Involved": ["X", "Argentina"],
+  "Case Name": "X v. Argentina",
+  "Case Number": "8/2012",
+  "Court Name": "Committee on the Rights of Persons with Disabilities",
+  "Document Type": "Views adopted by the Committee on the Rights of Persons with Disabilities",
+  "Document Date": "11 April 2014",
+  "Document Summary": "The Committee on the Rights of Persons with Disabilities adopted views on the case of X v. Argentina on 11 April 2014.",
+  "Case Summary": "Party A claimed that Party B violated the Convention on the Rights of Persons with Disabilities by detaining Party A under mental health legislation without his legal capacity. The Committee found that Party B had not provided sufficient information to address the issues raised, and the measures taken were not sufficient to give effect to the Committee's Views.",
+  "Keywords": [
+    "Disability Rights",
+    "X",
+    "Argentina",
+    "Detention",
+    "Convention on the Rights of Persons with Disabilities",
+    "Articles 5, 12, 13, 15",
+    "Legal Capacity",
+    "Committee on the Rights of Persons with Disabilities",
+    "Views adopted",
+    "Follow-up procedure"
+  ]
+}

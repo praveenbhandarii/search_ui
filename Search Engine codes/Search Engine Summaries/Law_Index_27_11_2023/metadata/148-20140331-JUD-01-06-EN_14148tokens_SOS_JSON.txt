@@ -1,0 +1,31 @@
+{
+  "Date": "2014",
+  "Parties Involved": ["Australia", "Japan", "New Zealand"],
+  "Case Name": "Whaling in the Antarctic (Australia v. Japan: New Zealand intervening)",
+  "Case Number": "148",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2014",
+  "Document Summary": "This document is a judgment from the International Court of Justice (ICJ) in Case Number 148. It provides details about the case, including the date of the judgment, the presiding judges, and relevant instruments such as the ICRW, Schedule, Annex P, and Guidelines.",
+  "Case Summary": "The case involves Australia's allegations that Japan's whaling program, JARPA II, violated its obligations under the International Convention for the Regulation of Whaling (ICRW) and other international obligations for the preservation of marine mammals and the marine environment.",
+  "Keywords": [
+    "Whaling",
+    "Antarctic",
+    "Australia",
+    "Japan",
+    "New Zealand",
+    "International Convention for the Regulation of Whaling",
+    "ICRW",
+    "JARPA II",
+    "Marine Mammals",
+    "Marine Environment",
+    "International Whaling Commission",
+    "IWC",
+    "Scientific Committee",
+    "Special Permits",
+    "Article VIII",
+    "Reasonableness",
+    "Conservation",
+    "Commercial Whaling"
+  ]
+}

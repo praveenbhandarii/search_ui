@@ -1,0 +1,12 @@
+{
+  "Date": "2014",
+  "Parties Involved": ["Plurinational State of Bolivia", "Republic of Chile"],
+  "Case Name": "Obligation to Negotiate Access to the Pacific Ocean (Bolivia v. Chile)",
+  "Case Number": "ICJ/153",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Case Communication",
+  "Document Date": "2014",
+  "Document Summary": "The case involves a dispute between Bolivia and Chile regarding Chile's obligation to negotiate in good faith and effectively with Bolivia to grant it fully sovereign access to the Pacific Ocean.",
+  "Case Summary": "The case involves a dispute between Bolivia and Chile regarding Chile's obligation to negotiate in good faith and effectively with Bolivia to grant it fully sovereign access to the Pacific Ocean. Bolivia claims that Chile has committed itself to negotiate a sovereign access to the sea for Bolivia through agreements, diplomatic practice, and declarations by its highest-level representatives.",
+  "Keywords": ["Bolivia", "Chile", "Pacific Ocean", "Sovereign Access", "American Treaty on Pacific Settlement", "Preliminary Objection", "Jurisdiction", "Timelimits", "Memorial", "Counter-Memorial", "Statute of the Court", "Rules of Court"]
+}

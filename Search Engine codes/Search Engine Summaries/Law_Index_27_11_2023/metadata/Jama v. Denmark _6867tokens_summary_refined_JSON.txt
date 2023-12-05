@@ -1,0 +1,19 @@
+{
+  "Date": "2009",
+  "Parties Involved": ["Mr. Gelle (petitioner)", "Denmark (respondent)"],
+  "Case Name": "Gelle vs Denmark",
+  "Case Number": "Unknown",
+  "Court Name": "Committee on the Elimination of Racial Discrimination (CERD)",
+  "Document Type": "Case Communication",
+  "Document Date": "2009",
+  "Document Summary": "The case of Gelle vs Denmark was brought before the Committee on the Elimination of Racial Discrimination (CERD) as a communication under the International Convention on the Elimination of All Forms of Racial Discrimination. The Committee reviewed the communication and issued an opinion on the alleged violations, concluding that the State party had violated the petitioner's rights under the Convention.",
+  "Case Summary": "The case of Gelle vs Denmark raises important issues related to hate speech and the obligation of States parties to take effective action to address such incidents. The decision reinforces the importance of effective investigations and the role of the Committee in addressing such cases.",
+  "Keywords": [
+    "Hate Speech",
+    "Racial Discrimination",
+    "Committee on the Elimination of Racial Discrimination",
+    "CERD",
+    "Communication No. 45/2007",
+    "International Convention on the Elimination of All Forms of Racial Discrimination"
+  ]
+}

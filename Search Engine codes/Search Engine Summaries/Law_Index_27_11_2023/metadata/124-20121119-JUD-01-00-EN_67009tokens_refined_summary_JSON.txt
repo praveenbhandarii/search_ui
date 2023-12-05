@@ -1,0 +1,30 @@
+{
+  "Date": "2012",
+  "Parties Involved": ["Nicaragua", "Colombia"],
+  "Case Name": "Territorial and Maritime Dispute (Nicaragua v. Colombia)",
+  "Case Number": "General List No. 124",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2012",
+  "Document Summary": "This judgment document, dated November 19, 2012, is part of the ICJ Reports of Judgments, Advisory Opinions and Orders. It provides the case number (General List No. 124) and includes key issues such as sovereignty over maritime features, delimitation of the continental shelf and exclusive economic zone, and the applicability of customary international law and UNCLOS. The document also includes the names of the judges who heard the case, including President Tomka.",
+  "Case Summary": "The case involves a territorial and maritime dispute between Nicaragua and Colombia in the Caribbean Sea and the Pacific Ocean, centering around sovereignty over maritime features, delimitation of the continental shelf and exclusive economic zone, and the applicability of customary international law and the UN Convention on the Law of the Sea (UNCLOS). The International Court of Justice (ICJ) has been involved in resolving the dispute since 2001.",
+  "Keywords": [
+    "Territorial Dispute",
+    "Maritime Dispute",
+    "Nicaragua",
+    "Colombia",
+    "Caribbean Sea",
+    "Pacific Ocean",
+    "Continental Shelf",
+    "Exclusive Economic Zone",
+    "Sovereignty",
+    "Customary International Law",
+    "UNCLOS",
+    "ICJ",
+    "General List No. 124",
+    "Judgment",
+    "Sovereignty over Maritime Features",
+    "Boundary Delimitation",
+    "President Tomka"
+  ]
+}

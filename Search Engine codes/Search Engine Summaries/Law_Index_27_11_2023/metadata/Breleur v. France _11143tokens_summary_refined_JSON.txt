@@ -1,0 +1,21 @@
+{
+  "Date": "2019",
+  "Parties Involved": ["Mr. B", "France"],
+  "Case Name": "Mr. B vs. France",
+  "Case Number": "Communication No. 61/2012",
+  "Court Name": "United Nations Committee on the Elimination of All Forms of Racial Discrimination (UN CERD)",
+  "Document Type": "Opinion adopted by the Committee under article 14 of the Convention",
+  "Document Date": "March 2019",
+  "Document Summary": "The Committee's opinion on the case of Mr. B vs. France, addressing allegations of racial discrimination in the workplace and the State party's response.",
+  "Case Summary": "Mr. B alleged racial discrimination in the workplace, specifically related to the 'ESCADRE' system introducing an ethnic codification system. France refuted the allegations, citing a comprehensive legal framework to combat discrimination in the workplace. The Committee held that France violated the Convention, providing reparation and emphasizing the importance of protecting individuals from discrimination.",
+  "Keywords": [
+    "Mr. B",
+    "France",
+    "Communication No. 61/2012",
+    "UN CERD",
+    "racial discrimination",
+    "ESCADRE system",
+    "Convention on the Elimination of All Forms of Racial Discrimination",
+    "Versailles Court of Appeal judgment"
+  ]
+}

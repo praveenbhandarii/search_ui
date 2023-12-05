@@ -1,0 +1,23 @@
+{
+  "Date": "2011",
+  "Parties Involved": ["Costa Rica", "Nicaragua"],
+  "Case Name": "Costa Rica v. Nicaragua",
+  "Case Number": "150",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "ORD",
+  "Document Date": "2011",
+  "Document Summary": "This legal document pertains to the case of Costa Rica v. Nicaragua, currently pending before the International Court of Justice (ICJ). It discusses the Ramsar Convention, focusing on the Humedal Caribe Noreste Wetland, designated under Costa Rica's responsibility for protection. The ICJ has issued a second provisional measure, with a dissenting opinion from Judge Xue Hanqin.",
+  "Case Summary": "The case involves a dispute between Costa Rica and Nicaragua, focusing on the protection of the Humedal Caribe Noreste Wetland under the Ramsar Convention. The ICJ has issued a second provisional measure, with concerns raised by Judge Xue Hanqin. The purpose is to protect the environment in the disputed area until the Court's final decision.",
+  "Keywords": [
+    "Costa Rica",
+    "Nicaragua",
+    "International Court of Justice",
+    "ICJ",
+    "Ramsar Convention",
+    "Humedal Caribe Noreste Wetland",
+    "Second Provisional Measure",
+    "Judge Xue Hanqin",
+    "Dispute",
+    "Protection of Environment"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true,
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  },
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "src/pages/layout.jsx", "src/pages/component/logo.jsx", "src/pages/component/layout/layout.jsx", "src/pages/contact.jsx", "src/pages/component/btnfill.jsx", "src/pages/clientsignuptemp.jsx", "src/pages/client/signup.jsx", "src/pages/cookies.jsx", "src/pages/ssr-cookies.js", "src/pages/api/proxy.jsx", "src/pages/component/navbar.jsx", "src/pages/client/components/navbar.jsx", "src/pages/client/dashboard/account/update.jsx", "src/pages/api/payment.js"],
+  "exclude": ["node_modules"]
+}
+

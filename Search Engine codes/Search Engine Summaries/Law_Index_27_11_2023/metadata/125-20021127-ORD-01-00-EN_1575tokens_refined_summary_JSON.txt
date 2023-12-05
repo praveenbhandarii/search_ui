@@ -1,0 +1,24 @@
+{
+  "Date": "2002",
+  "Parties Involved": ["Benin", "Niger"],
+  "Case Name": "Frontier Dispute (Benin/Niger)",
+  "Case Number": "125/2002",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Order",
+  "Document Date": "2002",
+  "Document Summary": "This document is an Order type document issued by the International Court of Justice (ICJ) on November 27, 2002. It pertains to Case Number 125, which involves a frontier dispute between Benin and Niger.",
+  "Case Summary": "On May 3, 2002, Benin and Niger submitted a joint notification to the International Court of Justice (ICJ) regarding a dispute over the definitive delimitation of their entire boundary. This notification was made under a Special Agreement signed on June 15, 2001, and entered into force on April 11, 2002.",
+  "Keywords": [
+    "Frontier Dispute",
+    "Benin",
+    "Niger",
+    "International Court of Justice",
+    "ICJ",
+    "Chamber Formation",
+    "Special Agreement",
+    "Memorials",
+    "Language",
+    "Document Type",
+    "Case Number"
+  ]
+}

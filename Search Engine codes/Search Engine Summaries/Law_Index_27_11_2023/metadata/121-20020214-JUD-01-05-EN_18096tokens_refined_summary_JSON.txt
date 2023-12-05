@@ -1,0 +1,34 @@
+{
+  "Date": "2002",
+  "Parties Involved": [
+    "Democratic Republic of the Congo",
+    "Belgium"
+  ],
+  "Case Name": "Arrest Warrant of 11 April 2000 (Democratic Republic of the Congo v. Belgium)",
+  "Case Number": "121",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2002",
+  "Document Summary": "The document is a judgment of the International Court of Justice (ICJ) regarding the dispute between the Democratic Republic of the Congo and Belgium over the international arrest warrant issued against Mr. Abdoulaye Yerodia Ndombasi, the acting Congolese Minister for Foreign Affairs. It discusses the arguments presented by both parties regarding the exercise of universal jurisdiction and the principle of nonintervention in the affairs of other states. The judgment also addresses the limitations and evolving principles of international law in the context of universal jurisdiction.",
+  "Case Summary": "The case involves a legal dispute between the Democratic Republic of the Congo and Belgium over the international arrest warrant issued against Mr. Abdoulaye Yerodia Ndombasi. The DRC argues that Belgium cannot exercise universal jurisdiction over Mr. Ndombasi, while Belgium claims a general obligation to prosecute perpetrators of crimes. The document highlights the concept of universal jurisdiction, its limitations, the evolving principles of international law, and the tension between preventing impunity for international crimes and maintaining proper functioning of interstate relations.",
+  "Keywords": [
+    "Arrest Warrant",
+    "Democratic Republic of the Congo",
+    "Belgium",
+    "Abdoulaye Yerodia Ndombasi",
+    "Universal Jurisdiction",
+    "International Court of Justice",
+    "Nonintervention",
+    "International Law",
+    "State Immunity",
+    "Interstate Relations",
+    "Perpetrators of Crimes",
+    "International Arrest Warrant",
+    "International Humanitarian Law",
+    "Territorial Jurisdiction",
+    "Jurisdiction in Absentia",
+    "State Sovereignty",
+    "Lotus Case",
+    "Alien Tort Claims Act"
+  ]
+}

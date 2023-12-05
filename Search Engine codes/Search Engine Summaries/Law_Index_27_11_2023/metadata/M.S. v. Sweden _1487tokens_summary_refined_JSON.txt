@@ -1,0 +1,26 @@
+{
+  "Date": "2021",
+  "Parties Involved": [
+    "M.S.",
+    "Sweden"
+  ],
+  "Case Name": "Communication No. 66/2019 (UNCRPD)",
+  "Case Number": "66/2019 (UNCRPD)",
+  "Court Name": "United Nations Committee on the Rights of Persons with Disabilities",
+  "Document Type": "Decision adopted by the Committee under the Optional Protocol concerning communication No. 66/2019",
+  "Document Date": "2021",
+  "Document Summary": "The Committee found the communication admissible and in violation of the Convention on the Rights of Persons with Disabilities. The state party's request to discontinue consideration was accepted due to statute-barred decision.",
+  "Case Summary": "The case concerns the deportation of M.S., a national of Afghanistan, who claimed that his deportation would violate articles 10, 15, 16, and 25 of the Convention on the Rights of Persons with Disabilities. The Committee found the communication admissible and in violation of the Convention, although the state party's request to discontinue consideration was accepted due to statute-barred decision.",
+  "Keywords": [
+    "Disability Rights",
+    "M.S.",
+    "Sweden",
+    "Deportation",
+    "Convention on the Rights of Persons with Disabilities",
+    "Articles 10, 15, 16, 25",
+    "Immigration Proceedings",
+    "UNCRPD",
+    "Statute-Barred Decision",
+    "Expulsion"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+    "Date": "2016",
+    "Parties Involved": ["Republic of the Marshall Islands", "India"],
+    "Case Name": "Obligations concerning Negotiations relating to Cessation of the Nuclear Arms Race and to Nuclear Disarmament (Marshall Islands v. India)",
+    "Case Number": "ICJ/158",
+    "Court Name": "International Court of Justice (ICJ)",
+    "Document Type": "Case Communication",
+    "Document Date": "2016",
+    "Document Summary": "The Republic of the Marshall Islands filed applications against nine states, including India, accusing them of not fulfilling their obligations regarding the cessation of the nuclear arms race and nuclear disarmament. This document discusses the ICJ's rejection of a case based on the absence of a dispute at the time of application. It introduces a new requirement of \"objective awareness\" to determine the existence of a dispute. The ICJ has been flexible in determining the existence and scope of a dispute, and it has never required that the respondent was aware of the applicant's claim before it was filed. The document also references a judgment in a separate case, Alleged Violations of Sovereign Rights and Maritime Spaces in the Caribbean Sea (Nicaragua v. Colombia), which the ICJ heavily relies on. The term \"awareness\" has been used in other cases to determine the existence of a dispute, but it has never been stated as a legal requirement.",
+    "Case Summary": "The Republic of the Marshall Islands filed applications against nine states, including India, accusing them of not fulfilling their obligations regarding the cessation of the nuclear arms race and nuclear disarmament. This document discusses the ICJ's rejection of a case based on the absence of a dispute at the time of application. It introduces a new requirement of \"objective awareness\" to determine the existence of a dispute.",
+    "Keywords": [
+        "Republic of the Marshall Islands",
+        "India",
+        "Nuclear Arms Race",
+        "Nuclear Disarmament",
+        "ICJ",
+        "Dispute Resolution",
+        "International Law"
+    ]
+}

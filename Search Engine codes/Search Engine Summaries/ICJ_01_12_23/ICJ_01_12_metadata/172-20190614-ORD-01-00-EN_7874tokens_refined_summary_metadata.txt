@@ -1,0 +1,22 @@
+{
+    "Date": "2018",
+    "Parties Involved": ["Qatar", "United Arab Emirates (UAE)"],
+    "Case Name": "Application of the International Convention on the Elimination of All Forms of Racial Discrimination (Qatar v. United Arab Emirates)",
+    "Case Number": "ICJ/172",
+    "Court Name": "International Court of Justice (ICJ)",
+    "Document Type": "Case Communication",
+    "Document Date": "2018",
+    "Document Summary": "Qatar filed a case against the UAE for alleged violations of the International Convention on the Elimination of All Forms of Racial Discrimination (CERD). The ICJ ordered provisional measures in favor of Qatar. The UAE's request for provisional measures was rejected, stating that the conditions for indication of provisional measures were not met and the UAE's rights asserted were not plausible under CERD.",
+    "Case Summary": "Qatar accused the UAE of expelling all Qataris from the country, prohibiting their entry, and engaging in other unlawful actions. The case is ongoing, with Qatar seeking the ICJ's jurisdiction on Article 36, paragraph 1, of the Statute of the Court and Article 22 of CERD.",
+    "Keywords": [
+        "International Convention on the Elimination of All Forms of Racial Discrimination",
+        "Qatar",
+        "United Arab Emirates (UAE)",
+        "CERD",
+        "Article 36",
+        "Article 22",
+        "Provisional Measures",
+        "Expulsion",
+        "ICJ"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+  "Date": "2018",
+  "Parties Involved": ["Costa Rica", "Nicaragua"],
+  "Case Name": "Land Boundary in the Northern Part of Isla Portillos (Costa Rica v. Nicaragua)",
+  "Case Number": "165",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2018",
+  "Document Summary": "This judgment document was issued by the International Court of Justice (ICJ) on June 27, 2007. The judgment was written by Judge Bruno Simma. The document does not specify the case name or provide further details.",
+  "Case Summary": "The case involves a dispute between Costa Rica and Nicaragua regarding the precise definition of the boundary in the area of Los Portillos/Harbor Head Lagoon and the establishment of a new military camp by Nicaragua on the beach of Isla Portillos. Costa Rica filed an Application instituting proceedings against Nicaragua on 16 January 2017.",
+  "Keywords": [
+    "Isla Portillos",
+    "Costa Rica",
+    "Nicaragua",
+    "Boundary Dispute",
+    "Military Camp",
+    "Maritime Delimitation",
+    "1980 Treaty",
+    "Article 102 of the Charter",
+    "Judge Bruno Simma"
+  ]
+}

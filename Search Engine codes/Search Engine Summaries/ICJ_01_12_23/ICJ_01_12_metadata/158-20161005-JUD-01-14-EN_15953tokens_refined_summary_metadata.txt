@@ -1,0 +1,22 @@
+{
+    "Date": "2016",
+    "Parties Involved": ["Republic of the Marshall Islands", "India"],
+    "Case Name": "Obligations concerning Negotiations relating to Cessation of the Nuclear Arms Race and to Nuclear Disarmament (Marshall Islands v. India)",
+    "Case Number": "ICJ/158",
+    "Court Name": "International Court of Justice (ICJ)",
+    "Document Type": "Judgment",
+    "Document Date": "2016",
+    "Document Summary": "This document is a judgment by the ICJ regarding the jurisdiction and admissibility of the case involving the Republic of the Marshall Islands and India regarding negotiations relating to cessation of the nuclear arms race and to nuclear disarmament.",
+    "Case Summary": "The Republic of the Marshall Islands filed applications against nine states, including India, accusing them of not fulfilling their obligations regarding the cessation of the nuclear arms race and nuclear disarmament. The ICJ is examining whether a dispute exists between the parties and if it has jurisdiction to hear the case.",
+    "Keywords": [
+        "Nuclear Arms Race",
+        "Nuclear Disarmament",
+        "Marshall Islands",
+        "India",
+        "Jurisdiction",
+        "Admissibility",
+        "ICJ",
+        "International Law",
+        "Court's Jurisprudence"
+    ]
+}

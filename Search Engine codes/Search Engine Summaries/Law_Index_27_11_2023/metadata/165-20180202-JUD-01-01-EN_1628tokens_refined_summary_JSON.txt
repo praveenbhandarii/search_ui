@@ -1,0 +1,26 @@
+{
+  "Date": "2018",
+  "Parties Involved": ["Costa Rica", "Nicaragua"],
+  "Case Name": "Land Boundary in the Northern Part of Isla Portillos (Costa Rica v. Nicaragua)",
+  "Case Number": "165",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2018",
+  "Document Summary": "The document, titled 'International Court of Justice (ICJ) Reports 2012 (II),' provides key provisions related to the delimitation of the boundary. It cites Articles 74 and 83 of the 1982 United Nations Convention on the Law of the Sea (UNCLOS) as the applicable law for delimitation. The Court's function is to achieve an equitable solution when the States involved fail to reach an agreement, and its decision on the delimitation line is binding on the parties. The Court's jurisprudence emphasizes that a boundary line should not result in a 'cut-off' of one party's maritime projections, and provisional equidistance lines may need adjustment to achieve fairness. A sketchmap is included in the document, illustrating the initial part of the delimitation line that cuts off Nicaragua's coastal projections.",
+  "Case Summary": "This case, numbered 165, involves a dispute between Costa Rica and Nicaragua regarding the precise definition of the boundary in the area of Los Portillos/Harbor Head Lagoon and the establishment of a new military camp by Nicaragua on the beach of Isla Portillos. Costa Rica filed an Application instituting proceedings against Nicaragua on 16 January 2017.",
+  "Keywords": [
+    "Land Boundary",
+    "Isla Portillos",
+    "Costa Rica",
+    "Nicaragua",
+    "International Court of Justice",
+    "ICJ",
+    "Boundary Delimitation",
+    "United Nations Convention on the Law of the Sea",
+    "UNCLOS",
+    "Articles 74",
+    "Articles 83",
+    "Delimitation",
+    "Equitable Solution"
+  ]
+}

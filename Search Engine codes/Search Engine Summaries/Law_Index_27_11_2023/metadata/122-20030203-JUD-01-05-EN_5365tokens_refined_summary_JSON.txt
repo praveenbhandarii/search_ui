@@ -1,0 +1,21 @@
+{
+	"Date": "2003",
+	"Parties Involved": ["Bosnia and Herzegovina", "Yugoslavia"],
+	"Case Name": "Application for Revision of the Judgment of 11 July 1996 in the Case concerning Application of the Convention on the Prevention and Punishment of the Crime of Genocide (Bosnia and Herzegovina v. Yugoslavia), Preliminary Objections (Yugoslavia v. Bosnia and Herzegovina)",
+	"Case Number": "122",
+	"Court Name": "International Court of Justice (ICJ)",
+	"Document Type": "Judgment",
+	"Document Date": "2003",
+	"Document Summary": "The judgment involves the request for revision of the 1996 judgment by Yugoslavia, based on its admission to the United Nations as a new fact. The ICJ rejects the request, finding that the admission does not qualify as a new fact justifying revision. The Court emphasizes the importance of facts and legal basis in international legal proceedings.",
+	"Case Summary": "This case involves Yugoslavia's request for a revision of the ICJ's 1996 judgment based on its admission to the United Nations. The ICJ rejects the request, highlighting the reinterpretation of facts and the lack of new evidence. The judgment emphasizes the significance of legal basis and facts in international legal proceedings.",
+	"Keywords": [
+		"Revision of Judgment",
+		"Genocide Convention",
+		"Bosnia and Herzegovina",
+		"Yugoslavia",
+		"International Court of Justice (ICJ)",
+		"Preliminary Objections",
+		"United Nations Membership",
+		"Article 61 of the Statute of the Court"
+	]
+}

@@ -1,0 +1,24 @@
+{
+    "Date": "2012",
+    "Parties Involved": ["Nicaragua", "Colombia"],
+    "Case Name": "Territorial and Maritime Dispute (Nicaragua v. Colombia)",
+    "Case Number": "ICJ/2012",
+    "Court Name": "International Court of Justice (ICJ)",
+    "Document Type": "Judgment",
+    "Document Date": "2012",
+    "Document Summary": "This judgment discusses the delimitation of the maritime boundary between Nicaragua and Colombia in the Caribbean Sea, involving a dispute over territorial and maritime claims. It provides a detailed analysis of the United Nations Convention on the Law of the Sea (UNCLOS) and its Article 6 regarding delimitation, as well as the various methods proposed by the Court for achieving an equitable result.",
+    "Case Summary": "The case involves a territorial and maritime dispute between Nicaragua and Colombia, with the International Court of Justice (ICJ) proposing adjustments to the provisional median line to achieve an equitable result in drawing the maritime boundary. The judgment emphasizes the need to avoid cutoff effects for each party and the principle that land dominates the sea, rejecting the argument that the equidistance/median line rule is declaratory of customary international law.",
+    "Keywords": [
+        "Territorial Dispute",
+        "Maritime Dispute",
+        "Nicaragua",
+        "Colombia",
+        "International Court of Justice",
+        "UNCLOS",
+        "Article 6",
+        "Delimitation",
+        "Equitable Result",
+        "Provisional Median Line",
+        "Customary International Law"
+    ]
+}

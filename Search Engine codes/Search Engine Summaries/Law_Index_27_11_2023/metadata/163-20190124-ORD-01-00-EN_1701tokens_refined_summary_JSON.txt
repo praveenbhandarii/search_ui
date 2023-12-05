@@ -1,0 +1,23 @@
+{
+  "Date": "2019",
+  "Parties Involved": ["Equatorial Guinea", "France"],
+  "Case Name": "Immunities and Criminal Proceedings (Equatorial Guinea v. France)",
+  "Case Number": "163",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2019",
+  "Document Summary": "This document is an order issued by the International Court of Justice (ICJ) on 24 January 2019. It provides important details regarding the case initiated by Equatorial Guinea against France concerning the immunity from criminal jurisdiction of Mr. Teodoro Nguema Obiang Mangue and the legal status of the Embassy building.",
+  "Case Summary": "The dispute revolves around the immunity from criminal jurisdiction of the Second Vice-President of Equatorial Guinea, Mr. Teodoro Nguema Obiang Mangue, and the legal status of the building housing the Embassy of Equatorial Guinea in France. The ICJ issued an order regarding the filing of a Memorial by Equatorial Guinea and a Counter-Memorial by France, the preliminary objections raised by France, and the subsequent judgment on the jurisdiction of the court.",
+  "Keywords": [
+    "Immunities and Criminal Proceedings",
+    "Equatorial Guinea",
+    "France",
+    "ICJ",
+    "Teodoro Nguema Obiang Mangue",
+    "Embassy building",
+    "Preliminary objections",
+    "Jurisdiction",
+    "Filing of Memorial",
+    "Counter-Memorial"
+  ]
+}

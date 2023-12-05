@@ -1,0 +1,26 @@
+Case ID: ICJ/172
+Court/Tribunal: International Court of Justice (ICJ)
+Document Date: 2021
+Key Parties Involved: Qatar, United Arab Emirates (UAE)
+Case Name: Application of the International Convention on the Elimination of All Forms of Racial Discrimination (Qatar v. United Arab Emirates)
+
+Case Summary:
+Qatar instituted proceedings against the UAE, alleging violations of the International Convention on the Elimination of All Forms of Racial Discrimination (CERD). Qatar claims that the UAE's measures, such as travel bans and restrictions on media corporations, disproportionately target Qatari citizens based on their national origin, constituting indirect discrimination. The majority of the judges, however, found that the measures do not fall within the provisions of CERD.
+
+Context:
+- Qatar argues that the UAE's measures have a disproportionate impact on Qataris and are based on their national origin, violating CERD.
+- The UN Committee on the Elimination of Racial Discrimination (CERD) has the authority to monitor the implementation of ICERD, and its recommendations are highly regarded.
+- The principle of proportionality should be applied in determining whether a derogatory measure serves a legitimate aim and is proportional to the achievement of that aim.
+- Judge Crawford's declaration in Ukraine v. Russian Federation is cited to support Qatar's argument that the definition of racial discrimination in CERD does not require express reference to protected grounds.
+- Qatar's third claim is still within the provisions of CERD.
+
+Citations:
+- Article 1 of CERD: Defines racial discrimination and includes discrimination based on national origin.
+- Article 22 of CERD: Grants jurisdiction to the ICJ regarding the subject matter.
+- Judge Robinson's dissenting opinion: Questions the majority's interpretation of the term "national origin" in CERD and argues that it encompasses differences of treatment based on nationality.
+- Nottebohm (Liechtenstein v. Guatemala) case: Majority's reliance on this case to support its reasoning on nationality is criticized by Judge Robinson.
+
+References:
+- International Convention on the Elimination of All Forms of Racial Discrimination (CERD)
+- United Nations Committee on the Elimination of All Forms of Racial Discrimination (CERD)
+- International Covenant on Civil and Political Rights

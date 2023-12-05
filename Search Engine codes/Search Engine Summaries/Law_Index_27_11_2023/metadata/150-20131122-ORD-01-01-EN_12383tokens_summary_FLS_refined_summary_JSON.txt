@@ -1,0 +1,29 @@
+{
+    "Date": "2013",
+    "Parties Involved": ["Costa Rica", "Nicaragua"],
+    "Case Name": "Costa Rica v. Nicaragua",
+    "Case Number": "CR 2013/25 and CR 2013/26",
+    "Court Name": "International Court of Justice (ICJ)",
+    "Document Type": "ORD",
+    "Document Date": "2013",
+    "Document Summary": "This document pertains to the case of Costa Rica v. Nicaragua before the International Court of Justice (ICJ). It discusses the request for new provisional measures by Costa Rica to protect its rights due to Nicaragua's alleged breach of the Court's 2011 Order. The document highlights the arguments presented by both parties and the key issues of responsibility, authority, and compliance with the Court's Orders.",
+    "Case Summary": "This document is related to the case of Costa Rica v. Nicaragua, involving the request for new provisional measures by Costa Rica to protect its rights due to Nicaragua's alleged breach of the Court's 2011 Order. The case involves key issues such as responsibility, authority, and compliance with the Court's Orders. The Court has found that the requisites of urgency and real and imminent risk of irreparable prejudice are present in the disputed territory, requiring new provisional measures.",
+    "Keywords": [
+        "Costa Rica",
+        "Nicaragua",
+        "International Court of Justice",
+        "ICJ",
+        "provisional measures",
+        "breach",
+        "2011 Order",
+        "responsibility",
+        "authority",
+        "compliance",
+        "real and imminent risk",
+        "requisitess of urgency",
+        "disputed territory",
+        "military encampment",
+        "satellite images",
+        "photographs"
+    ]
+}

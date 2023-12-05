@@ -1,0 +1,12 @@
+{
+  "Date": "2021",
+  "Parties Involved": ["Qatar", "United Arab Emirates (UAE)"],
+  "Case Name": "Application of the International Convention on the Elimination of All Forms of Racial Discrimination (Qatar v. United Arab Emirates)",
+  "Case Number": "ICJ/172",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2021",
+  "Document Summary": "Qatar filed a case against the UAE alleging violations of the International Convention on the Elimination of All Forms of Racial Discrimination (CERD). The ICJ issued a judgment addressing key provisions and jurisdictional issues.",
+  "Case Summary": "Qatar filed a case against the UAE alleging violations of the International Convention on the Elimination of All Forms of Racial Discrimination (CERD). The case revolves around the UAE's alleged discriminatory measures against Qatari nationals, including travel bans. The ICJ issued a judgment addressing key provisions and jurisdictional issues.",
+  "Keywords": ["Qatar", "United Arab Emirates (UAE)", "International Convention on the Elimination of All Forms of Racial Discrimination", "CERD", "discriminatory measures", "Qatari nationals", "travel bans", "jurisdictional issues"]
+}

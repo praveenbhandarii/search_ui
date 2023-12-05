@@ -1,0 +1,28 @@
+{
+  "Date": "2017",
+  "Parties Involved": ["Somalia", "Kenya"],
+  "Case Name": "Maritime Delimitation in the Indian Ocean (Somalia v. Kenya)",
+  "Case Number": "161",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2017",
+  "Document Summary": "The judgment by the International Court of Justice in Case Number 161 involving a dispute between Somalia and Kenya regarding the delimitation of maritime spaces in the Indian Ocean.",
+  "Case Summary": "This case involves a dispute between Somalia and Kenya regarding the delimitation of maritime spaces in the Indian Ocean. Somalia filed an Application in 2014, seeking the International Court of Justice's determination of the maritime boundary between the two states based on international law.",
+  "Keywords": [
+    "Maritime Delimitation",
+    "Indian Ocean",
+    "Somalia",
+    "Kenya",
+    "Dispute",
+    "International Law",
+    "ICJ Statute",
+    "Compulsory Jurisdiction",
+    "Memorandum of Understanding",
+    "Negotiations",
+    "CLCS",
+    "Judgment",
+    "Giorgio Gaja",
+    "James Crawford",
+    "68 pages"
+  ]
+}

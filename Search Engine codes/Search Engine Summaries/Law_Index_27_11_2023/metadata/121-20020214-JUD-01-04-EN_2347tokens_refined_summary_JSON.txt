@@ -1,0 +1,27 @@
+{
+  "Date": "2002",
+  "Parties Involved": [
+    "Democratic Republic of the Congo",
+    "Belgium"
+  ],
+  "Case Name": "Arrest Warrant of 11 April 2000 (Democratic Republic of the Congo v. Belgium)",
+  "Case Number": "121",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2002",
+  "Document Summary": "The judgment by the International Court of Justice regarding the arrest warrant issued by Belgium against the acting Congolese Minister for Foreign Affairs, Mr. Abdoulaye Yerodia Ndombasi. The Court found that Belgium's jurisdiction is limited when prosecuting an incumbent Minister for Foreign Affairs of a foreign state, emphasizing the distinction between immunity and jurisdiction. Belgium was ordered to cancel the warrant, and the ruling highlights the principle of immunity of the Foreign Minister and the limitation of Belgium's jurisdiction.",
+  "Case Summary": "The case involves a dispute between the Democratic Republic of the Congo (DRC) and Belgium regarding the international arrest warrant issued by Belgium against the acting Congolese Minister for Foreign Affairs. The case addresses the issue of universal jurisdiction and the immunity of the Foreign Minister. The Court's ruling emphasizes the distinction between immunity and jurisdiction and underscores the evolving scope of universal jurisdiction in international law.",
+  "Keywords": [
+    "Arrest Warrant",
+    "Democratic Republic of the Congo",
+    "Belgium",
+    "International Court of Justice",
+    "Minister for Foreign Affairs",
+    "Abdoulaye Yerodia Ndombasi",
+    "Immunity",
+    "Jurisdiction",
+    "Universal Jurisdiction",
+    "Case Number 121",
+    "14 February 2002"
+  ]
+}

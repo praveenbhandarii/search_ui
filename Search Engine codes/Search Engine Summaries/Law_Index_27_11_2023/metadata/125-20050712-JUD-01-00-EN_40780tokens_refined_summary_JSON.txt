@@ -1,0 +1,27 @@
+{
+  "Date": "2005",
+  "Parties Involved": ["Benin", "Niger"],
+  "Case Name": "Frontier Dispute (Benin/Niger)",
+  "Case Number": "125",
+  "Court Name": "International Court of Justice (ICJ)",
+  "Document Type": "Judgment",
+  "Document Date": "2005",
+  "Document Summary": "This judgment document, issued by the International Court of Justice, provides a comprehensive analysis of the frontier dispute between Benin and Niger. It was published in the C.I.J. Recueil 2005, page 90, and contains relevant citations, including the Special Agreement, Rules of Court, and other documents. The judgment was delivered on July 12, 2005, by a Chamber composed of President Ranjeva, Vice President Kooijmans, and Judge Abraham.",
+  "Case Summary": "The case involves a frontier dispute between Benin and Niger regarding the definitive delimitation of their boundary. The dispute was submitted to the International Court of Justice (ICJ) through a Special Agreement signed on June 15, 2001. The Court formed a special Chamber of five judges to handle the case. The judgment was delivered on July 12, 2005, by a Chamber composed of President Ranjeva, Vice President Kooijmans, and Judge Abraham. The judgment determined the course of the boundary between Benin and Niger, as well as the attribution of islands in the River Niger. The Court applied the uti possidetis juris principle and considered the historical context and relevant agreements. The judgment is final and binding, and the Parties have 18 months to commence works of demarcation.",
+  "Keywords": [
+    "Frontier Dispute",
+    "Benin",
+    "Niger",
+    "International Court of Justice",
+    "ICJ",
+    "Boundary Delimitation",
+    "Special Agreement",
+    "Chamber of Judges",
+    "President Ranjeva",
+    "Vice President Kooijmans",
+    "Judge Abraham",
+    "Uti Possidetis Juris",
+    "C.I.J. Recueil 2005",
+    "Demarcation"
+  ]
+}

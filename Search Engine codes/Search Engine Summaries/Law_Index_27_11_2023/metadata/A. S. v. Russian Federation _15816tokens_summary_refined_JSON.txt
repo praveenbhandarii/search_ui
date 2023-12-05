@@ -1,0 +1,30 @@
+{
+  "Date": "2015",
+  "Parties Involved": [
+    "A. S.",
+    "Russia"
+  ],
+  "Case Name": "A. S. v. Russia",
+  "Case Number": "Unknown",
+  "Court Name": "United Nations Committee on the Elimination of All Forms of Racial Discrimination (UNCRPD)",
+  "Document Type": "Views adopted by the Committee under article 14, paragraph 7, of the Convention, concerning communication No. 45/2012, A. S. v. Russia",
+  "Document Date": "March 2015",
+  "Document Summary": "The case involves A. S., a Russian citizen of Roma ethnicity, alleging a violation by Russia of articles 4, 5, and 6 of the International Convention on the Elimination of All Forms of Racial Discrimination, following the distribution of offensive leaflets in the town of Opochka, Pskov region. The UNCRPD found Russia's actions inadequate and recommended appropriate measures to address the situation.",
+  "Case Summary": "A. S., a Russian citizen of Roma ethnicity, alleged a violation by Russia of articles 4, 5, and 6 of the International Convention on the Elimination of All Forms of Racial Discrimination, following the distribution of offensive leaflets. The UNCRPD recommended appropriate measures to address the situation, including launching a new investigation into the incident and criminalizing hate speech and propaganda based on racial superiority or ethnic origin.",
+  "Keywords": [
+    "A. S.",
+    "Russia",
+    "Roma ethnicity",
+    "UNCRPD",
+    "hate speech",
+    "incitement to hatred",
+    "discrimination",
+    "Views adopted by the Committee",
+    "Convention on the Elimination of All Forms of Racial Discrimination",
+    "Articles 4, 5, 6",
+    "legal remedies",
+    "racism",
+    "xenophobia",
+    "Case decision"
+  ]
+}

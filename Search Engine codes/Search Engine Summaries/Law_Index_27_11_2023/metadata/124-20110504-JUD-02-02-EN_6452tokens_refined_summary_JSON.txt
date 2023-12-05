@@ -1,0 +1,25 @@
+{
+    "Date": "2013",
+    "Parties Involved": ["Nicaragua", "Colombia"],
+    "Case Name": "Territorial and Maritime Dispute (Nicaragua v. Colombia)",
+    "Case Number": "ICJ/2013",
+    "Court Name": "International Court of Justice (ICJ)",
+    "Document Type": "Judgment",
+    "Document Date": "2013",
+    "Document Summary": "This judgment document of the International Court of Justice discusses Costa Rica's application to intervene in the territorial and maritime dispute case between Nicaragua and Colombia. The court rejected Costa Rica's application, finding that its legal interests would not be affected by the court's judgment.",
+    "Case Summary": "The case involves a territorial and maritime dispute between Nicaragua and Colombia. The court rejected Costa Rica's application to intervene, based on the finding that its legal interests would not be affected by the court's judgment. The case raises concerns about the potential impact on Costa Rica's interests due to its 1977 bilateral treaty with Colombia.",
+    "Keywords": [
+        "Territorial Dispute",
+        "Maritime Dispute",
+        "Nicaragua",
+        "Colombia",
+        "International Court of Justice",
+        "Costa Rica",
+        "Intervention",
+        "ICJ Statute",
+        "Judge Abraham",
+        "Third State Intervention",
+        "Bilateral Treaty",
+        "Jurisprudence"
+    ]
+}
