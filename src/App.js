@@ -104,6 +104,7 @@ function App() {
     // Initialize the RemoteRunnable with your LangChain API endpoint
     const chain = new RemoteRunnable({
       url: `https://yantra-api-gcp-image-fxhbdhovha-el.a.run.app/chat`, // Replace with your actual API endpoint http://localhost:8081/chat
+      url: 'https://search-1t0l.onrender.com/chat'
     });
     
     try {
